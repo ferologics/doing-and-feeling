@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
 """Print YouTube chapter lines for an episode.
 
-Each line of youtube/chapters/<episode>.txt is `<phrase> | <chapter title>`. The phrase is
-located in the word-level Whisper transcript (transcripts/<episode>.json) and the chapter
+For the short series (v1). Each line of short/youtube/chapters/<episode>.txt is `<phrase> | <chapter title>`. The phrase is
+located in the word-level Whisper transcript (short/whisper/<episode>.json) and the chapter
 starts just before its first word. A first line with an empty phrase is pinned to 00:00.
 
 Usage: scripts/chapters.py Doing-and-Feeling-1-Doing
@@ -23,7 +23,7 @@ def norm(word):
 
 
 def load_words(episode):
-    data = json.loads((ROOT / "transcripts" / f"{episode}.json").read_text())
+    data = json.loads((ROOT / "short" / "whisper" / f"{episode}.json").read_text())
     words = []
     for segment in data["segments"]:
         for word in segment.get("words", []):
@@ -52,7 +52,7 @@ def main():
         raise SystemExit(__doc__)
     episode = sys.argv[1]
     words = load_words(episode)
-    spec = (ROOT / "youtube" / "chapters" / f"{episode}.txt").read_text().splitlines()
+    spec = (ROOT / "short" / "youtube" / "chapters" / f"{episode}.txt").read_text().splitlines()
 
     starts = []
     for line in spec:

@@ -1,11 +1,11 @@
 #!/usr/bin/env python3
 """Render "Doing and Feeling: The Long Version" as chapter-card videos.
 
-Reads source/long/kit/Doing-and-Feeling-Long-manifest.json and, per episode:
-  out/long/cards/<episode>/NN.png   3840x2160 card per chapter: the episode cover on the left, the
+Reads long/kit/Doing-and-Feeling-Long-manifest.json and, per episode:
+  long/out/cards/<episode>/NN.png   3840x2160 card per chapter: the episode cover on the left, the
                                     chapter list on the right with the current chapter highlighted
-  out/long/videos/<episode>.mp4     cards switched at chapter starts + a progress bar, H.264 + AAC
-  out/long/thumbnails/<episode>.png 1280x720 custom thumbnail: the cover centered on the background
+  long/out/videos/<episode>.mp4     cards switched at chapter starts + a progress bar, H.264 + AAC
+  long/out/thumbnails/<episode>.png 1280x720 custom thumbnail: the cover centered on the background
 Cards are HTML screenshotted by headless Chrome (set CHROME to override the binary path).
 
 Usage: scripts/render-long.py [EPISODE_NUMBER ...] [--cards-only] [--seconds N]
@@ -20,8 +20,8 @@ import tempfile
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
-SRC = ROOT / "source" / "long"
-OUT = ROOT / "out" / "long"
+SRC = ROOT / "long"
+OUT = SRC / "out"
 MANIFEST = SRC / "kit" / "Doing-and-Feeling-Long-manifest.json"
 CHROME = "/Applications/Google Chrome.app/Contents/MacOS/Google Chrome"
 

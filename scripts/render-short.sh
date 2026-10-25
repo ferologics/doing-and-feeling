@@ -1,31 +1,31 @@
 #!/usr/bin/env bash
-# Render YouTube-ready videos (static cover + episode audio) and thumbnails.
+# Render the short series (v1) as YouTube-ready videos (static cover + episode audio) and thumbnails.
 #
-# For each episode in source/audio/*.mp3 with a matching source/covers/<name>-cover-4K.png:
-#   out/frames/<name>.png      3840x2160 frame: square cover scaled to 2160x2160, centered,
+# For each episode in short/audio/*.mp3 with a matching short/covers/<name>-cover-4K.png:
+#   short/out/frames/<name>.png      3840x2160 frame: square cover scaled to 2160x2160, centered,
 #                              padded with the cover background colour (#111319)
-#   out/thumbnails/<name>.png  1280x720 custom thumbnail (same frame, downscaled)
-#   out/videos/<name>.mp4      H.264 4K24 + AAC-LC 192k stereo, duration = audio duration.
+#   short/out/thumbnails/<name>.png  1280x720 custom thumbnail (same frame, downscaled)
+#   short/out/videos/<name>.mp4      H.264 4K24 + AAC-LC 192k stereo, duration = audio duration.
 #                              The mono MP3 is copied to both channels at full level (ffmpeg's
 #                              default -ac 2 upmix would drop each channel by 3 dB).
 #
-# Usage: scripts/render-videos.sh [episode-name-substring]
+# Usage: scripts/render-short.sh [episode-name-substring]
 set -euo pipefail
 
-cd "$(dirname "$0")/.."
+cd "$(dirname "$0")/../short"
 
 BG_COLOR="0x111319"
 FILTER="${1:-}"
 
 mkdir -p out/frames out/thumbnails out/videos
 
-for audio in source/audio/*.mp3; do
+for audio in audio/*.mp3; do
     name="$(basename "$audio" .mp3)"
     if [[ -n "$FILTER" && "$name" != *"$FILTER"* ]]; then
         continue
     fi
 
-    cover="source/covers/${name}-cover-4K.png"
+    cover="covers/${name}-cover-4K.png"
     frame="out/frames/${name}.png"
     thumb="out/thumbnails/${name}.png"
     video="out/videos/${name}.mp4"

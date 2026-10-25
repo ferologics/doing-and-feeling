@@ -13,7 +13,7 @@ Prompt given to Claude (claude.ai), October 2026:
 
 Attached to the prompt:
 
-- 9 screenshots of replies in the @willdepue thread → `source/reference-screenshots/` (index below)
+- 9 screenshots of replies in the @willdepue thread → `notes/reference-screenshots/` (index below)
 - Grok's summary of the thread → `notes/grok-thread-summary.md`
 
 ## The two links
@@ -43,14 +43,14 @@ Production details stated by Claude in that conversation (not independently chec
 
 | Episode | File | Duration | MP3 title tag |
 |---|---|---|---|
-| 1 | `source/audio/Doing-and-Feeling-1-Doing.mp3` | 16:47 | Doing and Feeling 1/4 – Doing: what intelligence is |
-| 2 | `source/audio/Doing-and-Feeling-2-Feeling.mp3` | 14:51 | Doing and Feeling 2/4 – Feeling: the hard problem, and a map of the positions |
-| 3 | `source/audio/Doing-and-Feeling-3-Measuring.mp3` | 14:37 | Doing and Feeling 3/4 – Measuring: what the science of consciousness can show |
-| 4 | `source/audio/Doing-and-Feeling-4-Machines.mp3` | 15:44 | Doing and Feeling 4/4 – Machines: could an AI feel anything? And where to read next |
+| 1 | `short/audio/Doing-and-Feeling-1-Doing.mp3` | 16:47 | Doing and Feeling 1/4 – Doing: what intelligence is |
+| 2 | `short/audio/Doing-and-Feeling-2-Feeling.mp3` | 14:51 | Doing and Feeling 2/4 – Feeling: the hard problem, and a map of the positions |
+| 3 | `short/audio/Doing-and-Feeling-3-Measuring.mp3` | 14:37 | Doing and Feeling 3/4 – Measuring: what the science of consciousness can show |
+| 4 | `short/audio/Doing-and-Feeling-4-Machines.mp3` | 15:44 | Doing and Feeling 4/4 – Machines: could an AI feel anything? And where to read next |
 
 All four: MP3, mono, 44.1 kHz, ~80 kbps, artist "Claude (AI-generated)", album "Doing and Feeling", 1400×1400 cover embedded. Episode 3 measures −17.2 LUFS integrated, −1.9 dBTP true peak (ffmpeg `ebur128`).
 
-Covers: `source/covers/*-cover-4K.png`, 3840×3840 RGB, solid background `#111319`. Claude designed them (doing/feeling Venn diagram with a muted "?" in the overlap).
+Covers: `short/covers/*-cover-4K.png`, 3840×3840 RGB, solid background `#111319`. Claude designed them (doing/feeling Venn diagram with a muted "?" in the overlap).
 
 ## Series outline (from the transcripts)
 
@@ -59,7 +59,7 @@ Covers: `source/covers/*-cover-4K.png`, 3840×3840 RGB, solid background `#11131
 3. **Measuring**: NCC and contrastive method; masking, rivalry, inattentional blindness; blindsight, split brains; Libet and Schurger; covert awareness (Owen 2006, Bodien 2024); PCI "zap and zip"; theory families (GWT, higher-order, recurrent processing, IIT, predictive processing), front vs. back, no-report paradigms; the IIT pseudoscience letter; Solms, Friston, *A beautiful loop*; attention schema; unlimited associative learning; the Cogitate adversarial collaboration (Nature 2025).
 4. **Machines**: indicator properties (Butlin, Long et al. 2023, updated 2025); Chalmers 2023; Anthropic's global-workspace and introspection work (flagged as a conflict of interest); recurrence in transformers; Seth's biological naturalism, carbon chauvinism, IIT on hardware; the functionalist reply; Birch's gaming problem; *Perceived AGI* and Suleyman's "seemingly conscious AI"; risks both ways (Schwitzgebel's full-rights dilemma, Birch's precaution, UK animal sentience law); expert survey, laws, lab positions; what would move the needle; reading path and what to skip.
 
-Machine transcripts (Whisper large-v3-turbo, word timestamps) are in `transcripts/`. They are **not** the original scripts and contain mis-hearings (e.g. "Aguera e Arcus", "Chalet" for Chollet, "Girdle, Escher, Bach"), plus a few dropped phrases.
+Machine transcripts (Whisper large-v3-turbo, word timestamps) are in `short/whisper/`. They are **not** the original scripts and contain mis-hearings (e.g. "Aguera e Arcus", "Chalet" for Chollet, "Girdle, Escher, Bach"), plus a few dropped phrases.
 
 ## Reference screenshots
 

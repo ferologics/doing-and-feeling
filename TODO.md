@@ -4,9 +4,9 @@
 
 - [ ] Watch/listen through each rendered video once before publishing
 - [ ] Upload the four videos as Unlisted (settings in README.md → Uploading)
-- [ ] Create the playlist (`youtube/playlist.md`) and add the episodes in order
+- [ ] Create the playlist (`short/youtube/playlist.md`) and add the episodes in order
 - [ ] Add the playlist link to each description's THE SERIES block; publish
-- [ ] Optional: proofread `transcripts/*.srt` (names like Agüera y Arcas, Chollet, Gödel) and
+- [ ] Optional: proofread `short/whisper/*.srt` (names like Agüera y Arcas, Chollet, Gödel) and
       upload them as English captions
 - [ ] Optional: pinned comment per episode linking `notes/sources.md`-style full source lists
 

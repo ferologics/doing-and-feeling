@@ -3,7 +3,7 @@
 Source thread: https://x.com/willdepue/status/2113823172336505051
 
 This is the text Grok produced and that was attached to the original Claude prompt. Claude later
-checked it against the screenshots in `source/reference-screenshots/` and found gaps (see
+checked it against the screenshots in `notes/reference-screenshots/` and found gaps (see
 `notes/origin.md`, "What Grok's summary missed").
 
 ---

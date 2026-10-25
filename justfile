@@ -1,18 +1,26 @@
 default:
     @just --list
 
-# Print YouTube chapters for an episode, e.g. `just chapters 2-Feeling`
+# Print short-series chapters computed from the transcript, e.g. `just chapters 2-Feeling`
 chapters episode:
     scripts/chapters.py Doing-and-Feeling-{{episode}}
 
-# Validate the upload kit (titles, descriptions, tags, chapters, video durations)
+# Validate both upload kits (titles, descriptions, tags, chapters, video durations)
 check:
     scripts/check.py
 
-# Render videos + thumbnails into out/ (optional episode substring filter)
-render filter="":
-    scripts/render-videos.sh {{filter}}
+# Long series: verify chapter times against the transcripts and write long/youtube/*.md
+long-youtube:
+    scripts/long-youtube.py
 
-# Re-run Whisper on source/audio into transcripts/ (optional episode substring filter)
-transcribe filter="":
-    scripts/transcribe.sh {{filter}}
+# Long series: chapter-card videos + thumbnails into long/out/ (optional episode numbers)
+render-long *episodes:
+    scripts/render-long.py {{episodes}}
+
+# Short series: static-cover videos + thumbnails into short/out/ (optional episode substring)
+render-short filter="":
+    scripts/render-short.sh {{filter}}
+
+# Re-run Whisper on <series>/audio into <series>/whisper (series: short or long)
+transcribe series filter="":
+    scripts/transcribe.sh {{series}} {{filter}}

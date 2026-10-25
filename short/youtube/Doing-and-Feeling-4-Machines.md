@@ -1,7 +1,7 @@
 # Episode 4 — Machines
 
-- **File:** `out/videos/Doing-and-Feeling-4-Machines.mp4` (15:44)
-- **Thumbnail:** `out/thumbnails/Doing-and-Feeling-4-Machines.png`
+- **File:** `short/out/videos/Doing-and-Feeling-4-Machines.mp4` (15:44)
+- **Thumbnail:** `short/out/thumbnails/Doing-and-Feeling-4-Machines.png`
 - **Original MP3 title tag:** Doing and Feeling 4/4 – Machines: could an AI feel anything? And where to read next
 
 ## Title

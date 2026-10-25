@@ -1,7 +1,7 @@
 # Episode 1 — Doing
 
-- **File:** `out/videos/Doing-and-Feeling-1-Doing.mp4` (16:47)
-- **Thumbnail:** `out/thumbnails/Doing-and-Feeling-1-Doing.png`
+- **File:** `short/out/videos/Doing-and-Feeling-1-Doing.mp4` (16:47)
+- **Thumbnail:** `short/out/thumbnails/Doing-and-Feeling-1-Doing.png`
 - **Original MP3 title tag:** Doing and Feeling 1/4 – Doing: what intelligence is
 
 ## Title

@@ -1,7 +1,7 @@
 # Episode 3 — Measuring
 
-- **File:** `out/videos/Doing-and-Feeling-3-Measuring.mp4` (14:37)
-- **Thumbnail:** `out/thumbnails/Doing-and-Feeling-3-Measuring.png`
+- **File:** `short/out/videos/Doing-and-Feeling-3-Measuring.mp4` (14:37)
+- **Thumbnail:** `short/out/thumbnails/Doing-and-Feeling-3-Measuring.png`
 - **Original MP3 title tag:** Doing and Feeling 3/4 – Measuring: what the science of consciousness can show
 
 ## Title

@@ -1,10 +1,10 @@
 #!/usr/bin/env python3
-"""Validate the YouTube upload kits (v1 in youtube/, the long version in youtube/long/).
+"""Validate the YouTube upload kits in short/youtube/ and long/youtube/.
 
 For every episode .md:
 - title <= 100 chars, description <= 5000 chars, tags <= 500 chars, no < or > (YouTube rejects them)
 - CHAPTERS block follows YouTube's rules: starts at 0:00, at least 3 chapters, ascending, each >= 10 s
-- v1 only: the CHAPTERS block matches scripts/chapters.py output (computed from the transcript)
+- short only: the CHAPTERS block matches scripts/chapters.py output (computed from the transcript)
 - if the rendered video exists, its duration matches the source MP3 within 0.1 s
 """
 
@@ -16,8 +16,8 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parent.parent
 SERIES = [
     # (markdown glob, audio dir, video dir, compare chapters with scripts/chapters.py)
-    (ROOT / "youtube", "Doing-and-Feeling-*.md", ROOT / "source" / "audio", ROOT / "out" / "videos", True),
-    (ROOT / "youtube" / "long", "*.md", ROOT / "source" / "long" / "audio", ROOT / "out" / "long" / "videos", False),
+    (ROOT / "short" / "youtube", "Doing-and-Feeling-*.md", ROOT / "short" / "audio", ROOT / "short" / "out" / "videos", True),
+    (ROOT / "long" / "youtube", "*.md", ROOT / "long" / "audio", ROOT / "long" / "out" / "videos", False),
 ]
 
 

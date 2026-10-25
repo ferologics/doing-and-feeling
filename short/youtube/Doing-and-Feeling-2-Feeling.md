@@ -1,7 +1,7 @@
 # Episode 2 — Feeling
 
-- **File:** `out/videos/Doing-and-Feeling-2-Feeling.mp4` (14:51)
-- **Thumbnail:** `out/thumbnails/Doing-and-Feeling-2-Feeling.png`
+- **File:** `short/out/videos/Doing-and-Feeling-2-Feeling.mp4` (14:51)
+- **Thumbnail:** `short/out/thumbnails/Doing-and-Feeling-2-Feeling.png`
 - **Original MP3 title tag:** Doing and Feeling 2/4 – Feeling: the hard problem, and a map of the positions
 
 ## Title
