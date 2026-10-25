@@ -2,12 +2,9 @@
 
 ## Long version upload
 
-- [ ] Spot-check a few rendered videos in `long/out/videos/` (cards switch on time, audio plays to the end)
-- [ ] Upload the 14 videos as Unlisted with their thumbnails (settings in README.md → Uploading)
-- [ ] Paste title, description and tags from `long/youtube/<episode>.md`
-- [ ] Captions: Subtitles → Upload file → "Without timing" with `long/kit/<episode>.txt`
-- [ ] Create the playlist "Doing and Feeling: The Long Version" and add the episodes in order
-- [ ] Publish once HD/4K processing has finished
+- [x] Upload the 14 videos (Unlisted) with text, thumbnails, captions and the playlist
+- [ ] Spot-check a couple of episodes in Studio once HD/4K processing has finished
+- [ ] Publish: `scripts/youtube-upload.py --publish` (videos + playlist go Public)
 
 ## Reading list
 

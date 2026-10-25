@@ -6,7 +6,7 @@ synthetic TTS, turned into YouTube uploads. It exists in two versions, each in i
 | | Episodes | Length | Video style | Status |
 |---|---|---|---|---|
 | `short/` | 4 | 62 min | static cover | [uploaded](https://www.youtube.com/playlist?list=PLRaFm7tzS9Ew) |
-| `long/` | 14 | 5h23m | chapter cards + progress bar | rendered, ready to upload |
+| `long/` | 14 | 5h23m | chapter cards + progress bar | [uploaded, unlisted](https://www.youtube.com/playlist?list=PLcBsjViogzvI) |
 
 Both started from one X thread (@willdepue asking for consciousness reading); `notes/` records how.
 
@@ -28,6 +28,9 @@ Series-specific extras:
 ```
 short/youtube/chapters/       chapter specs: `<phrase in transcript> | <chapter title>` (timestamps come from whisper/)
 short/youtube/playlist.md     playlist title and description
+long/captions/                English captions: Claude's script text timed with whisper/ (scripts/long-captions.py)
+long/youtube/uploads.json     YouTube upload state: playlist ID, video IDs, finished steps
+long/youtube/playlist.md      playlist title and description
 long/kit/                     Claude's delivery: manifest (chapters, durations), script transcripts for
                               captions, YouTube text (source of long/youtube/*.md)
 long/companion.md             Claude's companion doc (sources and further reading)
@@ -59,6 +62,8 @@ just chapters 2-Feeling       # short: print chapters computed from the transcri
 just render-long [N ...]      # long/out/videos/*.mp4 + thumbnails + cards (~2 min per episode)
 just long-youtube             # long: verify Claude's chapter times against whisper/, write long/youtube/*.md
 just transcribe short|long    # re-run Whisper into <series>/whisper/
+scripts/long-captions.py      # long: build long/captions/*.srt
+scripts/youtube-upload.py     # long: upload videos, thumbnails, captions, playlist (resumable; --publish, --dry-run)
 ```
 
 `scripts/render-long.py 9 --seconds 130` renders a 130-second preview of one episode.
@@ -85,7 +90,14 @@ at each chapter start.
 
 ## Uploading
 
-Per episode, in YouTube Studio:
+The long version is uploaded with `scripts/youtube-upload.py` (YouTube Data API v3). It reads the OAuth desktop
+client from 1Password (`op://Pi/YT_DESKTOP_CLIENT_OAUTH`: username = client ID, credential = client secret) and
+caches the refresh token in the macOS Keychain (service `yt-desktop-client-oauth`), so the browser consent only
+appears when the token is missing or expired (7 days while the Google project is in Testing mode). Each episode
+is uploaded Unlisted with its text, Education category, not made for kids, the AI disclosure, thumbnail and
+captions, then appended to the playlist; `--publish` makes the videos and the playlist public.
+
+The short version was uploaded by hand. Per episode, in YouTube Studio:
 
 1. Upload `<series>/out/videos/<episode>.mp4` as **Unlisted** first; 4K processing can take hours, so
    wait for the HD/4K versions before going public.
