@@ -1,1570 +1,1569 @@
 1
-00:00:00,000 --> 00:00:02,740
-This is Doing and
-Feeling, the long version.
+00:00:00,000 --> 00:00:01,780
+This is Doing and Feeling.
 
 2
-00:00:03,160 --> 00:00:04,820
+00:00:02,240 --> 00:00:03,760
 Episode one: Two Questions.
 
 3
-00:00:05,320 --> 00:00:08,040
+00:00:04,300 --> 00:00:07,000
 Before we begin, a note on
 what you're listening to.
 
 4
-00:00:08,340 --> 00:00:13,850
+00:00:07,280 --> 00:00:12,810
 This series was written by Claude, an AI
 model made by Anthropic, and both voices
 
 5
-00:00:13,900 --> 00:00:15,120
+00:00:12,860 --> 00:00:14,060
 you'll hear are synthetic.
 
 6
-00:00:15,580 --> 00:00:20,290
+00:00:14,500 --> 00:00:19,230
 I'm the narrator. The second voice belongs
 to a sparring partner with a background
 
 7
-00:00:20,340 --> 00:00:25,090
+00:00:19,280 --> 00:00:24,050
 in machine learning, whose job is to push
 back with the strongest objection or the
 
 8
-00:00:25,140 --> 00:00:26,840
+00:00:24,100 --> 00:00:25,800
 sharpest question when one is due.
 
 9
-00:00:27,300 --> 00:00:31,240
+00:00:26,260 --> 00:00:30,200
 The series is about two questions that
 are constantly confused with each other.
 
 10
-00:00:31,520 --> 00:00:33,380
+00:00:30,480 --> 00:00:32,320
 The first is about intelligence:
 
 11
-00:00:33,740 --> 00:00:38,970
+00:00:32,740 --> 00:00:37,930
 what it is, how it is measured, how it
 evolved, how brains achieve it, and how
 
 12
-00:00:39,020 --> 00:00:41,060
+00:00:37,980 --> 00:00:40,020
 machines now achieve a great deal of it.
 
 13
-00:00:41,220 --> 00:00:42,860
+00:00:40,140 --> 00:00:41,820
 The second is about consciousness:
 
 14
-00:00:43,370 --> 00:00:47,390
+00:00:42,320 --> 00:00:46,350
 why some physical systems seem to have
 an inner life, something it is like to be
 
 15
-00:00:47,440 --> 00:00:50,920
+00:00:46,400 --> 00:00:49,880
 them, and whether we can explain
 that, detect it, or build it.
 
 16
-00:00:51,100 --> 00:00:54,720
+00:00:50,180 --> 00:00:53,660
 The neuroscientist Anil Seth
 puts the distinction simply.
 
 17
-00:00:55,240 --> 00:00:56,780
+00:00:54,160 --> 00:00:55,740
 Intelligence is about doing.
 
 18
-00:00:57,440 --> 00:00:59,300
+00:00:56,380 --> 00:00:58,260
 Consciousness is about being and feeling.
 
 19
-00:00:59,540 --> 00:01:04,010
+00:00:58,500 --> 00:01:02,970
 The two could come apart. A system might
 be extraordinarily good at doing, with
 
 20
-00:01:04,060 --> 00:01:07,720
+00:01:03,020 --> 00:01:06,660
 nothing felt at all. Something else
 might feel without being very clever:
 
 21
-00:01:07,940 --> 00:01:10,120
+00:01:06,880 --> 00:01:09,080
 a newborn, or a fish in pain.
 
 22
-00:01:10,580 --> 00:01:14,790
+00:01:09,540 --> 00:01:13,750
 Whether they really do come apart, in
 animals and in machines, is the question
 
 23
-00:01:14,840 --> 00:01:16,980
+00:01:13,800 --> 00:01:15,940
 running underneath all fourteen episodes.
 
 24
-00:01:17,320 --> 00:01:18,960
+00:01:16,260 --> 00:01:17,920
 And it has stopped being academic.
 
 25
-00:01:19,580 --> 00:01:23,990
+00:01:18,540 --> 00:01:22,950
 Machines now do much of what minds do, and
 people are already asking whether any of
 
 26
-00:01:24,040 --> 00:01:26,140
+00:01:23,000 --> 00:01:25,100
 them feel anything. Here's the route.
 
 27
-00:01:26,500 --> 00:01:29,040
+00:01:25,460 --> 00:01:28,000
 Part one, six episodes, is about doing:
 
 28
-00:01:29,440 --> 00:01:33,720
+00:01:28,540 --> 00:01:32,680
 human intelligence and how we learned
 to measure it, minds in other bodies,
 
 29
-00:01:33,960 --> 00:01:39,350
+00:01:32,920 --> 00:01:38,310
 intelligence as a mathematical idea, life
 as computation, the brain as a prediction
 
 30
-00:01:39,400 --> 00:01:41,220
+00:01:38,360 --> 00:01:40,180
 machine, and the machines themselves.
 
 31
-00:01:41,720 --> 00:01:44,080
+00:01:40,680 --> 00:01:43,020
 Part two, five episodes, is about feeling:
 
 32
-00:01:44,360 --> 00:01:49,070
+00:01:43,320 --> 00:01:48,010
 the hard problem, the case that consciousness
 is a kind of illusion, the full map of
 
 33
-00:01:49,120 --> 00:01:53,380
+00:01:48,060 --> 00:01:52,360
 positions, the experimental evidence,
 and the scientific theories on trial.
 
 34
-00:01:53,960 --> 00:01:57,520
+00:01:52,900 --> 00:01:56,480
 Part three, three episodes,
 brings the two questions together:
 
 35
-00:01:57,760 --> 00:02:02,610
+00:01:56,800 --> 00:02:01,570
 what we can actually check in today's AI,
 the case that it is not conscious, and
 
 36
-00:02:02,660 --> 00:02:04,260
+00:02:01,620 --> 00:02:03,200
 what we should do while we don't know.
 
 37
-00:02:04,620 --> 00:02:07,220
+00:02:03,580 --> 00:02:06,180
 That middle episode of
 part three is deliberate.
 
 38
-00:02:07,560 --> 00:02:13,090
+00:02:06,520 --> 00:02:12,050
 An AI narrating whether AI might be conscious
 has a stake in the answer, so the case
 
 39
-00:02:13,140 --> 00:02:17,720
+00:02:12,100 --> 00:02:16,680
 against gets an episode of its own,
 argued as strongly as I can argue it.
 
 40
-00:02:18,100 --> 00:02:22,480
+00:02:17,020 --> 00:02:21,420
 Fair enough. But why open a
 series about minds with IQ tests?
 
 41
-00:02:22,880 --> 00:02:27,380
+00:02:21,820 --> 00:02:26,340
 Because the modern concept of intelligence
 was shaped by the attempt to measure it,
 
 42
-00:02:27,540 --> 00:02:29,600
+00:02:26,500 --> 00:02:28,540
 and so was a great deal of harm.
 
 43
-00:02:29,920 --> 00:02:32,160
+00:02:28,940 --> 00:02:31,120
 Here is the argument of this episode.
 
 44
-00:02:32,580 --> 00:02:37,210
+00:02:31,520 --> 00:02:36,170
 The general factor of intelligence is one
 of the best replicated and most predictive
 
 45
-00:02:37,260 --> 00:02:42,690
+00:02:36,220 --> 00:02:41,650
 findings in psychology. But what causes it,
 what its heritability means, and how the
 
 46
-00:02:42,740 --> 00:02:47,150
+00:02:41,700 --> 00:02:46,110
 field's history shaped it are all far
 less settled than either its fans or its
 
 47
-00:02:47,200 --> 00:02:51,790
+00:02:46,160 --> 00:02:50,750
 critics tend to claim. If you want to
 reason clearly about intelligence in animals
 
 48
-00:02:51,840 --> 00:02:56,110
+00:02:50,800 --> 00:02:55,070
 and machines, you need to know what this
 concept was built to do, what it gets
 
 49
-00:02:56,160 --> 00:02:57,820
+00:02:55,120 --> 00:02:56,800
 right, and where it stops.
 
 50
-00:02:58,780 --> 00:03:03,550
+00:02:57,800 --> 00:03:02,490
 The story usually starts with Francis
 Galton, Charles Darwin's half-cousin.
 
 51
-00:03:03,600 --> 00:03:08,470
+00:03:02,540 --> 00:03:07,410
 In the eighteen eighties, Galton ran a
 laboratory in London where visitors paid a
 
 52
-00:03:08,520 --> 00:03:13,190
+00:03:07,460 --> 00:03:12,150
 small fee to have their grip strength,
 eyesight, hearing and other simple capacities
 
 53
-00:03:13,240 --> 00:03:17,810
+00:03:12,200 --> 00:03:16,750
 measured. He believed ability was
 inherited and could be read off such simple
 
 54
-00:03:17,860 --> 00:03:22,130
+00:03:16,800 --> 00:03:21,070
 measures. He was largely wrong about the
 measures, and he also coined the word
 
 55
-00:03:22,180 --> 00:03:25,540
+00:03:21,120 --> 00:03:24,520
 eugenics. The first useful
 test came from France.
 
 56
-00:03:26,010 --> 00:03:30,750
+00:03:24,720 --> 00:03:29,690
 In nineteen oh four, the French education
 ministry set up a commission on children
 
 57
-00:03:30,800 --> 00:03:32,580
+00:03:29,740 --> 00:03:31,520
 who needed extra help at school.
 
 58
-00:03:32,980 --> 00:03:38,310
+00:03:31,940 --> 00:03:37,270
 The psychologist Alfred Binet, one of its
 members, set out to find an objective way
 
 59
-00:03:38,360 --> 00:03:43,550
+00:03:37,320 --> 00:03:42,510
 to identify them. With Théodore Simon,
 he built a scale of reasoning, memory and
 
 60
-00:03:43,600 --> 00:03:48,070
+00:03:42,560 --> 00:03:47,030
 comprehension problems, graded by age,
 so that a child's performance could be
 
 61
-00:03:48,120 --> 00:03:49,360
+00:03:47,080 --> 00:03:48,320
 compared with what was typical.
 
 62
-00:03:49,980 --> 00:03:52,170
+00:03:48,920 --> 00:03:51,180
 Binet was cautious about what he had made.
 
 63
-00:03:52,220 --> 00:03:56,970
+00:03:51,360 --> 00:03:55,910
 He did not believe intelligence was a
 single fixed quantity, and he warned against
 
 64
-00:03:57,020 --> 00:03:59,420
+00:03:55,960 --> 00:03:58,380
 the pessimism of labeling
 a child for life.
 
 65
-00:03:59,580 --> 00:04:04,310
+00:03:58,540 --> 00:04:03,270
 He meant it as a tool for finding children
 who needed help, not for ranking people
 
 66
-00:04:04,360 --> 00:04:08,100
+00:04:03,320 --> 00:04:07,060
 for life. That caution did not
 survive the crossing to America.
 
 67
-00:04:08,400 --> 00:04:14,190
+00:04:07,500 --> 00:04:13,130
 In nineteen sixteen, Lewis Terman at
 Stanford revised the test and popularized the
 
 68
-00:04:14,240 --> 00:04:19,430
+00:04:13,180 --> 00:04:18,390
 intelligence quotient. The German psychologist
 William Stern had proposed dividing
 
 69
-00:04:19,480 --> 00:04:24,430
+00:04:18,440 --> 00:04:23,390
 mental age by actual age, and Terman
 multiplied the result by one hundred.
 
 70
-00:04:24,480 --> 00:04:29,175
+00:04:23,440 --> 00:04:28,135
 During the First World War, the United
 States Army gave group tests to about one
 
 71
-00:04:29,225 --> 00:04:31,320
+00:04:28,185 --> 00:04:30,280
 point seven five million recruits.
 
 72
-00:04:31,980 --> 00:04:36,310
+00:04:30,800 --> 00:04:35,270
 Intelligence tests were also used to label
 people feeble-minded under state laws
 
 73
-00:04:36,360 --> 00:04:41,310
+00:04:35,320 --> 00:04:40,230
 allowing compulsory sterilization, the
 first of which was passed in nineteen oh
 
 74
-00:04:41,360 --> 00:04:46,270
+00:04:40,280 --> 00:04:45,230
 seven. In nineteen twenty seven, in Buck
 versus Bell, the Supreme Court of the
 
 75
-00:04:46,320 --> 00:04:48,570
+00:04:45,280 --> 00:04:47,580
 United States upheld Virginia's law.
 
 76
-00:04:48,620 --> 00:04:51,380
+00:04:47,900 --> 00:04:50,340
 One part of the standard
 story is disputed.
 
 77
-00:04:52,000 --> 00:04:56,790
+00:04:50,900 --> 00:04:55,750
 Critics such as Leon Kamin and Stephen
 Jay Gould argued that the Army data helped
 
 78
-00:04:56,840 --> 00:05:00,060
+00:04:55,800 --> 00:04:59,040
 push through the nineteen twenty
 four law restricting immigration.
 
 79
-00:05:00,500 --> 00:05:05,250
+00:04:59,660 --> 00:05:04,190
 In nineteen eighty three, Mark Snyderman
 and Richard Herrnstein replied that many
 
 80
-00:05:05,300 --> 00:05:09,810
+00:05:04,240 --> 00:05:08,750
 testers were themselves skeptical of those
 data, and that Congress barely mentioned
 
 81
-00:05:09,860 --> 00:05:11,960
+00:05:08,800 --> 00:05:10,920
 testing in its hearings and debates.
 
 82
-00:05:12,340 --> 00:05:15,900
+00:05:11,240 --> 00:05:14,860
 Historians still argue about
 how much influence testing had.
 
 83
-00:05:16,620 --> 00:05:20,730
+00:05:15,260 --> 00:05:19,690
 Beyond dispute is that the eugenics
 movement used the language of measured
 
 84
-00:05:20,780 --> 00:05:25,360
+00:05:19,740 --> 00:05:24,320
 intelligence, and that real people were
 sterilized under the laws it inspired.
 
 85
-00:05:25,760 --> 00:05:27,560
+00:05:24,700 --> 00:05:26,520
 So the concept has baggage.
 
 86
-00:05:27,900 --> 00:05:30,100
+00:05:26,860 --> 00:05:29,060
 Is there anything solid underneath it?
 
 87
-00:05:30,420 --> 00:05:36,110
+00:05:29,360 --> 00:05:35,070
 Quite a lot. And the solid part is worth
 understanding precisely, because both sides
 
 88
-00:05:36,160 --> 00:05:38,200
+00:05:35,120 --> 00:05:37,180
 of the public argument
 tend to get it wrong.
 
 89
-00:05:39,280 --> 00:05:44,370
+00:05:38,220 --> 00:05:43,350
 Also in nineteen oh four, the English
 psychologist Charles Spearman analyzed
 
 90
-00:05:44,420 --> 00:05:49,450
+00:05:43,400 --> 00:05:48,390
 children's results across school subjects
 and simple sensory tasks, including
 
 91
-00:05:49,500 --> 00:05:51,160
+00:05:48,440 --> 00:05:50,120
 telling musical pitches apart.
 
 92
-00:05:51,560 --> 00:05:54,620
+00:05:50,480 --> 00:05:53,580
 Every measure correlated
 positively with every other.
 
 93
-00:05:54,920 --> 00:05:58,160
+00:05:53,880 --> 00:05:57,120
 Children who did well at one
 thing tended to do well at others.
 
 94
-00:05:58,680 --> 00:06:04,070
+00:05:57,860 --> 00:06:03,050
 Spearman proposed a general factor behind
 those correlations, later called g, plus a
 
 95
-00:06:04,120 --> 00:06:05,860
+00:06:03,100 --> 00:06:04,840
 specific factor for each test.
 
 96
-00:06:06,400 --> 00:06:11,390
+00:06:05,300 --> 00:06:10,350
 The pattern itself, now called the positive
 manifold, has been replicated about as
 
 97
-00:06:11,440 --> 00:06:13,060
+00:06:10,400 --> 00:06:12,040
 well as anything in psychology.
 
 98
-00:06:13,400 --> 00:06:18,210
+00:06:12,340 --> 00:06:17,150
 The picture got richer. In the nineteen
 thirties, Louis Thurstone argued for several
 
 99
-00:06:18,260 --> 00:06:22,340
+00:06:17,200 --> 00:06:21,300
 primary mental abilities: verbal,
 spatial, numerical and others.
 
 100
-00:06:22,600 --> 00:06:26,650
+00:06:21,540 --> 00:06:25,610
 But his primary abilities correlated
 with one another, so a general factor
 
 101
-00:06:26,700 --> 00:06:31,350
+00:06:25,660 --> 00:06:30,310
 reappeared one level up. Raymond Cattell
 and John Horn distinguished fluid
 
 102
-00:06:31,400 --> 00:06:36,090
+00:06:30,360 --> 00:06:34,860
 intelligence, reasoning about novel
 problems, from crystallized intelligence,
 
 103
-00:06:36,140 --> 00:06:38,020
+00:06:35,040 --> 00:06:36,980
 accumulated knowledge and skill.
 
 104
-00:06:38,260 --> 00:06:42,590
+00:06:37,180 --> 00:06:41,550
 In nineteen ninety three, John Carroll
 reanalyzed more than four hundred data sets
 
 105
-00:06:42,640 --> 00:06:43,960
+00:06:41,600 --> 00:06:43,165
 and proposed three levels:
 
 106
-00:06:44,280 --> 00:06:48,100
+00:06:43,215 --> 00:06:47,060
 dozens of narrow abilities, eight
 broad ones, and g at the top.
 
 107
-00:06:48,620 --> 00:06:52,890
+00:06:47,560 --> 00:06:51,830
 Merged with Cattell and Horn's work, it
 became the Cattell-Horn-Carroll model, with
 
 108
-00:06:52,940 --> 00:06:54,240
+00:06:51,880 --> 00:06:53,180
 about ten broad abilities.
 
 109
-00:06:54,740 --> 00:06:59,350
+00:06:53,700 --> 00:06:58,310
 Most major test batteries are now built
 on it, and so, as we'll see in episode
 
 110
-00:06:59,400 --> 00:07:03,780
+00:06:58,360 --> 00:07:02,720
 three, is one prominent attempt to
 define artificial general intelligence.
 
 111
-00:07:05,300 --> 00:07:09,180
+00:07:04,440 --> 00:07:08,200
 Statistically, g is the first
 factor of a correlation matrix.
 
 112
-00:07:09,320 --> 00:07:12,020
+00:07:08,640 --> 00:07:10,960
 Does it correspond to
 anything in the head?
 
 113
-00:07:12,320 --> 00:07:16,420
+00:07:11,560 --> 00:07:15,360
 That's the right question, and the
 statistics alone cannot answer it.
 
 114
-00:07:16,620 --> 00:07:20,580
+00:07:15,580 --> 00:07:19,520
 There are at least four rival
 explanations of why abilities correlate.
 
 115
-00:07:20,880 --> 00:07:26,050
+00:07:19,820 --> 00:07:25,010
 The first is Spearman's: a single common
 cause, something like general processing
 
 116
-00:07:26,100 --> 00:07:30,550
+00:07:25,060 --> 00:07:29,560
 efficiency, perhaps neural speed or
 the integrity of the brain's wiring.
 
 117
-00:07:30,600 --> 00:07:35,610
+00:07:29,780 --> 00:07:34,550
 The second is Godfrey Thomson's
 sampling theory, from nineteen sixteen.
 
 118
-00:07:35,660 --> 00:07:40,950
+00:07:34,600 --> 00:07:39,890
 Every test draws on many small mental
 processes, and two tests correlate to the
 
 119
-00:07:41,000 --> 00:07:43,680
+00:07:39,940 --> 00:07:42,640
 extent that they happen to
 sample overlapping ones.
 
 120
-00:07:44,180 --> 00:07:46,440
+00:07:42,900 --> 00:07:45,400
 No single general ability is needed.
 
 121
-00:07:46,720 --> 00:07:52,290
+00:07:45,720 --> 00:07:51,263
 The third is mutualism, proposed by Han
 van der Maas and colleagues in two thousand
 
 122
-00:07:52,340 --> 00:07:56,830
+00:07:51,313 --> 00:07:55,770
 six. Abilities start out fairly
 independent and reinforce each other during
 
 123
-00:07:56,880 --> 00:08:02,370
+00:07:55,820 --> 00:08:01,330
 development. Vocabulary helps reading,
 reading helps reasoning, reasoning helps you
 
 124
-00:08:02,420 --> 00:08:07,030
+00:08:01,380 --> 00:08:05,990
 learn more words. Over the years,
 that mutual boosting produces positive
 
 125
-00:08:07,080 --> 00:08:12,590
+00:08:06,040 --> 00:08:11,550
 correlations everywhere. The fourth is
 process overlap theory, from Kristóf Kovács
 
 126
-00:08:12,640 --> 00:08:15,330
+00:08:11,600 --> 00:08:14,270
 and Andrew Conway in two thousand sixteen.
 
 127
-00:08:15,380 --> 00:08:20,710
+00:08:14,320 --> 00:08:19,650
 Executive processes such as working memory
 and attentional control are involved in a
 
 128
-00:08:20,760 --> 00:08:25,890
+00:08:19,700 --> 00:08:24,880
 large share of test items, while more
 specific processes are involved in only some.
 
 129
-00:08:25,940 --> 00:08:31,350
+00:08:25,100 --> 00:08:30,310
 Because weak executive control drags
 performance down across the board, that shared
 
 130
-00:08:31,400 --> 00:08:33,100
+00:08:30,360 --> 00:08:32,060
 load produces the general factor.
 
 131
-00:08:33,420 --> 00:08:37,890
+00:08:32,460 --> 00:08:36,850
 Here's the deep point. All four can
 produce essentially the same pattern of
 
 132
-00:08:37,940 --> 00:08:42,080
+00:08:36,900 --> 00:08:41,040
 correlations, so correlations alone
 cannot pick out the mechanism.
 
 133
-00:08:42,580 --> 00:08:47,230
+00:08:41,520 --> 00:08:46,190
 Researchers now try to tell the explanations
 apart with data on development and
 
 134
-00:08:47,280 --> 00:08:52,150
+00:08:46,240 --> 00:08:51,110
 change. The psychometrician Denny Borsboom
 and his colleagues sharpened a related
 
 135
-00:08:52,200 --> 00:08:54,270
+00:08:51,160 --> 00:08:53,090
 point in two thousand three.
 
 136
-00:08:54,320 --> 00:08:59,370
+00:08:53,140 --> 00:08:58,330
 Treating a factor as a real cause of test
 scores is a substantive hypothesis that
 
 137
-00:08:59,420 --> 00:09:00,780
+00:08:58,380 --> 00:08:59,740
 needs evidence of its own.
 
 138
-00:09:00,980 --> 00:09:06,350
+00:09:00,190 --> 00:09:05,310
 And even then, it describes differences
 between people, not the workings inside any
 
 139
-00:09:06,400 --> 00:09:09,820
+00:09:05,360 --> 00:09:08,760
 one person's head. The same
 rigor applies to comparisons.
 
 140
-00:09:10,240 --> 00:09:14,570
+00:09:09,140 --> 00:09:13,530
 If you want to say that two groups,
 or two generations, differ in the same
 
 141
-00:09:14,620 --> 00:09:19,190
+00:09:13,580 --> 00:09:18,150
 underlying ability, you first have to show
 that the test measures the same thing in
 
 142
-00:09:19,240 --> 00:09:22,430
+00:09:18,200 --> 00:09:21,440
 both. That property is called
 measurement invariance.
 
 143
-00:09:22,480 --> 00:09:28,070
+00:09:21,660 --> 00:09:27,030
 Keep it in mind: it comes back twice before
 this episode is over, and again when we
 
 144
-00:09:28,120 --> 00:09:32,440
+00:09:27,080 --> 00:09:31,380
 get to machines. There's an AI
 version of the common-cause story.
 
 145
-00:09:32,880 --> 00:09:38,430
+00:09:31,860 --> 00:09:37,390
 Benchmark scores across language models
 correlate too, and the obvious common cause
 
 146
-00:09:38,480 --> 00:09:42,500
+00:09:37,440 --> 00:09:41,460
 is scale. More compute makes a
 model better at nearly everything.
 
 147
-00:09:42,960 --> 00:09:47,830
+00:09:41,880 --> 00:09:46,770
 Researchers have run exactly that analysis,
 with a twist we'll get to in episode
 
 148
-00:09:47,880 --> 00:09:50,880
+00:09:46,820 --> 00:09:49,840
 three. Does g predict anything?
 
 149
-00:09:51,440 --> 00:09:54,460
+00:09:50,240 --> 00:09:53,400
 Yes, though less dramatically
 than its fans often say.
 
 150
-00:09:54,900 --> 00:09:58,080
+00:09:53,840 --> 00:09:56,950
 Test scores correlate around
 point five with school grades.
 
 151
-00:09:58,420 --> 00:10:02,990
+00:09:57,000 --> 00:10:01,930
 For job performance, a famous nineteen
 ninety eight synthesis by Frank Schmidt and
 
 152
-00:10:03,040 --> 00:10:07,950
+00:10:01,980 --> 00:10:06,890
 John Hunter put the correlation at about
 point five, which made cognitive ability
 
 153
-00:10:08,000 --> 00:10:11,760
+00:10:06,940 --> 00:10:10,720
 look like the best single predictor
 of how well people do their jobs.
 
 154
-00:10:11,940 --> 00:10:16,870
+00:10:10,880 --> 00:10:15,830
 In two thousand twenty two, Paul Sackett
 and colleagues argued that the statistical
 
 155
-00:10:16,920 --> 00:10:22,090
+00:10:15,880 --> 00:10:21,040
 corrections behind that estimate were too
 aggressive, and revised it to about point
 
 156
-00:10:22,140 --> 00:10:26,890
+00:10:21,090 --> 00:10:25,830
 three, which put cognitive ability behind
 structured interviews and several other
 
 157
-00:10:26,940 --> 00:10:31,750
+00:10:25,880 --> 00:10:30,700
 methods. In two thousand twenty four,
 Sackett's group analyzed more than a hundred
 
 158
-00:10:31,800 --> 00:10:36,210
+00:10:30,750 --> 00:10:35,170
 and fifty samples collected since the year
 two thousand and found a correlation of
 
 159
-00:10:36,260 --> 00:10:39,920
+00:10:35,220 --> 00:10:38,860
 point one six, or about point
 two two after correction.
 
 160
-00:10:40,620 --> 00:10:44,650
+00:10:39,380 --> 00:10:43,610
 Other researchers dispute those corrections,
 so the right number is genuinely
 
 161
-00:10:44,700 --> 00:10:48,820
+00:10:43,660 --> 00:10:47,780
 contested. But the direction of
 travel in the estimates has been down.
 
 162
-00:10:49,040 --> 00:10:54,070
+00:10:48,080 --> 00:10:53,010
 In the field called cognitive epidemiology,
 higher test scores in youth go with
 
 163
-00:10:54,120 --> 00:10:58,730
+00:10:53,060 --> 00:10:57,670
 longer lives. A two thousand eleven
 meta-analysis by Catherine Calvin and
 
 164
-00:10:58,780 --> 00:11:03,810
+00:10:57,720 --> 00:11:02,770
 colleagues, covering about one point one
 million people, found roughly a quarter
 
 165
-00:11:03,860 --> 00:11:07,860
+00:11:02,820 --> 00:11:06,800
 lower risk of death for each standard
 deviation higher score in youth.
 
 166
-00:11:08,000 --> 00:11:12,310
+00:11:06,940 --> 00:11:11,270
 In the studies that could check, adjusting
 for adult social position shrank that
 
 167
-00:11:12,360 --> 00:11:16,620
+00:11:11,320 --> 00:11:15,580
 association by about a third, and
 adjusting for education by about half.
 
 168
-00:11:16,980 --> 00:11:21,970
+00:11:15,820 --> 00:11:20,930
 That suggests the link runs partly
 through, or is shared with, schooling and
 
 169
-00:11:22,020 --> 00:11:25,260
+00:11:20,980 --> 00:11:24,220
 circumstance. So g predicts real outcomes.
 
 170
-00:11:25,520 --> 00:11:30,910
+00:11:24,420 --> 00:11:29,850
 It does so as a statistical tendency
 across large populations, not as anyone's
 
 171
-00:11:30,960 --> 00:11:36,660
+00:11:29,900 --> 00:11:35,620
 destiny. Now heritability, one of the
 most misunderstood numbers in science.
 
 172
-00:11:37,180 --> 00:11:41,290
+00:11:36,020 --> 00:11:40,270
 Heritability is the share of the
 variation in a trait, within a particular
 
 173
-00:11:41,340 --> 00:11:46,760
+00:11:40,320 --> 00:11:45,590
 population and a particular range of
 environments, that goes with genetic variation.
 
 174
-00:11:47,060 --> 00:11:50,540
+00:11:45,640 --> 00:11:49,480
 It is a property of a
 population, not of a person.
 
 175
-00:11:50,780 --> 00:11:55,200
+00:11:49,840 --> 00:11:54,140
 You cannot say that some percentage of your
 own intelligence comes from your genes.
 
 176
-00:11:55,640 --> 00:11:58,250
+00:11:54,620 --> 00:11:57,110
 Heritability can change
 when environments change.
 
 177
-00:11:58,300 --> 00:12:01,260
+00:11:57,160 --> 00:12:00,180
 And it says nothing about
 whether a trait can be altered.
 
 178
-00:12:02,200 --> 00:12:06,930
+00:12:01,100 --> 00:12:05,890
 Phenylketonuria is a single-gene
 condition that, untreated, causes severe
 
 179
-00:12:06,980 --> 00:12:12,350
+00:12:05,940 --> 00:12:11,310
 intellectual disability. A special diet,
 started early, prevents almost all of the
 
 180
-00:12:12,400 --> 00:12:15,860
+00:12:11,360 --> 00:12:14,770
 damage. Highly heritable,
 and largely preventable.
 
 181
-00:12:16,200 --> 00:12:21,110
+00:12:14,820 --> 00:12:20,050
 With those caveats in place, twin and
 adoption studies show a striking pattern
 
 182
-00:12:21,160 --> 00:12:26,450
+00:12:20,100 --> 00:12:25,410
 called the Wilson effect. The heritability
 of test scores rises with age, from
 
 183
-00:12:26,500 --> 00:12:31,470
+00:12:25,460 --> 00:12:30,430
 roughly twenty percent in infancy to
 around forty percent by age nine, and to
 
 184
-00:12:31,520 --> 00:12:35,610
+00:12:30,480 --> 00:12:34,550
 something like seventy to eighty percent
 in early adulthood, in the mostly
 
 185
-00:12:35,660 --> 00:12:38,130
+00:12:34,600 --> 00:12:37,140
 high-income Western samples
 that have been studied.
 
 186
-00:12:38,180 --> 00:12:40,080
+00:12:37,360 --> 00:12:39,040
 Remember what that number means.
 
 187
-00:12:40,300 --> 00:12:45,230
+00:12:39,240 --> 00:12:44,170
 In those populations, most of the differences
 between adults go along with genetic
 
 188
-00:12:45,280 --> 00:12:49,750
+00:12:44,220 --> 00:12:48,710
 differences. It does not mean that most of
 any one person's intelligence comes from
 
 189
-00:12:49,800 --> 00:12:54,910
+00:12:48,760 --> 00:12:53,850
 their genes. One explanation is that as
 people grow up, they increasingly choose
 
 190
-00:12:54,960 --> 00:13:00,270
+00:12:53,900 --> 00:12:59,230
 their own environments, books, friends and
 jobs, in ways that amplify their starting
 
 191
-00:13:00,320 --> 00:13:04,040
+00:12:59,280 --> 00:13:03,000
 dispositions. Heritability
 also depends on circumstances.
 
 192
-00:13:04,420 --> 00:13:08,870
+00:13:03,360 --> 00:13:07,850
 In two thousand three, Eric Turkheimer
 and colleagues reported that among poor
 
 193
-00:13:08,920 --> 00:13:13,530
+00:13:07,900 --> 00:13:12,450
 American families, genes accounted for
 almost none of the variation in children's
 
 194
-00:13:13,580 --> 00:13:17,100
+00:13:12,500 --> 00:13:16,060
 scores, while among affluent families
 they accounted for most of it.
 
 195
-00:13:17,300 --> 00:13:22,790
+00:13:16,260 --> 00:13:21,730
 A two thousand sixteen meta-analysis by
 Elliot Tucker-Drob and Timothy Bates found
 
 196
-00:13:22,840 --> 00:13:26,700
+00:13:21,780 --> 00:13:25,640
 that pattern in the United States, but
 not in Western Europe or Australia.
 
 197
-00:13:27,080 --> 00:13:31,360
+00:13:25,940 --> 00:13:30,320
 One reading is that deprivation suppresses
 differences that would otherwise show,
 
 198
-00:13:31,520 --> 00:13:36,070
+00:13:30,460 --> 00:13:35,030
 and that how strongly it does so depends
 on how unequal a society's environments
 
 199
-00:13:36,120 --> 00:13:41,710
+00:13:35,080 --> 00:13:40,650
 are. But a large later study of Florida
 twins and siblings found no such pattern in
 
 200
-00:13:41,760 --> 00:13:45,660
+00:13:40,700 --> 00:13:44,620
 school test scores, so even the
 American result is still debated.
 
 201
-00:13:46,140 --> 00:13:48,210
+00:13:45,120 --> 00:13:47,170
 Molecular genetics added a twist.
 
 202
-00:13:48,260 --> 00:13:53,920
+00:13:47,220 --> 00:13:52,860
 Genome-wide studies find thousands of
 genetic variants, each with a tiny effect.
 
 203
-00:13:54,620 --> 00:13:59,650
+00:13:53,580 --> 00:13:58,590
 Combined into polygenic scores, the largest
 study so far explains about twelve to
 
 204
-00:13:59,700 --> 00:14:04,190
+00:13:58,640 --> 00:14:03,130
 sixteen percent of the differences in how
 much schooling people complete, well below
 
 205
-00:14:04,240 --> 00:14:06,680
+00:14:03,180 --> 00:14:05,620
 twin-study estimates for the same outcome.
 
 206
-00:14:06,860 --> 00:14:11,270
+00:14:05,820 --> 00:14:10,230
 And when you compare siblings within the
 same family, the score's apparent effect
 
 207
-00:14:11,320 --> 00:14:16,110
+00:14:10,280 --> 00:14:15,050
 shrinks by about half. That suggests part
 of what the scores capture comes from
 
 208
-00:14:16,160 --> 00:14:20,770
+00:14:15,100 --> 00:14:19,730
 family background, such as the environment
 parents create and who partners with
 
 209
-00:14:20,820 --> 00:14:24,340
+00:14:19,780 --> 00:14:23,320
 whom, rather than from a person's
 own genes acting directly.
 
 210
-00:14:24,680 --> 00:14:27,920
+00:14:23,760 --> 00:14:26,880
 Meanwhile, the environment
 demonstrably moves scores.
 
 211
-00:14:28,220 --> 00:14:33,830
+00:14:27,220 --> 00:14:32,790
 A two thousand eighteen meta-analysis by
 Stuart Ritchie and Tucker-Drob, drawing on
 
 212
-00:14:33,880 --> 00:14:38,750
+00:14:32,840 --> 00:14:37,710
 natural experiments such as changes in the
 school-leaving age, estimated that each
 
 213
-00:14:38,800 --> 00:14:43,060
+00:14:37,760 --> 00:14:42,020
 extra year of education raises
 IQ by roughly one to five points.
 
 214
-00:14:43,340 --> 00:14:47,870
+00:14:42,320 --> 00:14:46,810
 High heritability and big
 environmental effects at the same time.
 
 215
-00:14:47,920 --> 00:14:49,850
+00:14:46,860 --> 00:14:48,860
 That sounds like a contradiction.
 
 216
-00:14:49,900 --> 00:14:53,300
+00:14:49,300 --> 00:14:52,240
 It is not one, and the
 next finding shows why.
 
 217
-00:14:54,180 --> 00:14:59,970
+00:14:53,140 --> 00:14:58,930
 The political scientist James Flynn
 documented that average IQ scores rose by
 
 218
-00:15:00,020 --> 00:15:04,290
+00:14:58,980 --> 00:15:03,250
 roughly three points per decade through
 much of the twentieth century, in many
 
 219
-00:15:04,340 --> 00:15:09,800
+00:15:03,300 --> 00:15:08,740
 countries. The gains were largest on abstract
 reasoning tests like Raven's matrices,
 
 220
-00:15:10,220 --> 00:15:12,800
+00:15:09,160 --> 00:15:11,740
 and smallest on vocabulary and arithmetic.
 
 221
-00:15:13,120 --> 00:15:15,900
+00:15:12,200 --> 00:15:14,860
 That is far too fast for genetic change.
 
 222
-00:15:16,180 --> 00:15:20,670
+00:15:15,280 --> 00:15:19,750
 Candidate causes include better nutrition
 and health, more schooling, smaller
 
 223
-00:15:20,720 --> 00:15:25,750
+00:15:19,800 --> 00:15:24,710
 families, and what Flynn called
 scientific spectacles, a cultural habit of
 
 224
-00:15:25,800 --> 00:15:27,820
+00:15:24,760 --> 00:15:26,780
 classifying and reasoning abstractly.
 
 225
-00:15:27,980 --> 00:15:32,270
+00:15:27,200 --> 00:15:31,130
 He liked to cite interviews from the
 nineteen thirties in which the psychologist
 
 226
-00:15:32,320 --> 00:15:37,910
+00:15:31,180 --> 00:15:36,870
 Alexander Luria posed simple syllogisms
 to unschooled farmers in Central Asia, who
 
 227
-00:15:37,960 --> 00:15:41,600
+00:15:36,920 --> 00:15:40,480
 often declined to reason about
 premises outside their own experience.
 
 228
-00:15:42,000 --> 00:15:44,120
+00:15:40,880 --> 00:15:43,060
 Here measurement invariance comes back.
 
 229
-00:15:44,320 --> 00:15:49,870
+00:15:43,280 --> 00:15:48,830
 In two thousand four, Jelte Wicherts and
 colleagues tested five data sets, comparing
 
 230
-00:15:49,920 --> 00:15:54,440
+00:15:48,880 --> 00:15:53,380
 cohorts ten to sixty years apart, and found
 that invariance failed in all of them.
 
 231
-00:15:54,720 --> 00:15:59,690
+00:15:53,580 --> 00:15:58,650
 The tests were not measuring quite the
 same thing in earlier and later cohorts, so
 
 232
-00:15:59,740 --> 00:16:03,700
+00:15:58,700 --> 00:16:02,640
 the gains cannot simply be read as
 gains in the underlying ability.
 
 233
-00:16:03,880 --> 00:16:06,470
+00:16:02,840 --> 00:16:05,370
 And in some countries
 the rise has reversed.
 
 234
-00:16:06,520 --> 00:16:11,598
+00:16:05,420 --> 00:16:10,558
 Bernt Bratsberg and Ole Rogeberg analyzed
 the scores of about seven hundred and
 
 235
-00:16:11,648 --> 00:16:13,640
+00:16:10,608 --> 00:16:12,600
 thirty thousand Norwegian conscripts.
 
 236
-00:16:14,120 --> 00:16:18,020
+00:16:13,100 --> 00:16:16,960
 Scores rose for men born up to the
 mid nineteen seventies and then fell.
 
 237
-00:16:18,480 --> 00:16:23,370
+00:16:17,560 --> 00:16:22,330
 Crucially, the decline shows up between
 brothers in the same family, which rules out
 
 238
-00:16:23,420 --> 00:16:27,410
+00:16:22,380 --> 00:16:26,370
 explanations based on which families
 have more children, and points to the
 
 239
-00:16:27,460 --> 00:16:30,720
+00:16:26,420 --> 00:16:29,660
 environment. That resolves
 the apparent paradox.
 
 240
-00:16:31,360 --> 00:16:35,180
+00:16:30,200 --> 00:16:34,140
 Heritability describes variation
 within a population at one time.
 
 241
-00:16:35,380 --> 00:16:39,540
+00:16:34,520 --> 00:16:38,480
 The Flynn effect is a shift of
 the whole population across time.
 
 242
-00:16:39,720 --> 00:16:44,490
+00:16:38,760 --> 00:16:43,470
 A trait can be highly heritable and still
 move a lot when everyone's environment
 
 243
-00:16:44,540 --> 00:16:50,280
+00:16:43,520 --> 00:16:49,190
 changes. That logic carries straight into
 the most contentious topic in this field:
 
 244
-00:16:50,500 --> 00:16:52,360
+00:16:49,240 --> 00:16:51,390
 average differences between groups.
 
 245
-00:16:52,720 --> 00:16:57,730
+00:16:51,440 --> 00:16:56,690
 The key principle is that heritability
 within groups does not, by itself, tell you
 
 246
-00:16:57,780 --> 00:16:59,600
+00:16:56,740 --> 00:16:58,560
 the causes of differences between groups.
 
 247
-00:16:59,980 --> 00:17:03,860
+00:16:58,860 --> 00:17:02,820
 The geneticist Richard Lewontin's
 illustration is still the clearest.
 
 248
-00:17:04,220 --> 00:17:09,190
+00:17:03,260 --> 00:17:08,150
 Take a bag of genetically varied seed,
 and plant one handful in rich soil and
 
 249
-00:17:09,240 --> 00:17:13,730
+00:17:08,200 --> 00:17:12,670
 another in poor soil. Within each field,
 differences in height may be largely
 
 250
-00:17:13,780 --> 00:17:18,510
+00:17:12,720 --> 00:17:17,450
 genetic. But because both handfuls came
 from the same bag, the difference between
 
 251
-00:17:18,560 --> 00:17:20,880
+00:17:17,500 --> 00:17:19,840
 the fields is entirely environmental.
 
 252
-00:17:21,360 --> 00:17:26,390
+00:17:20,800 --> 00:17:25,330
 The analogy shows that high heritability
 within groups is compatible with a wholly
 
 253
-00:17:26,440 --> 00:17:28,180
+00:17:25,380 --> 00:17:27,140
 environmental gap between them.
 
 254
-00:17:28,360 --> 00:17:33,660
+00:17:27,540 --> 00:17:32,600
 By itself, it cannot tell you which
 situation holds for any real human groups.
 
 255
-00:17:33,920 --> 00:17:37,260
+00:17:33,020 --> 00:17:36,220
 On the evidence itself,
 the record runs like this.
 
 256
-00:17:37,500 --> 00:17:42,770
+00:17:36,380 --> 00:17:41,730
 After The Bell Curve reignited public
 argument in nineteen ninety four, the American
 
 257
-00:17:42,820 --> 00:17:46,340
+00:17:41,780 --> 00:17:45,280
 Psychological Association
 convened a task force.
 
 258
-00:17:46,780 --> 00:17:50,930
+00:17:45,720 --> 00:17:49,910
 Its nineteen ninety six report concluded
 that test scores predict important
 
 259
-00:17:50,980 --> 00:17:55,200
+00:17:49,960 --> 00:17:54,160
 outcomes. It found that the average
 difference between Black and White Americans,
 
 260
-00:17:55,360 --> 00:18:00,390
+00:17:54,360 --> 00:17:59,350
 then about one standard deviation, did not
 come from obvious bias in the tests and
 
 261
-00:18:00,440 --> 00:18:02,480
+00:17:59,400 --> 00:18:01,420
 did not simply reflect social class.
 
 262
-00:18:03,280 --> 00:18:08,330
+00:18:02,280 --> 00:18:07,290
 Explanations based on culture and social
 position might be right, it said, but had
 
 263
-00:18:08,380 --> 00:18:12,370
+00:18:07,340 --> 00:18:11,330
 little direct support, and there was
 no direct support at all for a genetic
 
 264
-00:18:12,420 --> 00:18:16,500
+00:18:11,380 --> 00:18:15,460
 explanation. Its bottom line
 was that no one knew the cause.
 
 265
-00:18:16,840 --> 00:18:19,300
+00:18:15,860 --> 00:18:18,240
 Here measurement invariance matters again.
 
 266
-00:18:19,700 --> 00:18:24,650
+00:18:18,580 --> 00:18:23,610
 Unlike the gains across generations,
 studies comparing Black and White Americans
 
 267
-00:18:24,700 --> 00:18:28,900
+00:18:23,660 --> 00:18:27,860
 have mostly found that the tests measure
 the same abilities in both groups.
 
 268
-00:18:29,060 --> 00:18:32,140
+00:18:28,000 --> 00:18:31,100
 So the gap is not simply
 an artifact of the tests.
 
 269
-00:18:32,380 --> 00:18:35,460
+00:18:31,320 --> 00:18:34,420
 That tells you what the
 gap is, not what causes it.
 
 270
-00:18:35,640 --> 00:18:41,230
+00:18:34,600 --> 00:18:40,170
 In two thousand twelve, a review by Richard
 Nisbett, Flynn, Turkheimer and others
 
 271
-00:18:41,280 --> 00:18:45,080
+00:18:40,220 --> 00:18:44,030
 reported that the gap had narrowed by
 about a third of a standard deviation in
 
 272
-00:18:45,130 --> 00:18:49,810
+00:18:44,080 --> 00:18:48,750
 recent decades, and its authors argued
 that group differences in IQ are best
 
 273
-00:18:49,860 --> 00:18:52,080
+00:18:48,800 --> 00:18:51,020
 understood as environmental in origin.
 
 274
-00:18:52,640 --> 00:18:58,290
+00:18:51,560 --> 00:18:57,250
 Others, such as Charles Murray, accepted
 some narrowing over the century but argued
 
 275
-00:18:58,340 --> 00:19:00,850
+00:18:57,300 --> 00:18:59,690
 that it had stalled by the
 late nineteen eighties.
 
 276
-00:19:00,900 --> 00:19:05,910
+00:18:59,740 --> 00:19:04,850
 And some researchers, most prominently
 Arthur Jensen and Philippe Rushton, argued
 
 277
-00:19:05,960 --> 00:19:10,150
+00:19:04,900 --> 00:19:09,110
 that genes explain part of the gap,
 pointing to indirect evidence such as
 
 278
-00:19:10,200 --> 00:19:12,120
+00:19:09,160 --> 00:19:11,060
 heritability and adoption studies.
 
 279
-00:19:12,680 --> 00:19:17,710
+00:19:11,600 --> 00:19:16,670
 Critics reply that indirect evidence of
 that kind cannot separate genetic from
 
 280
-00:19:17,760 --> 00:19:23,130
+00:19:16,720 --> 00:19:22,110
 environmental causes. Opinion among
 researchers has been divided, and no direct
 
 281
-00:19:23,180 --> 00:19:24,880
+00:19:22,160 --> 00:19:23,820
 evidence has settled the question.
 
 282
-00:19:25,320 --> 00:19:27,980
+00:19:24,300 --> 00:19:26,940
 Today's genetic tools
 cannot settle it either.
 
 283
-00:19:28,740 --> 00:19:34,030
+00:19:27,680 --> 00:19:32,990
 Polygenic scores, built mostly from people
 of European ancestry, lose much of their
 
 284
-00:19:34,080 --> 00:19:39,130
+00:19:33,040 --> 00:19:38,090
 accuracy in other populations, and even
 within one population they partly pick up
 
 285
-00:19:39,180 --> 00:19:43,300
+00:19:38,140 --> 00:19:42,260
 family environment. International
 comparisons have a further problem.
 
 286
-00:19:43,560 --> 00:19:49,170
+00:19:42,720 --> 00:19:48,130
 A widely cited set of national IQ
 estimates, compiled by Richard Lynn and Tatu
 
 287
-00:19:49,220 --> 00:19:53,950
+00:19:48,180 --> 00:19:52,890
 Vanhanen, rests in many countries on
 one or two small samples that were never
 
 288
-00:19:54,000 --> 00:19:55,880
+00:19:52,940 --> 00:19:54,840
 designed to represent the whole country.
 
 289
-00:19:56,500 --> 00:20:00,830
+00:19:55,540 --> 00:19:59,790
 In two thousand ten, Wicherts and
 colleagues reviewed the African data
 
 290
-00:20:00,880 --> 00:20:04,720
+00:19:59,840 --> 00:20:03,680
 systematically, with explicit
 rules for which samples to include.
 
 291
-00:20:04,920 --> 00:20:09,498
+00:20:03,880 --> 00:20:08,310
 Their average came out roughly twelve points
 higher than Lynn's, though still below
 
 292
-00:20:09,548 --> 00:20:14,690
+00:20:08,360 --> 00:20:13,650
 British norms. They warned that Lynn's
 figures rested on unsystematic choices of
 
 293
-00:20:14,740 --> 00:20:18,890
+00:20:13,700 --> 00:20:17,830
 samples, and that whether the tests
 measure the same thing in those populations
 
 294
-00:20:18,940 --> 00:20:20,760
+00:20:17,880 --> 00:20:19,720
 still needed proper study.
 
 295
-00:20:21,020 --> 00:20:25,570
+00:20:19,960 --> 00:20:24,510
 Papers built on the dataset are now being
 reexamined, and at least three have been
 
 296
-00:20:25,620 --> 00:20:30,170
+00:20:24,560 --> 00:20:29,110
 retracted, most recently one in a Royal
 Society journal in two thousand twenty four
 
 297
-00:20:30,220 --> 00:20:33,110
+00:20:29,160 --> 00:20:32,090
 and another in two thousand twenty five.
 
 298
-00:20:33,160 --> 00:20:36,170
+00:20:32,140 --> 00:20:35,110
 Countries really do differ on
 international school assessments.
 
 299
-00:20:36,220 --> 00:20:41,130
+00:20:35,160 --> 00:20:40,090
 But how much of that reflects the same
 underlying ability, and why the differences
 
 300
-00:20:41,180 --> 00:20:43,060
+00:20:40,140 --> 00:20:42,020
 exist, are separate questions.
 
 301
-00:20:43,320 --> 00:20:48,260
+00:20:42,380 --> 00:20:47,220
 And the Flynn effect is a reminder that
 national averages move as countries develop.
 
 302
-00:20:49,240 --> 00:20:51,620
+00:20:48,530 --> 00:20:50,580
 Two neighboring ideas, briefly.
 
 303
-00:20:52,040 --> 00:20:57,270
+00:20:50,900 --> 00:20:56,230
 Howard Gardner's multiple intelligences
 are hugely popular in education, but when
 
 304
-00:20:57,320 --> 00:21:01,770
+00:20:56,280 --> 00:21:00,730
 researchers built measures of the supposedly
 separate intelligences, most of them
 
 305
-00:21:01,820 --> 00:21:03,840
+00:21:00,780 --> 00:21:02,800
 loaded on g and on each other.
 
 306
-00:21:04,580 --> 00:21:06,800
+00:21:03,520 --> 00:21:05,760
 Rationality is the more interesting case.
 
 307
-00:21:07,020 --> 00:21:12,130
+00:21:06,000 --> 00:21:11,090
 The psychologist Keith Stanovich coined
 the word dysrationalia for smart people who
 
 308
-00:21:12,180 --> 00:21:17,210
+00:21:11,140 --> 00:21:16,170
 reason badly. Resisting a tempting but
 wrong intuition turns out to be at least
 
 309
-00:21:17,260 --> 00:21:22,350
+00:21:16,220 --> 00:21:21,290
 partly a different skill from raw reasoning
 power, though the two are related, and
 
 310
-00:21:22,400 --> 00:21:24,820
+00:21:21,340 --> 00:21:23,780
 standard intelligence
 tests largely miss it.
 
 311
-00:21:25,720 --> 00:21:31,170
+00:21:25,030 --> 00:21:30,130
 So if someone tells me a language model
 has an IQ of a hundred and thirty, what
 
 312
-00:21:31,220 --> 00:21:34,780
+00:21:30,180 --> 00:21:33,720
 should I ask? First, what the
 number is supposed to measure.
 
 313
-00:21:35,200 --> 00:21:40,050
+00:21:34,160 --> 00:21:38,990
 Human abilities really do covary, and
 the general factor that summarizes them
 
 314
-00:21:40,100 --> 00:21:45,490
+00:21:39,040 --> 00:21:44,430
 predicts real outcomes, but at least four
 explanations fit the same data, and the
 
 315
-00:21:45,540 --> 00:21:48,180
+00:21:44,480 --> 00:21:47,140
 factor's biological meaning is still open.
 
 316
-00:21:48,500 --> 00:21:52,670
+00:21:47,340 --> 00:21:51,630
 Then ask whether the test means the same
 thing for that system as for the people it
 
 317
-00:21:52,720 --> 00:21:56,300
+00:21:51,680 --> 00:21:55,240
 was built for, which is the
 invariance question in a new setting.
 
 318
-00:21:56,440 --> 00:22:00,580
+00:21:55,440 --> 00:21:59,540
 And keep in mind how easily the
 numbers people fight about are misread.
 
 319
-00:22:01,260 --> 00:22:04,100
+00:22:00,280 --> 00:22:03,060
 Heritability describes
 populations, not persons.
 
 320
-00:22:04,460 --> 00:22:07,500
+00:22:03,420 --> 00:22:06,460
 It coexists with large
 environmental effects.
 
 321
-00:22:07,780 --> 00:22:11,340
+00:22:06,720 --> 00:22:10,300
 And by itself it cannot explain
 differences between groups.
 
 322
-00:22:11,660 --> 00:22:15,930
+00:22:10,600 --> 00:22:14,890
 Most of all, notice that everything in
 this episode has been about how humans
 
 323
-00:22:15,980 --> 00:22:17,220
+00:22:14,940 --> 00:22:16,180
 compare with other humans.
 
 324
-00:22:17,560 --> 00:22:22,770
+00:22:16,460 --> 00:22:21,730
 A test built for schoolchildren tells you
 little, by itself, about what a crow, an
 
 325
-00:22:22,820 --> 00:22:25,560
+00:22:21,780 --> 00:22:24,520
 octopus or a language model has or lacks.
 
 326
-00:22:25,960 --> 00:22:28,290
+00:22:24,880 --> 00:22:27,250
 For that, we leave the human case behind.
 
 327
-00:22:28,340 --> 00:22:34,190
+00:22:27,300 --> 00:22:33,150
 Next episode: minds in other bodies, from
 a crow that bent a wire into a hook to
 
 328
-00:22:34,240 --> 00:22:36,960
+00:22:33,200 --> 00:22:35,900
 cells that solve problems
 without any brain at all.

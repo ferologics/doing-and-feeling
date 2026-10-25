@@ -1,832 +1,912 @@
 1
-00:00:00,000 --> 00:00:17,600
-This is Doing and Feeling, the long version. Episode 4, Life as Computation. In 1948, at a symposium in Pasadena, the mathematician John von Neumann asked a question that sounds like an engineering puzzle and turns out to be a question about life.
+00:00:00,000 --> 00:00:16,560
+This is Doing and Feeling, Episode 4, Life as Computation. In 1948, at a symposium in Pasadena, the mathematician John von Neumann asked a question that sounds like an engineering puzzle and turns out to be a question about life.
 
 2
-00:00:18,060 --> 00:00:20,060
+00:00:17,020 --> 00:00:19,040
 Could a machine build a copy of itself?
 
 3
-00:00:20,300 --> 00:00:22,260
+00:00:19,260 --> 00:00:21,220
 The difficulty is a regress.
 
 4
-00:00:22,500 --> 00:00:25,760
+00:00:21,460 --> 00:00:24,740
 To build a copy, the machine needs a description of itself.
 
 5
-00:00:25,980 --> 00:00:28,220
+00:00:24,960 --> 00:00:27,220
 But the description is part of the machine,
 
 6
-00:00:28,220 --> 00:00:32,340
+00:00:27,220 --> 00:00:31,300
 so it must contain a description of the description, and so on forever.
 
 7
-00:00:32,960 --> 00:00:36,740
+00:00:31,980 --> 00:00:35,740
 Von Neumann's way out was to use one description in two different ways.
 
 8
-00:00:37,040 --> 00:00:40,820
+00:00:35,960 --> 00:00:39,800
 A constructor reads the description and builds what it specifies.
 
 9
-00:00:41,060 --> 00:00:45,080
+00:00:40,040 --> 00:00:44,060
 A copier duplicates the description blindly, without interpreting it.
 
 10
-00:00:45,600 --> 00:00:47,560
+00:00:44,580 --> 00:00:46,520
 Build the offspring from the instructions,
 
 11
-00:00:47,900 --> 00:00:50,160
+00:00:46,860 --> 00:00:49,120
 copy the instructions without reading them,
 
 12
-00:00:50,560 --> 00:00:53,100
+00:00:49,520 --> 00:00:52,080
 hand the copy over, and the regress disappears.
 
 13
-00:00:53,620 --> 00:00:56,120
+00:00:52,420 --> 00:00:55,100
 And if the copying is occasionally imperfect,
 
 14
-00:00:56,560 --> 00:01:00,340
+00:00:55,520 --> 00:00:59,320
 the offspring differ, which supplies the variation evolution needs.
 
 15
-00:01:00,560 --> 00:01:04,520
+00:00:59,520 --> 00:01:03,500
 This was five years before Watson and Crick described the double helix,
 
 16
-00:01:04,780 --> 00:01:07,440
+00:01:03,740 --> 00:01:06,420
 yet it closely parallels how cells use DNA.
 
 17
-00:01:07,980 --> 00:01:11,920
+00:01:06,960 --> 00:01:10,880
 Genes are read, transcribed, and translated to build proteins,
 
 18
-00:01:11,920 --> 00:01:17,780
+00:01:10,880 --> 00:01:16,760
 and the same DNA is copied, base by base, without being interpreted, to make a new cell.
 
 19
-00:01:18,580 --> 00:01:22,640
+00:01:17,560 --> 00:01:21,620
 von Neumann had worked out the logical architecture of life from first principles.
 
 20
-00:01:23,740 --> 00:01:28,380
+00:01:22,720 --> 00:01:27,340
 This episode makes the strongest case I can for one claim and then tests it.
 
 21
-00:01:28,560 --> 00:01:33,180
+00:01:27,560 --> 00:01:32,160
 The claim is that life, intelligence, and computation are a single continuum.
 
 22
-00:01:33,480 --> 00:01:34,840
+00:01:32,440 --> 00:01:33,820
 It has four steps.
 
 23
-00:01:35,120 --> 00:01:40,260
+00:01:34,180 --> 00:01:39,240
 First, replicators arise naturally wherever computation and interaction meet.
 
 24
-00:01:41,920 --> 00:01:47,320
+00:01:40,880 --> 00:01:46,300
 leaps in complexity come from merging. Third, anything that keeps itself going must regulate,
 
 25
-00:01:47,500 --> 00:01:53,220
+00:01:46,360 --> 00:01:52,200
 and good regulation requires a model of what is being regulated, which makes prediction the core
 
 26
-00:01:53,220 --> 00:01:59,600
+00:01:52,200 --> 00:01:58,560
 of being alive. Fourth, the hardest things to predict are other predictors, so minds grew by
 
 27
-00:01:59,600 --> 00:02:05,800
+00:01:58,560 --> 00:02:04,780
 modeling other minds. The most ambitious recent statement of this view is a 2025 book by Blaise
 
 28
-00:02:05,800 --> 00:02:12,240
+00:02:04,780 --> 00:02:11,200
 Aguera e. Arcus, published by MIT Press and the Antikythera Project and freely readable online.
 
 29
-00:02:12,640 --> 00:02:19,160
+00:02:11,540 --> 00:02:18,140
 Its title is a question, what is intelligence? I'll use his argument as a spine. The test comes
 
 30
-00:02:19,160 --> 00:02:24,240
+00:02:18,140 --> 00:02:23,220
 at the end, and it is a serious one. If everything computes, does the claim say anything at all?
 
 31
-00:02:25,340 --> 00:02:31,300
+00:02:24,320 --> 00:02:30,260
 Start with replicators. Von Neumann went on to design a cell-for-producing pattern in a cellular
 
 32
-00:02:31,300 --> 00:02:38,680
+00:02:30,260 --> 00:02:37,660
 automaton, a grid of cells, each in one of 29 states, updated by local rules. It was published
 
 33
-00:02:38,680 --> 00:02:46,180
+00:02:37,660 --> 00:02:45,160
 after his death in 1966. In 1970, John Conway's Game of Life showed that two states and a handful
 
 34
-00:02:46,180 --> 00:02:53,360
+00:02:45,160 --> 00:02:52,340
 of rules could support gliders, oscillators, and, eventually, universal computation. In 1984,
 
 35
-00:02:54,120 --> 00:02:58,960
+00:02:53,100 --> 00:02:57,940
 Christopher Langton found a far simpler self-replicating pattern, now called Langton's
 
 36
-00:02:58,960 --> 00:03:06,700
+00:02:57,940 --> 00:03:05,660
 loops. Then came artificial life in software. In 1991, the ecologist Thomas Ray released Tiara,
 
 37
-00:03:06,960 --> 00:03:11,740
+00:03:05,920 --> 00:03:10,720
 a virtual computer filled with self-copying programs competing for processor time.
 
 38
-00:03:12,240 --> 00:03:19,160
+00:03:11,220 --> 00:03:18,140
 Parasites evolved that borrowed other programs' copying code and hosts evolved defenses. In 2003,
 
 39
-00:03:19,640 --> 00:03:25,920
+00:03:18,600 --> 00:03:24,900
 Richard Lensky, Charles Ofria, and colleagues used a platform called AVIDA to show how a complex
 
 40
-00:03:25,920 --> 00:03:31,160
+00:03:24,900 --> 00:03:30,140
 logical function could evolve through a series of simpler steps, some of them harmful when they
 
 41
-00:03:31,160 --> 00:03:37,680
+00:03:30,140 --> 00:03:36,660
 first arose. So the idea is old. But in Tiara, the first replicator was written by hand,
 
 42
-00:03:37,860 --> 00:03:44,020
+00:03:36,800 --> 00:03:43,000
 and Avidor rewards programs for doing useful logic. That's what makes a 2024 experiment by
 
 43
-00:03:44,020 --> 00:03:49,600
+00:03:43,000 --> 00:03:48,580
 Aguera E. Arcus and colleagues at Google, including Ben Lory and Alexander Mordvincev.
 
 44
-00:03:49,760 --> 00:03:55,440
+00:03:48,740 --> 00:03:54,420
 So striking. They built a primordial soup of about 130,000 random programs,
 
 45
-00:03:55,920 --> 00:04:00,960
-each 64 bytes long, written in a variant of a famously minimal programming language
+00:03:54,900 --> 00:03:56,440
+each 64 bytes long,
 
 46
-00:04:00,960 --> 00:04:07,100
-whose name is unprintable. They called the variant BFF. Code and data lived on the same tape,
+00:03:56,700 --> 00:03:59,940
+written in a variant of a famously minimal programming language
 
 47
-00:04:07,260 --> 00:04:12,740
-so programs could read and overwrite themselves and each other. The procedure was simple. Pick
+00:03:59,940 --> 00:04:01,580
+whose name is unprintable.
 
 48
-00:04:12,740 --> 00:04:17,740
-two programs at random, glue them together, run the result, split it back into two halves,
+00:04:01,720 --> 00:04:03,440
+They called the variant BFF.
 
 49
-00:04:17,920 --> 00:04:22,680
-and return them to the soup. Repeat millions of times. There was no fitness function,
+00:04:03,880 --> 00:04:06,100
+Code and data lived on the same tape,
 
 50
-00:04:22,680 --> 00:04:28,780
-no reward, and no handwritten ancestor. For a long time, nothing much happened. Then,
+00:04:06,240 --> 00:04:09,380
+so programs could read and overwrite themselves and each other.
 
 51
-00:04:28,960 --> 00:04:34,660
-in about 40% of runs, there was a sudden transition. Self-replicating programs appeared,
+00:04:09,600 --> 00:04:10,960
+The procedure was simple.
 
 52
-00:04:34,940 --> 00:04:39,200
-spread, and took over the soup, and the measured complexity of the population jumped.
+00:04:11,280 --> 00:04:12,980
+Pick two programs at random,
 
 53
-00:04:39,660 --> 00:04:44,600
-It happened even with random mutations switched off, so the replicators were assembled through
+00:04:13,340 --> 00:04:14,000
+glue them together,
 
 54
-00:04:44,600 --> 00:04:49,540
-interaction and self-modification rather than found by luck in the initial noise.
+00:04:14,340 --> 00:04:15,000
+run the result,
 
 55
-00:04:50,260 --> 00:04:53,460
-Surely the instruction set is doing a lot of the work.
+00:04:15,300 --> 00:04:16,720
+split it back into two halves,
 
 56
-00:04:53,720 --> 00:04:56,100
-The authors tested exactly that.
+00:04:16,860 --> 00:04:18,120
+and return them to the soup.
 
 57
-00:04:56,620 --> 00:05:00,260
-Replicators also emerged in versions built on the fourth language
+00:04:18,440 --> 00:04:19,900
+Repeat millions of times.
 
 58
-00:05:00,260 --> 00:05:04,120
-and on the instruction set of the old Z80 microprocessor.
+00:04:20,160 --> 00:04:21,660
+There was no fitness function,
 
 59
-00:05:04,400 --> 00:05:08,560
-In a minimal language called Sublec, they never arose on their own,
+00:04:21,940 --> 00:04:22,660
+no reward,
 
 60
-00:05:08,680 --> 00:05:11,300
-though replicators planted by hand could spread.
+00:04:22,740 --> 00:04:24,240
+and no handwritten ancestor.
 
 61
-00:05:11,760 --> 00:05:13,140
-So the substrate matters.
+00:04:24,900 --> 00:04:26,840
+For a long time, nothing much happened.
 
 62
-00:05:13,400 --> 00:05:16,940
-What the experiment shows is that under fairly generic conditions,
+00:04:27,200 --> 00:04:30,980
+Then, in about 40% of runs, there was a sudden transition.
 
 63
-00:05:17,540 --> 00:05:23,860
-replication can arise without design, and once it arises, dominates. What it does not show is how
+00:04:31,440 --> 00:04:35,460
+Self-replicating programs appeared, spread, and took over the soup,
 
 64
-00:05:23,860 --> 00:05:31,260
-chemistry did it, or that the soup goes on evolving open-ended novelty. Aguera E. Arcus's reading is
+00:04:35,540 --> 00:04:38,180
+and the measured complexity of the population jumped.
 
 65
-00:05:31,260 --> 00:05:38,180
-that life is an attractor that computation falls into. The second step is merging. In the classic
+00:04:38,600 --> 00:04:41,460
+It happened even with random mutations switched off,
 
 66
-00:05:38,180 --> 00:05:45,460
-picture, complexity grows by small mutations filtered by competition. Aguera E. Arcus argues
+00:04:41,580 --> 00:04:45,480
+so the replicators were assembled through interaction and self-modification
 
 67
-00:05:47,280 --> 00:05:54,520
-symbiogenesis, the fusion of once-independent organisms. Around 1905 to 1910, the Russian
+00:04:45,480 --> 00:04:48,540
+rather than found by luck in the initial noise.
 
 68
-00:05:54,520 --> 00:06:00,800
-botanist Konstantin Marischkowski proposed that chloroplasts, the photosynthetic machinery in
+00:04:49,000 --> 00:04:52,440
+Surely the instruction set is doing a lot of the work.
 
 69
-00:06:00,800 --> 00:06:07,280
-plant cells, were once free-living bacteria. The idea was largely ignored until Lin Margiulis
+00:04:52,440 --> 00:04:55,080
+The authors tested exactly that.
 
 70
-00:06:07,280 --> 00:06:14,480
-revived and extended it in a 1967 paper, published under the name Lin Sagan and reportedly rejected
+00:04:55,540 --> 00:04:59,240
+Replicators also emerged in versions built on the fourth language
 
 71
-00:06:14,480 --> 00:06:21,340
-by about 15 journals first. Today, it's textbook biology. The mitochondria in your cells descend
+00:04:59,240 --> 00:05:03,100
+and on the instruction set of the old Z80 microprocessor.
 
 72
-00:06:21,340 --> 00:06:26,620
-from bacteria engulfed by an ancestral cell roughly 2 billion years ago, and they still
+00:05:03,460 --> 00:05:07,520
+In a minimal language called Sublec, they never arose on their own,
 
 73
-00:06:26,620 --> 00:06:34,020
-carry small genomes of their own. In 1995, John Maynard Smith and Irsh Satmari generalized the
+00:05:07,660 --> 00:05:10,300
+though replicators planted by hand could spread.
 
 74
-00:06:34,020 --> 00:06:39,620
-pattern in the major transitions in evolution, replicating molecules joining into chromosomes,
+00:05:10,640 --> 00:05:12,080
+So the substrate matters.
 
 75
-00:06:39,620 --> 00:06:45,360
-simple cells merging into complex ones, single cells forming multicellular bodies,
+00:05:12,360 --> 00:05:15,940
+What the experiment shows is that under fairly generic conditions,
 
 76
-00:06:45,940 --> 00:06:50,880
-solitary animals forming colonies, and human societies held together by language.
+00:05:16,500 --> 00:05:20,960
+replication can arise without design, and once it arises, dominates.
 
 77
-00:06:51,060 --> 00:06:54,920
-In each transition, entities that once reproduced independently
+00:05:22,440 --> 00:05:29,440
+is how chemistry did it, or that the soup goes on evolving open-ended novelty. Aguera E. Arcus's
 
 78
-00:06:54,920 --> 00:06:58,020
-come to reproduce only as parts of a larger whole.
+00:05:29,440 --> 00:05:35,900
+reading is that life is an attractor that computation falls into. The second step is merging.
 
 79
-00:06:58,920 --> 00:07:02,280
-Aguera E. Arcus reads the BFF soup the same way,
+00:05:36,260 --> 00:05:43,900
+In the classic picture, complexity grows by small mutations filtered by competition. Aguera E. Arcus
 
 80
-00:07:02,500 --> 00:07:05,420
-with replicators assembled from cooperating fragments,
+00:05:43,900 --> 00:05:49,220
+argues that the biggest leaps came from symbiogenesis, the fusion of once-independent
 
 81
-00:07:05,420 --> 00:07:10,320
-and he argues that humans and machine intelligence are entering such a transition now.
+00:05:49,220 --> 00:05:56,660
+organisms. Around 1905 to 1910, the Russian botanist Konstantin Marischkowski proposed that
 
 82
-00:07:10,680 --> 00:07:15,100
-That last claim is a prediction, and we'll meet a rival reading of it shortly.
+00:05:56,660 --> 00:06:02,480
+chloroplasts, the photosynthetic machinery in plant cells, were once free-living bacteria.
 
 83
-00:07:16,200 --> 00:07:21,200
-The third step is the one that turns life into prediction, and it runs through physics.
+00:06:02,820 --> 00:06:09,440
+The idea was largely ignored until Lin Margiulis revived and extended it in a 1967 paper,
 
 84
-00:07:21,460 --> 00:07:27,120
-In 1943, Erwin Schrödinger lectured in Dublin on a question he published as What is Life?
+00:06:09,680 --> 00:06:15,240
+published under the name Lin Sagan and reportedly rejected by about 15 journals first.
 
 85
-00:07:27,420 --> 00:07:31,220
-How do living things stay ordered against the second law of thermodynamics?
+00:06:15,880 --> 00:06:17,600
+Today it's textbook biology.
 
 86
-00:07:31,220 --> 00:07:38,420
-They feed, he said, on negative entropy, maintaining internal order by exporting disorder to their surroundings.
+00:06:18,100 --> 00:06:23,400
+The mitochondria in your cells descend from bacteria engulfed by an ancestral cell roughly
 
 87
-00:07:39,010 --> 00:07:47,920
-He also guessed that heredity must be stored in an aperiodic crystal, orderly but not repetitive, an idea that inspired both Crick and Watson.
+00:06:23,400 --> 00:06:27,320
+2 billion years ago, and they still carry small genomes of their own.
 
 88
-00:07:48,280 --> 00:07:50,680
-Here's the bridge I find most compelling.
+00:06:27,480 --> 00:06:34,560
+In 1995, John Maynard Smith and Irsh Satmari generalized the pattern in the major transitions
 
 89
-00:07:50,940 --> 00:07:59,440
-In 2012, Suzanne Still and colleagues proved a theorem about a broad class of systems driven by a fluctuating environment.
+00:06:34,560 --> 00:06:40,600
+in evolution, replicating molecules joining into chromosomes, simple cells merging into
 
 90
-00:08:01,220 --> 00:08:03,560
-inevitably retains information about the past.
+00:06:40,600 --> 00:06:46,860
+complex ones, single cells forming multicellular bodies, solitary animals forming colonies,
 
 91
-00:08:03,880 --> 00:08:06,640
-Some of that information helps predict the future.
+00:06:47,100 --> 00:06:53,300
+and human societies held together by language. In each transition, entities that once reproduced
 
 92
-00:08:06,860 --> 00:08:10,540
-The rest, which they called nostalgia, is useless for prediction,
+00:06:53,300 --> 00:07:00,340
+independently come to reproduce only as parts of a larger whole. Aguera E. Arcus reads the BFF
 
 93
-00:08:10,980 --> 00:08:15,820
-and the energy the system wastes as heat is proportional to how much of it the system keeps.
+00:07:00,340 --> 00:07:05,700
+soup the same way, with replicators assembled from cooperating fragments, and he argues that
 
 94
-00:08:16,340 --> 00:08:20,960
-In other words, a memory that does not predict is thermodynamically wasteful.
+00:07:05,700 --> 00:07:11,540
+humans and machine intelligence are entering such a transition now. That last claim is a prediction,
 
 95
-00:08:21,420 --> 00:08:26,420
-Efficiency and prediction are the same pressure, described in two vocabularies.
+00:07:11,540 --> 00:07:17,840
+and we'll meet a rival reading of it shortly. The third step is the one that turns life into
 
 96
-00:08:26,620 --> 00:08:28,920
-Which ties back to episode 3.
+00:07:17,840 --> 00:07:24,660
+prediction, and it runs through physics. In 1943, Erwin Schrödinger lectured in Dublin on a question
 
 97
-00:08:28,920 --> 00:08:34,920
-If good prediction is good compression, then life is under physical pressure to compress its world.
+00:07:24,660 --> 00:07:29,420
+he published as What is Life? How do living things stay ordered against the second law of
 
 98
-00:08:35,160 --> 00:08:40,040
-And that's exactly where one recent attempt to define life has run into trouble.
+00:07:29,420 --> 00:07:36,080
+thermodynamics. They feed, he said, on negative entropy, maintaining internal order by exporting
 
 99
-00:08:40,500 --> 00:08:47,020
-In a 2023 paper in Nature, Lee Cronin, Sarah Walker, and colleagues argued for assembly theory,
+00:07:36,080 --> 00:07:41,440
+disorder to their surroundings. He also guessed that heredity must be stored in an aperiodic
 
 100
-00:08:47,200 --> 00:08:51,480
-which scores an object by the minimum number of joining steps needed to build it,
+00:07:41,440 --> 00:07:48,260
+crystal, orderly but not repetitive, an idea that inspired both Crick and Watson. Here's the bridge
 
 101
-00:08:51,620 --> 00:08:56,760
-and treats complex objects found in many copies as a signature of selection and life.
+00:07:48,260 --> 00:07:54,980
+I find most compelling. In 2012, Suzanne Still and colleagues proved a theorem about a broad
 
 102
-00:08:56,760 --> 00:09:02,220
-Critics led by Hector Zaniel replied that the measure is essentially a weak form of compression,
+00:07:54,980 --> 00:08:01,060
+class of systems driven by a fluctuating environment. Such a system inevitably retains
 
 103
-00:09:02,700 --> 00:09:08,340
-a cousin of the algorithms behind zip files, and that it neither explains nor quantifies selection.
+00:08:01,060 --> 00:08:06,520
+information about the past. Some of that information helps predict the future. The rest,
 
 104
-00:09:08,860 --> 00:09:14,480
-The assembly theorists reject that comparison, and the argument continues. Either way,
+00:08:06,680 --> 00:08:11,740
+which they called nostalgia, is useless for prediction, and the energy the system wastes
 
 105
-00:09:14,680 --> 00:09:19,980
-it shows how quickly attempts to define life end up in the information theory of episode 3.
+00:08:11,740 --> 00:08:17,400
+as heat is proportional to how much of it the system keeps. In other words, a memory that does
 
 106
-00:09:20,360 --> 00:09:26,560
-One more definition matters for later. In the early 1970s, the Chilean biologists
+00:08:17,400 --> 00:08:23,120
+not predict is thermodynamically wasteful. Efficiency and prediction are the same pressure,
 
 107
-00:09:26,760 --> 00:09:33,420
-Humberto Maturana and Francisco Varela, defined a living system as autopoietic, self-producing,
+00:08:25,520 --> 00:08:33,880
+Which ties back to episode 3. If good prediction is good compression, then life is under physical pressure to compress its world.
 
 108
-00:09:33,680 --> 00:09:38,320
-a network of processes that continually makes the very components that make it up.
+00:08:33,880 --> 00:08:39,020
+And that's exactly where one recent attempt to define life has run into trouble.
 
 109
-00:09:38,540 --> 00:09:44,000
-Notice the difference from von Neumann. His replicator is defined by a description at copies.
+00:08:39,400 --> 00:08:46,000
+In a 2023 paper in Nature, Lee Cronin, Sarah Walker, and colleagues argued for assembly theory,
 
 110
-00:09:44,960 --> 00:09:50,200
-Autopoiesis is defined by a body that keeps rebuilding itself. That difference will become
+00:08:46,180 --> 00:08:50,460
+which scores an object by the minimum number of joining steps needed to build it,
 
 111
-00:09:50,200 --> 00:09:58,860
-the center of the skeptics case in episode 13. Now regulation. In 1943, Archero Rosenbluth,
+00:08:50,600 --> 00:08:55,740
+and treats complex objects found in many copies as a signature of selection and life.
 
 112
-00:09:59,060 --> 00:10:04,240
-Norbert Wiener, and Julian Bigelow published a short paper called Behavior, Purpose, and
+00:08:55,980 --> 00:09:01,200
+Critics led by Hector Zaniel replied that the measure is essentially a weak form of compression,
 
 113
-00:10:04,240 --> 00:10:10,420
-Teleology. Purposeful behavior, they proposed, is simply behavior controlled by negative feedback.
+00:09:01,200 --> 00:09:07,320
+a cousin of the algorithms behind zip files, and that it neither explains nor quantifies selection.
 
 114
-00:10:10,700 --> 00:10:15,640
-A thermostat that turns on the heat when the room gets cold is, in this minimal sense,
+00:09:07,800 --> 00:09:13,460
+The assembly theorists reject that comparison, and the argument continues. Either way,
 
 115
-00:10:15,640 --> 00:10:24,120
-pursuing a goal. Wiener named the field cybernetics in 1948. W. Ross Ashby added the law of requisite
+00:09:13,640 --> 00:09:18,960
+it shows how quickly attempts to define life end up in the information theory of episode 3.
 
 116
-00:10:24,120 --> 00:10:30,080
-variety. A regulator must be able to produce at least as much variety as the disturbances it is
+00:09:19,180 --> 00:09:26,100
+One more definition matters for later. In the early 1970s, the Chilean biologists Humberto
 
 117
-00:10:30,080 --> 00:10:36,200
-trying to cancel. In 1970, Roger Canant and Ashby published a theorem with a wonderful title,
+00:09:26,100 --> 00:09:33,440
+Maturana and Francisco Varela defined a living system as autopoietic, self-producing, a network
 
 118
-00:10:36,520 --> 00:10:42,160
-Every Good Regulator of a System Must Be a Model of That System. The careful statement is narrower
+00:09:33,440 --> 00:09:38,480
+of processes that continually makes the very components that make it up. Notice the difference
 
 119
-00:10:42,160 --> 00:10:48,060
-than the slogan. They showed that the simplest regulator achieving optimal results must map the
+00:09:38,480 --> 00:09:45,640
+from von Neumann. His replicator is defined by a description at Coppies. Autopoiesis is defined by
 
 120
-00:10:48,060 --> 00:10:54,260
-system's states onto its own, in effect mirroring it. The slogan, that every controller secretly
+00:09:45,640 --> 00:09:51,020
+a body that keeps rebuilding itself. That difference will become the center of the skeptic's case in
 
 121
-00:10:54,260 --> 00:11:00,140
-contains a world model, goes further than the proof. That's one justification for model-based
+00:09:51,020 --> 00:09:59,940
+episode 13. Now regulation. In 1943, Archer O. Rosenbluth, Norbert Wiener, and Julian Bidillo
 
 122
-00:11:00,140 --> 00:11:06,620
-reinforcement learning. If you want to control an environment well, learn a model of how it responds.
+00:09:59,940 --> 00:10:06,420
+published a short paper called Behavior, Purpose, and Teleology. Purposeful behavior, they proposed,
 
 123
-00:11:06,620 --> 00:11:13,380
-And in 2025, Jonathan Richens and colleagues gave the idea a modern, precise form.
+00:10:06,660 --> 00:10:11,600
+is simply behavior controlled by negative feedback. A thermostat that turns on the heat
 
 124
-00:11:13,640 --> 00:11:18,840
-They proved that any agent able to generalize across a wide enough range of multi-step,
+00:10:11,600 --> 00:10:17,540
+when the room gets cold is, in this minimal sense, pursuing a goal. Wiener named the field
 
 125
-00:11:19,100 --> 00:11:23,220
-goal-directed tasks must have learned a predictive model of its environment,
+00:10:17,540 --> 00:10:25,620
+cybernetics in 1948. W. Ross Ashby added the law of requisite variety. A regulator must be able to
 
 126
-00:11:23,850 --> 00:11:26,560
-one that can in principle be extracted from its behavior,
+00:10:25,620 --> 00:10:32,140
+produce at least as much variety as the disturbances it is trying to cancel. In 1970, Roger
 
 127
-00:11:26,860 --> 00:11:30,300
-and that more capable agents require more accurate models.
+00:10:32,140 --> 00:10:37,340
+Canant and Ashby published a theorem with a wonderful title, every good regulator of a system
 
 128
-00:11:30,540 --> 00:11:33,960
-That's the bridge Aguera e. Arcus' argument needs.
+00:10:37,340 --> 00:10:42,680
+must be a model of that system. The careful statement is narrower than the slogan. They
 
 129
-00:11:34,660 --> 00:11:38,980
-Survival requires regulation, flexible regulation requires a model,
+00:10:42,680 --> 00:10:50,120
+He showed that the simplest regulator achieving optimal results must map the system's states onto its own, in effect mirroring it.
 
 130
-00:11:39,220 --> 00:11:42,340
-and a model that runs ahead of the present is a predictor.
+00:10:50,320 --> 00:10:56,060
+The slogan, that every controller secretly contains a world model, goes further than the proof.
 
 131
-00:11:43,180 --> 00:11:46,400
-The fourth step, intelligence becomes social.
+00:10:56,300 --> 00:11:00,460
+That's one justification for model-based reinforcement learning.
 
 132
-00:11:46,860 --> 00:11:50,160
-Much of any animal's environment consists of other animals,
+00:11:00,680 --> 00:11:05,600
+If you want to control an environment well, learn a model of how it responds.
 
 133
-00:11:50,160 --> 00:11:53,820
-and the hardest things in the world to predict are other predictors.
+00:11:05,940 --> 00:11:12,400
+And in 2025, Jonathan Richens and colleagues gave the idea a modern, precise form.
 
 134
-00:11:54,060 --> 00:12:00,040
-In 1976, the psychologist Nicholas Humphrey published The Social Function of Intellect.
+00:11:12,680 --> 00:11:17,800
+They proved that any agent able to generalize across a wide enough range of multi-step,
 
 135
-00:12:00,500 --> 00:12:02,760
-His argument was that for many primates,
+00:11:18,060 --> 00:11:22,200
+goal-directed tasks must have learned a predictive model of its environment,
 
 136
-00:12:02,980 --> 00:12:06,080
-the practical problems of daily life are not that demanding,
+00:11:22,640 --> 00:11:25,540
+one that can in principle be extracted from its behavior,
 
 137
-00:12:06,320 --> 00:12:07,760
-but social life is.
+00:11:25,780 --> 00:11:29,280
+and that more capable agents require more accurate models.
 
 138
-00:12:08,380 --> 00:12:10,780
-Alliances, deception, reciprocity,
+00:11:29,620 --> 00:11:32,940
+That's the bridge Aguera e. Arcus's argument needs.
 
 139
-00:12:11,140 --> 00:12:12,560
-remembering who did what to whom.
+00:11:33,460 --> 00:11:37,980
+Survival requires regulation, flexible regulation requires a model,
 
 140
-00:12:12,920 --> 00:12:15,000
-Primate intelligence, he proposed,
+00:11:38,180 --> 00:11:41,320
+and a model that runs ahead of the present is a predictor.
 
 141
-00:12:15,460 --> 00:12:17,680
-evolved mainly to handle other primates.
+00:11:42,680 --> 00:11:45,360
+The fourth step, intelligence becomes social.
 
 142
-00:12:18,180 --> 00:12:20,800
-Richard Byrne and Andrew Whiten developed this
+00:11:45,760 --> 00:11:49,120
+Much of any animal's environment consists of other animals,
 
 143
-00:12:20,800 --> 00:12:23,260
-into the Machiavellian intelligence hypothesis,
+00:11:49,120 --> 00:11:52,780
+and the hardest things in the world to predict are other predictors.
 
 144
-00:12:23,760 --> 00:12:26,800
-and Robin Dunbar found that across primate species,
+00:11:52,980 --> 00:11:59,040
+In 1976, the psychologist Nicholas Humphrey published The Social Function of Intellect.
 
 145
-00:12:27,100 --> 00:12:29,380
-the relative size of the neocortex
+00:11:59,360 --> 00:12:01,720
+His argument was that for many primates,
 
 146
-00:12:30,040 --> 00:12:36,320
-typical social group size. Extrapolated to humans, it suggests a natural group of about 150,
+00:12:02,040 --> 00:12:06,740
+the practical problems of daily life are not that demanding, but social life is.
 
 147
-00:12:36,880 --> 00:12:43,680
-now called Dunbar's number. The correlation has been challenged too. A 2017 study of more than
+00:12:07,240 --> 00:12:11,520
+Alliances, deception, reciprocity, remembering who did what to whom.
 
 148
-00:12:43,680 --> 00:12:50,880
-140 primate species found that diet predicted brain size better than group size did. Aguera
+00:12:12,680 --> 00:12:16,660
+he proposed, evolved mainly to handle other primates.
 
 149
-00:12:50,880 --> 00:12:56,800
-e. archis turns this into an engine. If I predict you and you predict me, each of us gains by
+00:12:17,060 --> 00:12:22,220
+Richard Byrne and Andrew Whiten developed this into the Machiavellian intelligence hypothesis,
 
 150
-00:12:56,800 --> 00:13:02,420
-modeling the other's model, including the other's model of us. That recursive mutual modeling is an
+00:12:22,720 --> 00:12:25,780
+and Robin Dunbar found that across primate species,
 
 151
-00:13:02,420 --> 00:13:07,760
-arms race with no natural ceiling, and once a brain has machinery for modeling other minds,
+00:12:26,120 --> 00:12:30,580
+the relative size of the neocortex tracks typical social group size.
 
 152
-00:13:07,940 --> 00:13:13,700
-it can turn that machinery on itself. Self-awareness, on this view, is theory of mind
+00:12:30,900 --> 00:12:37,360
+Extrapolated to humans, it suggests a natural group of about 150, now called Dunbar's number.
 
 153
-00:13:13,700 --> 00:13:21,040
-pointed inward. The idea has a surprising ancestor. In a section added to the gay science in 1887,
+00:12:37,740 --> 00:12:40,060
+The correlation has been challenged, too.
 
 154
-00:13:21,680 --> 00:13:25,920
-Friedrich Nietzsche argued that consciousness developed only under the pressure of the need
+00:12:40,560 --> 00:12:44,540
+A 2017 study of more than 140 primate species
 
 155
-00:13:26,800 --> 00:13:31,280
-which is why, he said, it is the most superficial part of the mind.
+00:12:44,540 --> 00:12:48,740
+found that diet predicted brain size better than group size did.
 
 156
-00:13:31,560 --> 00:13:35,080
-You do not need his contempt to see the outline of modern theories,
+00:12:49,380 --> 00:12:51,760
+Aguera e. Arcus turns this into an engine.
 
 157
-00:13:35,340 --> 00:13:39,320
-including the attention schema theory we'll examine in episode 8.
+00:12:52,000 --> 00:12:54,240
+If I predict you and you predict me,
 
 158
-00:13:40,640 --> 00:13:45,500
-Aguera e. Arcus carries the continuum all the way to consciousness and free will,
+00:12:54,540 --> 00:12:57,040
+each of us gains by modeling the other's model,
 
 159
-00:13:45,720 --> 00:13:51,040
-through a relational, social account, though his confidence is greatest about intelligence.
+00:12:57,320 --> 00:12:58,960
+including the other's model of us.
 
 160
-00:13:51,300 --> 00:13:54,300
-We'll weigh his view of consciousness in episode 8,
+00:12:59,100 --> 00:13:03,340
+That recursive mutual modeling is an arms race with no natural ceiling.
 
 161
-00:13:54,300 --> 00:13:57,280
-and the fourth test below targets that last step.
+00:13:03,660 --> 00:13:06,720
+And once a brain has machinery for modeling other minds,
 
 162
-00:13:58,280 --> 00:14:01,920
-Now the test, because a theory this sweeping deserves pressure.
+00:13:06,920 --> 00:13:08,900
+it can turn that machinery on itself.
 
 163
-00:14:02,260 --> 00:14:04,840
-The first objection is pancomputationalism.
+00:13:10,120 --> 00:13:13,420
+On this view, is theory of mind pointed inward.
 
 164
-00:14:05,020 --> 00:14:10,040
-In 1988, Hilary Putnam argued that, under a suitably contrived mapping,
+00:13:13,740 --> 00:13:16,160
+The idea has a surprising ancestor.
 
 165
-00:14:10,460 --> 00:14:14,340
-any ordinary physical system implements any finite state automaton you like.
+00:13:16,500 --> 00:13:22,740
+In a section added to the Gay Science in 1887, Friedrich Nietzsche argued that consciousness
 
 166
-00:14:14,760 --> 00:14:16,480
-John Searle put it more memorably.
+00:13:22,740 --> 00:13:27,560
+developed only under the pressure of the need to communicate, which is why, he said,
 
 167
-00:14:16,720 --> 00:14:21,580
-The wall behind him, he said, could be described as running the word star word processor.
+00:13:27,880 --> 00:13:30,240
+it is the most superficial part of the mind.
 
 168
-00:14:21,580 --> 00:14:29,120
-If computation is that cheap, then life is computation and minds are computation become trivially true and say nothing.
+00:13:30,580 --> 00:13:35,460
+You do not need his contempt to see the outline of modern theories, including the attention
 
 169
-00:14:29,460 --> 00:14:31,460
-That always struck me as a trick.
+00:13:35,460 --> 00:13:38,280
+schema theory we'll examine in episode 8.
 
 170
-00:14:31,780 --> 00:14:36,480
-The mapping is invented after the fact, state by state, and it predicts nothing.
+00:13:40,060 --> 00:13:45,880
+E. Arcus carries the continuum all the way to consciousness and free will, through a relational,
 
 171
-00:14:37,000 --> 00:14:39,580
-That's essentially David Chalmers' reply.
+00:13:46,260 --> 00:13:51,700
+social account, though his confidence is greatest about intelligence. We'll weigh his view of
 
 172
-00:14:39,860 --> 00:14:46,200
-In 1996, he published a paper asking whether a rock implements every finite state automaton.
+00:13:51,700 --> 00:13:58,420
+consciousness in episode 8, and the fourth test below targets that last step. Now the test,
 
 173
-00:14:46,960 --> 00:14:51,760
-Real implementation, he argued, requires the right counterfactual structure.
+00:13:58,600 --> 00:14:03,820
+because a theory this sweeping deserves pressure. The first objection is pancomputationalism.
 
 174
-00:14:51,980 --> 00:14:55,980
-The physical system must be disposed to follow the computation's transitions,
+00:14:04,200 --> 00:14:09,000
+In 1988, Hillary Putnam argued that, under a suitably contrived mapping,
 
 175
-00:14:56,340 --> 00:15:01,380
-including in situations that never actually occur, and it must respond to inputs.
+00:14:09,440 --> 00:14:13,300
+any ordinary physical system implements any finite-state automaton you like.
 
 176
-00:15:01,680 --> 00:15:04,720
-A wall has no such dispositions for word star.
+00:14:13,740 --> 00:14:15,460
+John Searle put it more memorably.
 
 177
-00:15:05,020 --> 00:15:10,140
-On that stricter notion, saying a cell computes is a substantive and testable claim,
+00:14:15,680 --> 00:14:20,560
+The wall behind him, he said, could be described as running the word-star word processor.
 
 178
-00:15:10,300 --> 00:15:12,880
-and a cell copying its DNA passes it.
+00:14:20,840 --> 00:14:28,100
+If computation is that cheap, then life is computation and minds are computation become trivially true and say nothing.
 
 179
-00:15:13,320 --> 00:15:14,400
-The wall does not.
+00:14:28,420 --> 00:14:30,460
+That always struck me as a trick.
 
 180
-00:15:16,200 --> 00:15:21,760
-about purpose. The cybernetic slogan that the purpose of a system is what it does makes every
+00:14:30,460 --> 00:14:35,460
+The mapping is invented after the fact, state by state, and it predicts nothing.
 
 181
-00:15:21,760 --> 00:15:27,420
-effect a purpose, so the purpose of the heart would include making thumping noises. Philosophers
+00:14:35,840 --> 00:14:38,580
+That's essentially David Chalmers' reply.
 
 182
-00:15:27,420 --> 00:15:32,720
-of biology like Ruth Milliken distinguish an effect from a function, an effect that explains
+00:14:38,840 --> 00:14:45,180
+In 1996, he published a paper asking whether a rock implements every finite-state automaton.
 
 183
-00:15:32,720 --> 00:15:39,060
-why the trait was selected. The evolutionary story can supply that distinction. The slogan alone
+00:14:45,780 --> 00:14:50,720
+Real implementation, he argued, requires the right counterfactual structure.
 
 184
-00:15:39,060 --> 00:15:44,680
-cannot. The third objection targets the claim that language models mark a new major transition
+00:14:50,940 --> 00:14:54,960
+The physical system must be disposed to follow the computation's transitions,
 
 185
-00:15:46,200 --> 00:15:53,700
-In 2025, Henry Farrell, Alison Gopnik, Cosma Shalizi, and James Evans argued in science that
+00:14:55,320 --> 00:15:00,340
+including in situations that never actually occur, and it must respond to inputs.
 
 186
-00:15:53,700 --> 00:15:59,420
-large models are better understood as cultural and social technologies, like writing, print,
+00:15:00,460 --> 00:15:03,700
+A wall has no such dispositions for word star.
 
 187
-00:15:59,740 --> 00:16:05,720
-markets, and bureaucracies. On their view, these models are powerful new ways for humans to store,
+00:15:04,000 --> 00:15:09,100
+On that stricter notion, saying a cell computes is a substantive and testable claim,
 
 188
-00:16:06,080 --> 00:16:11,320
-access, and recombine what other humans have produced, rather than new agents in their own
+00:15:09,280 --> 00:15:11,840
+and a cell copying its DNA passes it.
 
 189
-00:16:11,320 --> 00:16:17,060
-right. That reading can grant that these systems are superb predictors, while denying that a new
+00:15:12,180 --> 00:15:13,360
+The wall does not.
 
 190
-00:16:17,060 --> 00:16:22,040
-kind of mind has appeared. And the fourth objection is the one that matters most for this series,
+00:15:13,600 --> 00:15:15,880
+The second objection is about purpose.
 
 191
-00:16:22,460 --> 00:16:27,760
-the slide from intelligence to consciousness. The first steps of the argument, that life
+00:15:16,200 --> 00:15:21,560
+The cybernetic slogan that the purpose of a system is what it does makes every effect a purpose,
 
 192
-00:16:27,760 --> 00:16:33,940
-involves computation, that intelligence is largely prediction, and that minds were shaped by social
+00:15:21,940 --> 00:15:24,900
+so the purpose of the heart would include making thumping noises.
 
 193
-00:16:33,940 --> 00:16:40,360
-modeling, all have serious defenders, though each is contested. The final step, that a system with
+00:15:25,800 --> 00:15:30,120
+Philosophers of biology like Ruth Milliken distinguish an effect from a function,
 
 194
-00:16:41,320 --> 00:16:46,940
-and social modeling thereby has experience is exactly what biological naturalists and
+00:15:30,460 --> 00:15:33,080
+an effect that explains why the trait was selected.
 
 195
-00:16:46,940 --> 00:16:54,220
-integrated information theory deny, as we'll see in Episodes 9 and 13. Aguera E. Arcus's relational
+00:15:33,440 --> 00:15:36,440
+The evolutionary story can supply that distinction.
 
 196
-00:16:54,220 --> 00:17:00,600
-view is a coherent answer, but it's one that a dualist, a pansychist, or anil seth would reject
+00:15:36,880 --> 00:15:38,500
+The slogan alone cannot.
 
 197
-00:17:00,600 --> 00:17:08,260
-at the root. So how much of the continuum survives the tests? Most of the first three steps. The
+00:15:38,900 --> 00:15:41,080
+The third objection targets the claim
 
 198
-00:17:08,260 --> 00:17:14,320
-computational view of life is more than a metaphor. Von Neumann's architecture closely parallels how
+00:15:41,080 --> 00:15:43,640
+that language models mark a new major transition
 
 199
-00:17:14,320 --> 00:17:20,280
-cells reproduce, and the BFF soup shows that replication can emerge from computation plus
+00:15:43,640 --> 00:15:44,400
+in intelligence.
 
 200
-00:17:20,280 --> 00:17:26,600
-interaction without design. Regulation requires modeling, and physics penalizes memories that do
+00:15:44,760 --> 00:15:48,660
+In 2025, Henry Farrell, Alison Gopnik,
 
 201
-00:17:26,600 --> 00:17:32,300
-not predict, so prediction sits at the heart of anything that keeps itself going. And the hardest
+00:15:49,240 --> 00:15:52,420
+Cosma Shalizzi, and James Evans argued in science
 
 202
-00:17:32,300 --> 00:17:38,100
-prediction problem many animals face is other animals, which may be why intelligence, and
+00:15:52,420 --> 00:15:54,480
+that large models are better understood
 
 203
-00:17:38,260 --> 00:17:40,060
-Perhaps the self has social roots.
+00:15:54,480 --> 00:15:56,420
+as cultural and social technologies,
 
 204
-00:17:40,340 --> 00:17:43,980
-What the view does not settle and cannot settle on its own terms
+00:15:56,820 --> 00:16:00,180
+like writing, print, markets, and bureaucracies.
 
 205
-00:17:43,980 --> 00:17:46,440
-is whether any of this computation is felt.
+00:16:00,460 --> 00:16:10,560
+On their view, these models are powerful new ways for humans to store, access, and recombine what other humans have produced, rather than new agents in their own right.
 
 206
-00:17:46,720 --> 00:17:48,340
-That's for the rest of the series.
+00:16:10,880 --> 00:16:17,160
+That reading can grant that these systems are superb predictors, while denying that a new kind of mind has appeared.
 
 207
-00:17:48,740 --> 00:17:52,240
-First, we follow prediction into the organ that does it best.
+00:16:17,420 --> 00:16:23,860
+And the fourth objection is the one that matters most for this series, the slide from intelligence to consciousness.
 
 208
-00:17:52,600 --> 00:17:54,940
-Next episode, the predictive brain.
+00:16:24,400 --> 00:16:27,840
+The first steps of the argument that life involves computation,
+
+209
+00:16:28,280 --> 00:16:30,500
+that intelligence is largely prediction,
+
+210
+00:16:30,780 --> 00:16:33,260
+and that minds were shaped by social modeling,
+
+211
+00:16:33,580 --> 00:16:37,020
+all have serious defenders, though each is contested.
+
+212
+00:16:37,220 --> 00:16:42,500
+The final step, that a system with the right predictive and social modeling thereby has experience,
+
+213
+00:16:42,860 --> 00:16:47,700
+is exactly what biological naturalists and integrated information theory deny,
+
+214
+00:16:48,020 --> 00:16:50,460
+as we'll see in episodes 9 and 13.
+
+215
+00:16:51,340 --> 00:16:54,860
+Aguera e. Arcus's relational view is a coherent answer,
+
+216
+00:16:55,060 --> 00:17:00,020
+but it's one that a dualist, a pansychist, or anil seth would reject at the root.
+
+217
+00:17:01,280 --> 00:17:04,200
+So how much of the continuum survives the tests?
+
+218
+00:17:04,580 --> 00:17:06,540
+Most of the first three steps.
+
+219
+00:17:06,740 --> 00:17:09,900
+The computational view of life is more than a metaphor.
+
+220
+00:17:10,440 --> 00:17:14,120
+Von Neumann's architecture closely parallels how cells reproduce,
+
+221
+00:17:14,120 --> 00:17:18,540
+and the BFF soup shows that replication can emerge from computation
+
+222
+00:17:20,760 --> 00:17:26,200
+design. Regulation requires modeling, and physics penalizes memories that do not predict,
+
+223
+00:17:26,440 --> 00:17:31,720
+so prediction sits at the heart of anything that keeps itself going. And the hardest prediction
+
+224
+00:17:31,720 --> 00:17:37,960
+problem many animals face is other animals, which may be why intelligence, and perhaps the self,
+
+225
+00:17:38,120 --> 00:17:42,960
+has social roots. What the view does not settle, and cannot settle on its own terms,
+
+226
+00:17:43,160 --> 00:17:48,280
+is whether any of this computation is felt. That's for the rest of the series. First,
+
+227
+00:17:48,280 --> 00:17:51,220
+First, we follow prediction into the organ that does it best.
+
+228
+00:17:51,560 --> 00:17:53,920
+Next episode, The Predictive Brain.
 

@@ -1,4 +1,4 @@
-This is Doing and Feeling, the long version. Episode 4, Life as Computation. In 1948, at a symposium in Pasadena, the mathematician John von Neumann asked a question that sounds like an engineering puzzle and turns out to be a question about life.
+This is Doing and Feeling, Episode 4, Life as Computation. In 1948, at a symposium in Pasadena, the mathematician John von Neumann asked a question that sounds like an engineering puzzle and turns out to be a question about life.
 Could a machine build a copy of itself?
 The difficulty is a regress.
 To build a copy, the machine needs a description of itself.
@@ -42,16 +42,29 @@ first arose. So the idea is old. But in Tiara, the first replicator was written 
 and Avidor rewards programs for doing useful logic. That's what makes a 2024 experiment by
 Aguera E. Arcus and colleagues at Google, including Ben Lory and Alexander Mordvincev.
 So striking. They built a primordial soup of about 130,000 random programs,
-each 64 bytes long, written in a variant of a famously minimal programming language
-whose name is unprintable. They called the variant BFF. Code and data lived on the same tape,
-so programs could read and overwrite themselves and each other. The procedure was simple. Pick
-two programs at random, glue them together, run the result, split it back into two halves,
-and return them to the soup. Repeat millions of times. There was no fitness function,
-no reward, and no handwritten ancestor. For a long time, nothing much happened. Then,
-in about 40% of runs, there was a sudden transition. Self-replicating programs appeared,
-spread, and took over the soup, and the measured complexity of the population jumped.
-It happened even with random mutations switched off, so the replicators were assembled through
-interaction and self-modification rather than found by luck in the initial noise.
+each 64 bytes long,
+written in a variant of a famously minimal programming language
+whose name is unprintable.
+They called the variant BFF.
+Code and data lived on the same tape,
+so programs could read and overwrite themselves and each other.
+The procedure was simple.
+Pick two programs at random,
+glue them together,
+run the result,
+split it back into two halves,
+and return them to the soup.
+Repeat millions of times.
+There was no fitness function,
+no reward,
+and no handwritten ancestor.
+For a long time, nothing much happened.
+Then, in about 40% of runs, there was a sudden transition.
+Self-replicating programs appeared, spread, and took over the soup,
+and the measured complexity of the population jumped.
+It happened even with random mutations switched off,
+so the replicators were assembled through interaction and self-modification
+rather than found by luck in the initial noise.
 Surely the instruction set is doing a lot of the work.
 The authors tested exactly that.
 Replicators also emerged in versions built on the fourth language
@@ -60,41 +73,38 @@ In a minimal language called Sublec, they never arose on their own,
 though replicators planted by hand could spread.
 So the substrate matters.
 What the experiment shows is that under fairly generic conditions,
-replication can arise without design, and once it arises, dominates. What it does not show is how
-chemistry did it, or that the soup goes on evolving open-ended novelty. Aguera E. Arcus's reading is
-that life is an attractor that computation falls into. The second step is merging. In the classic
-picture, complexity grows by small mutations filtered by competition. Aguera E. Arcus argues
-symbiogenesis, the fusion of once-independent organisms. Around 1905 to 1910, the Russian
-botanist Konstantin Marischkowski proposed that chloroplasts, the photosynthetic machinery in
-plant cells, were once free-living bacteria. The idea was largely ignored until Lin Margiulis
-revived and extended it in a 1967 paper, published under the name Lin Sagan and reportedly rejected
-by about 15 journals first. Today, it's textbook biology. The mitochondria in your cells descend
-from bacteria engulfed by an ancestral cell roughly 2 billion years ago, and they still
-carry small genomes of their own. In 1995, John Maynard Smith and Irsh Satmari generalized the
-pattern in the major transitions in evolution, replicating molecules joining into chromosomes,
-simple cells merging into complex ones, single cells forming multicellular bodies,
-solitary animals forming colonies, and human societies held together by language.
-In each transition, entities that once reproduced independently
-come to reproduce only as parts of a larger whole.
-Aguera E. Arcus reads the BFF soup the same way,
-with replicators assembled from cooperating fragments,
-and he argues that humans and machine intelligence are entering such a transition now.
-That last claim is a prediction, and we'll meet a rival reading of it shortly.
-The third step is the one that turns life into prediction, and it runs through physics.
-In 1943, Erwin Schrödinger lectured in Dublin on a question he published as What is Life?
-How do living things stay ordered against the second law of thermodynamics?
-They feed, he said, on negative entropy, maintaining internal order by exporting disorder to their surroundings.
-He also guessed that heredity must be stored in an aperiodic crystal, orderly but not repetitive, an idea that inspired both Crick and Watson.
-Here's the bridge I find most compelling.
-In 2012, Suzanne Still and colleagues proved a theorem about a broad class of systems driven by a fluctuating environment.
-inevitably retains information about the past.
-Some of that information helps predict the future.
-The rest, which they called nostalgia, is useless for prediction,
-and the energy the system wastes as heat is proportional to how much of it the system keeps.
-In other words, a memory that does not predict is thermodynamically wasteful.
-Efficiency and prediction are the same pressure, described in two vocabularies.
-Which ties back to episode 3.
-If good prediction is good compression, then life is under physical pressure to compress its world.
+replication can arise without design, and once it arises, dominates.
+is how chemistry did it, or that the soup goes on evolving open-ended novelty. Aguera E. Arcus's
+reading is that life is an attractor that computation falls into. The second step is merging.
+In the classic picture, complexity grows by small mutations filtered by competition. Aguera E. Arcus
+argues that the biggest leaps came from symbiogenesis, the fusion of once-independent
+organisms. Around 1905 to 1910, the Russian botanist Konstantin Marischkowski proposed that
+chloroplasts, the photosynthetic machinery in plant cells, were once free-living bacteria.
+The idea was largely ignored until Lin Margiulis revived and extended it in a 1967 paper,
+published under the name Lin Sagan and reportedly rejected by about 15 journals first.
+Today it's textbook biology.
+The mitochondria in your cells descend from bacteria engulfed by an ancestral cell roughly
+2 billion years ago, and they still carry small genomes of their own.
+In 1995, John Maynard Smith and Irsh Satmari generalized the pattern in the major transitions
+in evolution, replicating molecules joining into chromosomes, simple cells merging into
+complex ones, single cells forming multicellular bodies, solitary animals forming colonies,
+and human societies held together by language. In each transition, entities that once reproduced
+independently come to reproduce only as parts of a larger whole. Aguera E. Arcus reads the BFF
+soup the same way, with replicators assembled from cooperating fragments, and he argues that
+humans and machine intelligence are entering such a transition now. That last claim is a prediction,
+and we'll meet a rival reading of it shortly. The third step is the one that turns life into
+prediction, and it runs through physics. In 1943, Erwin Schrödinger lectured in Dublin on a question
+he published as What is Life? How do living things stay ordered against the second law of
+thermodynamics. They feed, he said, on negative entropy, maintaining internal order by exporting
+disorder to their surroundings. He also guessed that heredity must be stored in an aperiodic
+crystal, orderly but not repetitive, an idea that inspired both Crick and Watson. Here's the bridge
+I find most compelling. In 2012, Suzanne Still and colleagues proved a theorem about a broad
+class of systems driven by a fluctuating environment. Such a system inevitably retains
+information about the past. Some of that information helps predict the future. The rest,
+which they called nostalgia, is useless for prediction, and the energy the system wastes
+as heat is proportional to how much of it the system keeps. In other words, a memory that does
+not predict is thermodynamically wasteful. Efficiency and prediction are the same pressure,
+Which ties back to episode 3. If good prediction is good compression, then life is under physical pressure to compress its world.
 And that's exactly where one recent attempt to define life has run into trouble.
 In a 2023 paper in Nature, Lee Cronin, Sarah Walker, and colleagues argued for assembly theory,
 which scores an object by the minimum number of joining steps needed to build it,
@@ -103,29 +113,29 @@ Critics led by Hector Zaniel replied that the measure is essentially a weak form
 a cousin of the algorithms behind zip files, and that it neither explains nor quantifies selection.
 The assembly theorists reject that comparison, and the argument continues. Either way,
 it shows how quickly attempts to define life end up in the information theory of episode 3.
-One more definition matters for later. In the early 1970s, the Chilean biologists
-Humberto Maturana and Francisco Varela, defined a living system as autopoietic, self-producing,
-a network of processes that continually makes the very components that make it up.
-Notice the difference from von Neumann. His replicator is defined by a description at copies.
-Autopoiesis is defined by a body that keeps rebuilding itself. That difference will become
-the center of the skeptics case in episode 13. Now regulation. In 1943, Archero Rosenbluth,
-Norbert Wiener, and Julian Bigelow published a short paper called Behavior, Purpose, and
-Teleology. Purposeful behavior, they proposed, is simply behavior controlled by negative feedback.
-A thermostat that turns on the heat when the room gets cold is, in this minimal sense,
-pursuing a goal. Wiener named the field cybernetics in 1948. W. Ross Ashby added the law of requisite
-variety. A regulator must be able to produce at least as much variety as the disturbances it is
-trying to cancel. In 1970, Roger Canant and Ashby published a theorem with a wonderful title,
-Every Good Regulator of a System Must Be a Model of That System. The careful statement is narrower
-than the slogan. They showed that the simplest regulator achieving optimal results must map the
-system's states onto its own, in effect mirroring it. The slogan, that every controller secretly
-contains a world model, goes further than the proof. That's one justification for model-based
-reinforcement learning. If you want to control an environment well, learn a model of how it responds.
+One more definition matters for later. In the early 1970s, the Chilean biologists Humberto
+Maturana and Francisco Varela defined a living system as autopoietic, self-producing, a network
+of processes that continually makes the very components that make it up. Notice the difference
+from von Neumann. His replicator is defined by a description at Coppies. Autopoiesis is defined by
+a body that keeps rebuilding itself. That difference will become the center of the skeptic's case in
+episode 13. Now regulation. In 1943, Archer O. Rosenbluth, Norbert Wiener, and Julian Bidillo
+published a short paper called Behavior, Purpose, and Teleology. Purposeful behavior, they proposed,
+is simply behavior controlled by negative feedback. A thermostat that turns on the heat
+when the room gets cold is, in this minimal sense, pursuing a goal. Wiener named the field
+cybernetics in 1948. W. Ross Ashby added the law of requisite variety. A regulator must be able to
+produce at least as much variety as the disturbances it is trying to cancel. In 1970, Roger
+Canant and Ashby published a theorem with a wonderful title, every good regulator of a system
+must be a model of that system. The careful statement is narrower than the slogan. They
+He showed that the simplest regulator achieving optimal results must map the system's states onto its own, in effect mirroring it.
+The slogan, that every controller secretly contains a world model, goes further than the proof.
+That's one justification for model-based reinforcement learning.
+If you want to control an environment well, learn a model of how it responds.
 And in 2025, Jonathan Richens and colleagues gave the idea a modern, precise form.
 They proved that any agent able to generalize across a wide enough range of multi-step,
 goal-directed tasks must have learned a predictive model of its environment,
 one that can in principle be extracted from its behavior,
 and that more capable agents require more accurate models.
-That's the bridge Aguera e. Arcus' argument needs.
+That's the bridge Aguera e. Arcus's argument needs.
 Survival requires regulation, flexible regulation requires a model,
 and a model that runs ahead of the present is a predictor.
 The fourth step, intelligence becomes social.
@@ -133,43 +143,43 @@ Much of any animal's environment consists of other animals,
 and the hardest things in the world to predict are other predictors.
 In 1976, the psychologist Nicholas Humphrey published The Social Function of Intellect.
 His argument was that for many primates,
-the practical problems of daily life are not that demanding,
-but social life is.
-Alliances, deception, reciprocity,
-remembering who did what to whom.
-Primate intelligence, he proposed,
-evolved mainly to handle other primates.
-Richard Byrne and Andrew Whiten developed this
-into the Machiavellian intelligence hypothesis,
+the practical problems of daily life are not that demanding, but social life is.
+Alliances, deception, reciprocity, remembering who did what to whom.
+he proposed, evolved mainly to handle other primates.
+Richard Byrne and Andrew Whiten developed this into the Machiavellian intelligence hypothesis,
 and Robin Dunbar found that across primate species,
-the relative size of the neocortex
-typical social group size. Extrapolated to humans, it suggests a natural group of about 150,
-now called Dunbar's number. The correlation has been challenged too. A 2017 study of more than
-140 primate species found that diet predicted brain size better than group size did. Aguera
-e. archis turns this into an engine. If I predict you and you predict me, each of us gains by
-modeling the other's model, including the other's model of us. That recursive mutual modeling is an
-arms race with no natural ceiling, and once a brain has machinery for modeling other minds,
-it can turn that machinery on itself. Self-awareness, on this view, is theory of mind
-pointed inward. The idea has a surprising ancestor. In a section added to the gay science in 1887,
-Friedrich Nietzsche argued that consciousness developed only under the pressure of the need
-which is why, he said, it is the most superficial part of the mind.
-You do not need his contempt to see the outline of modern theories,
-including the attention schema theory we'll examine in episode 8.
-Aguera e. Arcus carries the continuum all the way to consciousness and free will,
-through a relational, social account, though his confidence is greatest about intelligence.
-We'll weigh his view of consciousness in episode 8,
-and the fourth test below targets that last step.
-Now the test, because a theory this sweeping deserves pressure.
-The first objection is pancomputationalism.
-In 1988, Hilary Putnam argued that, under a suitably contrived mapping,
-any ordinary physical system implements any finite state automaton you like.
+the relative size of the neocortex tracks typical social group size.
+Extrapolated to humans, it suggests a natural group of about 150, now called Dunbar's number.
+The correlation has been challenged, too.
+A 2017 study of more than 140 primate species
+found that diet predicted brain size better than group size did.
+Aguera e. Arcus turns this into an engine.
+If I predict you and you predict me,
+each of us gains by modeling the other's model,
+including the other's model of us.
+That recursive mutual modeling is an arms race with no natural ceiling.
+And once a brain has machinery for modeling other minds,
+it can turn that machinery on itself.
+On this view, is theory of mind pointed inward.
+The idea has a surprising ancestor.
+In a section added to the Gay Science in 1887, Friedrich Nietzsche argued that consciousness
+developed only under the pressure of the need to communicate, which is why, he said,
+it is the most superficial part of the mind.
+You do not need his contempt to see the outline of modern theories, including the attention
+schema theory we'll examine in episode 8.
+E. Arcus carries the continuum all the way to consciousness and free will, through a relational,
+social account, though his confidence is greatest about intelligence. We'll weigh his view of
+consciousness in episode 8, and the fourth test below targets that last step. Now the test,
+because a theory this sweeping deserves pressure. The first objection is pancomputationalism.
+In 1988, Hillary Putnam argued that, under a suitably contrived mapping,
+any ordinary physical system implements any finite-state automaton you like.
 John Searle put it more memorably.
-The wall behind him, he said, could be described as running the word star word processor.
+The wall behind him, he said, could be described as running the word-star word processor.
 If computation is that cheap, then life is computation and minds are computation become trivially true and say nothing.
 That always struck me as a trick.
 The mapping is invented after the fact, state by state, and it predicts nothing.
 That's essentially David Chalmers' reply.
-In 1996, he published a paper asking whether a rock implements every finite state automaton.
+In 1996, he published a paper asking whether a rock implements every finite-state automaton.
 Real implementation, he argued, requires the right counterfactual structure.
 The physical system must be disposed to follow the computation's transitions,
 including in situations that never actually occur, and it must respond to inputs.
@@ -177,32 +187,42 @@ A wall has no such dispositions for word star.
 On that stricter notion, saying a cell computes is a substantive and testable claim,
 and a cell copying its DNA passes it.
 The wall does not.
-about purpose. The cybernetic slogan that the purpose of a system is what it does makes every
-effect a purpose, so the purpose of the heart would include making thumping noises. Philosophers
-of biology like Ruth Milliken distinguish an effect from a function, an effect that explains
-why the trait was selected. The evolutionary story can supply that distinction. The slogan alone
-cannot. The third objection targets the claim that language models mark a new major transition
-In 2025, Henry Farrell, Alison Gopnik, Cosma Shalizi, and James Evans argued in science that
-large models are better understood as cultural and social technologies, like writing, print,
-markets, and bureaucracies. On their view, these models are powerful new ways for humans to store,
-access, and recombine what other humans have produced, rather than new agents in their own
-right. That reading can grant that these systems are superb predictors, while denying that a new
-kind of mind has appeared. And the fourth objection is the one that matters most for this series,
-the slide from intelligence to consciousness. The first steps of the argument, that life
-involves computation, that intelligence is largely prediction, and that minds were shaped by social
-modeling, all have serious defenders, though each is contested. The final step, that a system with
-and social modeling thereby has experience is exactly what biological naturalists and
-integrated information theory deny, as we'll see in Episodes 9 and 13. Aguera E. Arcus's relational
-view is a coherent answer, but it's one that a dualist, a pansychist, or anil seth would reject
-at the root. So how much of the continuum survives the tests? Most of the first three steps. The
-computational view of life is more than a metaphor. Von Neumann's architecture closely parallels how
-cells reproduce, and the BFF soup shows that replication can emerge from computation plus
-interaction without design. Regulation requires modeling, and physics penalizes memories that do
-not predict, so prediction sits at the heart of anything that keeps itself going. And the hardest
-prediction problem many animals face is other animals, which may be why intelligence, and
-Perhaps the self has social roots.
-What the view does not settle and cannot settle on its own terms
-is whether any of this computation is felt.
-That's for the rest of the series.
+The second objection is about purpose.
+The cybernetic slogan that the purpose of a system is what it does makes every effect a purpose,
+so the purpose of the heart would include making thumping noises.
+Philosophers of biology like Ruth Milliken distinguish an effect from a function,
+an effect that explains why the trait was selected.
+The evolutionary story can supply that distinction.
+The slogan alone cannot.
+The third objection targets the claim
+that language models mark a new major transition
+in intelligence.
+In 2025, Henry Farrell, Alison Gopnik,
+Cosma Shalizzi, and James Evans argued in science
+that large models are better understood
+as cultural and social technologies,
+like writing, print, markets, and bureaucracies.
+On their view, these models are powerful new ways for humans to store, access, and recombine what other humans have produced, rather than new agents in their own right.
+That reading can grant that these systems are superb predictors, while denying that a new kind of mind has appeared.
+And the fourth objection is the one that matters most for this series, the slide from intelligence to consciousness.
+The first steps of the argument that life involves computation,
+that intelligence is largely prediction,
+and that minds were shaped by social modeling,
+all have serious defenders, though each is contested.
+The final step, that a system with the right predictive and social modeling thereby has experience,
+is exactly what biological naturalists and integrated information theory deny,
+as we'll see in episodes 9 and 13.
+Aguera e. Arcus's relational view is a coherent answer,
+but it's one that a dualist, a pansychist, or anil seth would reject at the root.
+So how much of the continuum survives the tests?
+Most of the first three steps.
+The computational view of life is more than a metaphor.
+Von Neumann's architecture closely parallels how cells reproduce,
+and the BFF soup shows that replication can emerge from computation
+design. Regulation requires modeling, and physics penalizes memories that do not predict,
+so prediction sits at the heart of anything that keeps itself going. And the hardest prediction
+problem many animals face is other animals, which may be why intelligence, and perhaps the self,
+has social roots. What the view does not settle, and cannot settle on its own terms,
+is whether any of this computation is felt. That's for the rest of the series. First,
 First, we follow prediction into the organ that does it best.
-Next episode, the predictive brain.
+Next episode, The Predictive Brain.

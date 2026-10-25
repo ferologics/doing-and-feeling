@@ -2,7 +2,9 @@ TITLE:
 Life as Computation: from self-copying code to social minds | Doing and Feeling 4/14
 
 DESCRIPTION:
-Doing and Feeling: Intelligence and Consciousness in Depth, episode 4 of 14. The strongest case that life, intelligence and computation form one continuum, built on Blaise Aguera y Arcas's What Is Intelligence?: self-copying code, symbiogenesis, the physics of prediction, regulation and social minds. Then the case is tested against the objection that, on a loose enough definition, everything computes.
+Doing and Feeling: Intelligence and Consciousness in Depth, episode 4 of 14.
+
+The strongest case that life, intelligence and computation form one continuum, built on Blaise Aguera y Arcas's What Is Intelligence?: self-copying code, symbiogenesis, the physics of prediction, regulation and social minds. Then the case is tested against the objection that, on a loose enough definition, everything computes.
 
 Key sources:
 - Aguera y Arcas, What Is Intelligence? (free online): https://whatisintelligence.antikythera.org/
@@ -22,7 +24,7 @@ TAGS:
 artificial life, origin of life, computation, symbiogenesis, cybernetics, free energy, social brain, What Is Intelligence, Blaise Aguera y Arcas, intelligence, Doing and Feeling, AI-narrated podcast
 
 CHAPTERS:
-This is Doing and Feeling | Von Neumann's question
+This is Doing and Feeling. | Von Neumann's question
 This episode makes the strongest | The claim
 Start with replicators. Von Neumann | Step one: replicators
 The second step is merging. | Step two: merging

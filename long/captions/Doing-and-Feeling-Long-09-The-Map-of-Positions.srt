@@ -1,1981 +1,1980 @@
 1
-00:00:00,000 --> 00:00:02,800
-This is Doing and
-Feeling, the long version.
+00:00:00,000 --> 00:00:01,800
+This is Doing and Feeling.
 
 2
-00:00:03,200 --> 00:00:05,420
+00:00:02,280 --> 00:00:04,320
 Episode nine: The Map of Positions.
 
 3
-00:00:05,660 --> 00:00:10,440
+00:00:04,600 --> 00:00:09,320
 In 1978, the philosopher Ned Block
 asked you to imagine the following.
 
 4
-00:00:10,800 --> 00:00:14,220
+00:00:09,700 --> 00:00:13,120
 Take the population of China,
 more than a billion people.
 
 5
-00:00:14,640 --> 00:00:19,690
+00:00:13,360 --> 00:00:18,590
 Give each person a two-way radio and one
 simple rule to follow, so that together
 
 6
-00:00:19,740 --> 00:00:23,160
+00:00:18,640 --> 00:00:22,040
 they implement the functional
 organization that describes your mind.
 
 7
-00:00:23,560 --> 00:00:27,790
+00:00:22,500 --> 00:00:26,690
 Wire the whole network up to an
 artificial body, and run it for an hour.
 
 8
-00:00:27,840 --> 00:00:32,650
+00:00:26,740 --> 00:00:31,530
 If the right functional organization is
 all there is to having a mind, then during
 
 9
-00:00:32,700 --> 00:00:35,500
+00:00:31,580 --> 00:00:34,400
 that hour the nation of China
 should feel what you feel.
 
 10
-00:00:35,760 --> 00:00:39,940
+00:00:34,640 --> 00:00:38,820
 If you would be in pain, then
 something, somewhere, should be in pain.
 
 11
-00:00:40,600 --> 00:00:45,270
+00:00:39,520 --> 00:00:44,170
 Block found that very hard to believe, and
 argued that the burden of proof falls on
 
 12
-00:00:45,320 --> 00:00:48,280
+00:00:44,220 --> 00:00:47,180
 the functionalist. Many
 people share the intuition.
 
 13
-00:00:48,780 --> 00:00:54,570
+00:00:47,660 --> 00:00:53,470
 My intuition says no. But my intuition
 also says that a lump of wet meat shouldn't
 
 14
-00:00:54,620 --> 00:00:56,530
+00:00:53,520 --> 00:00:55,410
 be able to think, and here we are.
 
 15
-00:00:56,580 --> 00:01:01,630
+00:00:55,460 --> 00:01:00,530
 There's a short science fiction story,
 They're Made Out of Meat, in which aliens
 
 16
-00:01:01,680 --> 00:01:04,280
+00:01:00,580 --> 00:01:03,180
 refuse to believe that
 humans think with meat.
 
 17
-00:01:04,500 --> 00:01:08,020
+00:01:03,360 --> 00:01:06,900
 I'm not sure our intuitions
 about substrates are worth much.
 
 18
-00:01:08,400 --> 00:01:11,700
+00:01:07,240 --> 00:01:10,580
 That's exactly the right worry
 to carry through this episode.
 
 19
-00:01:12,040 --> 00:01:15,580
+00:01:11,080 --> 00:01:14,460
 Every position on this map is
 partly an answer to the question:
 
 20
-00:01:15,760 --> 00:01:17,700
+00:01:14,660 --> 00:01:16,600
 which intuitions should we trust?
 
 21
-00:01:17,980 --> 00:01:22,720
+00:01:16,980 --> 00:01:21,620
 Two episodes ago, Chalmers's six letters
 sorted the responses to the hard problem,
 
 22
-00:01:22,840 --> 00:01:26,060
+00:01:21,760 --> 00:01:24,890
 and last episode gave the most
 radical one a full hearing.
 
 23
-00:01:26,480 --> 00:01:28,600
+00:01:24,940 --> 00:01:27,520
 Today we walk the rest of the territory.
 
 24
-00:01:28,960 --> 00:01:33,930
+00:01:27,860 --> 00:01:32,830
 For each position: the core claim, the
 best argument, the strongest objection, and
 
 25
-00:01:33,980 --> 00:01:36,460
+00:01:32,880 --> 00:01:35,360
 its verdict on the question
 this series builds toward.
 
 26
-00:01:36,820 --> 00:01:38,140
+00:01:35,620 --> 00:01:37,040
 Could a machine be conscious?
 
 27
-00:01:38,500 --> 00:01:42,360
+00:01:37,580 --> 00:01:41,260
 At the end, a short, clearly marked
 trip to the edges of the map.
 
 28
-00:01:43,520 --> 00:01:48,350
+00:01:42,420 --> 00:01:47,230
 Start with functionalism, because it's the
 default view among philosophers who work
 
 29
-00:01:48,400 --> 00:01:52,100
+00:01:47,280 --> 00:01:51,020
 on mind, and the implicit view
 of most people who build AI.
 
 30
-00:01:53,060 --> 00:01:55,660
+00:01:51,960 --> 00:01:54,580
 Functionalism grew out of a
 problem with an earlier theory.
 
 31
-00:01:55,920 --> 00:01:58,843
+00:01:54,760 --> 00:01:57,723
 In the nineteen fifties,
 Ullin Place and J.
 
 32
-00:01:58,893 --> 00:02:01,260
+00:01:57,773 --> 00:02:00,160
 J. C. Smart proposed the identity theory:
 
 33
-00:02:01,480 --> 00:02:03,800
+00:02:00,420 --> 00:02:02,700
 mental states simply are brain states.
 
 34
-00:02:04,240 --> 00:02:07,360
+00:02:03,140 --> 00:02:06,260
 Pain is a certain neural
 process, full stop.
 
 35
-00:02:07,740 --> 00:02:12,120
+00:02:06,620 --> 00:02:11,020
 Then in 1967, Hilary Putnam pointed
 out that this was too narrow.
 
 36
-00:02:12,360 --> 00:02:17,390
+00:02:11,260 --> 00:02:16,290
 An octopus can presumably feel pain, but
 its nervous system evolved independently
 
 37
-00:02:17,440 --> 00:02:22,870
+00:02:16,340 --> 00:02:21,770
 and is built very differently, so if pain
 is one specific human brain state, the
 
 38
-00:02:22,920 --> 00:02:27,800
+00:02:21,820 --> 00:02:26,680
 octopus can't have it. Putnam's
 conclusion was multiple realizability:
 
 39
-00:02:28,100 --> 00:02:32,400
+00:02:26,920 --> 00:02:31,300
 the same mental state can be realized
 by very different physical systems.
 
 40
-00:02:32,780 --> 00:02:37,250
+00:02:31,540 --> 00:02:36,150
 So mental states should be defined by their
 function, by their causal role, rather
 
 41
-00:02:37,300 --> 00:02:38,740
+00:02:36,200 --> 00:02:37,620
 than by their physical makeup.
 
 42
-00:02:39,360 --> 00:02:44,560
+00:02:38,260 --> 00:02:43,420
 Pain is whatever state is caused by bodily
 damage, and in turn causes distress,
 
 43
-00:02:44,960 --> 00:02:47,340
+00:02:43,840 --> 00:02:46,240
 avoidance, and the desire for it to stop.
 
 44
-00:02:47,660 --> 00:02:51,840
+00:02:46,540 --> 00:02:50,740
 That's the octopus from episode
 two, now doing philosophical work:
 
 45
-00:02:52,140 --> 00:02:57,490
+00:02:50,960 --> 00:02:56,390
 complex minds evolving more than once, on
 completely different hardware, is one of
 
 46
-00:02:57,540 --> 00:03:01,060
+00:02:56,440 --> 00:02:59,940
 the strongest everyday reasons
 to find functionalism plausible.
 
 47
-00:03:01,660 --> 00:03:04,580
+00:03:00,480 --> 00:03:03,480
 Computational functionalism
 is the stronger version:
 
 48
-00:03:04,860 --> 00:03:07,540
+00:03:03,780 --> 00:03:06,440
 the relevant causal
 roles are computational.
 
 49
-00:03:08,420 --> 00:03:13,220
+00:03:07,300 --> 00:03:12,120
 Implement the right computation, in
 neurons or silicon, and you get the mind,
 
 50
-00:03:13,500 --> 00:03:17,940
+00:03:12,380 --> 00:03:16,840
 experience included. The hardest question
 for functionalism is one of grain.
 
 51
-00:03:18,260 --> 00:03:20,260
+00:03:17,140 --> 00:03:19,120
 Which functional organization matters?
 
 52
-00:03:20,580 --> 00:03:24,260
+00:03:19,440 --> 00:03:23,160
 At one extreme, you could define
 it purely by inputs and outputs.
 
 53
-00:03:25,020 --> 00:03:29,130
+00:03:23,900 --> 00:03:28,030
 Block demolished that version in 1981
 with a thought experiment now called
 
 54
-00:03:29,180 --> 00:03:33,810
+00:03:28,080 --> 00:03:32,690
 Blockhead: a machine that passes any
 conversational test by looking up every
 
 55
-00:03:33,860 --> 00:03:38,040
+00:03:32,740 --> 00:03:36,920
 possible reply in an astronomically
 large table, prepared in advance.
 
 56
-00:03:38,500 --> 00:03:41,340
+00:03:37,420 --> 00:03:40,240
 Behaviorally perfect,
 intuitively mindless.
 
 57
-00:03:41,680 --> 00:03:46,610
+00:03:40,580 --> 00:03:45,510
 In fairness, that table would need vastly
 more entries than there are particles in
 
 58
-00:03:46,660 --> 00:03:51,800
+00:03:45,560 --> 00:03:50,680
 the universe. And whatever large language
 models are, they aren't lookup tables.
 
 59
-00:03:52,000 --> 00:03:55,760
+00:03:50,920 --> 00:03:54,680
 They compress. That's the whole
 point of the training process.
 
 60
-00:03:56,300 --> 00:03:59,800
+00:03:55,180 --> 00:03:58,700
 Agreed, and Block conceded the
 machine was physically impossible.
 
 61
-00:04:00,040 --> 00:04:04,970
+00:03:58,960 --> 00:04:03,870
 His point was that behavior alone can't
 settle the question, so a functionalist must
 
 62
-00:04:05,020 --> 00:04:07,950
+00:04:03,920 --> 00:04:06,850
 say which internal
 organization is required.
 
 63
-00:04:08,000 --> 00:04:10,220
+00:04:06,900 --> 00:04:09,100
 Too coarse, and you count Blockhead.
 
 64
-00:04:10,540 --> 00:04:15,490
+00:04:09,440 --> 00:04:14,410
 Too fine, down to individual neurons,
 and you exclude octopuses and machines.
 
 65
-00:04:15,540 --> 00:04:18,960
+00:04:14,460 --> 00:04:17,860
 Where in between turns out
 to matter enormously for AI.
 
 66
-00:04:19,420 --> 00:04:24,150
+00:04:18,320 --> 00:04:23,050
 The best argument for functionalism
 about experience, not just thought, comes
 
 67
-00:04:24,200 --> 00:04:25,650
+00:04:23,100 --> 00:04:24,530
 surprisingly from a dualist.
 
 68
-00:04:25,700 --> 00:04:30,910
+00:04:24,580 --> 00:04:29,810
 Chalmers's fading qualia argument asks
 you to imagine your neurons being replaced
 
 69
-00:04:30,960 --> 00:04:36,110
+00:04:29,860 --> 00:04:34,990
 one at a time by silicon chips that perfectly
 duplicate each neuron's input-output
 
 70
-00:04:36,160 --> 00:04:41,440
+00:04:35,040 --> 00:04:40,320
 behavior. Your behavior never changes,
 and you keep saying, I see a vivid red.
 
 71
-00:04:41,620 --> 00:04:46,650
+00:04:40,500 --> 00:04:45,530
 If your experience gradually faded as the
 chips went in, then at some point you'd be
 
 72
-00:04:46,700 --> 00:04:51,560
+00:04:45,580 --> 00:04:50,440
 having faded or absent experiences
 while sincerely reporting vivid ones,
 
 73
-00:04:52,060 --> 00:04:55,800
+00:04:50,960 --> 00:04:54,680
 systematically wrong about your own
 mind with no internal sign of it.
 
 74
-00:04:55,940 --> 00:05:00,910
+00:04:54,820 --> 00:04:59,810
 A companion argument, dancing qualia,
 imagines flipping between your neurons and
 
 75
-00:05:00,960 --> 00:05:02,640
+00:04:59,860 --> 00:05:01,520
 their silicon twins with a switch:
 
 76
-00:05:02,820 --> 00:05:07,490
+00:05:01,720 --> 00:05:06,390
 if experience depended on the substrate,
 your red could turn blue and back again
 
 77
-00:05:07,540 --> 00:05:08,820
+00:05:06,440 --> 00:05:07,720
 while you noticed nothing.
 
 78
-00:05:09,560 --> 00:05:14,250
+00:05:08,460 --> 00:05:13,150
 Chalmers finds both scenarios implausible,
 and concludes that experience depends
 
 79
-00:05:14,300 --> 00:05:16,940
+00:05:13,200 --> 00:05:15,840
 only on fine-grained
 functional organization.
 
 80
-00:05:17,320 --> 00:05:20,760
+00:05:16,200 --> 00:05:19,660
 He calls this the principle
 of organizational invariance.
 
 81
-00:05:20,920 --> 00:05:23,580
+00:05:19,800 --> 00:05:22,480
 The objections are mostly intuition pumps:
 
 82
-00:05:23,820 --> 00:05:28,410
+00:05:22,660 --> 00:05:27,310
 the China brain, the absent qualia worry
 that a functional duplicate might have no
 
 83
-00:05:28,460 --> 00:05:32,810
+00:05:27,360 --> 00:05:31,710
 experience at all, and the inverted
 spectrum, the idea that someone could be
 
 84
-00:05:32,860 --> 00:05:36,240
+00:05:31,760 --> 00:05:35,120
 functionally identical to you while
 seeing red where you see green.
 
 85
-00:05:37,180 --> 00:05:38,780
+00:05:36,060 --> 00:05:37,680
 Functionalism's verdict on machines:
 
 86
-00:05:39,060 --> 00:05:42,820
+00:05:38,000 --> 00:05:41,720
 yes, a machine can be conscious
 if it has the right organization.
 
 87
-00:05:43,300 --> 00:05:45,300
+00:05:42,200 --> 00:05:44,200
 The fight is over what right means.
 
 88
-00:05:46,280 --> 00:05:51,770
+00:05:45,140 --> 00:05:50,650
 The second major physicalist family is
 representationalism, sometimes called
 
 89
-00:05:51,820 --> 00:05:57,130
+00:05:50,700 --> 00:05:56,030
 intentionalism. The idea is that the
 character of an experience is fully determined
 
 90
-00:05:57,180 --> 00:06:02,550
+00:05:56,080 --> 00:06:01,450
 by what it represents. When you see a red
 tomato, the redness isn't a property of
 
 91
-00:06:02,600 --> 00:06:07,380
+00:06:01,500 --> 00:06:06,280
 your experience. It's a property your
 experience represents the tomato as having.
 
 92
-00:06:07,660 --> 00:06:12,550
+00:06:06,480 --> 00:06:11,430
 The main motivation is called the transparency
 of experience, a point Gilbert Harman
 
 93
-00:06:12,600 --> 00:06:17,290
+00:06:11,480 --> 00:06:16,190
 made vivid. Look at a tree and try to
 attend to your experience of it, rather than
 
 94
-00:06:17,340 --> 00:06:20,090
+00:06:16,240 --> 00:06:18,930
 to the tree. Most people find they can't.
 
 95
-00:06:20,140 --> 00:06:24,970
+00:06:18,980 --> 00:06:23,870
 Every feature they notice, the green,
 the shape, the depth, is presented as a
 
 96
-00:06:25,020 --> 00:06:29,630
+00:06:23,920 --> 00:06:28,510
 feature of the tree. Introspection seems
 to look straight through experience to the
 
 97
-00:06:29,680 --> 00:06:33,697
+00:06:28,560 --> 00:06:32,590
 world. Michael Tye and Fred Dretske
 built the best-known versions.
 
 98
-00:06:33,747 --> 00:06:38,470
+00:06:32,640 --> 00:06:37,370
 The classic objections involve cases where
 experience and representation seem to
 
 99
-00:06:38,520 --> 00:06:43,160
+00:06:37,420 --> 00:06:42,060
 come apart. One is blurry vision, where
 the world isn't represented as blurry.
 
 100
-00:06:43,640 --> 00:06:47,480
+00:06:42,520 --> 00:06:46,380
 Another is Block's Inverted Earth,
 a planet where colors are swapped.
 
 101
-00:06:47,680 --> 00:06:52,570
+00:06:46,600 --> 00:06:51,450
 A traveler there, wearing color-inverting
 lenses, eventually comes to represent
 
 102
-00:06:52,620 --> 00:06:57,060
+00:06:51,500 --> 00:06:55,940
 colors correctly while, intuitively,
 their experience stays the same.
 
 103
-00:06:57,460 --> 00:07:00,520
+00:06:56,360 --> 00:06:59,400
 Here's why representationalism
 matters for AI.
 
 104
-00:07:01,200 --> 00:07:05,830
+00:07:00,080 --> 00:07:04,710
 On one leading family of theories of what
 makes something a representation, called
 
 105
-00:07:05,880 --> 00:07:10,830
+00:07:04,760 --> 00:07:09,730
 teleosemantic theories, a state represents
 what it was selected to track, typically
 
 106
-00:07:10,880 --> 00:07:15,720
+00:07:09,780 --> 00:07:14,600
 by evolution or learning. Donald Davidson's
 Swampman makes the problem vivid:
 
 107
-00:07:16,180 --> 00:07:20,435
+00:07:15,100 --> 00:07:19,345
 lightning strikes a swamp and by sheer
 chance assembles a molecule-for-molecule
 
 108
-00:07:20,485 --> 00:07:26,270
+00:07:19,395 --> 00:07:25,150
 duplicate of you. On a strict teleosemantic
 view, Swampman's states represent
 
 109
-00:07:26,320 --> 00:07:31,210
+00:07:25,200 --> 00:07:30,110
 nothing, having no history of selection,
 so Swampman would have no experiences at
 
 110
-00:07:31,260 --> 00:07:36,320
+00:07:30,160 --> 00:07:35,200
 all. Then the question for a language model
 is whether training counts as a history.
 
 111
-00:07:36,860 --> 00:07:39,230
+00:07:35,780 --> 00:07:38,130
 Gradient descent is a selection process.
 
 112
-00:07:39,280 --> 00:07:41,900
+00:07:38,180 --> 00:07:40,800
 It shaped every weight to track something.
 
 113
-00:07:42,320 --> 00:07:45,100
+00:07:41,120 --> 00:07:43,980
 That's exactly what some
 philosophers have argued.
 
 114
-00:07:45,780 --> 00:07:50,690
+00:07:44,680 --> 00:07:49,590
 Dimitri Coelho Mollo and Raphaël Millière,
 for instance, have argued that language
 
 115
-00:07:50,740 --> 00:07:55,730
+00:07:49,640 --> 00:07:54,630
 models can have genuinely grounded
 representations, particularly once fine-tuning
 
 116
-00:07:55,780 --> 00:07:59,530
+00:07:54,680 --> 00:07:58,480
 with human feedback gives their
 outputs world-directed functions.
 
 117
-00:07:59,580 --> 00:08:03,180
+00:07:58,760 --> 00:08:02,060
 So representationalism's
 verdict on machines is:
 
 118
-00:08:03,340 --> 00:08:08,390
+00:08:02,240 --> 00:08:07,290
 possibly, depending on whether the system's
 representations are genuinely about the
 
 119
-00:08:08,440 --> 00:08:13,460
+00:08:07,340 --> 00:08:12,360
 world, and on the further question of which
 representations count as experiential.
 
 120
-00:08:14,460 --> 00:08:20,130
+00:08:13,360 --> 00:08:19,030
 Last episode's position, illusionism,
 belongs here on the map as the strongest form
 
 121
-00:08:20,180 --> 00:08:24,420
+00:08:19,080 --> 00:08:23,300
 of type-A physicalism. Its verdict
 on machines, in one sentence:
 
 122
-00:08:24,860 --> 00:08:29,410
+00:08:23,760 --> 00:08:28,310
 a machine could be conscious in the only
 sense there is, if it has the relevant kind
 
 123
-00:08:29,460 --> 00:08:33,950
+00:08:28,360 --> 00:08:32,830
 of self-model, producing introspective
 representations of its own states for the
 
 124
-00:08:34,000 --> 00:08:37,280
+00:08:32,880 --> 00:08:36,180
 right reasons, and not merely
 because it learned our words.
 
 125
-00:08:38,280 --> 00:08:42,630
+00:08:37,220 --> 00:08:41,510
 Now a family that comes at the problem
 from biology rather than computation:
 
 126
-00:08:42,680 --> 00:08:49,150
+00:08:41,560 --> 00:08:48,030
 enactivism. In 1991, Francisco
 Varela, Evan Thompson, and Eleanor
 
 127
-00:08:49,200 --> 00:08:54,130
+00:08:48,080 --> 00:08:53,030
 Rosch published The Embodied Mind, arguing
 that cognition isn't the manipulation of
 
 128
-00:08:54,180 --> 00:08:59,310
+00:08:53,080 --> 00:08:58,190
 internal representations but the activity
 of a living organism enacting a world
 
 129
-00:08:59,360 --> 00:09:05,210
+00:08:58,240 --> 00:09:04,090
 through its body. It builds on autopoiesis,
 the self-producing organization we met
 
 130
-00:09:05,260 --> 00:09:09,950
+00:09:04,140 --> 00:09:08,830
 in episode four. Thompson's Mind in Life
 argues for a deep continuity between life
 
 131
-00:09:10,000 --> 00:09:16,270
+00:09:08,880 --> 00:09:15,150
 and mind. In 2001, Kevin O'Regan and
 Alva Noë proposed, in a target article in
 
 132
-00:09:16,320 --> 00:09:20,310
+00:09:15,200 --> 00:09:19,190
 Behavioral and Brain Sciences, that
 seeing is a kind of skilled activity:
 
 133
-00:09:20,360 --> 00:09:23,940
+00:09:19,240 --> 00:09:22,840
 mastery of the ways sensory
 input changes as you move.
 
 134
-00:09:24,260 --> 00:09:26,180
+00:09:22,980 --> 00:09:25,060
 And Noë puts the slogan bluntly:
 
 135
-00:09:26,600 --> 00:09:30,420
+00:09:25,540 --> 00:09:29,320
 consciousness is something we do,
 not something that happens inside us.
 
 136
-00:09:30,960 --> 00:09:33,420
+00:09:29,860 --> 00:09:32,300
 Varela also proposed neurophenomenology:
 
 137
-00:09:33,900 --> 00:09:37,530
+00:09:32,800 --> 00:09:36,410
 pairing rigorous, trained first-person
 reports, including from experienced
 
 138
-00:09:37,580 --> 00:09:41,770
+00:09:36,460 --> 00:09:40,650
 meditators, with brain measurements, so
 that experience and physiology constrain
 
 139
-00:09:41,820 --> 00:09:44,850
+00:09:40,700 --> 00:09:43,750
 each other. That program comes
 back in the next episode.
 
 140
-00:09:44,900 --> 00:09:47,200
+00:09:43,800 --> 00:09:46,080
 Enactivism's verdict on machines:
 
 141
-00:09:47,600 --> 00:09:51,810
+00:09:46,600 --> 00:09:50,520
 consciousness belongs to autonomous,
 self-producing, embodied systems.
 
 142
-00:09:51,860 --> 00:09:54,640
+00:09:50,860 --> 00:09:53,560
 Today's disembodied models
 are poor candidates.
 
 143
-00:09:55,400 --> 00:09:58,260
+00:09:54,300 --> 00:09:57,140
 Artificial life-like systems,
 someday, might not be.
 
 144
-00:09:59,300 --> 00:10:01,860
+00:09:58,200 --> 00:10:00,760
 Next, biological naturalism.
 
 145
-00:10:02,240 --> 00:10:08,350
+00:10:01,140 --> 00:10:07,250
 John Searle, who died in 2025, published
 the Chinese Room in 1980, as a target
 
 146
-00:10:08,400 --> 00:10:12,390
+00:10:07,300 --> 00:10:11,270
 article with commentaries, and it became
 perhaps the most discussed thought
 
 147
-00:10:12,440 --> 00:10:14,640
+00:10:11,320 --> 00:10:13,520
 experiment in the philosophy of AI.
 
 148
-00:10:15,160 --> 00:10:19,590
+00:10:14,380 --> 00:10:18,450
 Searle imagined himself locked in a room
 with a rulebook for manipulating Chinese
 
 149
-00:10:19,640 --> 00:10:23,380
+00:10:18,500 --> 00:10:22,300
 characters. Questions in
 Chinese come in through a slot.
 
 150
-00:10:23,540 --> 00:10:27,710
+00:10:22,460 --> 00:10:26,590
 By following the rules, he sends out
 answers indistinguishable from a native
 
 151
-00:10:27,760 --> 00:10:30,760
+00:10:26,640 --> 00:10:29,680
 speaker's. But Searle
 understands no Chinese.
 
 152
-00:10:31,340 --> 00:10:35,750
+00:10:30,220 --> 00:10:34,630
 Since a computer running a program does
 nothing more than he does, following rules
 
 153
-00:10:35,800 --> 00:10:40,390
+00:10:34,680 --> 00:10:39,290
 for manipulating symbols, he concluded
 that running a program can never by itself
 
 154
-00:10:40,440 --> 00:10:45,660
+00:10:39,340 --> 00:10:44,520
 produce understanding. In his slogan,
 syntax is not sufficient for semantics.
 
 155
-00:10:45,920 --> 00:10:49,600
+00:10:44,860 --> 00:10:48,500
 The systems reply always
 seemed obviously right to me.
 
 156
-00:10:50,260 --> 00:10:55,450
+00:10:49,140 --> 00:10:54,350
 Searle is one component. The room as a
 whole, the rulebook plus the person plus the
 
 157
-00:10:55,500 --> 00:10:58,200
+00:10:54,400 --> 00:10:57,060
 scratch paper, is what
 understands Chinese.
 
 158
-00:10:58,900 --> 00:11:03,750
+00:10:57,780 --> 00:11:02,650
 Asking whether Searle understands is like
 asking whether a single neuron understands
 
 159
-00:11:03,800 --> 00:11:06,600
+00:11:02,700 --> 00:11:05,440
 English. That's the most popular reply.
 
 160
-00:11:06,840 --> 00:11:11,790
+00:11:05,720 --> 00:11:10,670
 Searle's response was to imagine memorizing
 the entire rulebook and doing everything
 
 161
-00:11:11,840 --> 00:11:17,550
+00:11:10,720 --> 00:11:16,430
 in his head. Now he is the whole system,
 and he still doesn't understand Chinese, he
 
 162
-00:11:17,600 --> 00:11:22,250
+00:11:16,480 --> 00:11:21,130
 said. Defenders of the systems reply
 answer that he would then be implementing a
 
 163
-00:11:22,300 --> 00:11:25,480
+00:11:21,180 --> 00:11:24,380
 second mind, one he has no
 introspective access to.
 
 164
-00:11:25,940 --> 00:11:30,850
+00:11:24,840 --> 00:11:29,730
 Searle rejected that and every other reply,
 including connecting the room to a robot
 
 165
-00:11:30,900 --> 00:11:36,340
+00:11:29,780 --> 00:11:35,240
 body. His positive view was that
 consciousness is a real biological phenomenon,
 
 166
-00:11:36,740 --> 00:11:41,570
+00:11:35,520 --> 00:11:40,470
 caused by the specific causal powers of
 brains, the way digestion is caused by
 
 167
-00:11:41,620 --> 00:11:45,320
+00:11:40,520 --> 00:11:44,220
 stomachs. A simulation of
 digestion digests nothing.
 
 168
-00:11:45,700 --> 00:11:49,360
+00:11:44,480 --> 00:11:48,260
 A computer simulation of a
 rainstorm leaves everyone dry.
 
 169
-00:11:50,040 --> 00:11:54,080
+00:11:48,960 --> 00:11:52,980
 Functionalists have a reply to that last
 line, and it's worth carrying forward.
 
 170
-00:11:54,320 --> 00:11:59,820
+00:11:53,240 --> 00:11:58,720
 A simulated storm leaves you dry, but a
 simulated calculator really does calculate.
 
 171
-00:12:00,340 --> 00:12:03,960
+00:11:59,180 --> 00:12:02,860
 Some things are what they do, and
 some things are what they're made of.
 
 172
-00:12:04,140 --> 00:12:08,910
+00:12:03,160 --> 00:12:07,790
 The question is which kind of thing a mind
 is, and that question will come back in
 
 173
-00:12:08,960 --> 00:12:10,610
+00:12:07,840 --> 00:12:09,510
 episodes twelve and thirteen.
 
 174
-00:12:10,660 --> 00:12:15,850
+00:12:09,560 --> 00:12:14,750
 The most developed contemporary version
 comes from the neuroscientist Anil Seth, who
 
 175
-00:12:15,900 --> 00:12:20,110
+00:12:14,800 --> 00:12:19,010
 argues that consciousness may depend on
 properties living systems have and today's
 
 176
-00:12:20,160 --> 00:12:24,710
+00:12:19,060 --> 00:12:23,450
 computers lack, such as metabolism
 and continuous self-production.
 
 177
-00:12:24,760 --> 00:12:27,440
+00:12:23,500 --> 00:12:26,340
 Episode thirteen gives
 that case its full hearing.
 
 178
-00:12:27,920 --> 00:12:29,500
+00:12:26,520 --> 00:12:28,480
 The short verdict on machines:
 
 179
-00:12:29,940 --> 00:12:35,190
+00:12:28,860 --> 00:12:34,070
 unlikely on current paths, more plausible
 only as AI becomes more brain-like or
 
 180
-00:12:35,240 --> 00:12:42,000
+00:12:34,120 --> 00:12:40,880
 life-like. Integrated information theory,
 or I.I.T., sits uneasily on the map.
 
 181
-00:12:42,220 --> 00:12:46,810
+00:12:41,180 --> 00:12:45,690
 It's a scientific theory with radical
 philosophical commitments, so here's the
 
 182
-00:12:46,860 --> 00:12:49,920
+00:12:45,740 --> 00:12:48,800
 philosophy, and in episode
 eleven, the science.
 
 183
-00:12:50,400 --> 00:12:55,530
+00:12:49,400 --> 00:12:54,410
 I.I.T., developed by Giulio Tononi and
 championed by Christof Koch, starts from
 
 184
-00:12:55,580 --> 00:12:57,320
+00:12:54,460 --> 00:12:56,220
 experience rather than from the brain.
 
 185
-00:12:57,520 --> 00:13:01,420
+00:12:56,520 --> 00:13:00,280
 It identifies axioms,
 properties every experience has:
 
 186
-00:13:01,660 --> 00:13:03,900
+00:13:00,500 --> 00:13:02,760
 it exists intrinsically, for itself.
 
 187
-00:13:04,120 --> 00:13:07,040
+00:13:03,320 --> 00:13:05,920
 It's specific, this experience
 rather than another.
 
 188
-00:13:07,320 --> 00:13:10,720
+00:13:06,140 --> 00:13:09,580
 It's unified, not decomposable
 into independent parts.
 
 189
-00:13:10,960 --> 00:13:13,920
+00:13:09,860 --> 00:13:12,800
 It's definite, with particular
 borders and contents.
 
 190
-00:13:14,120 --> 00:13:17,420
+00:13:13,020 --> 00:13:16,320
 And it's structured, composed
 of distinctions and relations.
 
 191
-00:13:17,960 --> 00:13:22,830
+00:13:16,900 --> 00:13:21,730
 Then it asks what a physical system must
 be like to account for each, and answers in
 
 192
-00:13:22,880 --> 00:13:24,380
+00:13:21,780 --> 00:13:23,260
 terms of cause-effect power:
 
 193
-00:13:24,640 --> 00:13:29,760
+00:13:23,480 --> 00:13:28,640
 how much the system's current state constrains
 its own past and future, as a whole,
 
 194
-00:13:30,020 --> 00:13:31,980
+00:13:28,960 --> 00:13:30,790
 beyond what its parts do independently.
 
 195
-00:13:32,540 --> 00:13:35,820
+00:13:30,840 --> 00:13:34,720
 That irreducibility is measured
 by a quantity called phi.
 
 196
-00:13:36,240 --> 00:13:37,890
+00:13:35,000 --> 00:13:36,770
 The identity claim is bold:
 
 197
-00:13:37,940 --> 00:13:42,020
+00:13:36,820 --> 00:13:40,920
 an experience simply is a maximally
 irreducible cause-effect structure.
 
 198
-00:13:42,380 --> 00:13:43,940
+00:13:41,340 --> 00:13:42,820
 Three implications follow.
 
 199
-00:13:44,320 --> 00:13:46,880
+00:13:43,260 --> 00:13:45,800
 First, consciousness is
 graded and widespread:
 
 200
-00:13:47,320 --> 00:13:48,890
+00:13:46,120 --> 00:13:47,840
 simple systems can have a little.
 
 201
-00:13:48,940 --> 00:13:51,300
+00:13:48,380 --> 00:13:50,180
 Second, an exclusion principle:
 
 202
-00:13:51,680 --> 00:13:54,180
+00:13:50,560 --> 00:13:53,080
 only local maxima of
 integration are conscious.
 
 203
-00:13:54,540 --> 00:13:59,370
+00:13:53,560 --> 00:13:58,270
 That means a collection of people, like
 a nation, isn't conscious, because its
 
 204
-00:13:59,420 --> 00:14:01,640
+00:13:58,320 --> 00:14:00,520
 members are far more
 integrated than the whole.
 
 205
-00:14:01,880 --> 00:14:03,790
+00:14:00,780 --> 00:14:02,710
 And third, the verdict that makes I.I.T.
 
 206
-00:14:03,840 --> 00:14:08,860
+00:14:02,760 --> 00:14:07,740
 famous in AI debates: what matters is the
 physical causal structure of the hardware,
 
 207
-00:14:09,220 --> 00:14:13,690
+00:14:08,120 --> 00:14:12,550
 not the software. A conventional digital
 computer, with its clocked, modular
 
 208
-00:14:13,740 --> 00:14:19,114
+00:14:12,600 --> 00:14:17,830
 architecture, has negligible integrated
 information whatever program it runs, even a
 
 209
-00:14:19,164 --> 00:14:23,930
+00:14:17,880 --> 00:14:22,810
 perfect brain simulation. That's the
 subtitle of Koch's book, The Feeling of Life
 
 210
-00:14:23,980 --> 00:14:27,780
+00:14:22,860 --> 00:14:26,680
 Itself: consciousness is
 widespread but can't be computed.
 
 211
-00:14:28,160 --> 00:14:35,270
+00:14:27,040 --> 00:14:34,170
 So on I.I.T., a perfect simulation of my
 brain on a GPU cluster is unconscious, but
 
 212
-00:14:35,320 --> 00:14:40,120
+00:14:34,220 --> 00:14:39,020
 a large enough grid of simple logic
 gates might be more conscious than I am.
 
 213
-00:14:40,440 --> 00:14:45,760
+00:14:39,340 --> 00:14:44,640
 Yes. The computer scientist Scott Aaronson
 raised examples like that as a reductio,
 
 214
-00:14:45,980 --> 00:14:49,120
+00:14:45,160 --> 00:14:48,140
 and Tononi accepted that a
 suitable grid could be conscious.
 
 215
-00:14:50,100 --> 00:14:51,720
+00:14:48,940 --> 00:14:50,590
 I.I.T.'s verdict on machines:
 
 216
-00:14:52,100 --> 00:14:55,340
+00:14:50,640 --> 00:14:54,220
 not conventional digital
 computers, whatever their behavior.
 
 217
-00:14:55,920 --> 00:15:00,330
+00:14:54,760 --> 00:14:59,210
 Hardware built with the right physical
 feedback structure, such as some neuromorphic
 
 218
-00:15:00,380 --> 00:15:02,580
+00:14:59,260 --> 00:15:01,480
 designs, could in principle be different.
 
 219
-00:15:03,600 --> 00:15:07,600
+00:15:02,460 --> 00:15:06,500
 Then type-F: Russellian
 monism and panpsychism.
 
 220
-00:15:07,780 --> 00:15:13,990
+00:15:06,740 --> 00:15:12,890
 In 1927, Bertrand Russell argued, and
 Arthur Eddington soon agreed, that physics
 
 221
-00:15:14,040 --> 00:15:15,720
+00:15:12,940 --> 00:15:14,620
 tells us only about structure:
 
 222
-00:15:16,240 --> 00:15:20,560
+00:15:14,900 --> 00:15:19,460
 how things relate and behave mathematically,
 never what they are intrinsically.
 
 223
-00:15:20,880 --> 00:15:25,930
+00:15:19,820 --> 00:15:24,810
 Mass and charge are defined by what they
 do, which leaves open what it is that does
 
 224
-00:15:25,980 --> 00:15:31,010
+00:15:24,860 --> 00:15:29,890
 the doing. The Russellian monist
 proposal is that the intrinsic nature is
 
 225
-00:15:31,060 --> 00:15:36,190
+00:15:29,940 --> 00:15:35,090
 experiential, or proto-experiential, and
 that's how consciousness fits into the
 
 226
-00:15:36,240 --> 00:15:38,280
+00:15:35,140 --> 00:15:37,160
 physical world without breaking physics.
 
 227
-00:15:38,820 --> 00:15:43,530
+00:15:37,780 --> 00:15:42,410
 Panpsychism follows if you think those
 intrinsic natures are themselves tiny
 
 228
-00:15:43,580 --> 00:15:50,750
+00:15:42,460 --> 00:15:49,650
 experiences. In 2006, in a journal symposium
 that drew a long list of replies, Galen
 
 229
-00:15:50,800 --> 00:15:56,450
+00:15:49,700 --> 00:15:55,350
 Strawson argued that real physicalism
 entails panpsychism, since experience can't
 
 230
-00:15:56,500 --> 00:15:59,040
+00:15:55,400 --> 00:15:57,940
 emerge from wholly non-experiential stuff.
 
 231
-00:15:59,440 --> 00:16:04,270
+00:15:58,280 --> 00:16:03,150
 Philip Goff's Galileo's Error argues
 that modern science began by deliberately
 
 232
-00:16:04,320 --> 00:16:09,490
+00:16:03,200 --> 00:16:08,390
 setting sensory qualities aside to make
 nature mathematical, and that consciousness
 
 233
-00:16:09,540 --> 00:16:11,920
+00:16:08,440 --> 00:16:10,800
 is the bill for that decision coming due.
 
 234
-00:16:12,120 --> 00:16:14,840
+00:16:11,020 --> 00:16:13,740
 The great problem is
 the combination problem.
 
 235
-00:16:15,720 --> 00:16:17,440
+00:16:14,180 --> 00:16:16,480
 William James stated it in 1890:
 
 236
-00:16:17,960 --> 00:16:23,050
+00:16:16,900 --> 00:16:21,930
 take a sentence of twelve words, give one
 word to each of twelve men, and no one
 
 237
-00:16:23,100 --> 00:16:24,700
+00:16:21,980 --> 00:16:23,600
 will be aware of the whole sentence.
 
 238
-00:16:25,220 --> 00:16:29,860
+00:16:24,200 --> 00:16:28,740
 How do micro-experiences combine
 into one unified subject like you?
 
 239
-00:16:30,160 --> 00:16:34,550
+00:16:29,020 --> 00:16:33,450
 Chalmers has distinguished several versions
 of the problem, the hardest being how
 
 240
-00:16:34,600 --> 00:16:36,860
+00:16:33,500 --> 00:16:35,690
 subjects could sum into a new subject.
 
 241
-00:16:37,220 --> 00:16:40,370
+00:16:35,740 --> 00:16:39,300
 Some panpsychists respond
 with cosmopsychism:
 
 242
-00:16:40,420 --> 00:16:45,950
+00:16:39,460 --> 00:16:44,850
 the universe as a whole is the fundamental
 subject, and individual minds are aspects
 
 243
-00:16:46,000 --> 00:16:51,270
+00:16:44,900 --> 00:16:50,170
 of it. The physicist Sean Carroll gave the
 sharpest scientific objection, in a long
 
 244
-00:16:51,320 --> 00:16:56,300
+00:16:50,220 --> 00:16:55,180
 conversation with Goff on his podcast
 Mindscape and later in a 2021 paper.
 
 245
-00:16:56,560 --> 00:17:01,590
+00:16:55,780 --> 00:17:00,470
 The laws governing everyday matter, what
 Carroll calls the Core Theory, are tested
 
 246
-00:17:01,640 --> 00:17:03,200
+00:17:00,520 --> 00:17:02,060
 to extraordinary precision.
 
 247
-00:17:03,460 --> 00:17:08,270
+00:17:02,260 --> 00:17:07,130
 If consciousness made any difference to
 what particles do, those laws would be wrong
 
 248
-00:17:08,320 --> 00:17:09,390
+00:17:07,180 --> 00:17:08,380
 somewhere we'd have noticed.
 
 249
-00:17:09,440 --> 00:17:13,810
+00:17:08,480 --> 00:17:12,730
 And if it makes no difference, it's hard
 to see how it could explain why we talk
 
 250
-00:17:13,860 --> 00:17:18,750
+00:17:12,780 --> 00:17:17,650
 about consciousness. Goff's reply is that
 panpsychism doesn't change the equations
 
 251
-00:17:18,800 --> 00:17:23,680
+00:17:17,700 --> 00:17:22,520
 at all. It's a claim about the intrinsic
 nature of whatever the equations describe.
 
 252
-00:17:24,360 --> 00:17:28,590
+00:17:23,240 --> 00:17:27,490
 Carroll's rejoinder is that a nature
 that adds nothing to the dynamics does no
 
 253
-00:17:28,640 --> 00:17:32,900
+00:17:27,540 --> 00:17:31,700
 explanatory work. Each side thinks
 the other has changed the subject.
 
 254
-00:17:33,220 --> 00:17:38,410
+00:17:32,100 --> 00:17:37,360
 If electrons have tiny experiences,
 does my GPU get a bigger one?
 
 255
-00:17:38,460 --> 00:17:41,920
+00:17:37,680 --> 00:17:40,840
 Not automatically, and
 that's often misunderstood.
 
 256
-00:17:42,460 --> 00:17:47,470
+00:17:41,260 --> 00:17:46,370
 Most panpsychists think a rock is a mere
 aggregate of micro-experiences without
 
 257
-00:17:47,520 --> 00:17:52,950
+00:17:46,420 --> 00:17:51,850
 being a subject itself. Whether a computer
 is more like a brain or more like a rock
 
 258
-00:17:53,000 --> 00:17:56,460
+00:17:51,900 --> 00:17:55,360
 depends on the combination
 principle, which nobody has.
 
 259
-00:17:56,700 --> 00:18:00,340
+00:17:55,560 --> 00:17:59,220
 So panpsychism's verdict on
 machines is genuinely open.
 
 260
-00:18:01,340 --> 00:18:03,540
+00:18:00,140 --> 00:18:02,420
 Four more positions, more briefly.
 
 261
-00:18:04,120 --> 00:18:08,970
+00:18:02,920 --> 00:18:07,870
 Idealism says experience is all there
 is, and matter is how mind appears from
 
 262
-00:18:09,020 --> 00:18:14,510
+00:18:07,920 --> 00:18:13,410
 outside. Bernardo Kastrup's analytic
 idealism proposes a single universal
 
 263
-00:18:14,560 --> 00:18:20,130
+00:18:13,460 --> 00:18:19,010
 consciousness that dissociates into
 individual minds, by analogy with dissociative
 
 264
-00:18:20,180 --> 00:18:24,640
+00:18:19,060 --> 00:18:23,510
 identity disorder, where one person can
 present several distinct identities.
 
 265
-00:18:24,940 --> 00:18:29,390
+00:18:23,560 --> 00:18:28,270
 On that view, the question about a machine
 is whether it is a separate dissociated
 
 266
-00:18:29,440 --> 00:18:33,940
+00:18:28,320 --> 00:18:32,840
 mind of its own, and nothing in the
 theory suggests that a computer would be.
 
 267
-00:18:34,340 --> 00:18:36,540
+00:18:33,300 --> 00:18:35,480
 Dualism comes in two main forms.
 
 268
-00:18:37,320 --> 00:18:42,450
+00:18:36,300 --> 00:18:41,330
 Interactionist dualism, Descartes's view,
 holds that a non-physical mind pushes the
 
 269
-00:18:42,500 --> 00:18:48,210
+00:18:41,380 --> 00:18:47,090
 body around. It faces the problem Princess
 Elisabeth of Bohemia raised in letters to
 
 270
-00:18:48,260 --> 00:18:53,020
+00:18:47,140 --> 00:18:51,870
 Descartes in 1643: how could something
 with no extension move matter?
 
 271
-00:18:53,460 --> 00:18:56,460
+00:18:51,920 --> 00:18:55,360
 Modern physics adds the
 problem of causal closure.
 
 272
-00:18:56,920 --> 00:19:02,050
+00:18:55,820 --> 00:19:00,930
 Naturalistic property dualism, Chalmers's
 view, adds experience as a fundamental
 
 273
-00:19:02,100 --> 00:19:06,520
+00:19:00,980 --> 00:19:05,380
 feature tied to physical organization
 by laws we haven't yet found.
 
 274
-00:19:06,940 --> 00:19:09,140
+00:19:05,780 --> 00:19:08,020
 Remember the fading qualia argument:
 
 275
-00:19:09,740 --> 00:19:14,370
+00:19:08,300 --> 00:19:13,250
 Chalmers thinks those laws link experience
 to functional organization, so his
 
 276
-00:19:14,420 --> 00:19:17,940
+00:19:13,300 --> 00:19:16,840
 dualism, surprisingly, says
 yes to machine consciousness.
 
 277
-00:19:18,240 --> 00:19:23,750
+00:19:17,120 --> 00:19:22,590
 The neighboring view, epiphenomenalism,
 makes experience causally idle, which raises
 
 278
-00:19:23,800 --> 00:19:26,200
+00:19:22,640 --> 00:19:25,080
 a nasty puzzle, the meta-problem again:
 
 279
-00:19:26,540 --> 00:19:29,860
+00:19:25,440 --> 00:19:28,760
 if experience does nothing, why
 do we keep talking about it?
 
 280
-00:19:30,560 --> 00:19:36,530
+00:19:29,480 --> 00:19:35,430
 Mysterianism, from Colin McGinn in 1989,
 holds that there is a natural answer, but
 
 281
-00:19:36,580 --> 00:19:41,580
+00:19:35,480 --> 00:19:40,480
 that human minds are cognitively closed to
 it, the way a dog is closed to calculus.
 
 282
-00:19:42,100 --> 00:19:47,010
+00:19:40,800 --> 00:19:45,890
 A neighboring stance says phenomenal
 consciousness lies outside the reach of science
 
 283
-00:19:47,060 --> 00:19:50,760
+00:19:45,940 --> 00:19:49,640
 altogether. The verdict on
 machines is that we may never know.
 
 284
-00:19:50,940 --> 00:19:56,750
+00:19:49,800 --> 00:19:55,630
 And the quantum route. Roger Penrose argued
 in The Emperor's New Mind and Shadows of
 
 285
-00:19:56,800 --> 00:20:02,070
+00:19:55,680 --> 00:20:00,970
 the Mind that human mathematical
 understanding isn't algorithmic, using Gödel's
 
 286
-00:20:02,120 --> 00:20:06,890
+00:20:01,020 --> 00:20:05,770
 incompleteness theorems: we can supposedly
 see the truth of statements that any
 
 287
-00:20:06,940 --> 00:20:09,080
+00:20:05,820 --> 00:20:07,940
 given formal system can't prove.
 
 288
-00:20:09,520 --> 00:20:14,630
+00:20:08,400 --> 00:20:13,530
 Everyone I know in machine learning thinks
 the Gödel argument is wrong, but they
 
 289
-00:20:14,680 --> 00:20:17,740
+00:20:13,580 --> 00:20:16,570
 usually can't say why. Here's the why.
 
 290
-00:20:17,900 --> 00:20:22,370
+00:20:16,620 --> 00:20:21,270
 The argument needs us to know that our
 own reasoning is consistent, and we don't.
 
 291
-00:20:22,420 --> 00:20:24,750
+00:20:21,320 --> 00:20:23,720
 Most logicians reject it on those grounds.
 
 292
-00:20:24,800 --> 00:20:27,350
+00:20:23,920 --> 00:20:26,250
 But Penrose paired it
 with a physical proposal:
 
 293
-00:20:27,400 --> 00:20:31,900
+00:20:26,300 --> 00:20:30,800
 wave-function collapse caused by gravity,
 which he calls objective reduction.
 
 294
-00:20:32,220 --> 00:20:37,090
+00:20:31,100 --> 00:20:35,990
 With the anesthesiologist Stuart Hameroff,
 he proposed that orchestrated versions of
 
 295
-00:20:37,140 --> 00:20:41,580
+00:20:36,040 --> 00:20:40,440
 this collapse happen in microtubules,
 the protein scaffolding inside neurons.
 
 296
-00:20:42,060 --> 00:20:45,850
+00:20:40,960 --> 00:20:44,750
 Hence Orch O.R. The main
 objection is decoherence.
 
 297
-00:20:45,900 --> 00:20:51,970
+00:20:44,800 --> 00:20:50,850
 The brain is warm and wet, and in 2000
 the physicist Max Tegmark calculated that
 
 298
-00:20:52,020 --> 00:20:56,280
+00:20:50,900 --> 00:20:55,160
 quantum coherence there should vanish in
 far less than a trillionth of a second,
 
 299
-00:20:56,500 --> 00:21:00,140
+00:20:55,400 --> 00:20:59,040
 while neurons work on timescales
 of thousandths of a second.
 
 300
-00:21:00,820 --> 00:21:03,240
+00:20:59,700 --> 00:21:02,140
 Hameroff and colleagues
 disputed the calculation.
 
 301
-00:21:03,560 --> 00:21:05,530
+00:21:02,440 --> 00:21:04,430
 Then the physics met an experiment.
 
 302
-00:21:05,580 --> 00:21:11,170
+00:21:04,480 --> 00:21:10,070
 In 2020, a team deep underground at
 Gran Sasso in Italy looked for the faint
 
 303
-00:21:11,220 --> 00:21:16,080
+00:21:10,120 --> 00:21:14,980
 radiation that the simplest gravity-related
 collapse model predicts, and found none.
 
 304
-00:21:16,700 --> 00:21:21,280
+00:21:15,600 --> 00:21:20,200
 A 2022 follow-up argued that under
 that simplest model, Orch O.R.
 
 305
-00:21:21,680 --> 00:21:25,470
+00:21:20,640 --> 00:21:24,350
 becomes highly implausible, though
 more flexible versions survive.
 
 306
-00:21:25,520 --> 00:21:31,590
+00:21:24,400 --> 00:21:30,490
 On the biological side, a 2024 study found
 that rats given a microtubule-stabilizing
 
 307
-00:21:31,640 --> 00:21:35,700
+00:21:30,540 --> 00:21:34,580
 drug took about a minute longer to lose
 their righting reflex under anesthesia:
 
 308
-00:21:36,260 --> 00:21:40,990
+00:21:35,180 --> 00:21:39,870
 suggestive, but only eight treated rats,
 no quantum effects measured, and an
 
 309
-00:21:41,040 --> 00:21:42,640
+00:21:39,920 --> 00:21:41,540
 anesthetic with many other targets.
 
 310
-00:21:43,200 --> 00:21:48,630
+00:21:42,080 --> 00:21:47,530
 In 2025, the study's senior author published
 a review arguing that the experimental
 
 311
-00:21:48,680 --> 00:21:53,150
+00:21:47,580 --> 00:21:52,030
 case is now strong. Most
 neuroscientists remain unconvinced.
 
 312
-00:21:53,200 --> 00:21:55,640
+00:21:52,080 --> 00:21:54,540
 There are more cautious quantum proposals.
 
 313
-00:21:56,400 --> 00:22:00,510
+00:21:55,040 --> 00:21:59,390
 Chalmers and the philosopher Kelvin
 McQueen have explored whether consciousness
 
 314
-00:22:00,560 --> 00:22:03,250
+00:21:59,440 --> 00:22:02,130
 could cause collapse, combining I.I.T.
 
 315
-00:22:03,300 --> 00:22:08,210
+00:22:02,180 --> 00:22:07,110
 with a mathematical collapse model, and
 argued that versions not already ruled out
 
 316
-00:22:08,260 --> 00:22:10,800
+00:22:07,160 --> 00:22:09,700
 could in principle be
 tested on quantum computers.
 
 317
-00:22:11,180 --> 00:22:16,400
+00:22:10,000 --> 00:22:15,300
 And Tegmark himself proposed, in 2014,
 treating consciousness as a state of matter,
 
 318
-00:22:16,740 --> 00:22:21,390
+00:22:15,620 --> 00:22:20,290
 which he nicknamed perceptronium, defined
 by how it processes information rather
 
 319
-00:22:21,440 --> 00:22:23,870
+00:22:20,340 --> 00:22:23,090
 than by quantum effects in neurons.
 
 320
-00:22:23,920 --> 00:22:27,720
+00:22:23,140 --> 00:22:26,600
 Orch O.R.'s verdict on
 machines is the clearest:
 
 321
-00:22:28,100 --> 00:22:32,710
+00:22:27,000 --> 00:22:31,590
 classical computers can't be conscious,
 because consciousness requires a physical
 
 322
-00:22:32,760 --> 00:22:34,240
+00:22:31,640 --> 00:22:33,140
 process they don't perform.
 
 323
-00:22:35,480 --> 00:22:37,580
+00:22:34,360 --> 00:22:36,480
 Finally, a position about positions.
 
 324
-00:22:38,040 --> 00:22:40,440
+00:22:36,920 --> 00:22:39,340
 Eric Schwitzgebel calls it crazyism.
 
 325
-00:22:40,720 --> 00:22:44,910
+00:22:39,560 --> 00:22:43,810
 Every theory of consciousness, he argues,
 has at least one implication that sounds
 
 326
-00:22:44,960 --> 00:22:49,150
+00:22:43,860 --> 00:22:48,030
 bizarre. Functionalism makes the
 China brain conscious, I.I.T.
 
 327
-00:22:49,200 --> 00:22:52,120
+00:22:48,080 --> 00:22:51,020
 certain logic-gate grids,
 panpsychism electrons.
 
 328
-00:22:53,200 --> 00:22:57,430
+00:22:52,080 --> 00:22:56,310
 Illusionism denies what seems undeniable,
 and dualism adds a new ingredient to
 
 329
-00:22:57,480 --> 00:22:59,960
+00:22:56,360 --> 00:22:58,840
 physics. Something crazy must be true;
 
 330
-00:23:00,160 --> 00:23:02,100
+00:22:59,040 --> 00:23:01,000
 we just don't know which crazy thing.
 
 331
-00:23:02,300 --> 00:23:07,210
+00:23:01,180 --> 00:23:06,090
 His paper, If Materialism Is True, the
 United States Is Probably Conscious, makes
 
 332
-00:23:07,260 --> 00:23:09,720
+00:23:06,140 --> 00:23:08,600
 the point with the China
 brain's real-world cousin:
 
 333
-00:23:09,960 --> 00:23:14,630
+00:23:08,860 --> 00:23:13,510
 by criteria liberal enough to include
 rabbits and intelligent aliens, the United
 
 334
-00:23:14,680 --> 00:23:19,710
+00:23:13,560 --> 00:23:18,610
 States, a richly integrated, self-monitoring,
 goal-pursuing system, would seem to
 
 335
-00:23:19,760 --> 00:23:24,080
+00:23:18,660 --> 00:23:22,960
 qualify. I.I.T. disagrees, thanks
 to its exclusion principle.
 
 336
-00:23:24,520 --> 00:23:28,900
+00:23:23,420 --> 00:23:27,800
 Most readers find the conclusion
 unbelievable, which is precisely his point.
 
 337
-00:23:29,880 --> 00:23:33,560
+00:23:28,760 --> 00:23:32,460
 Give me the scoreboard. Which
 positions let machines in?
 
 338
-00:23:34,400 --> 00:23:38,600
+00:23:33,300 --> 00:23:37,480
 Functionalism: yes, with the right
 organization, and the fight is over grain.
 
 339
-00:23:40,140 --> 00:23:44,190
+00:23:38,820 --> 00:23:43,090
 Representationalism: possibly, if the
 machine's representations are genuinely about
 
 340
-00:23:44,240 --> 00:23:46,590
+00:23:43,140 --> 00:23:45,490
 the world, which may depend
 on its training history.
 
 341
-00:23:46,640 --> 00:23:51,450
+00:23:45,540 --> 00:23:50,350
 Illusionism: yes, if it has the right
 self-model for the right reasons.
 
 342
-00:23:51,500 --> 00:23:53,950
+00:23:50,400 --> 00:23:52,830
 Chalmers's naturalistic dualism:
 
 343
-00:23:54,000 --> 00:23:56,690
+00:23:52,880 --> 00:23:55,570
 yes, by organizational invariance.
 
 344
-00:23:56,740 --> 00:23:59,410
+00:23:55,620 --> 00:23:58,310
 Enactivism and biological naturalism:
 
 345
-00:23:59,460 --> 00:24:01,710
+00:23:58,360 --> 00:24:00,610
 unlikely without something like life.
 
 346
-00:24:01,760 --> 00:24:06,010
+00:24:00,660 --> 00:24:04,910
 I.I.T.: not on conventional
 digital hardware, whatever it does.
 
 347
-00:24:06,060 --> 00:24:10,150
+00:24:04,960 --> 00:24:09,030
 Panpsychism: undetermined,
 pending a combination principle.
 
 348
-00:24:10,200 --> 00:24:12,990
+00:24:09,080 --> 00:24:11,870
 Kastrup's idealism: probably not.
 
 349
-00:24:13,040 --> 00:24:16,750
+00:24:11,920 --> 00:24:15,670
 Orch O.R.: not for classical computers.
 
 350
-00:24:16,800 --> 00:24:18,400
+00:24:15,720 --> 00:24:17,300
 Mysterianism: we may never know.
 
 351
-00:24:18,660 --> 00:24:23,420
+00:24:17,560 --> 00:24:22,320
 And the octopus? Most positions on the
 map let it in, which is worth noticing.
 
 352
-00:24:23,840 --> 00:24:27,080
+00:24:22,740 --> 00:24:25,980
 The disagreements cluster
 at machines, not at animals.
 
 353
-00:24:27,560 --> 00:24:32,860
+00:24:26,460 --> 00:24:31,740
 Two more things. The positions that say
 yes don't all say yes to the same systems:
 
 354
-00:24:33,220 --> 00:24:37,600
+00:24:32,120 --> 00:24:36,500
 a functionalist and an illusionist could
 disagree about a given language model.
 
 355
-00:24:37,840 --> 00:24:42,380
+00:24:36,720 --> 00:24:41,260
 And the dividing line isn't between
 scientific and unscientific views.
 
 356
-00:24:42,600 --> 00:24:45,520
+00:24:41,520 --> 00:24:44,400
 It runs through the middle
 of the scientific community.
 
 357
-00:24:46,640 --> 00:24:49,780
+00:24:45,540 --> 00:24:48,680
 Before we leave the map, a
 short detour, clearly marked:
 
 358
-00:24:50,020 --> 00:24:54,950
+00:24:48,860 --> 00:24:53,830
 the edges. These are ideas that are
 popular, sometimes striking, and often
 
 359
-00:24:55,000 --> 00:25:00,030
+00:24:53,880 --> 00:24:58,930
 recommended in books and podcasts, but
 that sit outside mainstream science or have
 
 360
-00:25:00,080 --> 00:25:01,800
+00:24:58,980 --> 00:25:00,680
 little supporting evidence so far.
 
 361
-00:25:02,000 --> 00:25:06,370
+00:25:00,880 --> 00:25:05,270
 For each, I'll give the claim and its
 status, without mockery and without
 
 362
-00:25:06,420 --> 00:25:11,660
+00:25:05,320 --> 00:25:10,540
 endorsement. Federico Faggin led the design
 of the first commercial microprocessor.
 
 363
-00:25:12,000 --> 00:25:18,270
+00:25:10,860 --> 00:25:17,150
 In his 2024 book Irreducible, and with
 the physicist Giacomo Mauro D'Ariano, he
 
 364
-00:25:18,320 --> 00:25:22,950
+00:25:17,200 --> 00:25:21,830
 argues that consciousness and free will are
 fundamental, and that experience belongs
 
 365
-00:25:23,000 --> 00:25:28,470
+00:25:21,880 --> 00:25:27,350
 to quantum systems in pure states, whose
 information, like experience, is private
 
 366
-00:25:28,520 --> 00:25:32,620
+00:25:27,400 --> 00:25:31,520
 and cannot be copied. So classical
 computers can never be conscious.
 
 367
-00:25:33,260 --> 00:25:35,280
+00:25:32,140 --> 00:25:34,180
 Status: a theoretical proposal.
 
 368
-00:25:35,640 --> 00:25:39,920
+00:25:34,520 --> 00:25:38,800
 Its authors have sketched possible
 experiments, but none has been carried out.
 
 369
-00:25:40,220 --> 00:25:45,330
+00:25:39,100 --> 00:25:44,210
 From the Qualia Research Institute comes
 the symmetry theory of valence, proposed by
 
 370
-00:25:45,380 --> 00:25:48,440
+00:25:44,260 --> 00:25:47,320
 Michael Johnson in
 Principia Qualia in 2016:
 
 371
-00:25:48,800 --> 00:25:53,610
+00:25:47,680 --> 00:25:52,490
 how good or bad an experience feels is
 encoded in the symmetry of the mathematical
 
 372
-00:25:53,660 --> 00:25:58,580
+00:25:52,540 --> 00:25:57,480
 object that describes it, with harmony
 as pleasure and dissonance as suffering.
 
 373
-00:25:58,760 --> 00:26:03,890
+00:25:57,660 --> 00:26:02,790
 Its proponents have proposed brain-imaging
 tests based on the harmonics of neural
 
 374
-00:26:03,940 --> 00:26:07,840
+00:26:02,840 --> 00:26:06,760
 activity. Status: a conjecture
 without independent confirmation.
 
 375
-00:26:08,260 --> 00:26:13,670
+00:26:07,300 --> 00:26:12,570
 Nearby is David Pearce's non-materialist
 physicalism, which holds that the intrinsic
 
 376
-00:26:13,720 --> 00:26:18,330
+00:26:12,620 --> 00:26:17,230
 nature of the physical is experiential,
 and that the unity of experience comes from
 
 377
-00:26:18,380 --> 00:26:22,570
+00:26:17,280 --> 00:26:21,450
 quantum coherence in neurons over
 extraordinarily short timescales.
 
 378
-00:26:22,620 --> 00:26:27,000
+00:26:21,500 --> 00:26:25,900
 Pearce proposes a test that current
 technology cannot yet perform.
 
 379
-00:26:27,440 --> 00:26:30,160
+00:26:26,340 --> 00:26:29,060
 Status: speculative and untested.
 
 380
-00:26:30,360 --> 00:26:35,210
+00:26:29,280 --> 00:26:34,090
 The cognitive scientist Donald Hoffman
 argues in The Case Against Reality that
 
 381
-00:26:35,260 --> 00:26:39,890
+00:26:34,140 --> 00:26:38,770
 evolution tunes perception to fitness
 rather than truth, backed by published
 
 382
-00:26:39,940 --> 00:26:42,460
+00:26:38,820 --> 00:26:41,360
 simulations that others
 continue to debate.
 
 383
-00:26:43,000 --> 00:26:47,370
+00:26:41,820 --> 00:26:46,270
 Beyond that, he proposes that reality
 is fundamentally a network of conscious
 
 384
-00:26:47,420 --> 00:26:51,620
+00:26:46,320 --> 00:26:50,520
 agents. Status: the simulations
 are published science;
 
 385
-00:26:51,940 --> 00:26:55,240
+00:26:50,800 --> 00:26:54,140
 the conscious-agent theory has
 no confirmed predictions yet.
 
 386
-00:26:55,620 --> 00:27:01,243
+00:26:54,520 --> 00:27:00,210
 Thomas Campbell, a physicist, argues in
 his self-published trilogy My Big TOE that
 
 387
-00:27:01,293 --> 00:27:05,480
+00:27:00,260 --> 00:27:04,380
 physical reality is a virtual reality
 within a larger consciousness system.
 
 388
-00:27:05,740 --> 00:27:11,530
+00:27:04,640 --> 00:27:10,430
 He has proposed variations of the double-slit
 experiment as tests, and in 2024 a
 
 389
-00:27:11,580 --> 00:27:15,600
+00:27:10,480 --> 00:27:14,480
 nonprofit he founded announced that
 researchers had begun the first of them.
 
 390
-00:27:16,080 --> 00:27:19,340
+00:27:14,960 --> 00:27:18,240
 Status: no peer-reviewed
 results that I could find.
 
 391
-00:27:20,000 --> 00:27:25,450
+00:27:18,920 --> 00:27:24,330
 Itzhak Bentov's 1977 book Stalking the
 Wild Pendulum describes consciousness in
 
 392
-00:27:25,500 --> 00:27:28,260
+00:27:24,380 --> 00:27:27,180
 terms of vibration and
 oscillation underlying matter.
 
 393
-00:27:28,760 --> 00:27:33,720
+00:27:27,840 --> 00:27:32,600
 Status: a popular, speculative book that
 was never developed into a testable theory.
 
 394
-00:27:33,960 --> 00:27:38,570
+00:27:32,960 --> 00:27:37,470
 Ken Wilber's integral theory maps
 consciousness, culture, and contemplative
 
 395
-00:27:38,620 --> 00:27:40,460
+00:27:37,520 --> 00:27:39,340
 development into quadrants and stages.
 
 396
-00:27:41,020 --> 00:27:45,940
+00:27:39,960 --> 00:27:44,840
 Status: a philosophical and spiritual
 synthesis, not an empirical theory.
 
 397
-00:27:46,260 --> 00:27:51,560
+00:27:45,220 --> 00:27:50,440
 Two historical entries. The physicist
 Wolfgang Pauli and the psychiatrist Carl Jung,
 
 398
-00:27:51,840 --> 00:27:56,410
+00:27:50,720 --> 00:27:55,310
 over decades of correspondence, explored
 the idea that mind and matter are two
 
 399
-00:27:56,460 --> 00:28:01,680
+00:27:55,360 --> 00:28:00,560
 aspects of a single underlying reality,
 along with Jung's notion of synchronicity.
 
 400
-00:28:02,000 --> 00:28:07,880
+00:28:01,020 --> 00:28:06,780
 Status: a serious subject for historians
 and philosophers, not an empirical theory.
 
 401
-00:28:08,140 --> 00:28:13,510
+00:28:07,040 --> 00:28:12,390
 And Julian Jaynes's 1976 book on the
 bicameral mind argues that introspective
 
 402
-00:28:13,560 --> 00:28:18,230
+00:28:12,440 --> 00:28:17,130
 consciousness arose only about three
 thousand years ago, and that earlier people
 
 403
-00:28:18,280 --> 00:28:21,920
+00:28:17,180 --> 00:28:20,800
 experienced one hemisphere's
 commands as the voices of gods.
 
 404
-00:28:22,420 --> 00:28:25,240
+00:28:21,360 --> 00:28:24,140
 Status: admired as a provocation.
 
 405
-00:28:25,460 --> 00:28:30,290
+00:28:24,480 --> 00:28:29,230
 Its historical claims are widely disputed,
 though its emphasis on language in
 
 406
-00:28:30,340 --> 00:28:32,380
+00:28:29,280 --> 00:28:31,300
 shaping introspection has defenders.
 
 407
-00:28:32,860 --> 00:28:37,930
+00:28:31,660 --> 00:28:36,830
 What these ideas share is ambition, and
 the test for each is the same one we apply
 
 408
-00:28:37,980 --> 00:28:41,720
+00:28:36,880 --> 00:28:40,600
 to the mainstream: a prediction
 that someone could actually check.
 
 409
-00:28:41,960 --> 00:28:47,740
+00:28:40,920 --> 00:28:46,660
 That ends the detour. So in the next two
 episodes, we turn to what can be checked.
 
 410
-00:28:48,080 --> 00:28:53,370
+00:28:47,040 --> 00:28:52,250
 First the evidence: patients, experiments,
 altered states, animals, and the
 
 411
-00:28:53,420 --> 00:28:57,620
+00:28:52,300 --> 00:28:56,540
 remarkable tools that can now detect
 consciousness in people who cannot move.
 
 412
-00:28:58,000 --> 00:29:00,680
+00:28:56,740 --> 00:28:59,580
 Then the theories, put on
 trial against each other.

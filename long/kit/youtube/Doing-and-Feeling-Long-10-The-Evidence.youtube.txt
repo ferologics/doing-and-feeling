@@ -2,7 +2,9 @@ TITLE:
 The Evidence: what we can measure, and how sure we are | Doing and Feeling 10/14
 
 DESCRIPTION:
-Doing and Feeling: Intelligence and Consciousness in Depth, episode 10 of 14. What the science of consciousness can actually measure: neural correlates, no-report methods, blindsight and neglect, split brains, hidden awareness in unresponsive patients, the zap-and-zip complexity index, anesthesia, sleep, psychedelics, meditation, free will experiments and animal minds. Some famous findings turn out shakier than their reputations.
+Doing and Feeling: Intelligence and Consciousness in Depth, episode 10 of 14.
+
+What the science of consciousness can actually measure: neural correlates, no-report methods, blindsight and neglect, split brains, hidden awareness in unresponsive patients, the zap-and-zip complexity index, anesthesia, sleep, psychedelics, meditation, free will experiments and animal minds. Some famous findings turn out shakier than their reputations.
 
 Key sources:
 - Bodien et al. 2024, cognitive motor dissociation: https://www.cam.ac.uk/research/news/one-in-four-patients-in-vegetative-or-minimally-conscious-state-able-to-perform-cognitive-tasks
@@ -22,7 +24,7 @@ TAGS:
 consciousness science, neuroscience, blindsight, split brain, anesthesia, disorders of consciousness, psychedelics, meditation, free will, animal consciousness, Doing and Feeling, AI-narrated podcast
 
 CHAPTERS:
-This is Doing and Feeling | Blindsight in a corridor
+This is Doing and Feeling. | Blindsight in a corridor
 The modern program began in | Neural correlates and their confounds
 Here is the toolkit, because | The toolkit
 Now a measurement problem that | The criterion problem

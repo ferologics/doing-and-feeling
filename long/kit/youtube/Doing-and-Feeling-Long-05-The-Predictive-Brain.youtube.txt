@@ -2,7 +2,9 @@ TITLE:
 The Predictive Brain: perception, reward and maps as prediction | Doing and Feeling 5/14
 
 DESCRIPTION:
-Doing and Feeling: Intelligence and Consciousness in Depth, episode 5 of 14. Is the brain a prediction machine? Bayesian perception, predictive coding in the cortex, the free energy principle and its critics, dopamine as a reward prediction error, and cognitive maps in the hippocampus, with evidence that is messier than the slogans.
+Doing and Feeling: Intelligence and Consciousness in Depth, episode 5 of 14.
+
+Is the brain a prediction machine? Bayesian perception, predictive coding in the cortex, the free energy principle and its critics, dopamine as a reward prediction error, and cognitive maps in the hippocampus, with evidence that is messier than the slogans.
 
 Key sources:
 - Ernst & Banks 2002, optimal cue integration: https://doi.org/10.1038/415429a
@@ -22,7 +24,7 @@ TAGS:
 predictive processing, predictive coding, Bayesian brain, free energy principle, active inference, dopamine, reinforcement learning, hippocampus, cognitive maps, neuroscience, Doing and Feeling, AI-narrated podcast
 
 CHAPTERS:
-This is Doing and Feeling | The hollow mask
+This is Doing and Feeling. | The hollow mask
 The modern form of the | Perception as inference
 The second test is the | Predictive coding in the cortex
 The third test is the | The free energy principle

@@ -2,7 +2,9 @@ TITLE:
 Intelligence, Formally: prediction, compression and the measure of a mind | Doing and Feeling 3/14
 
 DESCRIPTION:
-Doing and Feeling: Intelligence and Consciousness in Depth, episode 3 of 14. Can intelligence be defined precisely? From Turing and Shannon to Solomonoff, Legg and Hutter's universal intelligence, the No Free Lunch theorems and Chollet's ARC benchmark: why every definition builds in assumptions, and why AI scores depend on how the test is run.
+Doing and Feeling: Intelligence and Consciousness in Depth, episode 3 of 14.
+
+Can intelligence be defined precisely? From Turing and Shannon to Solomonoff, Legg and Hutter's universal intelligence, the No Free Lunch theorems and Chollet's ARC benchmark: why every definition builds in assumptions, and why AI scores depend on how the test is run.
 
 Key sources:
 - Legg & Hutter 2007, universal intelligence: https://arxiv.org/abs/0712.3329
@@ -22,7 +24,7 @@ TAGS:
 intelligence, definition of intelligence, AGI, ARC-AGI, Turing test, compression, Solomonoff induction, AIXI, AI benchmarks, machine learning, Doing and Feeling, AI-narrated podcast
 
 CHAPTERS:
-This is Doing and Feeling | The Hutter Prize
+This is Doing and Feeling. | The Hutter Prize
 Start with Alan Turing. In | Turing's test
 The deeper story starts with | Shannon: prediction is compression
 If good prediction means good | Solomonoff and the ideal predictor

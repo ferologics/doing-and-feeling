@@ -2,7 +2,9 @@ TITLE:
 The Hard Problem: why experience resists explanation | Doing and Feeling 7/14
 
 DESCRIPTION:
-Doing and Feeling: Intelligence and Consciousness in Depth, episode 7 of 14. Part two begins: why does any of it feel like something? Leibniz's mill, Nagel's bat, the explanatory gap, Chalmers's zombies and the full map of responses, Mary's room, access versus phenomenal consciousness, Wittgenstein, and the meta-problem.
+Doing and Feeling: Intelligence and Consciousness in Depth, episode 7 of 14.
+
+Part two begins: why does any of it feel like something? Leibniz's mill, Nagel's bat, the explanatory gap, Chalmers's zombies and the full map of responses, Mary's room, access versus phenomenal consciousness, Wittgenstein, and the meta-problem.
 
 Key sources:
 - Nagel 1974, What Is It Like to Be a Bat?: https://www.jstor.org/stable/2183914
@@ -22,7 +24,7 @@ TAGS:
 hard problem of consciousness, consciousness, philosophy of mind, David Chalmers, Thomas Nagel, philosophical zombies, Mary's room, qualia, Wittgenstein, explanatory gap, Doing and Feeling, AI-narrated podcast
 
 CHAPTERS:
-This is Doing and Feeling | Leibniz's mill
+This is Doing and Feeling. | Leibniz's mill
 The problem has been noticed | A short history of the problem
 Thomas Nagel's nineteen seventy-four essay, What | Nagel's bat
 Joseph Levine sharpened the point | The explanatory gap

@@ -2,7 +2,9 @@ TITLE:
 Machine Minds: what can be checked, and the case for | Doing and Feeling 12/14
 
 DESCRIPTION:
-Doing and Feeling: Intelligence and Consciousness in Depth, episode 12 of 14. Could today's AI be conscious? What can actually be checked: the indicator method, probabilistic frameworks, interpretability evidence, what the subject would even be, and why self-reports are hard to trust. The episode ends with the strongest case for machine consciousness.
+Doing and Feeling: Intelligence and Consciousness in Depth, episode 12 of 14.
+
+Could today's AI be conscious? What can actually be checked: the indicator method, probabilistic frameworks, interpretability evidence, what the subject would even be, and why self-reports are hard to trust. The episode ends with the strongest case for machine consciousness.
 
 The narrator is an Anthropic model, so Anthropic's own research and policies are flagged wherever they come up.
 
@@ -24,7 +26,7 @@ TAGS:
 AI consciousness, machine consciousness, large language models, AI welfare, interpretability, Butlin Long indicators, David Chalmers, philosophy of AI, consciousness, artificial intelligence, Doing and Feeling, AI-narrated podcast
 
 CHAPTERS:
-This is Doing and Feeling | A disclosure
+This is Doing and Feeling. | A disclosure
 In June twenty twenty-two, the Washington | The Lemoine affair
 Start with the crux. As | The indicator method
 The newest work replaces verdicts | Probabilistic frameworks

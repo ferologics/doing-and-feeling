@@ -1,872 +1,840 @@
 1
-00:00:00,000 --> 00:00:28,800
-This is Doing and Feeling, the long version. Episode 2, Minds and Other Bodies. In 2002, researchers at Oxford published a short paper in Science about a new Caledonian crow named Betty. Betty and a male companion, Abel, were offered a little bucket of food at the bottom of a vertical tube, along with two pieces of wire, one straight and one hooked. Abel flew off with the hook. Betty picked up the straight wire, wedged one end, bent it into a hook, and fished out the bucket.
+00:00:00,000 --> 00:00:29,760
+This is Doing and Feeling, Episode 2, Minds and Other Bodies. In 2002, researchers at Oxford published a short paper in Science about a new Caledonian crow named Betty. Betty and a male companion, Abel, were offered a little bucket of food at the bottom of a vertical tube, along with two pieces of wire, one straight and one hooked. Abel flew off with the hook. Betty picked up the straight wire, wedged one end, bent it into a hook, and fished out the bucket. She did it again on later trials.
 
 2
-00:00:30,000 --> 00:00:35,820
-on later trials. It looked like insight, a bird solving a new problem by making a tool it had
+00:00:30,000 --> 00:00:35,760
+It looked like insight, a bird solving a new problem by making a tool it had never been taught to make.
 
 3
-00:00:35,820 --> 00:00:41,680
-never been taught to make. Fourteen years later, a team led by Christian Rutz complicated the story.
+00:00:36,260 --> 00:00:40,560
+Fourteen years later, a team led by Christian Rutz complicated the story.
 
 4
-00:00:42,100 --> 00:00:48,200
-Some wild-caught New Caledonian crows, kept briefly in field aviaries, bent straight twigs
+00:00:41,020 --> 00:00:47,920
+Some wild-caught New Caledonian crows, kept briefly in field aviaries, bent straight twigs without needing to,
 
 5
-00:00:48,200 --> 00:00:54,080
-without needing to, and one of them used Betty's exact wedge-and-pull technique. Bending may simply
+00:00:48,120 --> 00:00:51,600
+and one of them used Betty's exact wedge-and-pull technique.
 
 6
-00:00:54,080 --> 00:00:59,280
-be part of the species' toolkit, so Betty may have been running a routine rather than having a flash
+00:00:51,880 --> 00:00:58,740
+Bending may simply be part of the species' toolkit, so Betty may have been running a routine rather than having a flash of insight.
 
 7
-00:01:00,080 --> 00:01:02,680
-The authors did not rule inside out.
+00:01:00,000 --> 00:01:05,540
+did not rule inside out. Either way, the story carries the lesson of this whole episode.
 
 8
-00:01:02,980 --> 00:01:06,660
-Either way, the story carries the lesson of this whole episode.
+00:01:06,000 --> 00:01:11,380
+Here's the argument. Intelligence has evolved again and again in very different bodies and
 
 9
-00:01:07,060 --> 00:01:08,180
-Here's the argument.
+00:01:11,380 --> 00:01:17,060
+brains, in birds, in octopuses, in insects, and in simpler forms in cells and collectives.
 
 10
-00:01:08,660 --> 00:01:12,920
-Intelligence has evolved again and again in very different bodies and brains,
-
-11
-00:01:13,120 --> 00:01:18,160
-in birds, in octopuses, in insects, and in simpler forms in cells and collectives.
-
-12
-00:01:18,380 --> 00:01:23,640
+00:01:17,300 --> 00:01:22,520
 It is a family of solutions to the problems of staying alive, not a ladder with us at the top.
 
-13
-00:01:23,800 --> 00:01:26,440
-And when we study it, we err in both directions.
+11
+00:01:22,760 --> 00:01:28,400
+And when we study it, we err in both directions. We see minds that are not there, and we miss
 
-14
-00:01:27,020 --> 00:01:30,260
-We see minds that are not there, and we miss minds that are.
-
-15
-00:01:31,340 --> 00:01:32,820
+12
+00:01:30,140 --> 00:01:31,700
 Start with the two errors.
 
-16
-00:01:33,220 --> 00:01:38,560
-In the early 1900s, a horse in Berlin called Clever Hans appeared to do arithmetic,
+13
+00:01:32,020 --> 00:01:37,440
+In the early 1900s, a horse in Berlin called Clever Hands appeared to do arithmetic,
 
-17
-00:01:39,040 --> 00:01:40,700
+14
+00:01:38,000 --> 00:01:39,600
 tapping out answers with a hoof.
 
+15
+00:01:39,960 --> 00:01:45,880
+The psychologist Oskar Funxt showed that Hands was reading tiny, involuntary cues in his
+
+16
+00:01:45,880 --> 00:01:49,460
+questioner's posture, which relaxed when he reached the right number.
+
+17
+00:01:49,780 --> 00:01:52,340
+Hands was clever, just not at arithmetic.
+
 18
-00:01:41,080 --> 00:01:48,060
-The psychologist Oskar Funxt showed that Hans was reading tiny, involuntary cues in his questioner's posture,
-
-19
-00:01:48,240 --> 00:01:50,560
-which relaxed when he reached the right number.
-
-20
-00:01:50,860 --> 00:01:53,440
-Hans was clever, just not at arithmetic.
-
-21
-00:01:54,040 --> 00:01:59,240
+00:01:52,780 --> 00:01:58,160
 The corrective principle, called Morgan's Canon after the psychologist Conway Lloyd Morgan,
 
-22
-00:01:59,600 --> 00:02:04,120
-says not to credit a behavior to a higher faculty if a lower one would explain it.
+19
+00:02:00,000 --> 00:02:03,000
+to a higher faculty if a lower one would explain it.
 
-23
-00:02:04,460 --> 00:02:08,580
+20
+00:02:03,340 --> 00:02:07,480
 Clever hands is the founding parable of machine learning evaluation.
 
-24
-00:02:08,980 --> 00:02:14,100
+21
+00:02:07,800 --> 00:02:13,000
 Two, a model that scores well by exploiting a spurious cue in its data
 
-25
-00:02:14,100 --> 00:02:16,960
+22
+00:02:13,000 --> 00:02:15,840
 is literally called a clever hands predictor.
 
-26
-00:02:17,180 --> 00:02:19,240
+23
+00:02:16,080 --> 00:02:18,180
 And he'll be back when we get to machines.
 
+24
+00:02:18,700 --> 00:02:21,340
+The opposite error is refusing to credit a mind
+
+25
+00:02:21,340 --> 00:02:23,300
+even when the evidence is strong.
+
+26
+00:02:23,700 --> 00:02:27,560
+The primatologist Franz Duval called it anthropodennial
+
 27
-00:02:19,740 --> 00:02:24,400
-The opposite error is refusing to credit a mind even when the evidence is strong.
+00:02:27,560 --> 00:02:33,940
+and argued that the history of animal cognition is largely a history of humans testing animals badly
 
 28
-00:02:24,780 --> 00:02:28,680
-The primatologist Franz de Waal called it anthropodennial
+00:02:33,940 --> 00:02:35,940
+and then underestimating them.
 
 29
-00:02:28,680 --> 00:02:31,520
-and argued that the history of animal cognition
+00:02:36,160 --> 00:02:40,440
+Part of the problem is what the biologist Jakob von Uck School called the umwelt,
 
 30
-00:02:31,520 --> 00:02:37,060
-is largely a history of humans testing animals badly and then underestimating them.
-
-31
-00:02:37,280 --> 00:02:41,560
-Part of the problem is what the biologist Jakob van Uckschool called the umwelt,
-
-32
-00:02:41,880 --> 00:02:43,920
+00:02:40,720 --> 00:02:42,800
 an animal's own perceptual world.
 
+31
+00:02:43,040 --> 00:02:49,900
+A tick waiting on a branch responds to little more than the smell of mammal skin, warmth, and the texture of hair.
+
+32
+00:02:50,320 --> 00:02:56,760
+A test designed around human senses and human interests can easily miss what another animal is good at.
+
 33
-00:02:44,120 --> 00:02:48,800
-A tick waiting on a branch responds to little more than the smell of mammal skin,
+00:02:57,560 --> 00:03:01,060
+Every result in this episode comes with the same question attached.
 
 34
-00:02:49,240 --> 00:02:55,480
-warmth, and the texture of hair. A test designed around human senses and human interests can
+00:03:01,420 --> 00:03:03,860
+Which of the two errors is it most at risk of?
 
 35
-00:02:55,480 --> 00:03:01,180
-easily miss what another animal is good at. So every result in this episode comes with the same
+00:03:04,960 --> 00:03:06,320
+Begin with the birds.
 
 36
-00:03:01,180 --> 00:03:08,200
-question attached. Which of the two errors is it most at risk of? Begin with the birds. New
+00:03:06,920 --> 00:03:09,540
+New Caledonian crows do not just use tools.
 
 37
-00:03:08,200 --> 00:03:15,320
-Caledonian crows do not just use tools. In 2018, a team showed them assembling compound tools,
+00:03:09,880 --> 00:03:14,220
+In 2018, a team showed them assembling compound tools,
 
 38
-00:03:15,320 --> 00:03:19,140
+00:03:14,480 --> 00:03:18,040
 fitting short pieces together into one long enough to reach a reward,
 
 39
-00:03:19,380 --> 00:03:20,860
+00:03:18,260 --> 00:03:19,740
 without having been shown how.
 
 40
-00:03:21,160 --> 00:03:22,500
+00:03:20,100 --> 00:03:21,380
 Ravens appeared a plan.
 
 41
-00:03:22,700 --> 00:03:29,160
-In 2017, Kankabadaya and Mathias Osvath showed that ravens would select a tool,
+00:03:21,880 --> 00:03:28,040
+In 2017, Kankabadaya and Mathias Asfath showed that ravens would select a tool
 
 42
-00:03:29,500 --> 00:03:31,820
-or a token they could later trade for food,
+00:03:28,040 --> 00:03:30,700
+or a token they could later trade for food
 
 43
-00:03:31,980 --> 00:03:35,120
+00:03:30,700 --> 00:03:34,020
 and keep it for use after a delay as long as a night,
 
 44
-00:03:35,440 --> 00:03:38,740
+00:03:34,280 --> 00:03:37,640
 performing about as well as great apes on similar tasks.
 
 45
-00:03:38,960 --> 00:03:41,580
+00:03:37,940 --> 00:03:40,480
 And scrub jays seemed to model other minds.
 
 46
-00:03:42,060 --> 00:03:45,440
+00:03:40,720 --> 00:03:44,340
 In a classic study by Nathan Emery and Nicola Clayton,
 
 47
-00:03:45,960 --> 00:03:50,220
+00:03:44,860 --> 00:03:49,120
 jays that had been watched while hiding food often came back alone and moved it,
 
 48
-00:03:50,400 --> 00:03:53,020
-but only if they had stolen from others themselves.
+00:03:49,120 --> 00:03:55,360
+but only if they had stolen from others themselves. Experienced thieves seem to anticipate theft.
 
 49
-00:03:53,840 --> 00:03:56,480
-Experienced thieves seemed to anticipate theft.
+00:03:55,660 --> 00:04:01,800
+How do birds manage this with brains the size of a walnut? Part of the answer came in 2016,
 
 50
-00:03:56,920 --> 00:04:00,120
-How do birds manage this with brains the size of a walnut?
+00:04:02,200 --> 00:04:09,000
+when Sueren Olkovich, Susanna Herculano, Uzel, and colleagues counted neurons in the brains of
 
 51
-00:04:00,420 --> 00:04:04,920
-Part of the answer came in 2016, when Sueren Olkovich,
+00:04:09,000 --> 00:04:15,480
+28 bird species. Parrots and songbirds pack neurons about twice as densely as primates with
 
 52
-00:04:05,320 --> 00:04:07,920
-Susanna Herculano, Uzel, and colleagues
+00:04:15,480 --> 00:04:22,000
+brains of the same mass. A large macaws forebrain holds at least as many neurons as a macaque monkey's
 
 53
-00:04:07,920 --> 00:04:11,320
-counted neurons in the brains of 28 bird species.
+00:04:22,000 --> 00:04:27,860
+cortex, in a brain a fraction of the size. Corvids still fall well short of great apes,
 
 54
-00:04:12,220 --> 00:04:17,980
-Parrots and songbirds pack neurons about twice, as densely as primates with brains of the same mass.
+00:04:27,960 --> 00:04:34,040
+so the claim is not that crows equal chimpanzees. It's that a small brain can carry a great deal of
 
 55
-00:04:18,160 --> 00:04:23,500
-A large macaws forebrain holds at least as many neurons as a macaque monkey's cortex,
+00:04:34,040 --> 00:04:39,520
+computing power. Birds also lack the layered cortex that mammals have, which long made their
 
 56
-00:04:23,840 --> 00:04:25,880
-in a brain a fraction of the size.
+00:04:39,520 --> 00:04:46,460
+intelligence look like a puzzle. In 2020, Martin Stasho, Honor Gunterkun, and colleagues found that
 
 57
-00:04:26,620 --> 00:04:32,220
-Corvids still fall well short of great apes, so the claim is not that crows equal chimpanzees.
+00:04:46,460 --> 00:04:51,620
+parts of the bird forebrain contain repeating, column-like circuits strikingly similar to the
 
 58
-00:04:32,360 --> 00:04:35,980
-It's that a small brain can carry a great deal of computing power.
+00:04:51,620 --> 00:04:58,900
+organization of our cortex, though not in every region. Then, in February 2025, a set of papers
 
 59
-00:04:36,380 --> 00:04:39,380
-Birds also lack the layered cortex that mammals have,
+00:04:58,900 --> 00:05:04,180
+in Science traced how these bird circuits develop. The circuits arise from different developmental
 
 60
-00:04:39,380 --> 00:04:42,000
-which long made their intelligence look like a puzzle.
+00:05:04,180 --> 00:05:10,180
+origins and mostly different gene programs than the mammalian cortex, though a few neuron types
 
 61
-00:04:42,380 --> 00:04:46,860
-In 2020, Martin Stasho, Honor Gunter-Kuhn, and colleagues
+00:05:10,180 --> 00:05:16,660
+do look shared. Birds and mammals last shared an ancestor around 320 million years ago.
 
 62
-00:04:46,860 --> 00:04:51,240
-found that parts of the bird forebrain contain repeating, column-like circuits
+00:05:16,920 --> 00:05:22,040
+What they share is not an inherited cortex. It's largely a convergent solution,
 
 63
-00:04:51,240 --> 00:04:55,840
-strikingly similar to the organization of our cortex, though not in every region.
+00:05:22,340 --> 00:05:27,760
+arrived at twice. Biologists treat convergence as nature's own replication study.
 
 64
-00:04:56,360 --> 00:05:02,640
-Then, in February 2025, a set of papers in Science traced how these bird circuits develop.
+00:05:28,420 --> 00:05:31,260
+Eyes evolved many times, and so did flight.
 
 65
-00:05:02,980 --> 00:05:05,860
-The circuits arise from different developmental origins
+00:05:31,660 --> 00:05:34,660
+When unrelated lineages arrive at similar answers,
 
 66
-00:05:05,860 --> 00:05:11,560
-and mostly different gene programs than the mammalian cortex, though a few neuron types do
+00:05:34,980 --> 00:05:39,040
+it suggests the answer is shaped by the problem more than by the ancestry.
 
 67
-00:05:11,560 --> 00:05:17,760
-look shared. Birds and mammals last shared an ancestor around 320 million years ago.
+00:05:39,420 --> 00:05:43,680
+That is a claim about organization, not about any particular tissue.
 
 68
-00:05:18,000 --> 00:05:24,440
-What they share is not an inherited cortex. It's largely a convergent solution, arrived at twice.
+00:05:44,660 --> 00:05:47,040
+The octopus pushes the point further.
 
 69
-00:05:25,060 --> 00:05:31,060
-Biologists treat convergence as nature's own replication study. Eyes evolved many times,
+00:05:47,640 --> 00:05:51,880
+Octopuses are mollusks, closer to clams and snails than to us,
 
 70
-00:05:31,060 --> 00:05:37,700
-and so did flight. When unrelated lineages arrive at similar answers, it suggests the answer is
+00:05:52,000 --> 00:05:57,640
+and the last common ancestor of octopuses and humans lived perhaps 600 million years ago,
 
 71
-00:05:37,700 --> 00:05:43,900
-shaped by the problem more than by the ancestry. That is a claim about organization, not about any
+00:05:57,760 --> 00:06:01,040
+Probably a small, simple, worm-like animal.
 
 72
-00:05:43,900 --> 00:05:51,600
-particular tissue. The octopus pushes the point further. Octopuses are mollusks, closer to clams
+00:06:01,520 --> 00:06:06,260
+Everything sophisticated about octopus cognition evolved separately from ours.
 
 73
-00:05:51,600 --> 00:05:57,240
-and snails than to us, and the last common ancestor of octopuses and humans lived perhaps
+00:06:06,780 --> 00:06:08,900
+Separately is doing a lot of work there.
 
 74
-00:05:57,240 --> 00:06:04,400
-600 million years ago, probably a small, simple, worm-like animal. Everything sophisticated about
-
-75
-00:06:04,400 --> 00:06:10,020
-octopus cognition evolved separately from ours. Separately is doing a lot of work there.
-
-76
-00:06:10,580 --> 00:06:16,100
+00:06:09,460 --> 00:06:14,980
 Octopuses still have neurons, synapses, and many of the same molecular parts we do.
 
+75
+00:06:15,440 --> 00:06:17,360
+True, and it's worth being precise.
+
+76
+00:06:17,700 --> 00:06:21,620
+The building blocks are shared, inherited from that distant ancestor.
+
 77
-00:06:16,480 --> 00:06:22,140
-True, and it's worth being precise. The building blocks are shared, inherited from that distant
+00:06:21,980 --> 00:06:26,200
+Nerve cells, the basic signaling machinery, many of the same genes.
 
 78
-00:06:22,140 --> 00:06:27,980
-ancestor. Nerve cells, the basic signaling machinery, many of the same genes. When the
+00:06:27,760 --> 00:06:34,140
+was sequenced in 2015, it even showed a large expansion of a gene family called the protocaterines,
 
 79
-00:06:27,980 --> 00:06:34,180
-octopus genome was sequenced in 2015, it even showed a large expansion of a gene family called
+00:06:34,380 --> 00:06:40,020
+which help wire up neurons, a family that had also expanded, independently, in vertebrates.
 
 80
-00:06:34,180 --> 00:06:40,120
-the protocaterines, which help wire up neurons, a family that had also expanded, independently,
+00:06:40,240 --> 00:06:45,620
+What evolved separately is the large-scale architecture. How many neurons, how they're
 
 81
-00:06:40,460 --> 00:06:46,000
-in vertebrates. What evolved separately is the large-scale architecture. How many neurons,
+00:06:45,620 --> 00:06:52,140
+organized, and what they do. Same bricks, different buildings. An octopus has about 500 million
 
 82
-00:06:46,280 --> 00:06:51,920
-how they're organized, and what they do. Same bricks, different buildings. An octopus has
+00:06:52,140 --> 00:06:56,760
+neurons, and about two-thirds of them are in its arms rather than its central brain.
 
 83
-00:06:52,140 --> 00:06:57,840
-500 million neurons, and about two-thirds of them are in its arms rather than its central brain.
+00:06:56,940 --> 00:07:03,240
+The arms carry out complex actions semi-independently. Octopuses solve puzzles,
 
 84
-00:06:58,120 --> 00:07:04,360
-The arms carry out complex actions semi-independently. Octopeuses solve puzzles,
-
-85
-00:07:04,740 --> 00:07:09,880
+00:07:03,640 --> 00:07:08,740
 escape from tanks, recognize individual people, and appear to play. Their relatives,
 
-86
-00:07:10,200 --> 00:07:16,720
+85
+00:07:09,200 --> 00:07:15,600
 cuttlefish, passed a version of the marshmallow test in a 2021 study led by Alexandra Schnell.
 
-87
-00:07:17,200 --> 00:07:20,880
+86
+00:07:16,180 --> 00:07:19,780
 They would pass up a less preferred food to get a preferred one later,
 
+87
+00:07:20,220 --> 00:07:23,000
+waiting anywhere from under a minute to more than two minutes,
+
 88
-00:07:22,140 --> 00:07:27,300
-from under a minute to more than two minutes, and the best waiters were also the fastest learners.
+00:07:23,140 --> 00:07:26,180
+and the best waiters were also the fastest learners.
 
 89
-00:07:27,680 --> 00:07:32,980
-There's a puzzle in their life history, too. Most octopuses live only a year or two,
+00:07:26,600 --> 00:07:28,760
+There's a puzzle in their life history, too.
 
 90
-00:07:33,200 --> 00:07:37,300
-and many die soon after breeding, so the young never meet their parents.
+00:07:29,120 --> 00:07:33,940
+Most octopuses live only a year or two, and many die soon after breeding,
 
 91
-00:07:37,760 --> 00:07:44,320
-In our own lineage, big brains go with long lives and long childhoods. A 2019 review by
+00:07:34,200 --> 00:07:36,180
+so the young never meet their parents.
 
 92
-00:07:44,320 --> 00:07:49,420
-Piro Amodio, Nicola Clayton and colleagues suggested that losing the protective shell
+00:07:36,540 --> 00:07:41,120
+In our own lineage, big brains go with long lives and long childhoods.
 
 93
-00:07:49,420 --> 00:07:55,280
-drove cephalopod intelligence. Once exposed, these animals needed flexible ways to hunt
+00:07:41,240 --> 00:07:44,140
+A 2019 review by Piro Amodio,
 
 94
-00:07:55,280 --> 00:08:00,680
-and to avoid being eaten. Whatever the right answer turns out to be, it's a different route
+00:07:44,740 --> 00:07:48,300
+Nicola Clayton and colleagues suggested that losing the protective shell
 
 95
-00:08:00,680 --> 00:08:06,520
-to a large brain under different pressures, which is exactly what you'd expect if intelligence is a
+00:07:50,220 --> 00:07:55,680
+Once exposed, these animals needed flexible ways to hunt and to avoid being eaten.
 
 96
-00:08:06,520 --> 00:08:12,100
-family of solutions rather than a ladder. The philosopher Peter Godfrey Smith, who has spent
+00:07:56,200 --> 00:08:02,060
+Whatever the right answer turns out to be, it's a different route to a large brain under different pressures,
 
 97
-00:08:12,100 --> 00:08:17,740
-years diving with octopuses, wrote that meeting one is probably the closest we will come to meeting
+00:08:02,380 --> 00:08:07,720
+which is exactly what you'd expect if intelligence is a family of solutions rather than a ladder.
 
 98
-00:08:19,420 --> 00:08:23,640
-We'll keep returning to the octopus in the philosophy of Episode 9,
+00:08:07,960 --> 00:08:12,540
+The philosopher Peter Godfrey Smith, who has spent years diving with octopuses,
 
 99
-00:08:23,920 --> 00:08:28,640
-the evidence of Episode 10, and the machine debates of Episodes 12 and 13,
+00:08:13,020 --> 00:08:17,840
+wrote that meeting one is probably the closest we will come to meeting an intelligent alien.
 
 100
-00:08:29,180 --> 00:08:33,400
-because it shows that complex cognition can be built on a radically different plan.
+00:08:19,780 --> 00:08:25,960
+octopus, in the philosophy of episode 9, the evidence of episode 10, and the machine debates
 
 101
-00:08:34,800 --> 00:08:37,380
-Insects push the size question to an extreme.
+00:08:25,960 --> 00:08:31,600
+of episodes 12 and 13, because it shows that complex cognition can be built on a radically
 
 102
-00:08:37,820 --> 00:08:43,340
-A honeybee brain has about a million neurons, nearly 100,000 times fewer than ours.
+00:08:31,600 --> 00:08:38,640
+different plan. Insects push the size question to an extreme. A honeybee brain has about a million
 
 103
-00:08:43,780 --> 00:08:49,280
-Yet honeybees perform the waggle dance, the symbolic communication of direction and distance,
+00:08:38,640 --> 00:08:45,060
+neurons, nearly a hundred thousand times fewer than ours. Yet honeybees perform the waggle dance,
 
 104
-00:08:49,420 --> 00:08:53,720
-that won Carl von Frisch a share of the 1973 Nobel Prize.
+00:08:45,060 --> 00:08:50,560
+the symbolic communication of direction and distance that won Carl von Frisch a share of
 
 105
-00:08:54,040 --> 00:08:56,180
-How can so few neurons do so much?
+00:08:50,560 --> 00:08:58,540
+the 1973 Nobel Prize. How can so few neurons do so much? In a 2009 review, Lars Chitka and
 
 106
-00:08:56,340 --> 00:09:04,000
-In a 2009 review, Lars Chitka and Jeremy Niven argued that many abilities we associate with big brains
+00:08:58,540 --> 00:09:04,080
+Jeremy Niven argued that many abilities we associate with big brains need surprisingly
 
 107
-00:09:04,000 --> 00:09:09,200
-need surprisingly small circuits, and that bigger brains often buy more detail,
+00:09:04,080 --> 00:09:10,300
+small circuits, and that bigger brains often buy more detail, more memory, and more parallel
 
 108
-00:09:09,600 --> 00:09:14,700
-more memory, and more parallel processing, rather than qualitatively new kinds of thinking.
+00:09:10,300 --> 00:09:15,920
+processing, rather than qualitatively new kinds of thinking. Bumblebees show something closer to
 
 109
-00:09:15,300 --> 00:09:17,460
-Bumblebees show something closer to culture.
+00:09:15,920 --> 00:09:23,340
+culture. In 2016, Sylvain Allem, Lars Chitka, and colleagues hid an artificial flower under a clear
 
 110
-00:09:19,500 --> 00:09:25,280
-Sylvain Allem, Lars Chitka, and colleagues hid an artificial flower under a clear plastic sheet,
+00:09:23,340 --> 00:09:31,160
+plastic sheet, reachable only by pulling a string. Left to themselves, just two of 291 bees solved it.
 
 111
-00:09:25,580 --> 00:09:32,280
-reachable only by pulling a string. Left to themselves, just two of 291 bees solved it.
+00:09:31,360 --> 00:09:36,020
+But most bees that watched a trained demonstrator learned it, and the skills spread through
 
 112
-00:09:32,360 --> 00:09:37,680
-But most bees that watched a trained demonstrator learned it, and the skill spread through colonies.
+00:09:36,020 --> 00:09:42,140
+colonies. The mechanism matters, though. Observers seem to have been drawn to the string, and then
 
 113
-00:09:38,180 --> 00:09:42,560
-The mechanism matters, though. Observers seem to have been drawn to the string,
+00:09:42,140 --> 00:09:47,920
+to have learned by trial and error. That is not imitation of the pulling movement, and Morgan's
 
 114
-00:09:42,740 --> 00:09:48,060
-and then to have learned by trial and error. That is not imitation of the pulling movement,
+00:09:47,920 --> 00:09:54,920
+canon says to take that reading seriously. In 2024, Chitka's group went further. They built a
 
 115
-00:09:49,420 --> 00:09:56,580
-says to take that reading seriously. In 2024, Chitka's group went further. They built a two-step
+00:09:54,920 --> 00:10:01,520
+two-step puzzle box that no bee solved on its own, over 12 days or more of access, yet several bees
 
 116
-00:09:56,580 --> 00:10:02,920
-puzzle box that no bee solved on its own, over 12 days or more of access, yet several bees learned
+00:10:01,520 --> 00:10:06,280
+learned it from trained demonstrators, that social learning of a behavior too complex
 
 117
-00:10:02,920 --> 00:10:08,540
-it from trained demonstrators. That's social learning of a behavior too complex to invent alone,
+00:10:06,280 --> 00:10:11,200
+to invent alone, which in humans we treat as the seed of cumulative culture.
 
 118
-00:10:08,800 --> 00:10:16,560
-which in humans we treat as the seed of cumulative culture. And in 2022, the same lab reported that
+00:10:11,540 --> 00:10:19,240
+And in 2022, the same lab reported that bumblebees rolled small balls over and over with no reward
 
 119
-00:10:16,560 --> 00:10:22,580
-bumblebees rolled small balls over and over with no reward and came to prefer a colored chamber
+00:10:19,240 --> 00:10:23,100
+and came to prefer a colored chamber they associated with the balls.
 
 120
-00:10:22,580 --> 00:10:28,900
-they associated with the balls. Play in an insect. That's exactly where I'd reach for Morgan's canon.
+00:10:23,720 --> 00:10:24,860
+Play in an insect.
 
 121
-00:10:29,220 --> 00:10:35,440
-So did the authors by design. They checked the standard criteria animal behaviorists use for
+00:10:25,140 --> 00:10:27,780
+That's exactly where I'd reach for Morgan's cannon.
 
 122
-00:10:35,440 --> 00:10:41,280
-play. The behavior is voluntary, not directly rewarded, repeated, and done when the animal
+00:10:28,400 --> 00:10:30,180
+So did the authors, by design.
 
 123
-00:10:41,280 --> 00:10:46,600
-is relaxed rather than stressed. Whether anything is enjoyed is a question for part two.
+00:10:31,520 --> 00:10:37,580
+standard criteria animal behaviorists use for play. The behavior is voluntary, not directly
 
 124
-00:10:46,940 --> 00:10:54,000
-As behavior, it met the criteria. Is there a general intelligence in animals, like human G?
+00:10:37,580 --> 00:10:43,220
+rewarded, repeated, and done when the animal is relaxed rather than stressed. Whether anything
 
 125
-00:10:54,540 --> 00:11:00,680
-Within species, increasingly yes. Louis Matzel and colleagues found that mice good at one kind
+00:10:43,220 --> 00:10:51,060
+is enjoyed is a question for part two. As behavior, it met the criteria. Is there a general intelligence
 
 126
-00:11:00,680 --> 00:11:05,780
-of learning tend to be good at others, with a general factor accounting for roughly two-fifths
+00:10:51,060 --> 00:10:58,000
+in animals, like human G? Within species, increasingly yes. Louis Matzel and colleagues
 
 127
-00:11:05,780 --> 00:11:11,400
-of the differences on their test batteries. Across species, Simon Reeder, Ifka Hodger,
+00:10:58,000 --> 00:11:02,760
+found that mice good at one kind of learning tend to be good at others, with a general factor
 
 128
-00:11:11,540 --> 00:11:17,460
-and Kevin Laland compiled reports of innovation, social learning, and tool use for 62 primate
+00:11:02,760 --> 00:11:07,380
+accounting for roughly two-fifths of the differences on their test batteries. Across
 
 129
-00:11:17,460 --> 00:11:22,760
-species, and found that a single dimension captured most of the variation, with high
+00:11:07,380 --> 00:11:12,920
+species, Simon Reeder, Ifka Hodger, and Kevin Laland compiled reports of innovation,
 
 130
-00:11:22,760 --> 00:11:29,460
-scores evolving independently in several lineages—capuchins, baboons, macaques, and great apes.
+00:11:13,380 --> 00:11:18,940
+social learning, and tool use for 62 primate species, and found that a single dimension
 
 131
-00:11:29,460 --> 00:11:39,640
-In a 2017 paper in the journal Behavioral and Brain Sciences, Judith Burkhart, Michael Schubiger, and Karel van Skijk drew these strands together,
+00:11:18,940 --> 00:11:25,740
+captured most of the variation, with high scores evolving independently in several lineages—capuchins,
 
 132
-00:11:40,060 --> 00:11:47,340
-arguing that general intelligence is not unique to humans and linking its evolution to how much animals learn from one another.
+00:11:25,740 --> 00:11:32,720
+baboons, macaques, and great apes. In a 2017 paper in the journal Behavioral and Brain Sciences,
 
 133
-00:11:47,500 --> 00:11:52,400
-But the measurement problems are serious, and they're the problems of episode one in new clothes.
+00:11:33,420 --> 00:11:38,520
+Judith Burkhart, Michael Schubiger, and Karel van Skijk drew these strands together,
 
 134
-00:11:52,640 --> 00:11:56,360
-In animal studies, being keen on food can look like being clever.
+00:11:38,800 --> 00:11:44,720
+arguing that general intelligence is not unique to humans and linking its evolution to how much
 
 135
-00:11:57,140 --> 00:12:00,800
-Samples are often small and drawn from a single laboratory strain,
+00:11:44,720 --> 00:11:49,880
+animals learn from one another. But the measurement problems are serious, and they're the problems of
 
 136
-00:12:01,000 --> 00:12:03,100
-and species differ in what they're good at.
+00:11:49,880 --> 00:11:55,260
+episode one in new clothes. In animal studies, being keen on food can look like being clever.
 
 137
-00:12:03,400 --> 00:12:08,200
-In 2007, Esther Hermann and colleagues gave the same broad battery
+00:11:55,740 --> 00:11:59,700
+Samples are often small and drawn from a single laboratory strain,
 
 138
-00:12:08,200 --> 00:12:12,240
-to two-and-a-half-year-old children, chimpanzees, and orangutans.
+00:11:59,880 --> 00:12:02,000
+and species differ in what they're good at.
 
 139
-00:12:12,480 --> 00:12:15,940
-On physical problems about tools, quantities, and space,
+00:12:02,260 --> 00:12:07,100
+In 2007, Esther Hermann and colleagues gave the same broad battery
 
 140
-00:12:16,160 --> 00:12:18,600
-the toddlers and the apes performed similarly.
+00:12:07,100 --> 00:12:11,140
+to two-and-a-half-year-old children, chimpanzees, and orangutans.
 
 141
-00:12:19,000 --> 00:12:23,820
-On social problems, such as following someone's gaze or learning by watching,
+00:12:11,320 --> 00:12:14,840
+On physical problems about tools, quantities, and space,
 
 142
-00:12:24,120 --> 00:12:25,820
-the toddlers were far ahead.
+00:12:15,040 --> 00:12:17,500
+the toddlers and the apes performed similarly.
 
 143
-00:12:26,360 --> 00:12:28,780
-Humans do not sit at the top of a single ladder.
+00:12:17,840 --> 00:12:22,720
+On social problems, such as following someone's gaze or learning by watching,
 
 144
-00:12:29,080 --> 00:12:32,000
-We are unusually specialized for learning from each other.
+00:12:23,040 --> 00:12:24,700
+the toddlers were far ahead.
 
 145
-00:12:32,380 --> 00:12:34,280
-Brains tell the same mixed story.
+00:12:25,740 --> 00:12:30,880
+do not sit at the top of a single ladder. We are unusually specialized for learning from each other.
 
 146
-00:12:34,500 --> 00:12:43,220
-In 2014, Evan McLean and dozens of collaborators tested self-control in 567 animals from 36 species.
+00:12:31,240 --> 00:12:38,700
+Brains tell the same mixed story. In 2014, Evan McLean and dozens of collaborators tested self-control
 
 147
-00:12:43,960 --> 00:12:48,640
-Absolute brain size predicted performance better than brain size relative to the body.
+00:12:38,700 --> 00:12:46,420
+in 567 animals from 36 species. Absolute brain size predicted performance better than brain size
 
 148
-00:12:49,000 --> 00:12:53,160
-And among primates, the breadth of a species' diet predicted self-control,
+00:12:46,420 --> 00:12:52,060
+relative to the body. And among primates, the breadth of a species diet predicted self-control,
 
 149
-00:12:53,360 --> 00:12:55,660
+00:12:52,060 --> 00:12:54,540
 while the size of its social groups did not.
 
 150
-00:12:56,360 --> 00:12:58,400
+00:12:54,820 --> 00:12:57,280
 Different pressures produce different profiles.
 
 151
-00:12:59,480 --> 00:13:01,700
+00:12:58,360 --> 00:13:00,620
 Now go below the level of brains.
 
 152
-00:13:02,040 --> 00:13:05,920
+00:13:00,980 --> 00:13:04,820
 The biologist Michael Levin studies what he calls basal cognition,
 
 153
-00:13:06,340 --> 00:13:08,640
+00:13:05,180 --> 00:13:07,540
 problem-solving by cells and tissues.
 
 154
-00:13:08,940 --> 00:13:14,020
+00:13:08,060 --> 00:13:12,880
 His framework, called TAME, borrows an old criterion from William James
 
 155
-00:13:14,020 --> 00:13:18,340
+00:13:12,880 --> 00:13:17,220
 that intelligence is the ability to reach the same goal by different means.
 
 156
-00:13:18,740 --> 00:13:21,160
+00:13:17,620 --> 00:13:20,060
 Levin's lab studies bioelectricity,
 
 157
-00:13:21,380 --> 00:13:26,120
-the patterns of voltage across cell membranes that help coordinate how tissues grow.
+00:13:22,060 --> 00:13:28,280
+cell membranes that help coordinate how tissues grow. Flatworms called planaria can regrow a whole
 
 158
-00:13:26,860 --> 00:13:30,380
-Flatworms called planaria can regrow a whole body from a fragment.
+00:13:28,280 --> 00:13:34,240
+body from a fragment. In one experiment, briefly blocking the electrical connections between cells
 
 159
-00:13:30,760 --> 00:13:35,340
-In one experiment, briefly blocking the electrical connections between cells
+00:13:34,240 --> 00:13:39,580
+made some fragments regrow with two heads, and those worms kept regrowing two heads when cut
 
 160
-00:13:35,340 --> 00:13:37,640
-made some fragments regrow with two heads,
+00:13:39,580 --> 00:13:44,660
+again, with no further treatment. Even some treated worms that looked normal grew two heads
 
 161
-00:13:37,780 --> 00:13:42,420
-and those worms kept regrowing two heads when cut again, with no further treatment.
+00:13:44,660 --> 00:13:50,340
+when they were cut later, as if a stored pattern had been rewritten. Levin's group has also built
 
 162
-00:13:42,760 --> 00:13:46,660
-Even some treated worms that looked normal grew two heads when they were cut later,
+00:13:52,060 --> 00:13:56,920
+and anthrobots from human airway cells, small living constructs that move on their own.
 
 163
-00:13:46,880 --> 00:13:48,980
-as if a stored pattern had been rewritten.
+00:13:57,160 --> 00:14:01,980
+What they show about cognition, as opposed to the remarkable plasticity of development,
 
 164
-00:13:49,820 --> 00:13:55,300
-Levin's group has also built xenobots from frog cells and anthrobots from human airway cells,
+00:14:02,260 --> 00:14:08,180
+is still argued over. Even a single cell can solve spatial problems. The slime mold
 
 165
-00:13:56,400 --> 00:14:01,820
-constructs that move on their own. What they show about cognition, as opposed to the remarkable
+00:14:08,180 --> 00:14:14,080
+Fisarum polycephalum, one giant cell with many nuclei, finds short paths through mazes.
 
 166
-00:14:01,820 --> 00:14:07,860
-plasticity of development, is still argued over. Even a single cell can solve spatial problems.
+00:14:14,360 --> 00:14:20,680
+In a 2010 experiment, researchers placed oat flakes in the positions of the cities around Tokyo,
 
 167
-00:14:08,240 --> 00:14:14,760
-The slime mold Fisarum polycephalum, one giant cell with many nuclei, finds short paths through
+00:14:28,100 --> 00:14:32,500
+That's a distributed optimizer. I'm not sure I'd call it intelligent.
 
 168
-00:14:14,760 --> 00:14:21,320
-mazes. In a 2010 experiment, researchers placed oat flakes in the positions of the cities around
+00:14:32,980 --> 00:14:36,220
+That's the live debate, and it's partly about vocabulary.
 
 169
-00:14:21,320 --> 00:14:26,820
-Tokyo, and the slime mold grew a network of tubes that closely matched the efficiency and
+00:14:37,020 --> 00:14:43,020
+Levin would say intelligence comes in degrees, how well a system navigates toward goals in some space,
 
 170
-00:14:26,820 --> 00:14:33,080
-resilience of the Tokyo rail system. That's a distributed optimizer. I'm not sure I'd call it
+00:14:43,200 --> 00:14:46,080
+whether physical, anatomical, or behavioral.
 
 171
-00:14:33,080 --> 00:14:39,400
-intelligent. That's the live debate, and it's partly about vocabulary. Levin would say intelligence
+00:14:46,680 --> 00:14:50,460
+Critics reply that stretching the word to slime molds empties it.
 
 172
-00:14:39,400 --> 00:14:45,160
-comes in degrees, how well a system navigates toward goals in some space, whether physical,
+00:14:52,060 --> 00:14:52,740
+about the phenomena.
 
 173
-00:14:45,160 --> 00:14:51,580
-anatomical, or behavioral. Critics reply that stretching the word to slime molds empties it.
+00:14:53,920 --> 00:14:56,400
+Plants are where that disagreement gets heated
 
 174
-00:14:51,760 --> 00:14:57,520
-Both sides agree about the phenomena. Plants are where that disagreement gets heated,
+00:14:56,660 --> 00:14:59,300
+and where a failed replication is instructive.
 
 175
-00:14:57,720 --> 00:15:04,200
-and where a failed replication is instructive. A century ago, the Indian physicist Jagadish
+00:14:59,640 --> 00:15:03,820
+A century ago, the Indian physicist Jagadish Chandra Bose
 
 176
-00:15:04,200 --> 00:15:09,120
-Chandra Bose built sensitive instruments to record electrical responses in plants,
+00:15:03,820 --> 00:15:05,480
+built sensitive instruments
 
 177
-00:15:09,280 --> 00:15:14,600
-and argued that they had something like nervous reactions, ideas that were partly ahead of their
+00:15:05,480 --> 00:15:08,000
+to record electrical responses in plants
 
 178
-00:15:15,160 --> 00:15:19,980
-and partly overstated. Today we know that plants signal electrically and chemically.
+00:15:08,280 --> 00:15:11,160
+and argued that they had something like nervous reactions,
 
 179
-00:15:20,260 --> 00:15:26,400
-A Venus flytrap effectively counts touches, snapping shut after two and starting digestion
+00:15:11,500 --> 00:15:13,880
+ideas that were partly ahead of their time
 
 180
-00:15:26,400 --> 00:15:32,280
-after more. The sensitive plant mimosa stops folding its leaves when it is repeatedly dropped
+00:15:13,880 --> 00:15:15,400
+and partly overstated.
 
 181
-00:15:32,280 --> 00:15:39,100
-without harm, which looks like habituation. In 2016, Monica Gagliano and colleagues reported
+00:15:15,640 --> 00:15:18,880
+Today, we know that plants signal electrically and chemically.
 
 182
-00:15:39,100 --> 00:15:43,500
-that pea seedlings could learn to associate a breeze with light, a form of conditioning.
+00:15:18,880 --> 00:15:25,300
+A venous flytrap effectively counts touches, snapping shut after two and starting digestion
 
 183
-00:15:45,280 --> 00:15:52,660
-a replication by the plant biologist Casey Markle found no evidence of it. The original team argued
+00:15:25,300 --> 00:15:31,160
+after more. The sensitive plant mimosa stops folding its leaves when it is repeatedly dropped
 
 184
-00:15:52,660 --> 00:15:57,660
-that his setup differed in key ways, and he replied that those differences could not explain
+00:15:31,160 --> 00:15:37,980
+without harm, which looks like habituation. In 2016, Monica Gagliano and colleagues reported
 
 185
-00:15:57,660 --> 00:16:03,620
-the result. And in 2019, Lincoln Tays and colleagues argued that plants neither possess
+00:15:37,980 --> 00:15:42,380
+that pea seedlings could learn to associate a breeze with light, a form of conditioning.
 
 186
-00:16:03,620 --> 00:16:09,840
-nor require consciousness. Most plant scientists accept sophisticated signaling and adaptive
+00:15:43,000 --> 00:15:49,580
+In 2020, a replication by the plant biologist Casey Markle found no evidence of it.
 
 187
-00:16:09,840 --> 00:16:15,980
-behavior. Far fewer accept talk of plant mines. Here the error at risk was over-tribution,
+00:15:49,760 --> 00:15:53,520
+The original team argued that his setup differed in key ways,
 
 188
-00:16:16,320 --> 00:16:19,560
-and so far the claim has not held up under independent testing.
+00:15:53,640 --> 00:15:57,140
+and he replied that those differences could not explain the result.
 
 189
-00:16:20,820 --> 00:16:27,180
-Finally, mines made of many. A honeybee swarm chooses a new home through a process the biologist
+00:15:57,340 --> 00:16:04,020
+And in 2019, Lincoln Tays and colleagues argued that plants neither possess nor require consciousness.
 
 190
-00:16:27,180 --> 00:16:33,740
-Thomas Seeley described in Honeybee Democracy. Scouts advertise candidate sites by dancing,
+00:16:04,540 --> 00:16:09,300
+Most plant scientists accept sophisticated signaling and adaptive behavior.
 
 191
-00:16:34,060 --> 00:16:39,480
-support builds, and the swarm commits when a quorum forms, a process that resembles the way
+00:16:09,600 --> 00:16:12,260
+Far fewer accept talk of plant minds.
 
 192
-00:16:39,840 --> 00:16:42,200
-accumulate evidence toward a decision.
+00:16:12,380 --> 00:16:18,460
+Here the error at risk was overtribution, and so far the claim has not held up under independent testing.
 
 193
-00:16:42,560 --> 00:16:44,740
-Human groups may have something similar.
+00:16:19,660 --> 00:16:21,720
+Finally, mines made of many.
 
 194
-00:16:45,500 --> 00:16:47,700
-Anita Woolley and colleagues have proposed
+00:16:22,000 --> 00:16:28,800
+A honeybee swarm chooses a new home through a process the biologist Thomas Seeley described in Honeybee Democracy.
 
 195
-00:16:47,700 --> 00:16:49,920
-a collective intelligence factor for groups,
+00:16:29,440 --> 00:16:36,280
+Scouts advertise candidate sites by dancing, support builds, and the swarm commits when a quorum forms,
 
 196
-00:16:50,060 --> 00:16:54,560
-and a 2021 meta-analysis found that how a group collaborates
+00:16:36,280 --> 00:16:41,100
+a process that resembles the way neurons accumulate evidence toward a decision.
 
 197
-00:16:54,560 --> 00:16:58,120
-predicts that factor about twice as well as the skills of its members,
+00:16:42,380 --> 00:16:47,700
+may have something similar. Anita Woolley and colleagues have proposed a collective intelligence
 
 198
-00:16:58,540 --> 00:17:01,280
-though whether groups really have a general factor at all
+00:16:47,700 --> 00:16:54,540
+factor for groups, and a 2021 meta-analysis found that how a group collaborates predicts that factor
 
 199
-00:17:01,280 --> 00:17:02,660
-is still argued over.
+00:16:54,540 --> 00:16:59,760
+about twice as well as the skills of its members, though whether groups really have a general factor
 
 200
-00:17:03,900 --> 00:17:07,580
-Crows, octopuses, bees, slime molds, swarms.
+00:16:59,760 --> 00:17:08,280
+at all is still argued over. Crows, octopuses, bees, slime molds, swarms. What ties the menagerie
 
 201
-00:17:07,860 --> 00:17:09,720
-What ties the menagerie together?
+00:17:08,280 --> 00:17:15,160
+together. Organization. Intelligence is multiply realized. It evolved separately in birds,
 
 202
-00:17:09,840 --> 00:17:17,300
-Organization. Intelligence is multiply realized. It evolved separately in birds, cephalopods,
+00:17:15,460 --> 00:17:21,300
+cephalopods, and insects, on different body plans and brain architectures, and evolution keeps
 
 203
-00:17:17,400 --> 00:17:23,040
-and insects, on different body plans and brain architectures, and evolution keeps converging
+00:17:21,300 --> 00:17:26,680
+converging on similar solutions. That's one of the strongest arguments that what matters is
 
 204
-00:17:23,040 --> 00:17:28,520
-on similar solutions. That's one of the strongest arguments that what matters is organization
+00:17:26,680 --> 00:17:32,280
+organization rather than any one kind of tissue, and we'll test that argument hard in parts two
 
 205
-00:17:28,520 --> 00:17:33,760
-rather than any one kind of tissue, and we'll test that argument hard in parts two and three.
+00:17:32,280 --> 00:17:38,620
+and three. It's a family, not a ladder. Species differ in profile, and the human specialty seems
 
 206
-00:17:34,220 --> 00:17:35,840
-It's a family, not a ladder.
+00:17:38,620 --> 00:17:44,400
+to be learning from one another. And our methods err both ways. Clever hands, the doubts about
 
 207
-00:17:36,520 --> 00:17:37,920
-Species differ in profile,
+00:17:44,400 --> 00:17:50,400
+Betty, and the pea seedlings warn against seeing too much. Anthropodennial, the neuron counts and
 
 208
-00:17:37,920 --> 00:17:41,060
-and the human specialty seems to be learning from one another.
+00:17:50,400 --> 00:17:55,520
+the bees warn against seeing too little. The same tension will haunt every claim about machines.
 
 209
-00:17:41,360 --> 00:17:43,260
-And our methods err both ways.
+00:17:55,900 --> 00:18:01,160
+So if intelligence takes this many forms, can it be defined at all, without reference to any
 
 210
-00:17:43,620 --> 00:17:45,820
-Clever hands, the doubts about Betty,
-
-211
-00:17:46,020 --> 00:17:48,700
-and the pea seedlings warn against seeing too much.
-
-212
-00:17:49,400 --> 00:17:51,280
-Anthropodennial, the neuron counts
-
-213
-00:17:51,280 --> 00:17:53,320
-and the bees warn against seeing too little.
-
-214
-00:17:53,600 --> 00:17:56,600
-The same tension will haunt every claim about machines.
-
-215
-00:17:56,980 --> 00:17:59,400
-So if intelligence takes this many forms,
-
-216
-00:17:59,640 --> 00:18:00,880
-can it be defined at all,
-
-217
-00:18:01,040 --> 00:18:03,260
-without reference to any particular species,
-
-218
-00:18:03,760 --> 00:18:07,960
-or test that's the next episode intelligence formally
+00:18:02,280 --> 00:18:06,900
+body, or test. That's the next episode, Intelligence Formally.
 

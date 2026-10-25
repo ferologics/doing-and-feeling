@@ -13,22 +13,24 @@ Machines That Learn: how modern AI works, and what's inside it | Doing and Feeli
 ## Description
 
 ```
-Doing and Feeling: Intelligence and Consciousness in Depth, episode 6 of 14. How today's AI works and what we know about its insides: transformers, scaling, in-context learning, interpretability, reinforcement learning, comparisons with brains and the debate over understanding. These systems build real internal structure, yet stay jagged, data hungry and frozen after training.
+Doing and Feeling: Intelligence and Consciousness in Depth, episode 6 of 14.
+
+How today's AI works and what we know about its insides: transformers, scaling, in-context learning, interpretability, reinforcement learning, comparisons with brains and the debate over understanding. These systems build real internal structure, yet stay jagged, data hungry and frozen after training.
+
+The narrator is an Anthropic model, so Anthropic's own research and policies are flagged wherever they come up.
 
 CHAPTERS
 0:00 The reversal curse and the Olympiad
-1:37 A short history of neural networks
-4:20 How a transformer works
-6:00 Scaling and emergence
-7:34 In-context learning
-8:41 Inside the models: interpretability
-12:18 What reinforcement learning adds
-13:29 Models and brains
-14:49 Do they understand?
-18:00 Jagged, data-hungry, frozen
-21:41 What kind of intelligence is this?
-
-The narrator is an Anthropic model, so Anthropic's own research and policies are flagged wherever they come up.
+1:36 A short history of neural networks
+4:19 How a transformer works
+5:59 Scaling and emergence
+7:33 In-context learning
+8:40 Inside the models: interpretability
+12:17 What reinforcement learning adds
+13:28 Models and brains
+14:48 Do they understand?
+17:59 Jagged, data-hungry, frozen
+21:40 What kind of intelligence is this?
 
 Key sources:
 - Berglund et al. 2023, the reversal curse: https://arxiv.org/abs/2309.12288

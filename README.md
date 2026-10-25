@@ -6,7 +6,7 @@ synthetic TTS, turned into YouTube uploads. It exists in two versions, each in i
 | | Episodes | Length | Video style | Status |
 |---|---|---|---|---|
 | `short/` | 4 | 62 min | static cover | [uploaded](https://www.youtube.com/playlist?list=PLRaFm7tzS9Ew) |
-| `long/` | 14 | 5h23m | chapter cards + progress bar | [uploaded, unlisted](https://www.youtube.com/playlist?list=PLcBsjViogzvI) |
+| `long/` | 14 | 5h23m | chapter cards + progress bar | [published](https://www.youtube.com/playlist?list=PLcBsjViogzvI) |
 
 Both started from one X thread (@willdepue asking for consciousness reading); `notes/` records how.
 
@@ -95,7 +95,11 @@ client from 1Password (`op://Pi/YT_DESKTOP_CLIENT_OAUTH`: username = client ID, 
 caches the refresh token in the macOS Keychain (service `yt-desktop-client-oauth`), so the browser consent only
 appears when the token is missing or expired (7 days while the Google project is in Testing mode). Each episode
 is uploaded Unlisted with its text, Education category, not made for kids, the AI disclosure, thumbnail and
-captions, then appended to the playlist; `--publish` makes the videos and the playlist public.
+captions, then appended to the playlist; `--publish` makes the videos and the playlist public. `--update-text`
+pushes edited titles, descriptions and tags to the live videos and playlist; `--replace` swaps every video for a
+re-render (phase A uploads the replacements Unlisted without notifying subscribers; phase B, ~650 quota units
+per episode, adds thumbnail and captions, moves each into its old playlist slot, deletes the old video and
+publishes the new one).
 
 The short version was uploaded by hand. Per episode, in YouTube Studio:
 

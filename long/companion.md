@@ -1,4 +1,4 @@
-# Doing and Feeling: The Long Version — Companion
+# Doing and Feeling: Intelligence and Consciousness in Depth — Companion
 
 October 25, 2026
 
@@ -8,7 +8,7 @@ This companion gives the sources behind each of the 14 episodes and where to rea
 
 - **Per episode:** the one argument the episode makes, its key sources, and further reading.
 - **Source labels:** links go to the paper or the author's own page where possible. *(secondary)* marks a news report or summary, used when the original was paywalled or unreachable.
-- **Corrections:** comment on any passage you think is wrong. Confirmed fixes are listed in the last section.
+- **Errors:** comment on any passage you think is wrong.
 - **Where the reading list comes from:** recommendations gathered from replies to Will Depue's October 2026 post on X asking for reading on consciousness ([the thread](https://x.com/willdepue/status/2113823172336505051)). Those the episodes didn't cover are grouped near the end.
 
 ## Where to start
@@ -48,7 +48,7 @@ Sample several theories before going deep on one. That advice comes from the phi
 - Prediction: [Sackett et al. 2024 on job performance](https://experts.umn.edu/en/publications/a-contemporary-look-at-the-relationship-between-general-cognitive/) and the [Oh et al. dispute](https://experts.umn.edu/en/publications/correcting-for-range-restriction-in-meta-analysis-a-reply-to-oh-e/); [Calvin et al. 2011 on mortality](https://eprints.gla.ac.uk/55194).
 - Heritability: [Plomin & Deary 2015](https://www.research.ed.ac.uk/en/publications/genetics-and-intelligence-differences-five-special-findings/); [Tucker-Drob & Bates 2016](https://pmc.ncbi.nlm.nih.gov/articles/PMC4749462); [Figlio et al. 2017](https://pmc.ncbi.nlm.nih.gov/articles/PMC5754768/); [Okbay et al. 2022, polygenic prediction within families](https://collaborate.princeton.edu/en/publications/polygenic-prediction-of-educational-attainment-within-and-between/).
 - The Flynn effect: [Wicherts et al. 2004 on measurement invariance](https://www.gwern.net/doc/iq/2004-wicherts.pdf); [Bratsberg & Rogeberg 2018](https://pubmed.ncbi.nlm.nih.gov/29891660/).
-- Group differences: [APA task force 1996](https://doi.org/10.1037/0003-066X.51.2.77); [Nisbett et al. 2012](https://local.psy.miami.edu/faculty/dmessinger/c_c/rsrcs/rdgs/cognitive/nesbitt.blair.american.psychologist.2012.pdf); the minority hereditarian case, [Rushton & Jensen 2005](https://www1.udel.edu/educ/gottfredson/30years/Rushton-Jensen30years.pdf).
+- Group differences: [APA task force 1996](https://doi.org/10.1037/0003-066X.51.2.77); [Nisbett et al. 2012](https://doi.org/10.1037/a0026699); the minority hereditarian case, [Rushton & Jensen 2005](https://www1.udel.edu/educ/gottfredson/30years/Rushton-Jensen30years.pdf).
 - National IQ data: [Wicherts, Dolan & van der Maas 2010](https://research.tilburguniversity.edu/en/publications/a-systematic-literature-review-of-the-average-iq-of-sub-saharan-a/); [retractions of papers using the Lynn dataset](https://retractionwatch.com/2025/11/25/meet-the-researcher-aiming-to-halt-use-of-fundamentally-flawed-database-linking-iq-and-nationality) *(secondary)*.
 
 **Further reading:** Stephen Jay Gould's *The Mismeasure of Man* and Ian Deary's *Intelligence: A Very Short Introduction* read well as a pair, one critic and one defender of the field.
@@ -205,7 +205,7 @@ Sample several theories before going deep on one. That advice comes from the phi
 - Patients: [blindsight's history](https://bps.org.uk/psychologist/looking-back-blindsight-hindsight) *(secondary)*; the [2025 burning-house replication](https://www.psy.ox.ac.uk/publication/2127230); [Pinto et al. 2017 on split brains](https://www.dare.uva.nl/id/25c5de75-f5d1-43ab-b668-23d7d94de329); Johansson et al. 2005 on choice blindness.
 - Hidden awareness: [Schnakers et al. 2009](https://orbi.uliege.be/handle/2268/33020); [Owen et al. 2006](https://www.nature.com/news/2006/060904/full/news060904-11.html) *(secondary)*; [Bodien et al. 2024](https://www.cam.ac.uk/research/news/one-in-four-patients-in-vegetative-or-minimally-conscious-state-able-to-perform-cognitive-tasks) *(secondary)*.
 - Zap and zip: [Casali et al. 2013](https://air.unimi.it/handle/2434/227165); [Casarotto et al. 2016](https://zenodo.org/record/439347).
-- Anesthesia, sleep, psychedelics: [the isolated forearm study](https://pubmed.ncbi.nlm.nih.gov/27984262/); [Luppi et al. 2026, six species](https://www.nature.com/articles/s41593-026-02460-4); [Redinbaugh et al. 2020](https://doi.org/10.1016/j.neuron.2020.01.005); [the thalamic gateway](https://www.bps.org.uk/research-digest/new-study-identifies-gateway-conscious-perception) *(secondary)*; [Siclari et al. 2017](https://old.postlab.psych.wisc.edu/index.php/download_file/view/645/126); [Konkoly et al. 2021, talking to lucid dreamers](https://doi.org/10.1016/j.cub.2021.01.026); [Siegel et al. 2024, psilocybin](https://ideas.repec.org/a/nat/nature/v632y2024i8023d10.1038_s41586-024-07624-5.html).
+- Anesthesia, sleep, psychedelics: [the isolated forearm study](https://pubmed.ncbi.nlm.nih.gov/27984262/); [Luppi et al. 2026, six species](https://www.nature.com/articles/s41593-026-02460-4); [Redinbaugh et al. 2020](https://doi.org/10.1016/j.neuron.2020.01.005); [the thalamic gateway](https://www.bps.org.uk/research-digest/new-study-identifies-gateway-conscious-perception) *(secondary)*; [Siclari et al. 2017](https://doi.org/10.1038/nn.4545); [Konkoly et al. 2021, talking to lucid dreamers](https://doi.org/10.1016/j.cub.2021.01.026); [Siegel et al. 2024, psilocybin](https://ideas.repec.org/a/nat/nature/v632y2024i8023d10.1038_s41586-024-07624-5.html).
 - Meditation: [Laukkonen et al. 2023 on cessations](https://research.vu.nl/en/publications/cessations-of-consciousness-in-meditation-advancing-a-scientific-/); [an EEG case study](https://researchinformation.umcutrecht.nl/en/publications/investigation-of-advanced-mindfulness-meditation-cessation-experi/); Thomas Metzinger, [*The Elephant and the Blind*](https://mitpressbookstore.mit.edu/book/9780262547109).
 - Free will: [Schurger, Sitt & Dehaene 2012](https://digitalcommons.chapman.edu/psychology_articles/175); [Soon et al. 2008](https://moodlearchive.epfl.ch/2018-2019/pluginfile.php/1131271/mod_resource/content/0/lecture12-13/SoonHaynes2008.pdf); [Maoz et al. 2019](https://people.socsci.tau.ac.il/mu/mudriklab/files/2020/09/elife_2019.pdf).
 - Limits of the unconscious: [James Vicary](https://en.wikipedia.org/wiki/James_Vicary) *(secondary)*; [Trübutschek et al. 2017](https://elifesciences.org/articles/23871).
@@ -344,16 +344,3 @@ These were recommended alongside the works above but aren't discussed in the epi
 **Why it matters**
 
 - Viktor Frankl, *Man's Search for Meaning* (1946).
-
-## Corrections to the short series
-
-The four-episode version has two errors and two passages worth clarifying; its other dated claims checked out in October 2026.
-
-| Episode | What it said | Correction | Source |
-| --- | --- | --- | --- |
-| 3 | A second Cogitate experiment "was presented this summer" | It was introduced in posters at the ASSC meeting in Crete in July 2025, not in 2026. The posters gave early, mixed results; no peer-reviewed verdict yet | [Liu](https://www.reed.edu/psychology/scalp/assets/conference%20files/Liu_ASSC_poster_2025.pdf) · [Oyarzo](https://www.reed.edu/psychology/scalp/assets/conference%20files/Oyarzo_ASSC_poster_2025.pdf) |
-| 1 | Artem Kirsanov's videos described as part of the recommendations the series drew on | They weren't among those recommendations. The videos themselves are accurate and worth watching | ["Can We Build an Artificial Hippocampus?"](https://www.youtube.com/watch?v=cufOEzoVMVA) |
-| 1 | At IMO 2025, "experimental systems" from OpenAI and Google DeepMind both reached gold-medal level | Clarification: DeepMind's entrant was an advanced version of Gemini Deep Think, officially graded; OpenAI's experimental model was graded by former medalists | [Google DeepMind](https://deepmind.google/discover/blog/advanced-version-of-gemini-with-deep-think-officially-achieves-gold-medal-standard-at-the-international-mathematical-olympiad/) |
-| 4 | Most scholars reject the history in Jaynes's bicameral mind | Clarification: no survey of scholars exists; its historical claims are widely disputed, and its emphasis on language has defenders | [Cavanna et al. 2007](https://research.birmingham.ac.uk/en/publications/the-bicameral-mind-30-years-on-a-critical-reappraisal-of-julian-j/) |
-
-**Checked and correct:** the six-species anesthesia study "last month" ([published online 29 September 2026](https://www.nature.com/articles/s41593-026-02460-4)); Tennessee's 2026 law ([signed 23 April](https://fastdemocracy.com/bill/tn/114/bills/TNB00055499)); Hinton's [June 2026 statement](https://www.bigtechnology.com/p/nobel-prize-winner-geoffrey-hinton); Suleyman's [September 2026 warning](https://mustafa-suleyman.ai/a-warning-about-model-welfare); the IMO 2026 perfect scores, [as reported by the companies](https://www.taipeitimes.com/News/world/archives/2026/07/24/2003861308) *(secondary)*; and the dependence of ARC-AGI-3 scores on the [test harness](https://arcprize.org/blog/astra).

@@ -1,22 +1,24 @@
-This is Doing and Feeling, the long version. Episode 9, The Map of Positions. In 1978, the philosopher Ned Block asked you to imagine the following.
-Take the population of China, more than a billion people. Give each person a two-way radio and one simple rule to follow so that together they implement the functional organization that describes your mind.
+This is Doing and Feeling, Episode 9, The Map of Positions.
+In 1978, the philosopher Ned Block asked you to imagine the following.
+Take the population of China, more than a billion people.
+Give each person a two-way radio and one simple rule to follow, so that together they implement the functional organization that describes your mind.
 Wire the whole network up to an artificial body and run it for an hour.
-If the right functional organization is all there is to having a mind, then during that hour the nation of China should feel what you feel.
+If the right functional organization is all there is to having a mind, then during that hour, the nation of China should feel what you feel.
 If you would be in pain, then something, somewhere, should be in pain.
 Block found that very hard to believe and argued that the burden of proof falls on the functionalist.
 Many people share the intuition.
 My intuition says no, but my intuition also says that a lump of wet meat should not be able to think, and here we are.
 science fiction story, they're made out of meat, in which aliens refuse to believe that humans
-think with meat. I'm not sure our intuitions about substrates are worth much. That's exactly the
-right worry to carry through this episode. Every position on this map is partly an answer to the
-question, which intuitions should we trust? Two episodes ago, Chalmers' six letters sorted the
-responses to the hard problem, and last episode gave the most radical one a full hearing. Today,
+think with meat. I'm not sure our intuitions about substrates are worth much. That's exactly
+the right worry to carry through this episode. Every position on this map is partly an answer
+to the question, which intuitions should we trust? Two episodes ago, Chalmers' six letters
+sorted the responses to the hard problem, and last episode gave the most radical one a full hearing.
 of the territory. For each position, the core claim, the best argument, the strongest objection,
 and its verdict on the question this series builds toward. Could a machine be conscious?
 At the end, a short, clearly marked trip to the edges of the map.
-Start with functionalism, because it's the default view among philosophers who work on mind,
-and the implicit view of most people who build AI. Functionalism grew out of a problem with
-an earlier theory. In the 1950s, Ulland Place and JJC Smart proposed the identity theory.
+Start with functionalism, because it's the default view among philosophers who work on mind
+and the implicit view of most people who build AI. Functionalism grew out of a problem with an
+earlier theory. In the 1950s, Ullen Place and JJC Smart proposed the identity theory.
 Mental states simply are brain states. Pain is a certain neural process, full stop. Then in 1967,
 Hilary Putnam pointed out that this was too narrow. An octopus can presumably feel pain,
 but its nervous system evolved independently and is built very differently. So if pain is
@@ -24,9 +26,9 @@ one specific human brain state, the octopus cannot have it. Putnam's conclusion 
 realizability. The same mental state can be realized by very different physical systems.
 So mental states should be defined by their function, by their causal role, rather than by
 their physical makeup. Pain is whatever state is caused by bodily damage, and in turn causes
-distress, avoidance, and the desire for it to stop. That's the octopus from episode 2,
-now doing philosophical work. Complex minds evolving more than once, on completely different
-hardware, is one of the strongest everyday reasons to find functionalism plausible.
+distress, avoidance, and the desire for it to stop. That's the octopus from episode two,
+now doing philosophical work. Complex minds evolving more than once on completely different
+hardware is one of the strongest everyday reasons to find functionalism plausible.
 Computational functionalism is the stronger version. The relevant causal roles are computational.
 Implement the right computation, in neurons or silicon,
 and you get the mind, experience included.
@@ -43,7 +45,7 @@ Agreed and Block conceded the machine was physically impossible. His point was t
 behavior alone cannot settle the question, so a functionalist must say which internal organization
 Too coarse, and you count blockhead.
 Too fine, down to individual neurons, and you exclude octopuses and machines.
-Whereinbetween turns out to matter enormously for AI.
+Whereinbetween turns out to matter enormously for AI?
 The best argument for functionalism about experience, not just thought, comes surprisingly from a dualist.
 Chalmers' fading qualia argument asks you to imagine your neurons being replaced one at a time
 by silicon chips that perfectly duplicate each neuron's input-output behavior.
@@ -54,7 +56,7 @@ companion argument, dancing qualia, imagines flipping between your neurons and t
 twins with a switch. If experience depended on the substrate, your red could turn blue and back
 while you noticed nothing. Chalmers finds both scenarios implausible and concludes that experience
 depends only on fine-grained functional organization. He calls this the principle
-of organizational invariance. The objections are mostly intuition pumps, the china brain,
+of organizational invariance. The objections are mostly intuition pumps, the China brain,
 the absent qualia worry that a functional duplicate might have no experience at all,
 and the inverted spectrum, the idea that someone could be functionally identical to you
 while seeing red where you see green. Functionalism's verdict on machines. Yes,
@@ -69,7 +71,7 @@ notice, the green, the shape, the depth, is presented as a feature of the tree. 
 seems to look straight through experience to the world. Michael Tai and Fred Dretzk built the best
 Classic objections involve cases where experience and representation seem to come apart.
 One is blurry vision, where the world is not represented as blurry.
-Another is Bloch's inverted Earth, a planet where colors are swapped.
+Another is Bloch's inverted earth, a planet where colors are swapped.
 A traveler there, wearing color-inverting lenses,
 eventually comes to represent colors correctly while, intuitively, their experience stays the same.
 Here's why representationalism matters for AI.
@@ -84,10 +86,10 @@ Then the question for a language model is whether training counts as a history.
 Gradient descent is a selection process. It shaped every weight to track something.
 That's exactly what some philosophers have argued.
 Dimitri Quelyou, Malo, and Raphael Miliere, for instance, have argued that language models can
-have genuinely grounded representations, particularly once fine-tuning with human
-feedback, gives their outputs world-directed functions. So representationalism's verdict
-on machines is, possibly, depending on whether the system's representations are genuinely about
-the world, and on the further question of which representations count as experiential.
+have genuinely grounded representations, particularly once fine-tuning with human feedback,
+gives their outputs world-directed functions. So representationalism's verdict on machines is,
+possibly, depending on whether the system's representations are genuinely about the world,
+and on the further question of which representations count as experiential.
 Last episode's position, illusionism, belongs here on the map as the strongest form of type
 Its verdict on machines, in one sentence,
 a machine could be conscious in the only sense there is
@@ -101,135 +103,154 @@ arguing that cognition is not the manipulation of internal representations,
 but the activity of a living organism enacting a world through its body.
 It builds on autopoiesis, the self-producing organization we met in episode 4.
 Thompson's Mind and Life argues for a deep continuity between life and mind.
-In 2001, Kevin Oregon and Alva Noai proposed, in a Target article in Behavioral and Brain Sciences,
+In 2001, Kevin Oregon and Alva Noai proposed, in a target article in Behavioral and Brain Sciences,
 that seeing is a kind of skilled activity.
 of the ways sensory input changes as you move. And Naya puts the slogan bluntly,
-consciousness is something we do, not something that happens inside us.
-Varela also proposed neurophenomenology, pairing rigorous, trained first-person reports,
-including from experienced meditators, with brain measurements so that experience and
-physiology constrain each other. That program comes back in the next episode,
-an activism's verdict on machines. Consciousness belongs to autonomous,
+consciousness is something we do, not something that happens inside us. Varela also proposed
+neurophenomenology, pairing rigorous, trained first-person reports, including from experienced
+meditators, with brain measurements so that experience and physiology constrain each other.
+That program comes back in the next episode. An activism's verdict on machines,
+Consciousness belongs to autonomous, self-producing, embodied systems.
 Today's disembodied models are poor candidates.
 Artificial lifelike systems someday might not be.
 Next, biological naturalism.
 John Searle, who died in 2025, published The Chinese Room in 1980 as a target article with commentaries,
 and it became perhaps the most discussed thought experiment in the philosophy of AI.
 Searle imagined himself locked in a room with a rulebook for manipulating Chinese characters.
-in Chinese come in through a slot. By following the rules, he sends out answers indistinguishable
-from a native speaker's. But Searle understands no Chinese. Since a computer running a program
-does nothing more than he does, following rules for manipulating symbols, he concluded that running
-a program can never by itself produce understanding. In his slogan, syntax is not sufficient for
-semantics. The system's reply always seemed obviously right to me. Searle is one component.
-The room as a whole, the rulebook plus the person plus the scratch paper, is what understands
-Chinese. Asking whether Searle understands is like asking whether a single neuron understands
-English. That's the most popular reply. Searle's response was to imagine memorizing the entire
-rulebook and doing everything in his head. Now he is the whole system, and he still does not
-understand Chinese, he said. Defenders of the system's reply answer that he would then be
-implementing a second mind, when he has no introspective access to. Searle rejected that,
-and every other reply, including connecting the room to a robot body. His positive view was that
-consciousness is a real biological phenomenon, caused by the specific causal powers of brains,
-digestion is caused by stomachs. A simulation of digestion digests nothing. A computer simulation
-of a rainstorm leaves everyone dry. Functionalists have a reply to that last line, and it's worth
-carrying forward. A simulated storm leaves you dry, but a simulated calculator really does calculate.
-Some things are what they do, and some things are what they're made of. The question is which
-kind of thing a mind is, and that question will come back in episodes 12 and 13. The most developed
-contemporary version comes from the neuroscientist Anil Seth, who argues that consciousness may
-depend on properties living systems have and today's computers lack, such as metabolism and
-continuous self-production. Episode 13 gives that case its full hearing. The short verdict on
-machines, unlikely on current paths, more plausible only as AI becomes more brain-like
-or lifelike. Integrated information theory, or IIT, sits uneasily on the map. It's a scientific
-theory with radical philosophical commitments, so here's the philosophy, and in episode 11,
-the science. IIT, developed by Giulio Tononi and championed by Christoph Koch, starts from
-experience rather than from the brain. It identifies axioms, properties every experience has.
-It exists intrinsically for itself. It's specific, this experience rather than another. It's unified,
-not decomposable into independent parts. It's definite, with particular borders and contents.
-And it's structured, composed of distinctions and relations. Then it asks what a physical system
-must be like to account for each, and answers in terms of cause-effect power. How much the
-system's current state constrains its own past and future, as a whole, beyond what its parts do
-independently. That irreducibility is measured by a quantity called phi. The identity claim is bold,
-and experience simply is a maximally irreducible cause-effect structure. Three implications follow.
-First, consciousness is graded and widespread. Simple systems can have a little.
-an exclusion principle, only local maxima of integration are conscious. That means a collection
-of people, like a nation, is not conscious because its members are far more integrated than the whole.
-And third, the verdict that makes IIT famous in AI debates. What matters is the physical causal
-structure of the hardware, not the software. A conventional digital computer with its clocked,
-modular architecture has negligible integrated information whatever program it runs,
-That's the subtitle of Koch's book, The Feeling of Life Itself.
-Consciousness is widespread but cannot be computed.
-So on IIT, a perfect simulation of my brain on a GPU cluster is unconscious,
-but a large enough grid of simple logic gates might be more conscious than I am.
+Questions in Chinese come in through a slot.
+By following the rules, he sends out answers indistinguishable from a native speakers.
+But Searle understands no Chinese.
+Since a computer running a program does nothing more than he does,
+following rules for manipulating symbols,
+he concluded that running a program can never by itself produce understanding.
+In his slogan, syntax is not sufficient for semantics.
+The system's reply always seemed obviously right to me.
+Searle is one component.
+The room as a whole, the rulebook plus the person plus the scratch paper,
+is what understands Chinese.
+Asking whether Searle understands is like asking whether a single neuron understands English.
+That's the most popular reply.
+Searle's response was to imagine memorizing the entire rulebook
+everything in his head. Now he is the whole system, and he still does not understand Chinese,
+he said. Defenders of the system's reply answer that he would then be implementing a second mind,
+when he has no introspective access to. Searle rejected that, and every other reply,
+including connecting the room to a robot body. His positive view was that consciousness is a
+real biological phenomenon, caused by the specific causal powers of brains, the way digestion is
+by stomachs. A simulation of digestion digests nothing. A computer simulation of a rainstorm
+leaves everyone dry. Functionalists have a reply to that last line, and it's worth carrying forward.
+A simulated storm leaves you dry, but a simulated calculator really does calculate. Some things are
+what they do, and some things are what they're made of. The question is which kind of thing a
+mind is, and that question will come back in episodes 12 and 13. The most developed contemporary
+version comes from the neuroscientist Anil Seth, who argues that consciousness may depend on
+properties living systems have and today's computers lack, such as metabolism and continuous
+self-production. Episode 13 gives that case its full hearing. The short verdict on machines,
+unlikely on current paths, more plausible only as AI becomes more brain-like or lifelike.
+Integrated Information Theory, or IIT, sits uneasily on the map.
+It's a scientific theory with radical philosophical commitments, so here's the philosophy, and
+in episode 11, the science.
+IIT, developed by Giulio Tononi and championed by Christophe Koch, starts from experience
+rather than from the brain.
+It identifies axioms, properties every experience has.
+It exists intrinsically for itself.
+It's specific, this experience, rather than another.
+It's unified, not decomposable into independent parts.
+It's definite, with particular borders and contents.
+And it's structured, composed of distinctions and relations.
+Then it asks what a physical system must be like to account for each,
+and answers in terms of cause-effect power.
+How much the system's current state constrains its own past and future,
+as a whole, beyond what its parts do independently.
+is measured by a quantity called phi. The identity claim is bold, and experience simply is a maximally
+irreducible cause-effect structure. Three implications follow. First, consciousness is
+graded and widespread. Simple systems can have a little. Second, an exclusion principle, only local
+maxima of integration are conscious. That means a collection of people, like a nation, is not
+conscious, because its members are far more integrated than the whole. And third, the verdict
+famous in AI debates. What matters is the physical causal structure of the hardware,
+not the software. A conventional digital computer with its clocked, modular architecture
+has negligible integrated information whatever program it runs, even a perfect brain simulation.
+That's the subtitle of Koch's book, The Feeling of Life Itself. Consciousness is widespread but
+cannot be computed. So on IIT, a perfect simulation of my brain on a GPU cluster is
+unconscious, but a large enough grid of simple logic gates might be more conscious than I am.
 Yes, the computer scientist Scott Aronson raised examples like that as a reductio,
-and Tone Oney accepted that a suitable grid could be conscious.
-IIT's verdict on machines, not conventional digital computers, whatever their behavior.
-Hardware built with the right physical feedback structure, such as some neuromorphic designs,
-could in principle be different.
-Then Type F, Russellian monism and panpsychism.
-In 1927, Bertrand Russell argued, and Arthur Eddington soon agreed,
-that physics tells us only about structure.
-How things relate and behave mathematically, never what they are intrinsically.
-Mass and charge are defined by what they do, which leaves open what it is that does the doing.
-The Russellian monist proposal is that the intrinsic nature is experiential or proto-experiential,
-and that's how consciousness fits into the physical world without breaking physics.
-Panpsychism follows if you think those intrinsic natures are themselves tiny experiences.
-In 2006, in a journal symposium that drew a long list of replies, Galen Strawson argued
-that real physicalism entails panpsychism, since experience cannot emerge from wholly
-non-experiential stuff.
-Philip Goff's Galileo's Error argues that modern science began by deliberately setting
-sensory qualities aside to make nature mathematical.
+and Tononi accepted that a suitable grid could be conscious. IIT's verdict on machines,
+not conventional digital computers, whatever their behavior. Hardware built with the right
+physical feedback structure, such as some neuromorphic designs, could in principle be
+different. Then Type F, Russellian monism and panpsychism. In 1927, Bertrand Russell argued,
+and Arthur Eddington soon agreed, that physics tells us only about structure. How things relate
+and behave mathematically, never what they are intrinsically. Mass and charge are defined by
+what they do, which leaves open what it is that does the doing. The Russellian monist proposal
+is that the intrinsic nature is experiential or proto-experiential, and that's how consciousness
+fits into the physical world without breaking physics. Panpsychism follows if you think those
+intrinsic natures are themselves tiny experiences. In 2006, in a journal symposium that drew a long
+list of replies, Galen Strawson argued that real physicalism entails panpsychism, since experience
+cannot emerge from wholly non-experiential stuff. Philip Goff's Galileo's Error argues that modern
+science began by deliberately setting sensory qualities aside to make nature mathematical,
 And that consciousness is the bill for that decision coming due.
 The great problem is the combination problem.
-William James stated it in 1890. Take a sentence of 12 words, give one word to each of 12 men,
-and no one will be aware of the whole sentence. How do micro-experiences combine into one unified
-subject like you? Chalmers has distinguished several versions of the problem, the hardest
-being how subjects could sum into a new subject. Some panpsychists respond with cosmopsychism.
+William James stated it in 1890.
+Take a sentence of 12 words, give one word to each of 12 men, and no one will be aware of the whole sentence.
+How do micro-experiences combine into one unified subject like you?
+Chalmers has distinguished several versions of the problem, the hardest being how subjects could sum into a new subject.
+Transpsychists respond with cosmopsychism.
 The universe as a whole is the fundamental subject, and individual minds are aspects of it.
 The physicist Sean Carroll gave the sharpest scientific objection
 in a long conversation with Goff on his podcast Mindscape and later in a 2021 paper.
 The laws governing everyday matter, what Carroll calls the core theory,
 are tested to extraordinary precision.
 If consciousness made any difference to what particles do,
-those laws would be wrong somewhere we'd have noticed.
-no difference, it's hard to see how it could explain why we talk about consciousness.
-Goff's reply is that panpsychism does not change the equations at all. It's a claim about the
-intrinsic nature of whatever the equations describe. Carroll's rejoinder is that a nature
-that adds nothing to the dynamics does no explanatory work. Each side thinks the other
-has changed the subject. If electrons have tiny experiences, does my GPU get a bigger one?
-and that's often misunderstood. Most panpsychists think a rock is a mere aggregate of micro-experiences
-without being a subject itself. Whether a computer is more like a brain or more like a rock
-depends on the combination principle, which nobody has. So panpsychism's verdict on machines
-is genuinely open. Four more positions, more briefly. Idealism says experience is all there is,
-and matter is how mind appears from outside. Bernardo Kastrup's Analytic Idealism proposes
-a single universal consciousness that dissociates into individual minds by analogy with dissociative
-identity disorder, where one person can present several distinct identities. On that view,
-the question about a machine is whether it is a separate dissociated mind of its own,
-and nothing in the theory suggests that a computer would be. Dualism comes in two main forms.
+wrong somewhere we'd have noticed. And if it makes no difference, it's hard to see how it
+could explain why we talk about consciousness. Goff's reply is that panpsychism does not change
+the equations at all. It's a claim about the intrinsic nature of whatever the equations
+describe. Carroll's rejoinder is that a nature that adds nothing to the dynamics does no
+explanatory work. Each side thinks the other has changed the subject. If electrons have tiny
+experiences? Does my GPU get a bigger one? Not automatically, and that's often misunderstood.
+Most panpsychists think a rock is a mere aggregate of micro-experiences without being a subject
+itself. Whether a computer is more like a brain or more like a rock depends on the combination
+principle, which nobody has. So panpsychism's verdict on machines is genuinely open.
+Four more positions, more briefly.
+Idealism says experience is all there is, and matter is how mind appears from outside.
+Bernardo Kastrup's Analytic Idealism proposes a single universal consciousness
+that dissociates into individual minds, by analogy with dissociative identity disorder,
+where one person can present several distinct identities.
+On that view, the question about a machine is whether it is a separate dissociated mind of its own,
+and nothing in the theory suggests that a computer would be.
+Dualism comes in two main forms.
 Interactionist dualism, Descartes' view, holds that a non-physical mind pushes the body around.
 It faces the problem Princess Elizabeth of Bohemia raised in letters to Descartes in 1643.
-How could something with no extension move matter? Modern physics adds the problem of causal closure.
-Naturalistic property dualism, Chalmers' view, adds experience as a fundamental feature
+How could something with no extension move matter?
+adds the problem of causal closure.
+Naturalistic property dualism, Chalmers' view,
+adds experience as a fundamental feature
 tied to physical organization by laws we have not yet found.
 Remember the fading qualia argument.
-Chalmers thinks those laws link experience to functional organization,
-so his dualism, surprisingly, says yes to machine consciousness.
-The neighboring view, epiphenomenalism, makes experience causally idle,
-which raises a nasty puzzle, the metaproblem again.
-If experience does nothing, why do we keep talking about it?
+Chalmers thinks those laws link experience
+to functional organization,
+so his dualism, surprisingly,
+says yes to machine consciousness.
+The neighboring view, epiphenomenalism,
+makes experience causally idle,
+puzzle, the meta-problem again. If experience does nothing, why do we keep talking about it?
 Mysterianism, from Colin McGinn in 1989, holds that there is a natural answer, but that human
 minds are cognitively close to it, the way a dog is close to calculus. A neighboring stance says
 phenomenal consciousness lies outside the reach of science altogether. The verdict on machines
-is that we may never know. And the quantum route. Roger Penrose argued in The Emperor's New Mind
-and shadows of the mind that human mathematical understanding is not algorithmic,
+is that we may never know.
+And the quantum route.
+Roger Penrose argued in The Emperor's New Mind
+and Shadows of the Mind
+that human mathematical understanding
+is not algorithmic,
 using Gödel's incompleteness theorems.
-We can supposedly see the truth of statements that any given formal system cannot prove.
-Everyone I know in machine learning thinks the Gödel argument is wrong,
+We can supposedly see the truth of statements
+that any given formal system cannot prove.
+Everyone I know in machine learning
+thinks the Gödel argument is wrong,
 but they usually cannot say why.
 Here's the why.
-The argument needs us to know that our own reasoning is consistent, and we do not.
-Most logicians reject it on those grounds,
-Rose paired it with a physical proposal, wave function collapse caused by gravity, which he calls objective reduction.
-With the anesthesiologist Stuart Hameroff, he proposed that orchestrated versions of this collapse happen in microtubules, the protein scaffolding inside neurons.
-Hence Orch-OR.
-The main objection is decoherence.
+know that our own reasoning is consistent, and we do not. Most logicians reject it on those grounds,
+but Penrose paired it with a physical proposal. Wave function collapse caused by gravity,
+which he calls objective reduction. With the anesthesiologist Stuart Hameroff,
+he proposed that orchestrated versions of this collapse happen in microtubules,
+the protein scaffolding inside neurons. Hence Orch-OR. The main objection is decoherence.
 The brain is warm and wet, and in 2000, the physicist Max Tegmark calculated that quantum coherence there should vanish in far less than a trillionth of a second, while neurons work on timescales of thousandths of a second.
 Hameroff and colleagues disputed the calculation.
 Then the physics met an experiment.
@@ -246,21 +267,17 @@ have explored whether consciousness could cause collapse, combining IIT with a m
 collapse model, and argued that versions not already ruled out could in principle be tested
 on quantum computers. And Tegmark himself proposed, in 2014, treating consciousness as a state of
 matter, which he nicknamed perceptronium, defined by how it processes information rather than by
-Orch-O-R-S verdict on machines is the clearest.
-Classical computers cannot be conscious,
-because consciousness requires a physical process they do not perform.
-Finally, a position about positions.
-Eric S. H. Witzgabel calls it crazyism.
-Every theory of consciousness, he argues, has at least one implication that sounds bizarre.
-Functionalism makes the China brain conscious,
-IIT certain logic gate grids, panpsychism electrons.
+electrons. Orch-O-R, S-verdict on machines, is the clearest. Classical computers cannot be
+conscious, because consciousness requires a physical process they do not perform.
+Finally, a position about positions. Eric S. H. Witzgabel calls it crazyism. Every theory of
+consciousness, he argues, has at least one implication that sounds bizarre. Functionalism
+makes the China brain conscious, IIT certain logic gate grids, panpsychism electrons.
 Illusionism denies what seems undeniable, and dualism adds a new ingredient to physics.
 Something crazy must be true, we just do not know which crazy thing.
 His paper, If Materialism is True, the United States is Probably Conscious,
 makes the point with the China brain's real-world cousin.
 By criteria liberal enough to include rabbits and intelligent aliens,
-the United States, a richly integrated, self-monitoring, goal-pursuing system,
-would seem to qualify.
+the United States, a richly integrated, self-monitoring, goal-pursuing system, would seem to qualify.
 IIT disagrees, thanks to its exclusion principle.
 Most readers find the conclusion unbelievable, which is precisely his point.
 Give me the scoreboard, which positions let machines in.
@@ -301,36 +318,23 @@ rather than truth, backed by published simulations that others continue to debat
 Beyond that, he proposes that reality is fundamentally a network of conscious agents.
 Status. The simulations are published science. The conscious agent theory has no confirmed
 predictions yet. Thomas Campbell, a physicist, argues in his self-published trilogy,
-is a virtual reality within a larger consciousness system.
-He has proposed variations of the double-slit experiment as tests,
-and in 2024, a non-profit he founded
-announced that researchers had begun the first of them.
-Status.
-No peer-reviewed results that I could find.
-Itzhak Bentov's 1977 book,
-Stalking the Wild Pendulum,
-describes consciousness in terms of vibration
-and oscillation underlying matter.
-Status.
-a popular, speculative book that was never developed into a testable theory.
-Ken Wilber's Integral Theory maps consciousness, culture, and contemplative development into
-quadrants and stages. Status, a philosophical and spiritual synthesis, not an empirical theory.
-Two historical entries. The physicist Wolfgang Pauly and the psychiatrist Carl Jung,
-over decades of correspondence, explored the idea that mind and matter are two aspects of a single
-along with Jung's notion of synchronicity.
-Status, a serious subject for historians and philosophers,
-not an empirical theory.
-And Julian Jaynes' 1976 book
-On the Bicameral Mind argues
-that introspective consciousness
-arose only about 3,000 years ago
-and that earlier people experienced
-one hemisphere's commands as the voices of gods.
-Status, admired as a provocation.
-Its historical claims are widely disputed,
-on language and shaping introspection, has defenders. What these ideas share is ambition,
-and the test for each is the same one we apply to the mainstream, a prediction that someone
-could actually check. That ends the detour. So in the next two episodes, we turn to what
-can be checked. First, the evidence. Patients, experiments, altered states, animals, and the
-remarkable tools that can now detect consciousness in people who cannot move. Then the theories,
-put on trial against each other.
+my big toe that physical reality is a virtual reality within a larger consciousness system.
+He has proposed variations of the double-slit experiment as tests, and in 2024, a non-profit
+he founded announced that researchers had begun the first of them. Status. No peer-reviewed results
+that I could find. Itzhak Bentov's 1977 book, Stalking the Wild Pendulum, describes consciousness
+in terms of vibration and oscillation underlying matter. Status, a popular, speculative book that
+was never developed into a testable theory. Ken Wilber's Integral Theory maps consciousness,
+culture, and contemplative development into quadrants and stages. Status, a philosophical
+and spiritual synthesis, not an empirical theory. Two historical entries. The physicist Wolfgang
+Pauly and the psychiatrist Carl Jung, over decades of correspondence, explored the idea that
+mind and matter are two aspects of a single underlying reality, along with Jung's notion
+of synchronicity. Status, a serious subject for historians and philosophers, not an empirical
+theory. And Julian Jaynes' 1976 book On the Bicameral Mind argues that introspective consciousness
+arose only about 3,000 years ago, and that earlier people experienced one hemisphere's commands as
+the voices of gods. Status, admired as a provocation. Its historical claims are widely disputed,
+though its emphasis on language and shaping introspection has defenders. What these ideas
+share is ambition, and the test for each is the same one we apply to the mainstream,
+a prediction that someone could actually check. That ends the detour.
+So in the next two episodes, we turn to what can be checked. First, the evidence,
+experiments, altered states, animals, and the remarkable tools that can now detect consciousness
+in people who cannot move. Then the theories put on trial against each other.

@@ -13,20 +13,22 @@ Theories on Trial: the leading theories and the experiments that test them | Doi
 ## Description
 
 ```
-Doing and Feeling: Intelligence and Consciousness in Depth, episode 11 of 14. The leading scientific theories of consciousness and the experiments that test them: global workspace, higher-order, recurrent processing, integrated information, predictive processing and others. The adversarial collaborations bruised every theory they touched, and the new rules of testing may matter more than any single result.
+Doing and Feeling: Intelligence and Consciousness in Depth, episode 11 of 14.
+
+The leading scientific theories of consciousness and the experiments that test them: global workspace, higher-order, recurrent processing, integrated information, predictive processing and others. The adversarial collaborations bruised every theory they touched, and the new rules of testing may matter more than any single result.
 
 CHAPTERS
 0:00 The bet
-1:00 What a theory must explain
-2:42 A problem with the evidence
-4:44 Global workspace theory
-7:16 Higher-order theories
-10:02 Recurrent processing theory
-11:27 Integrated information theory
-15:17 Predictive processing
-18:42 Attention schemas, associative learning, and others
-21:31 The trials
-24:27 What would settle it
+0:59 What a theory must explain
+2:40 A problem with the evidence
+4:43 Global workspace theory
+7:15 Higher-order theories
+10:01 Recurrent processing theory
+11:25 Integrated information theory
+15:16 Predictive processing
+18:41 Attention schemas, associative learning, and others
+21:30 The trials
+24:26 What would settle it
 
 Key sources:
 - Seth & Bayne 2022, Theories of consciousness: https://www.nature.com/articles/s41583-022-00587-4

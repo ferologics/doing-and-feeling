@@ -1,4 +1,4 @@
-This is Doing and Feeling, the long version. Episode four: Life as Computation.
+This is Doing and Feeling. Episode four: Life as Computation.
 
 In 1948, at a symposium in Pasadena, the mathematician John von Neumann asked a question that sounds like an engineering puzzle and turns out to be a question about life. Could a machine build a copy of itself?
 

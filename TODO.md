@@ -1,10 +1,10 @@
 # TODO
 
-## Long version upload
+## Long series
 
-- [x] Upload the 14 videos (Unlisted) with text, thumbnails, captions and the playlist
-- [ ] Spot-check a couple of episodes in Studio once HD/4K processing has finished
-- [ ] Publish: `scripts/youtube-upload.py --publish` (videos + playlist go Public)
+- [x] Upload and publish the 14 videos with text, thumbnails, captions and the playlist
+- [x] Rename to "Doing and Feeling: Intelligence and Consciousness in Depth" (text, covers, intros)
+- [ ] Phase B of the video swap (scheduled for 2026-10-26 08:15 CET; log in `work/replace.log`)
 
 ## Reading list
 

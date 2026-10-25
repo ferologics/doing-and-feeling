@@ -1,1276 +1,1308 @@
 1
-00:00:00,000 --> 00:00:11,780
-This is Doing and Feeling, the Long Version. Episode 11, Theories on Trial. In 1998, the neuroscientist Christoph Koch made a bet with the philosopher David Chalmers.
+00:00:00,000 --> 00:00:21,260
+This is Doing and Feeling, Episode 11, Theories on Trial. In 1998, the neuroscientist Christoph Koch made a bet with the philosopher David Chalmers. Koch wagered a case of fine wine that within 25 years, science would clearly identify the brain mechanism behind consciousness. Chalmers bet against.
 
 2
-00:00:12,100 --> 00:00:22,380
-Koch wagered a case of fine wine that within 25 years, science would clearly identify the brain mechanism behind consciousness. Chalmers bet against.
-
-3
-00:00:22,380 --> 00:00:25,300
+00:00:21,260 --> 00:00:24,140
 25 years later, in June 2023,
 
-4
-00:00:25,940 --> 00:00:31,140
+3
+00:00:24,700 --> 00:00:30,000
 at the annual meeting of the Association for the Scientific Study of Consciousness in New York,
 
-5
-00:00:31,660 --> 00:00:35,040
+4
+00:00:30,520 --> 00:00:33,920
 Koch conceded on stage and handed over a case of Madera.
 
-6
-00:00:35,660 --> 00:00:39,940
+5
+00:00:34,540 --> 00:00:38,820
 Then the two of them renewed the bet, with a new deadline of 2048.
 
-7
-00:00:40,340 --> 00:00:42,600
+6
+00:00:39,120 --> 00:00:41,480
 The concession came at the same session,
 
-8
-00:00:42,820 --> 00:00:47,760
+7
+00:00:41,660 --> 00:00:46,620
 where the first results were presented from an experiment pitting two leading theories against each other,
 
-9
-00:00:47,960 --> 00:00:51,820
+8
+00:00:46,820 --> 00:00:50,680
 with their own champions agreeing in advance on what would count as failure.
 
-10
-00:00:52,380 --> 00:00:53,880
+9
+00:00:51,260 --> 00:00:52,760
 We'll end with that experiment.
 
-11
-00:00:54,360 --> 00:00:58,180
+10
+00:00:53,240 --> 00:00:57,040
 First, the theories and a problem with how they've been tested.
 
-12
-00:00:59,200 --> 00:01:01,660
+11
+00:00:58,080 --> 00:01:00,520
 What should a theory of consciousness explain?
 
-13
-00:01:01,960 --> 00:01:04,700
+12
+00:01:00,800 --> 00:01:03,580
 Why some contents are conscious and others are not?
 
-14
-00:01:04,920 --> 00:01:07,600
+13
+00:01:03,800 --> 00:01:06,480
 Why we're conscious at some times and not others?
 
-15
-00:01:07,920 --> 00:01:11,060
+14
+00:01:06,780 --> 00:01:09,920
 Why experiences have the specific character they do?
 
-16
-00:01:11,280 --> 00:01:13,140
+15
+00:01:10,300 --> 00:01:12,000
 Why consciousness is unified?
 
-17
-00:01:13,520 --> 00:01:17,220
+16
+00:01:12,320 --> 00:01:16,080
 And what it adds to an organism that processes information anyway?
 
-18
-00:01:17,700 --> 00:01:19,660
+17
+00:01:16,540 --> 00:01:18,540
 No theory explains all five.
 
+18
+00:01:18,540 --> 00:01:26,440
+A 2022 review by Anil Seth and Tim Bain listed 22 theories in circulation and examined four
+
 19
-00:01:19,660 --> 00:01:28,680
-A 2022 review by Anil Seth and Tim Bain listed 22 theories in circulation and examined four families in depth.
+00:01:26,440 --> 00:01:32,780
+families in depth. Seth has also argued for a strategy he calls addressing the real problem.
 
 20
-00:01:29,330 --> 00:01:33,920
-Seth has also argued for a strategy he calls addressing the real problem.
+00:01:32,960 --> 00:01:38,660
+Rather than solving or dissolving the hard problem head-on, explain, predict, and control
 
 21
-00:01:34,080 --> 00:01:40,890
-Rather than solving or dissolving the hard problem head-on, explain, predict, and control the properties of experience,
+00:01:38,660 --> 00:01:44,260
+the properties of experience, the way biology dissolved the mystery of life, not by finding
 
 22
-00:01:41,360 --> 00:01:44,100
-the way biology dissolved the mystery of life.
+00:01:44,260 --> 00:01:50,100
+a vital spark, but by explaining metabolism, reproduction, and heredity one at a time.
 
 23
-00:01:44,100 --> 00:01:50,940
-not by finding a vital spark, but by explaining metabolism, reproduction, and heredity one at a
+00:01:50,500 --> 00:01:55,720
+Whether consciousness will yield the same way is exactly what the hard problem of Episode 7
 
 24
-00:01:50,940 --> 00:01:56,400
-time. Whether consciousness will yield the same way is exactly what the hard problem of episode
+00:01:55,720 --> 00:02:01,280
+disputes. But the strategy has made the field productive. Where do researchers themselves stand?
 
 25
-00:01:56,400 --> 00:02:01,920
-seven disputes. But the strategy has made the field productive. Where do researchers themselves
+00:02:01,500 --> 00:02:09,000
+A survey of 166 attendees of the field's main conference in 2018 and 2019, published in 2022,
 
 26
-00:02:01,920 --> 00:02:09,560
-stand? A survey of 166 attendees of the field's main conference in 2018 and 2019, published in
+00:02:09,000 --> 00:02:15,480
+gives a snapshot. Predictive processing was rated promising by about 61% of respondents,
 
 27
-00:02:09,560 --> 00:02:16,620
-2022, gives a snapshot. Predictive processing was rated promising by about 61% of respondents,
-
-28
-00:02:17,060 --> 00:02:23,320
+00:02:15,880 --> 00:02:22,180
 global workspace theory by 58, higher order theories by 54, integrated information theory
 
-29
-00:02:23,320 --> 00:02:29,820
+28
+00:02:22,180 --> 00:02:28,680
 by 45, and recurrent processing by 39. Quantum theories drew the most votes as not promising.
 
-30
-00:02:30,320 --> 00:02:36,400
+29
+00:02:29,120 --> 00:02:35,260
 About two-thirds said machines could be conscious, now, or in the future. It was a self-selected
 
-31
-00:02:36,400 --> 00:02:43,220
+30
+00:02:35,260 --> 00:02:42,100
 sample, but it tells you the field has favorites and no consensus. Before the theories, a problem
 
-32
-00:02:43,220 --> 00:02:50,320
+31
+00:02:42,100 --> 00:02:49,200
 with the evidence for them. In 2022, Irei Yarin, Lucia Meloni, Michael Pitts, and Lyad Mudrick
 
-33
-00:02:50,320 --> 00:02:56,140
+32
+00:02:49,200 --> 00:02:55,000
 built a database of 412 experiments that interpreted their results in light of one
 
-34
-00:02:56,140 --> 00:03:01,640
+33
+00:02:55,000 --> 00:03:00,500
 or more of the four leading theories. They found that whether a study ended up supporting a given
 
-35
-00:03:01,640 --> 00:03:07,040
+34
+00:03:00,500 --> 00:03:05,920
 theory could be predicted from its methodological choices alone, before you looked at the results.
 
-36
-00:03:07,260 --> 00:03:12,820
+35
+00:03:06,140 --> 00:03:11,700
 In other words, the kind of experiment a lab chose strongly predicted which theory it would
 
-37
-00:03:12,820 --> 00:03:18,260
+36
+00:03:11,700 --> 00:03:17,120
 find support for. They also found that most studies interpreted their findings after the fact,
 
-38
-00:03:18,440 --> 00:03:22,060
+37
+00:03:17,340 --> 00:03:20,940
 rather than testing a theory's critical predictions in advance.
 
-39
-00:03:22,400 --> 00:03:27,740
+38
+00:03:21,260 --> 00:03:26,600
 So the field has been running the garden of forking paths at the level of whole paradigms.
 
-40
-00:03:27,900 --> 00:03:31,400
+39
+00:03:26,780 --> 00:03:30,280
 Each camp picks the experiments its theory is good at.
 
-41
-00:03:31,640 --> 00:03:37,600
+40
+00:03:30,500 --> 00:03:36,460
 That's the uncharitable version, and there's truth in it, though nobody needs to be acting in bad faith.
 
-42
-00:03:38,140 --> 00:03:42,500
+41
+00:03:37,000 --> 00:03:41,380
 Theories grow up around the phenomena that inspired them, and labs specialize.
 
-43
-00:03:42,840 --> 00:03:46,440
+42
+00:03:41,720 --> 00:03:45,300
 But piles of confirming studies tell you less than they seem to,
 
-44
-00:03:46,740 --> 00:03:52,420
+43
+00:03:45,560 --> 00:03:51,280
 which is the reason for the field's most important development this decade, adversarial collaborations.
 
-45
-00:03:52,800 --> 00:03:56,680
+44
+00:03:51,700 --> 00:03:55,560
 The Templeton World Charity Foundation has funded a series of them.
 
+45
+00:03:56,280 --> 00:04:00,920
+Proponents of rival theories agree in advance on experiments whose outcomes would embarrass
+
 46
-00:03:57,400 --> 00:04:02,920
-Proponents of rival theories agree in advance on experiments whose outcomes would embarrass at least one of them,
+00:04:00,920 --> 00:04:04,060
+at least one of them, and neutral teams run the experiments.
 
 47
-00:04:03,120 --> 00:04:05,200
-and neutral teams run the experiments.
+00:04:04,440 --> 00:04:09,880
+The program has pitted integrated information theory against global neuronal workspace theory
 
 48
-00:04:05,500 --> 00:04:11,720
-The program has pitted integrated information theory against global neuronal workspace theory, twice.
+00:04:09,880 --> 00:04:16,100
+twice, first-order theories against higher-order ones, and integrated information theory against
 
 49
-00:04:12,280 --> 00:04:18,240
-First-order theories against higher-order ones, and integrated information theory against predictive processing.
+00:04:16,100 --> 00:04:17,120
+predictive processing.
 
 50
-00:04:18,540 --> 00:04:24,260
-One workshop tried to design a test pitting integrated information theory against ORCH-OR.
+00:04:17,420 --> 00:04:23,320
+One workshop tried to design a test pitting integrated information theory against ORCH-O-R.
 
 51
-00:04:24,260 --> 00:04:29,800
-are the quantum theory from episode 9 and concluded that it could not find an experiment
+00:04:23,320 --> 00:04:25,940
+the quantum theory from episode 9,
 
 52
-00:04:29,800 --> 00:04:35,440
-suitable for a head-to-head test, which is informative in itself. Keep that in mind as
+00:04:26,340 --> 00:04:30,520
+and concluded that it could not find an experiment suitable for a head-to-head test,
 
 53
-00:04:35,440 --> 00:04:40,780
-we go through the theories. What each claims, its best evidence, its best counter-evidence,
+00:04:30,720 --> 00:04:32,540
+which is informative in itself.
 
 54
-00:04:40,920 --> 00:04:46,780
-and what it implies for machines. First, global workspace theory. Bernard
+00:04:32,900 --> 00:04:35,460
+Keep that in mind as we go through the theories.
 
 55
-00:04:46,780 --> 00:04:52,600
-Bars proposed it in 1988 with a theater metaphor. Most of what the brain does happens backstage,
+00:04:35,680 --> 00:04:39,640
+What each claims, its best evidence, its best counter-evidence,
 
 56
-00:05:03,000 --> 00:05:05,800
-Thank you.
+00:04:39,780 --> 00:04:41,460
+and what it implies for machines.
 
 57
-00:05:24,040 --> 00:05:30,740
-cortex. Its signature event is ignition. When a stimulus crosses into awareness, activity does not
+00:04:42,720 --> 00:04:44,760
+First, global workspace theory.
 
 58
-00:05:30,740 --> 00:05:36,660
-just grow. It suddenly amplifies and spreads across the network, all or nothing, typically a few
+00:04:45,080 --> 00:04:48,780
+Bernard Bars proposed it in 1988 with a theater metaphor.
 
 59
-00:05:36,660 --> 00:05:42,540
-hundred milliseconds after the stimulus. DeHaan describes four markers, a late brainwave called
+00:04:49,180 --> 00:04:51,480
+Most of what the brain does happens backstage,
 
 60
-00:05:42,540 --> 00:05:48,740
-the P3B, a sudden nonlinear amplification of activity, bursts of high-frequency oscillation,
+00:05:03,760 --> 00:05:04,660
+Thank you.
 
 61
-00:05:48,740 --> 00:05:55,020
-and synchronization between distant regions. In 2018, Bram van Vucket, Piotr Rulfsema,
+00:05:23,320 --> 00:05:29,600
+cortex. Its signature event is ignition. When a stimulus crosses into awareness, activity does not
 
 62
-00:05:55,200 --> 00:06:00,580
-and colleagues recorded from monkeys detecting faint stimuli. When the monkey reported seeing
+00:05:29,600 --> 00:05:35,540
+just grow. It suddenly amplifies and spreads across the network, all or nothing, typically a few
 
 63
-00:06:00,580 --> 00:06:05,640
-the stimulus, activity propagated up to prefrontal cortex and sustained itself there,
+00:05:35,540 --> 00:05:41,400
+hundred milliseconds after the stimulus. DeHaan describes four markers, a late brainwave called
 
 64
-00:06:05,820 --> 00:06:12,340
-all or none. When it missed, the signal was lost along the way. And higher baseline activity in
+00:05:41,400 --> 00:05:47,600
+the P3B, a sudden nonlinear amplification of activity, bursts of high-frequency oscillation,
 
 65
-00:06:12,340 --> 00:06:18,240
-prefrontal cortex predicted false alarms. The theory explains the limited capacity of awareness,
+00:05:47,600 --> 00:05:53,880
+and synchronization between distant regions. In 2018, Bram Van Vucket, Piotr Rulfsema,
 
 66
-00:06:18,740 --> 00:06:23,520
-and why consciously seen information is available for flexible, multi-step reasoning,
+00:05:54,080 --> 00:05:59,460
+and colleagues recorded from monkeys detecting faint stimuli. When the monkey reported seeing
 
 67
-00:06:23,780 --> 00:06:29,300
-while unseen information is not. It's also the theory most naturally built into machines,
+00:05:59,460 --> 00:06:04,520
+the stimulus, activity propagated up to prefrontal cortex and sustained itself there,
 
 68
-00:06:29,600 --> 00:06:34,740
-because broadcast through a shared, limited-capacity medium is something an engineer can
+00:06:04,680 --> 00:06:11,220
+all or none. When it missed, the signal was lost along the way. And higher baseline activity in
 
 69
-00:06:34,740 --> 00:06:40,700
-design. The trouble comes from the report Confound of Last Episode. In Inattentional
+00:06:11,220 --> 00:06:17,080
+prefrontal cortex predicted false alarms. The theory explains the limited capacity of awareness,
 
 70
-00:06:40,700 --> 00:06:45,920
-Blindness Experiments by Michael Pitts and colleagues, the P3B appeared when stimuli
+00:06:17,600 --> 00:06:22,380
+and why consciously seen information is available for flexible, multi-step reasoning,
 
 71
-00:06:45,920 --> 00:06:51,680
-were relevant to the task, but largely vanished when people saw the same stimuli without needing
+00:06:22,660 --> 00:06:24,700
+while unseen information is not.
 
 72
-00:06:51,680 --> 00:06:57,040
-to report them. An earlier signal over the back of the brain, at around 200 to 300 milliseconds,
+00:06:24,960 --> 00:06:28,160
+It's also the theory most naturally built into machines,
 
 73
-00:06:57,580 --> 00:07:03,160
-called the visual awareness negativity, tracked awareness more faithfully. That suggests the
+00:06:28,460 --> 00:06:31,880
+because broadcast through a shared, limited-capacity medium
 
 74
-00:07:03,160 --> 00:07:08,280
-classic marker reflects what you do with an experience rather than the experience itself.
+00:06:31,880 --> 00:06:34,060
+is something an engineer can design.
 
 75
-00:07:08,840 --> 00:07:14,440
-Workspace theorists reply that ignition need not involve report, and the argument continues.
+00:06:34,260 --> 00:06:37,920
+The trouble comes from the report Confound of Last Episode.
 
 76
-00:07:15,920 --> 00:07:21,300
-Second, higher-order theories. On these views, a mental state is conscious when you are,
+00:06:38,460 --> 00:06:42,380
+In Inattentional Blindness Experiments by Michael Pitts and colleagues,
 
 77
-00:07:21,440 --> 00:07:27,440
-in a suitable way, aware of being in it. The philosopher David Rosenthal developed the higher-order
+00:06:42,760 --> 00:06:46,160
+the P3B appeared when stimuli were relevant to the task,
 
 78
-00:07:27,440 --> 00:07:32,480
-thought version. A perception becomes conscious when it's accompanied by a thought that you are
+00:06:47,600 --> 00:06:51,380
+when people saw the same stimuli without needing to report them.
 
 79
-00:07:32,480 --> 00:07:38,160
-having it. The classic objection concerns empty higher-order states. Suppose the higher-order
+00:06:51,540 --> 00:06:55,920
+An earlier signal over the back of the brain, at around 200 to 300 milliseconds,
 
 80
-00:07:38,160 --> 00:07:43,160
-thought says you're seeing red, but there's no red perception underneath at all. What is it like to
+00:06:56,380 --> 00:07:00,440
+called the visual awareness negativity, tracked awareness more faithfully.
 
 81
-00:07:43,160 --> 00:07:49,320
-be you? Rosenthal bites the bullet. You'd seem to see red, so you'd be conscious of red. Critics
+00:07:00,700 --> 00:07:05,040
+That suggests the classic marker reflects what you do with an experience
 
 82
-00:07:49,320 --> 00:07:54,140
-like Ned Block reply that the theory has now located experience in the higher-order state,
+00:07:05,040 --> 00:07:07,140
+rather than the experience itself.
 
 83
-00:07:54,460 --> 00:07:59,860
-leaving the perception idle. The most influential current version is Hakwin Lau's perceptual
+00:07:07,720 --> 00:07:11,600
+Workspace theorists reply that ignition need not involve report,
 
 84
-00:07:59,860 --> 00:08:05,920
-reality monitoring theory. Sensory systems produce activity all the time, from real inputs,
+00:07:11,780 --> 00:07:13,320
+and the argument continues.
 
 85
-00:08:06,200 --> 00:08:12,440
-from imagination, from memory, from noise. Consciousness, on Lau's view, arises when a
+00:07:14,520 --> 00:07:16,500
+Second, higher-order theories.
 
 86
-00:08:13,160 --> 00:08:19,060
-mechanism tags a sensory representation as a reliable reflection of the world, right now.
+00:07:17,600 --> 00:07:22,720
+views, a mental state is conscious when you are, in a suitable way, aware of being in it.
 
 87
-00:08:19,600 --> 00:08:25,480
-Lau has compared this to a generative adversarial network, in which a discriminator learns to tell
+00:07:23,020 --> 00:07:28,120
+The philosopher David Rosenthal developed the higher-order thought version. A perception
 
 88
-00:08:25,480 --> 00:08:30,880
-real data from generated data. That gives you a mechanism for hallucination for free.
+00:07:28,120 --> 00:07:32,800
+becomes conscious when it's accompanied by a thought that you are having it. The classic
 
 89
-00:08:31,260 --> 00:08:37,980
-The discriminator misfires and tags imagination as real. And Lau uses it exactly that way.
+00:07:32,800 --> 00:07:37,700
+objection concerns empty higher-order states. Suppose the higher-order thought says you're
 
 90
-00:08:37,980 --> 00:08:41,340
-hallucinations as failures of reality monitoring
+00:07:37,700 --> 00:07:42,400
+seeing red, but there's no red perception underneath at all. What is it like to be you?
 
 91
-00:08:41,340 --> 00:08:43,900
-and blindsight as the opposite failure,
+00:07:42,940 --> 00:07:47,220
+Rosenthal bites the bullet. You'd seem to see red, so you'd be conscious of red.
 
 92
-00:08:44,180 --> 00:08:46,260
-where real signals do not get tagged.
+00:07:47,600 --> 00:07:53,020
+Critics like Ned Block reply that the theory has now located experience in the higher-order state,
 
 93
-00:08:46,700 --> 00:08:49,600
-The evidence for this family includes experiments
+00:07:53,340 --> 00:07:54,580
+leaving the perception idle.
 
 94
-00:08:49,600 --> 00:08:52,220
-in which people perform equally well on a task
+00:07:54,860 --> 00:08:00,080
+The most influential current version is Hakwin Lau's perceptual reality monitoring theory.
 
 95
-00:08:52,220 --> 00:08:55,360
-but differ in how aware or confident they feel
+00:08:00,640 --> 00:08:07,860
+Sensory systems produce activity all the time, from real inputs, from imagination, from memory, from noise.
 
 96
-00:08:55,360 --> 00:08:58,180
-with matching differences in prefrontal activity.
+00:08:08,320 --> 00:08:12,500
+Consciousness, on Lau's view, arises when a higher-order mechanism
 
 97
-00:08:58,440 --> 00:09:00,920
-There's a cautionary tale from this camp, too.
+00:08:12,500 --> 00:08:17,040
+tags a sensory representation as a reliable reflection of the world,
 
 98
-00:09:01,300 --> 00:09:05,080
-A 2010 study found that magnetic stimulation of prefrontal cortex
+00:08:17,600 --> 00:08:23,520
+now. Lau has compared this to a generative adversarial network, in which a discriminator
 
 99
-00:09:05,080 --> 00:09:10,000
-reduced people's ability to judge their own accuracy without impairing the task itself,
+00:08:23,520 --> 00:08:29,180
+learns to tell real data from generated data. That gives you a mechanism for hallucination
 
 100
-00:09:10,200 --> 00:09:16,360
-and it was widely cited as support. In 2017, Daniel Bohr and colleagues tried to reproduce
+00:08:29,180 --> 00:08:36,320
+for free. The discriminator misfires and tags imagination as real. And Lau uses it exactly
 
 101
-00:09:16,360 --> 00:09:22,500
-it with 90 participants, then ran a follow-up and found no effect. The statistics favored the null.
+00:08:36,320 --> 00:08:42,280
+that way. Hallucinations as failures of reality monitoring, and blindsight as the opposite
 
 102
-00:09:22,920 --> 00:09:27,940
-One more classic to downgrade. The main empirical objection to higher-order theories
+00:08:42,280 --> 00:08:48,460
+failure, where real signals do not get tagged. The evidence for this family includes experiments
 
 103
-00:09:27,940 --> 00:09:32,260
-is that large prefrontal lesions do not seem to abolish consciousness.
+00:08:48,460 --> 00:08:54,220
+in which people perform equally well on a task but differ in how aware or confident they feel,
 
 104
-00:09:32,960 --> 00:09:38,540
-In 2017, the Journal of Neuroscience published a paired debate on precisely this.
+00:08:54,420 --> 00:08:59,780
+with matching differences in prefrontal activity. There's a cautionary tale from this camp, too.
 
 105
-00:09:38,780 --> 00:09:42,860
-One team, including Melanie Boley, Koch, and Giulio Tononi,
+00:09:00,180 --> 00:09:05,840
+A 2010 study found that magnetic stimulation of prefrontal cortex reduced people's ability to
 
 106
-00:09:43,360 --> 00:09:47,360
-argued that the neural correlates of consciousness lie mainly in the back of the brain.
+00:09:05,840 --> 00:09:11,140
+judge their own accuracy without impairing the task itself, and it was widely cited as support.
 
 107
-00:09:47,740 --> 00:09:50,980
-The other, Brian Odegaard, Robert Knight, and Lau,
+00:09:12,280 --> 00:09:18,580
+2017, Daniel Bohr and colleagues tried to reproduce it with 90 participants, then ran a follow-up and
 
 108
-00:09:51,480 --> 00:09:53,640
-argued that prefrontal cortex is essential
+00:09:18,580 --> 00:09:24,960
+found no effect. The statistics favored the null. One more classic to downgrade. The main empirical
 
 109
-00:09:53,640 --> 00:09:56,560
-and that the negative findings were weaker than claimed.
+00:09:24,960 --> 00:09:30,600
+objection to higher-order theories is that large prefrontal lesions do not seem to abolish
 
 110
-00:09:56,940 --> 00:10:00,620
-That front-versus-back fight runs through the rest of this episode.
+00:09:30,600 --> 00:09:37,400
+consciousness. In 2017, the Journal of Neuroscience published a paired debate on precisely this.
 
 111
-00:10:02,260 --> 00:10:05,120
-Third, recurrent processing theory from Victor Lama.
+00:09:37,400 --> 00:09:41,740
+One team, including Melanie Boley, Koch, and Giulio Tononi,
 
 112
-00:10:05,320 --> 00:10:07,340
-When a visual stimulus arrives,
+00:09:42,220 --> 00:09:46,240
+argued that the neural correlates of consciousness lie mainly in the back of the brain.
 
 113
-00:10:07,600 --> 00:10:12,520
-a fast feed-forward sweep carries it up the visual hierarchy in about a tenth of a second,
+00:09:46,520 --> 00:09:49,840
+The other, Brian Odegaard, Robert Knight, and Lau,
 
 114
-00:10:12,880 --> 00:10:16,620
-enough to drive quick responses, but on this view unconscious.
+00:09:50,320 --> 00:09:52,500
+argued that prefrontal cortex is essential
 
 115
-00:10:17,120 --> 00:10:19,100
-Then feedback connections kick in,
+00:09:52,500 --> 00:09:55,440
+and that the negative findings were weaker than claimed.
 
 116
-00:10:19,540 --> 00:10:22,560
-creating local recurrent processing within sensory cortex.
+00:09:55,780 --> 00:09:59,500
+That front-versus-back fight runs through the rest of this episode.
 
 117
-00:10:23,060 --> 00:10:27,660
-Lama argues that this local recurrence is sufficient for phenomenal experience.
+00:10:00,700 --> 00:10:04,000
+Third, recurrent processing theory from Victor Lama.
 
 118
-00:10:28,210 --> 00:10:33,920
-wider recurrence involving frontal areas adds access, report, memory, and control.
+00:10:04,490 --> 00:10:11,400
+When a visual stimulus arrives, a fast feed-forward sweep carries it up the visual hierarchy in about a tenth of a second,
 
 119
-00:10:34,180 --> 00:10:40,060
-The evidence includes the timing of masking, which seems to work by interrupting recurrent processing,
+00:10:11,680 --> 00:10:15,500
+enough to drive quick responses, but on this view unconscious.
 
 120
-00:10:40,320 --> 00:10:44,600
-and experiments in which a magnetic pulse over primary visual cortex,
+00:10:16,000 --> 00:10:21,420
+Then feedback connections kick in, creating local recurrent processing within sensory cortex.
 
 121
-00:10:44,860 --> 00:10:47,920
-delivered roughly a tenth of a second after a stimulus,
+00:10:22,240 --> 00:10:26,520
+Lama argues that this local recurrence is sufficient for phenomenal experience.
 
 122
-00:10:48,160 --> 00:10:51,820
-when feedback should be arriving, can abolish awareness of it.
+00:10:26,820 --> 00:10:32,760
+Wider recurrence involving frontal areas adds access, report, memory, and control.
 
 123
-00:10:52,040 --> 00:10:57,140
-Recurrent processing theory is the natural ally of Bloch's overflow view from Episode 7,
+00:10:34,000 --> 00:10:38,940
+includes the timing of masking, which seems to work by interrupting recurrent processing,
 
 124
-00:10:57,660 --> 00:11:01,100
-Experience in local loops, access for only some of it.
+00:10:39,240 --> 00:10:45,220
+and experiments in which a magnetic pulse over primary visual cortex, delivered roughly a tenth
 
 125
-00:11:01,460 --> 00:11:04,200
-Global workspace theory sits on the other side.
+00:10:45,220 --> 00:10:50,700
+of a second after a stimulus, when feedback should be arriving, can abolish awareness of it.
 
 126
-00:11:04,440 --> 00:11:06,480
-No access, no experience.
+00:10:50,900 --> 00:10:56,060
+Recurrent processing theory is the natural ally of Bloch's overflow view from episode 7,
 
 127
-00:11:06,940 --> 00:11:10,300
-Its main vulnerability is the refrigerator light problem.
+00:10:56,640 --> 00:11:02,660
+experience in local loops, access for only some of it. Global workspace theory sits on the other
 
 128
-00:11:10,620 --> 00:11:14,680
-If local recurrence produces experiences that never reach report,
+00:11:04,000 --> 00:11:05,320
+No success, no experience.
 
 129
-00:11:14,960 --> 00:11:16,980
-how will we ever confirm they exist?
+00:11:05,760 --> 00:11:09,160
+Its main vulnerability is the refrigerator light problem.
 
 130
-00:11:17,400 --> 00:11:20,300
-For machines, the theory has a clean implication.
+00:11:09,480 --> 00:11:13,540
+If local recurrence produces experiences that never reach report,
 
 131
-00:11:20,700 --> 00:11:23,580
-Purely feed-forward computation is not enough.
+00:11:13,840 --> 00:11:15,840
+how will we ever confirm they exist?
 
 132
-00:11:23,940 --> 00:11:25,040
-Recurrence matters.
+00:11:16,140 --> 00:11:19,160
+For machines, the theory has a clean implication.
 
 133
-00:11:26,240 --> 00:11:31,240
-Fourth, integrated information theory, whose philosophy we met in episode 9.
+00:11:19,740 --> 00:11:22,460
+Purely feed-forward computation is not enough.
 
 134
-00:11:31,500 --> 00:11:32,820
-Here is the science.
+00:11:22,820 --> 00:11:23,900
+Recurrence matters.
 
 135
-00:11:33,360 --> 00:11:38,800
-IIT predicts that the physical substrate of experience lies mainly in a posterior hot
+00:11:25,160 --> 00:11:30,100
+Fourth, integrated information theory, whose philosophy we met in episode 9.
 
 136
-00:11:38,800 --> 00:11:41,960
-zone of the cortex, rather than in prefrontal cortex.
+00:11:30,540 --> 00:11:31,660
+Here is the science.
 
 137
-00:11:42,500 --> 00:11:47,740
-The dreaming studies from last episode fit that prediction, and the Zappan-Zipp complexity
+00:11:32,320 --> 00:11:38,040
+IIT predicts that the physical substrate of experience lies mainly in a posterior hot zone
 
 138
-00:11:47,740 --> 00:11:53,840
-measure was inspired by IIT's idea that consciousness requires both integration and
+00:11:38,040 --> 00:11:44,160
+of the cortex, rather than in prefrontal cortex. The dreaming studies from last episode fit that
 
 139
-00:11:53,840 --> 00:11:54,340
-differentiation.
+00:11:44,160 --> 00:11:50,460
+prediction, and the Zappan-Zipp complexity measure was inspired by IIT's idea that consciousness
 
 140
-00:11:55,040 --> 00:11:58,080
-It also explains a striking fact about the cerebellum,
+00:11:50,460 --> 00:11:56,340
+requires both integration and differentiation. It also explains a striking fact about the
 
 141
-00:11:58,240 --> 00:12:04,060
-which contains about 69 billion of the brain's 86 billion neurons, 4 out of 5.
+00:11:56,340 --> 00:12:02,960
+cerebellum, which contains about 69 billion of the brain's 86 billion neurons, four out of five.
 
 142
-00:12:04,500 --> 00:12:09,180
-Yet damage to it, even its complete absence in rare people born without one,
+00:12:03,380 --> 00:12:09,360
+Yet damage to it, even its complete absence in rare people born without one, affects movement,
 
 143
-00:12:09,540 --> 00:12:13,920
-affects movement, speech, and sometimes learning, while consciousness remains.
+00:12:09,680 --> 00:12:16,160
+speech, and sometimes learning, while consciousness remains. On IIT's account, the cerebellum's highly
 
 144
-00:12:14,200 --> 00:12:19,440
-On IIT's account, the cerebellum's highly modular, parallel architecture
+00:12:16,160 --> 00:12:22,700
+modular, parallel architecture generates little integrated information, despite its huge neuron
 
 145
-00:12:19,440 --> 00:12:24,300
-generates little integrated information, despite its huge neuron count.
+00:12:22,700 --> 00:12:30,360
+count. The skeptics of episode 13 lean on exactly this example. IIT makes stranger predictions too.
 
 146
-00:12:25,040 --> 00:12:28,600
-The skeptics of episode 13 lean on exactly this example.
+00:12:30,640 --> 00:12:36,000
+Because its measure, phi, depends on what a system could do, not only on what it's doing,
 
 147
-00:12:29,260 --> 00:12:31,500
-IIT makes stranger predictions, too.
-
-148
-00:12:31,820 --> 00:12:35,420
-Because its measure, phi, depends on what a system could do,
-
-149
-00:12:35,720 --> 00:12:37,120
-not only on what it's doing,
-
-150
-00:12:37,580 --> 00:12:42,460
+00:12:36,500 --> 00:12:41,340
 IIT predicts that neurons which are inactive but could fire still contribute to experience,
 
-151
-00:12:42,840 --> 00:12:46,320
-while the same neurons silenced pharmacologically would not.
+148
+00:12:41,720 --> 00:12:47,320
+while the same neurons silenced pharmacologically would not. That's testable in principle,
 
-152
-00:12:46,740 --> 00:12:50,900
-That's testable in principle, though nobody has yet done it convincingly.
+149
+00:12:47,320 --> 00:12:49,780
+though nobody has yet done it convincingly.
 
-153
-00:12:51,100 --> 00:12:53,460
+150
+00:12:50,040 --> 00:12:52,360
 Now the criticisms, which are severe.
 
+151
+00:12:52,660 --> 00:12:56,760
+The cost of computing phi exactly explodes with the number of elements,
+
+152
+00:12:56,940 --> 00:12:59,520
+so it has only been computed for tiny systems,
+
+153
+00:12:59,760 --> 00:13:04,120
+using software called PyPhi developed by Will Maynor and colleagues.
+
 154
-00:12:55,040 --> 00:13:00,100
-computing phi exactly explodes with the number of elements, so it has only been computed for tiny
+00:13:04,600 --> 00:13:08,080
+In practice, every empirical test uses proxies.
 
 155
-00:13:00,100 --> 00:13:06,540
-systems, using software called PyPhi developed by Will Maynor and colleagues. In practice,
+00:13:08,400 --> 00:13:11,800
+Then there's the unfolding argument from Adrian Doerig,
 
 156
-00:13:07,080 --> 00:13:12,920
-every empirical test uses proxies. Then there's the unfolding argument from Adrian Doerig,
+00:13:12,080 --> 00:13:15,780
+Aaron Scherger, Michael Herzog, and colleagues in 2019.
 
 157
-00:13:13,180 --> 00:13:19,680
-Aaron Scherger, Michael Herzog, and colleagues in 2019. Any recurrent network can be unfolded
+00:13:17,320 --> 00:13:23,240
+network can be unfolded into a purely feedforward network that computes exactly the same input-output
 
 158
-00:13:19,680 --> 00:13:24,800
-into a purely feedforward network that computes exactly the same input-output function.
+00:13:23,240 --> 00:13:29,500
+function. IIT assigns substantial phi to the recurrent version and zero to the feedforward
 
 159
-00:13:25,560 --> 00:13:30,960
-IIT assigns substantial phi to the recurrent version and zero to the feedforward one,
+00:13:29,500 --> 00:13:34,640
+one, but every experiment we can run is read through outputs, so it would treat the two
 
 160
-00:13:31,140 --> 00:13:36,440
-but every experiment we can run is read through outputs, so it would treat the two identically.
+00:13:34,640 --> 00:13:41,140
+identically. Either IIT's claims about which system is conscious can never be tested, or they're false.
 
 161
-00:13:36,880 --> 00:13:42,260
-Either IIT's claims about which system is conscious can never be tested, or they're false.
-
-162
-00:13:42,440 --> 00:13:47,380
+00:13:41,300 --> 00:13:46,260
 And the same argument, its authors point out, threatens recurrent processing theory.
 
+162
+00:13:47,320 --> 00:13:51,040
+Devastating if you think consciousness must make a functional difference.
+
 163
-00:13:47,740 --> 00:13:52,160
-That's devastating if you think consciousness must make a functional difference.
+00:13:51,260 --> 00:13:57,700
+Two behaviorally identical systems, and the theory says one is conscious and the other is not.
 
 164
-00:13:52,160 --> 00:13:55,000
-two behaviorally identical systems,
-
-165
-00:13:55,000 --> 00:13:58,840
-and the theory says one is conscious and the other is not.
-
-166
-00:13:59,100 --> 00:14:02,140
+00:13:57,900 --> 00:14:01,000
 Which is exactly where IIT's defenders dig in.
 
-167
-00:14:02,820 --> 00:14:06,580
+165
+00:14:01,720 --> 00:14:05,440
 Consciousness, they argue, is about intrinsic causal structure,
 
-168
-00:14:06,840 --> 00:14:10,980
-which perturbation experiments like ZAP and ZIP can probe directly
+166
+00:14:05,640 --> 00:14:11,940
+which perturbation experiments like ZAP and ZIP can probe directly beyond input-output behavior.
 
-169
-00:14:10,980 --> 00:14:13,060
-beyond input-output behavior.
-
-170
-00:14:13,260 --> 00:14:17,140
+167
+00:14:12,430 --> 00:14:16,000
 And they argue that the critics are smuggling in a functionalist assumption.
 
+168
+00:14:17,320 --> 00:14:23,400
+reply depends on your answer to episode 7. Then there's the logic gate grid from episode 9,
+
+169
+00:14:23,720 --> 00:14:29,980
+which Tononi accepted rather than retreat. In September 2023, the tension boiled over.
+
+170
+00:14:31,240 --> 00:14:37,980
+124 researchers signed an open letter calling IIT pseudoscience, arguing that its core claims
+
 171
-00:14:17,460 --> 00:14:21,140
-Whether that's a good reply depends on your answer to Episode 7.
+00:14:37,980 --> 00:14:43,340
+are untestable and that media coverage had overstated its support. Many researchers,
 
 172
-00:14:22,160 --> 00:14:27,340
-there's the logic gate grid from episode 9, which Tononi accepted rather than retreat.
+00:14:43,340 --> 00:14:50,480
+including some who reject IIT, thought the label went much too far. In 2025, the fight moved into
 
 173
-00:14:27,700 --> 00:14:35,720
-In September 2023, the tension boiled over. 124 researchers signed an open letter calling
+00:14:50,480 --> 00:14:57,220
+nature neuroscience, an expanded critique, a reply from Tone Oni and 21 co-authors arguing that the
 
 174
-00:14:35,720 --> 00:14:41,660
-IIT pseudoscience, arguing that its core claims are untestable and that media coverage had
+00:14:57,220 --> 00:15:03,020
+label reflected a bias toward computational functionalism, and a third piece by Alex Gomez
 
 175
-00:14:41,660 --> 00:14:47,660
-overstated its support. Many researchers, including some who reject IIT, thought the
+00:15:03,020 --> 00:15:08,960
+Marin and Anil Seth calling for the field to get past the name calling. The underlying question
 
 176
-00:14:47,660 --> 00:14:54,320
-label went much too far. In 2025, the fight moved into nature neuroscience, an expanded critique,
+00:15:08,960 --> 00:15:14,540
+is a real one. Can a theory of consciousness be both scientific and non-functionalist?
 
 177
-00:14:54,620 --> 00:15:00,740
-a reply from Tone Oni and 21 co-authors arguing that the label reflected a bias toward computational
+00:15:15,700 --> 00:15:21,420
+Fifth, the predictive processing family, which grows out of the predictive brain of episode 5.
 
 178
-00:15:00,740 --> 00:15:07,500
-functionalism, and a third piece by Alex Gomez-Marin and Anil Seth calling for the field to get past
+00:15:22,140 --> 00:15:26,820
+Anil Seth's version is the beast machine. If perception is the brain's best guess about the
 
 179
-00:15:07,500 --> 00:15:13,580
-the name calling. The underlying question is a real one. Can a theory of consciousness be both
+00:15:26,820 --> 00:15:31,420
+causes of its sensory signals, a controlled hallucination, then the deepest layer of
 
 180
-00:15:13,580 --> 00:15:20,600
-scientific and non-functionalist. Fifth, the predictive processing family, which grows out of
+00:15:31,420 --> 00:15:37,380
+prediction concerns the body itself. Heartbeat, blood pressure, gut, temperature, the signals
 
 181
-00:15:20,600 --> 00:15:26,660
-the predictive brain of episode 5. Anil Seth's version is the beast machine. If perception is
+00:15:38,960 --> 00:15:42,280
+The brain predicts and regulates these to keep the organism alive.
 
 182
-00:15:26,660 --> 00:15:31,060
-the brain's best guess about the causes of its sensory signals, a controlled hallucination,
+00:15:42,720 --> 00:15:47,420
+Seth argues that emotions, moods, and the most basic feeling of being a self
 
 183
-00:15:31,360 --> 00:15:36,860
-then the deepest layer of prediction concerns the body itself. Heartbeat, blood pressure, gut,
+00:15:47,420 --> 00:15:49,300
+are rooted in that predictive regulation.
 
 184
-00:15:37,160 --> 00:15:42,380
-temperature, the signals called interosptive. The brain predicts and regulates these to keep
-
-185
-00:15:44,040 --> 00:15:50,440
-Seth argues that emotions, moods, and the most basic feeling of being a self are rooted in that predictive regulation.
-
-186
-00:15:50,720 --> 00:15:55,380
+00:15:49,580 --> 00:15:54,240
 We're conscious, on this view, not despite being animals, but because we are animals.
 
-187
-00:15:55,660 --> 00:15:59,180
+185
+00:15:54,520 --> 00:15:58,060
 There's suggestive evidence that bodily signals shape perception.
 
-188
-00:15:59,580 --> 00:16:05,740
-In 2014, Hyondang Park and colleagues in Paris found that the brain's response to each heartbeat
+186
+00:15:58,340 --> 00:16:02,060
+In 2014, Hyondang Park and colleagues in Paris
 
-189
-00:16:05,740 --> 00:16:09,120
+187
+00:16:02,060 --> 00:16:04,600
+found that the brain's response to each heartbeat
+
+188
+00:16:04,600 --> 00:16:07,960
 predicted whether people would detect a faint visual stimulus.
 
+189
+00:16:08,960 --> 00:16:14,300
+Lisa Feldman Barrett's theory of constructed emotion makes a related claim. Emotions are
+
 190
-00:16:09,820 --> 00:16:14,120
-Lisa Feldman Barrett's theory of constructed emotion makes a related claim.
+00:16:14,300 --> 00:16:20,200
+predictions grounded in interosption. Mark Solms pushes further down. In The Hidden Spring,
 
 191
-00:16:14,560 --> 00:16:17,560
-Emotions are predictions grounded in interosption.
+00:16:20,280 --> 00:16:25,960
+and in a 2019 paper on the hard problem and the free energy principle, he argues that consciousness
 
 192
-00:16:18,000 --> 00:16:19,840
-Mark Solms pushes further down.
+00:16:25,960 --> 00:16:32,160
+originates not in the cortex but in the upper brainstem. It begins, he says, as raw feeling
 
 193
-00:16:20,060 --> 00:16:25,300
-In The Hidden Spring, and in a 2019 paper on the hard problem and the free energy principle,
+00:16:32,160 --> 00:16:38,720
+effect, which registers how well the organism is doing at staying alive. Rising uncertainty felt
 
 194
-00:16:25,680 --> 00:16:30,000
-he argues that consciousness originates not in the cortex but in the upper brainstem.
+00:16:38,960 --> 00:16:44,880
+unpleasant, its resolution as pleasant. He draws on Jock Panksepp's work on emotional circuits
 
 195
-00:16:30,320 --> 00:16:37,760
-It begins, he says, as raw feeling effect, which registers how well the organism is doing at staying alive.
+00:16:44,880 --> 00:16:50,060
+deep in the brain, and on Bjorn Merker's observations of children born with little or
 
 196
-00:16:39,120 --> 00:16:44,840
-uncertainty felt as unpleasant, its resolution as pleasant. He draws on Jock Panksepp's work
+00:16:50,060 --> 00:16:56,220
+no cerebral cortex, who nonetheless seem alert, emotionally responsive, and able to recognize
 
 197
-00:16:44,840 --> 00:16:50,760
-on emotional circuits deep in the brain, and on Bjorn Merker's observations of children born with
+00:16:56,220 --> 00:17:02,140
+the people they know. Merker's target article in Behavioral and Brain Sciences drew commentaries
 
 198
-00:16:50,760 --> 00:16:56,920
-little or no cerebral cortex, who nonetheless seem alert, emotionally responsive, and able to
+00:17:02,140 --> 00:17:07,900
+showing how contested this is. Some of these children retain islands of cortex, and critics
 
 199
-00:16:56,920 --> 00:17:02,520
-recognize the people they know. Merker's target article in Behavioral and Brain Sciences drew
+00:17:08,960 --> 00:17:15,780
+fall short of establishing experience. Antonio Damasio, from Descartes' error onward, has long
 
 200
-00:17:02,520 --> 00:17:08,100
-commentaries showing how contested this is. Some of these children retain islands of cortex,
+00:17:15,780 --> 00:17:21,780
+argued that feeling is grounded in the body's homeostasis. On the other side, Joseph Ledoux
 
 201
-00:17:09,120 --> 00:17:15,340
-argue the behaviors fall short of establishing experience. Antonio Damasio, from Descartes
+00:17:21,780 --> 00:17:26,660
+and Richard Brown argue that emotional experiences are higher-order cortical states,
 
 202
-00:17:15,340 --> 00:17:21,300
-Error Onward, has long argued that feeling is grounded in the body's homeostasis. On the other
+00:17:26,880 --> 00:17:33,020
+and that the deep survival circuits produce defensive responses, not felt fear. Which side
 
 203
-00:17:21,300 --> 00:17:27,420
-side, Joseph Ledoux and Richard Brown argue that emotional experiences are higher-order cortical
+00:17:33,020 --> 00:17:38,120
+is right decides what we should say about fish, newborns, and patients with little cortex?
 
 204
-00:17:27,420 --> 00:17:32,800
-states, and that the deep survival circuits produce defensive responses, not felt fear.
+00:17:38,960 --> 00:17:45,120
+in 2025, Ruben Lachonen, Carl Friston, and Shamal Shandaria proposed an active inference
 
 205
-00:17:33,120 --> 00:17:38,860
-Which side is right decides what we should say about fish, newborns, and patients with little
+00:17:45,120 --> 00:17:51,480
+theory called a beautiful loop. It names three conditions. A unified, simulated model of the
 
 206
-00:17:39,120 --> 00:17:47,920
-And in 2025, Ruben Lachonen, Carl Friston, and Shamal Shandaria proposed an active inference theory called a beautiful loop.
+00:17:51,480 --> 00:17:56,920
+world, which they call the epistemic field, a competition among inferences, in which those
 
 207
-00:17:48,100 --> 00:17:49,820
-It names three conditions.
+00:17:56,920 --> 00:18:02,880
+that best reduce long-term uncertainty win and are bound together. An epistemic depth,
 
 208
-00:17:50,120 --> 00:17:54,960
-A unified, simulated model of the world, which they call the epistemic field.
+00:18:03,120 --> 00:18:06,940
+in which the model's beliefs are shared recurrently through its own hierarchy,
 
 209
-00:17:55,120 --> 00:18:02,140
-A competition among inferences, in which those that best reduce long-term uncertainty win and are bound together.
-
-210
-00:18:02,680 --> 00:18:08,060
-An epistemic depth, in which the model's beliefs are shared recurrently through its own hierarchy,
-
-211
-00:18:08,320 --> 00:18:11,400
+00:18:06,940 --> 00:18:10,300
 so that the model contains knowledge of its own existence.
 
-212
-00:18:11,820 --> 00:18:12,800
+210
+00:18:10,640 --> 00:18:11,680
 That's the loop.
 
-213
-00:18:13,080 --> 00:18:17,320
+211
+00:18:11,900 --> 00:18:16,180
 The authors use the meditative states from last episode as test cases.
 
-214
-00:18:17,620 --> 00:18:19,720
+212
+00:18:16,520 --> 00:18:18,600
 What does this family imply for machines?
 
-215
-00:18:20,000 --> 00:18:21,860
+213
+00:18:18,860 --> 00:18:20,760
 It depends which member you ask.
 
-216
-00:18:22,080 --> 00:18:25,880
+214
+00:18:21,160 --> 00:18:24,740
 On Seth's beast machine view, prediction alone is not enough.
 
-217
-00:18:26,240 --> 00:18:29,080
+215
+00:18:25,120 --> 00:18:27,980
 Prediction in the service of staying alive is what matters,
 
-218
-00:18:29,080 --> 00:18:32,320
+216
+00:18:28,220 --> 00:18:31,180
 so today's disembodied systems are poor candidates.
 
-219
-00:18:32,820 --> 00:18:36,020
+217
+00:18:31,800 --> 00:18:34,880
 On a more purely computational reading of active inference,
 
-220
-00:18:36,260 --> 00:18:40,740
+218
+00:18:34,880 --> 00:18:39,600
 an artificial agent with the right self-modeling architecture could qualify.
 
-221
-00:18:41,960 --> 00:18:45,020
+219
+00:18:40,880 --> 00:18:43,900
 Sixth, Michael Graziano's attention schema theory,
 
-222
-00:18:45,280 --> 00:18:47,700
+220
+00:18:44,200 --> 00:18:46,560
 the illusionist's mechanism from episode 8.
 
-223
-00:18:47,900 --> 00:18:50,980
+221
+00:18:46,800 --> 00:18:49,860
 As a scientific theory, it makes a specific prediction.
 
-224
-00:18:51,360 --> 00:18:53,800
+222
+00:18:50,280 --> 00:18:52,660
 Awareness should matter for controlling attention.
 
+223
+00:18:52,920 --> 00:18:58,760
+And that's roughly what experiments by Taylor Webb, Graziano, and colleagues found in 2016.
+
+224
+00:18:59,360 --> 00:19:02,240
+Q's people were not aware of still captured their attention.
+
 225
-00:18:54,060 --> 00:18:57,920
-And that's roughly what experiments by Taylor Webb, Graziano,
+00:19:02,740 --> 00:19:07,600
+But without awareness, people controlled their attention less well, holding it less stably.
 
 226
-00:18:59,080 --> 00:19:04,860
-in 2016. Q's people were not aware of still captured their attention. But without awareness,
-
-227
-00:19:05,340 --> 00:19:08,720
-people controlled their attention less well, holding it less stably.
-
-228
-00:19:09,580 --> 00:19:14,160
+00:19:08,500 --> 00:19:13,040
 Transformers are literally built out of attention. Do they have attention schemas?
 
+227
+00:19:13,380 --> 00:19:15,540
+Not in Graziano's sense.
+
+228
+00:19:15,960 --> 00:19:18,840
+Attention in a transformer is a routing mechanism.
+
 229
-00:19:14,500 --> 00:19:21,340
-Not in Graziano's sense. Attention in a transformer is a routing mechanism. Each position
+00:19:19,260 --> 00:19:21,940
+Each position weighs information from the others.
 
 230
-00:19:21,340 --> 00:19:26,800
-weighs information from the others. It does not come with a model of that attention used to control
+00:19:22,200 --> 00:19:25,960
+It does not come with a model of that attention used to control it.
 
 231
-00:19:26,800 --> 00:19:32,260
-it. Whether something like that could be learned implicitly is an open question, and it's one of
+00:19:26,300 --> 00:19:30,020
+Whether something like that could be learned implicitly is an open question,
 
 232
-00:19:32,260 --> 00:19:39,400
-the indicators researchers check for, as we'll see next episode. Seventh, unlimited associative
+00:19:30,020 --> 00:19:34,800
+and it's one of the indicators researchers check for, as we'll see next episode.
 
 233
-00:19:39,400 --> 00:19:46,400
-learning from Simona Ginsberg and Eva Yablonka. Rather than a mechanism, it identifies a transition
+00:19:35,900 --> 00:19:41,620
+Seventh, unlimited associative learning from Simona Ginsberg and Eva Yablonka.
 
 234
-00:19:46,400 --> 00:19:51,460
-marker, an evolved capacity whose presence indicates that consciousness has arisen.
+00:19:41,900 --> 00:19:45,680
+Rather than a mechanism, it identifies a transition marker,
 
 235
-00:19:51,460 --> 00:19:57,680
-Unlimited associative learning is open-ended learning about novel, compound stimuli and actions,
+00:19:45,920 --> 00:19:50,300
+an evolved capacity whose presence indicates that consciousness has arisen.
 
 236
-00:19:57,940 --> 00:20:01,620
-combinations of features, across time gaps, in chains.
+00:19:50,540 --> 00:19:56,540
+Unlimited associative learning is open-ended learning about novel, compound stimuli and actions,
 
 237
-00:20:02,220 --> 00:20:08,060
-On their account, it first evolved around the Cambrian Explosion more than 500 million years ago,
+00:19:56,540 --> 00:20:00,520
+combinations of features across time gaps in chains.
 
 238
-00:20:08,100 --> 00:20:14,200
-and consciousness evolved at least three times, in vertebrates, in arthropods, and in cephalopods.
+00:20:00,940 --> 00:20:04,560
+On their account, it first evolved around the Cambrian explosion
 
 239
-00:20:14,580 --> 00:20:19,920
-Language models learn associations open-endedly. By that marker, they are in.
+00:20:04,560 --> 00:20:06,940
+more than 500 million years ago,
 
 240
-00:20:21,460 --> 00:20:27,740
-Yablonka would say no. In a 2021 paper with Zohar Bronfman on when robots might be sentient,
+00:20:07,080 --> 00:20:09,680
+and consciousness evolved at least three times
 
 241
-00:20:27,960 --> 00:20:33,300
-they argued that a machine would need this kind of learning tied to a body and to one overriding
+00:20:09,680 --> 00:20:13,080
+in vertebrates, in arthropods, and in cephalopods.
 
 242
-00:20:33,300 --> 00:20:39,600
-value, keeping itself going. Language models have neither. And that shows the general problem with
+00:20:13,440 --> 00:20:16,860
+Language models learn associations open-endedly.
 
 243
-00:20:39,600 --> 00:20:46,600
-transplanting any marker calibrated on animals. A few other theories deserve a mention. Dendritic
+00:20:17,120 --> 00:20:18,800
+By that marker, they are in.
 
 244
-00:20:46,600 --> 00:20:52,980
-integration theory, from Yan Aru, Matto Takasuzuki, and Matthew Larkham, ties consciousness to a
+00:20:19,340 --> 00:20:21,580
+Ginzberg and Yablonka would say no.
 
 245
-00:20:52,980 --> 00:20:59,100
-cellular mechanism in large cortical neurons, and in rodents, anesthetics appear to work in part by
+00:20:21,820 --> 00:20:25,020
+In a 2021 paper with Zohar Bronfman on
 
 246
-00:20:59,100 --> 00:21:05,100
-disrupting it. Serial Penarts's neurorepresentationalism treats consciousness as the
+00:20:26,540 --> 00:20:30,520
+they argued that a machine would need this kind of learning tied to a body
 
 247
-00:21:05,100 --> 00:21:10,300
-brain's multimodal, situational model of the world. And electromagnetic field theories,
+00:20:30,520 --> 00:20:33,920
+and to one overriding value, keeping itself going.
 
 248
-00:21:10,700 --> 00:21:16,520
-like John Joe McFadden's, locate the integration of experience in the brain's own electric field.
+00:20:34,360 --> 00:20:36,100
+Language models have neither.
 
 249
-00:21:16,600 --> 00:21:23,420
-The skeptics of episode 13 cite recent work from Earl Miller's lab suggesting that the brain's
+00:20:36,280 --> 00:20:40,940
+And that shows the general problem with transplanting any marker calibrated on animals.
 
 250
-00:21:23,420 --> 00:21:29,300
-electric fields help coordinate activity across the cortex, as one-way biology might matter.
+00:20:41,920 --> 00:20:44,320
+A few other theories deserve a mention.
 
 251
-00:21:30,140 --> 00:21:36,960
-Now the trials. The first, and so far the most important, was the Cogitate Consortium's test
+00:20:44,820 --> 00:20:50,040
+Dendritic integration theory, from Yan Aru, Matotaka Suzuki, and Matthew Larkham,
 
 252
-00:21:36,960 --> 00:21:43,880
-of global neuronal workspace theory against integrated information theory. 256 participants
+00:20:50,480 --> 00:20:54,460
+ties consciousness to a cellular mechanism in large cortical neurons,
 
 253
-00:21:43,880 --> 00:21:47,640
-were tested with three methods, FMRIM,
+00:20:54,460 --> 00:20:58,700
+and in rodents, anesthetics appear to work in part by disrupting it.
 
 254
-00:21:47,960 --> 00:21:50,860
-e.g., and electrodes implanted in the brains
+00:20:59,440 --> 00:21:05,200
+Serial Penartz's neurorepresentationalism treats consciousness as the brain's multimodal,
 
 255
-00:21:50,860 --> 00:21:52,700
-of 34 epilepsy patients.
+00:21:05,480 --> 00:21:11,080
+situational model of the world. And electromagnetic field theories, like John Joe McFadden's,
 
 256
-00:21:52,960 --> 00:21:56,980
-They saw faces, objects, letters, and meaningless symbols
+00:21:11,240 --> 00:21:15,400
+locate the integration of experience in the brain's own electric field.
 
 257
-00:21:56,980 --> 00:21:59,580
-at different orientations and durations,
+00:21:15,660 --> 00:21:22,300
+The skeptics of episode 13 cite recent work from Earl Miller's lab suggesting that the brain's
 
 258
-00:21:59,880 --> 00:22:02,920
-sometimes relevant to their task and sometimes not.
+00:21:22,300 --> 00:21:28,180
+electric fields help coordinate activity across the cortex, as one-way biology might matter.
 
 259
-00:22:03,340 --> 00:22:05,360
-The theories made opposing predictions.
+00:21:29,060 --> 00:21:35,840
+Now the trials. The first, and so far the most important, was the Cogitate Consortium's test
 
 260
-00:22:06,160 --> 00:22:08,160
-IIT predicted that conscious content
+00:21:35,840 --> 00:21:42,760
+of global neuronal workspace theory against integrated information theory. 256 participants
 
 261
-00:22:08,160 --> 00:22:10,120
-would be maintained in the back of the brain
+00:21:42,760 --> 00:21:51,020
+were tested with three methods, fMRIM, e.g., and electrodes implanted in the brains of 34 epilepsy
 
 262
-00:22:10,120 --> 00:22:12,260
-for as long as the stimulus was seen,
+00:21:52,300 --> 00:21:58,440
+They saw faces, objects, letters, and meaningless symbols at different orientations and durations,
 
 263
-00:22:13,940 --> 00:22:20,160
-between posterior regions. Global workspace theory predicted ignition in prefrontal cortex
+00:21:58,740 --> 00:22:01,780
+sometimes relevant to their task and sometimes not.
 
 264
-00:22:20,160 --> 00:22:25,380
-when the stimulus appeared and again when it disappeared, and that prefrontal cortex would
+00:22:02,060 --> 00:22:04,240
+The theories made opposing predictions.
 
 265
-00:22:25,380 --> 00:22:31,980
-carry the details of what was seen. The results, published in Nature in April 2025, challenged both.
+00:22:05,040 --> 00:22:08,980
+IIT predicted that conscious content would be maintained in the back of the brain
 
 266
-00:22:32,300 --> 00:22:37,360
-Some predictions held up. Some sites at the back tracked how long a stimulus lasted,
+00:22:08,980 --> 00:22:14,700
+for as long as the stimulus was seen, with sustained synchronization between posterior regions.
 
 267
-00:22:37,640 --> 00:22:43,600
-and prefrontal cortex responded when it appeared. But key predictions failed. There was no sustained,
+00:22:15,100 --> 00:22:19,040
+Global workspace theory predicted ignition in prefrontal cortex
 
 268
-00:22:43,880 --> 00:22:46,980
-content-specific synchronization within posterior cortex,
+00:22:19,040 --> 00:22:22,120
+when the stimulus appeared and again when it disappeared.
 
 269
-00:22:47,400 --> 00:22:50,520
-which the authors called the most direct challenge to IIT,
+00:22:22,300 --> 00:22:25,960
+and that prefrontal cortex would carry the details of what was seen.
 
 270
-00:22:50,800 --> 00:22:53,520
-and there was no ignition when the stimulus disappeared.
+00:22:26,200 --> 00:22:30,820
+The results, published in Nature in April 2025, challenged both.
 
 271
-00:22:54,060 --> 00:22:58,120
-Prefrontal cortex carried information about the category of what was seen,
+00:22:31,180 --> 00:22:32,680
+Some predictions held up.
 
 272
-00:22:58,400 --> 00:23:01,980
-face versus object, but not about its exact identity
+00:22:32,820 --> 00:22:36,240
+Some sites at the back tracked how long a stimulus lasted
 
 273
-00:23:01,980 --> 00:23:04,460
-and little or nothing about its orientation.
+00:22:36,240 --> 00:22:39,080
+and prefrontal cortex responded when it appeared.
 
 274
-00:23:05,060 --> 00:23:08,180
-That's a serious problem for global workspace theory.
+00:22:39,260 --> 00:22:40,940
+But key predictions failed.
 
 275
-00:23:08,660 --> 00:23:11,580
-So the first decisive test was indecisive.
+00:22:41,160 --> 00:22:45,880
+There was no sustained, content-specific synchronization within posterior cortex,
 
 276
-00:23:12,280 --> 00:23:18,000
-Decisive about some predictions, indecisive about the theories, which is how science usually works.
+00:22:46,200 --> 00:22:49,380
+which the authors called the most direct challenge to IIT.
 
 277
-00:23:18,360 --> 00:23:21,120
-Both camps disputed parts of the interpretation,
+00:22:49,380 --> 00:22:52,380
+and there was no ignition when the stimulus disappeared.
 
 278
-00:23:21,460 --> 00:23:25,740
-and the pseudoscience letter erupted a few months after the first results were presented.
+00:22:52,940 --> 00:22:58,520
+Prefrontal cortex carried information about the category of what was seen, face versus object,
 
 279
-00:23:26,100 --> 00:23:28,400
-But the method is the real result.
+00:22:58,900 --> 00:23:03,360
+but not about its exact identity and little or nothing about its orientation.
 
 280
-00:23:28,780 --> 00:23:33,820
-Theories made risky, pre-registered predictions, and some of those predictions failed.
+00:23:03,780 --> 00:23:07,060
+That's a serious problem for global workspace theory.
 
 281
-00:23:34,120 --> 00:23:35,620
-More rounds are underway.
+00:23:07,380 --> 00:23:10,440
+So the first decisive test was indecisive.
 
 282
-00:23:36,380 --> 00:23:38,860
-Cogitate's second experiment uses a video game.
+00:23:10,920 --> 00:23:14,480
+Decisive about some predictions, indecisive about the theories,
 
 283
-00:23:39,360 --> 00:23:42,460
-People play while faces and objects appear in the background,
+00:23:14,740 --> 00:23:16,860
+which is how science usually works.
 
 284
-00:23:42,740 --> 00:23:44,740
-so their attention is pulled away from them,
+00:23:17,440 --> 00:23:20,000
+Both camps disputed parts of the interpretation,
 
 285
-00:23:44,940 --> 00:23:48,400
-and later watch replays of gameplay while attending to those images.
+00:23:20,320 --> 00:23:24,600
+and the pseudoscience letter erupted a few months after the first results were presented.
 
 286
-00:23:48,840 --> 00:23:53,160
-It was introduced in posters at the field's 2025 meeting in Crete,
+00:23:24,980 --> 00:23:27,240
+But the method is the real result.
 
 287
-00:23:53,360 --> 00:23:58,560
-with 139 participants across FMR, I&M, EG.
+00:23:27,700 --> 00:23:32,700
+Theories made risky, pre-registered predictions, and some of those predictions failed.
 
 288
-00:23:58,820 --> 00:24:02,600
-Those posters showed that the game works and gave early mixed results,
+00:23:32,980 --> 00:23:34,500
+More rounds are underway.
 
 289
-00:24:02,940 --> 00:24:05,120
-weak support for a key workspace prediction,
+00:23:35,260 --> 00:23:37,720
+Cogitate's second experiment uses a video game.
 
 290
-00:24:05,360 --> 00:24:07,900
-and only partial support for one of IITs.
+00:23:38,080 --> 00:23:41,340
+People play while faces and objects appear in the background,
 
 291
-00:24:08,860 --> 00:24:14,180
-is peer-reviewed yet, and no verdict on the theories has been published. A separate collaboration,
+00:23:41,340 --> 00:23:43,620
+so their attention is pulled away from them,
 
 292
-00:24:14,500 --> 00:24:20,320
-called Intrepid, is testing IIT against active inference and against neurorepresentationalism,
+00:23:43,620 --> 00:23:47,260
+and later watch replays of gameplay while attending to those images.
 
 293
-00:24:20,540 --> 00:24:25,780
-with four experiments and independent replications planned. Its results are pending, too.
+00:23:47,660 --> 00:23:52,020
+It was introduced in posters at the field's 2025 meeting in Crete,
 
 294
-00:24:26,780 --> 00:24:32,100
-What would settle things? A few candidate tests. IIT's inactive neuron prediction,
+00:23:52,220 --> 00:23:57,420
+with 139 participants across FMR, I&M, EG.
 
 295
-00:24:32,380 --> 00:24:37,880
-if anyone can make it work. Lesion and stimulation studies of prefrontal cortex that are large enough
+00:23:57,720 --> 00:24:01,460
+Those posters showed that the game works and gave early mixed results,
 
 296
-00:24:38,860 --> 00:24:40,840
-to settle the front-versus-back fight.
+00:24:01,740 --> 00:24:03,980
+weak support for a key workspace prediction,
 
 297
-00:24:41,040 --> 00:24:44,720
-No report designs that cleanly separate experience from access.
+00:24:04,240 --> 00:24:06,760
+and only partial support for one of IITs.
 
 298
-00:24:45,020 --> 00:24:48,300
-And the extreme states of last episode, cessations,
+00:24:07,160 --> 00:24:11,340
+None of it is peer-reviewed yet, and no verdict on the theories has been published.
 
 299
-00:24:48,760 --> 00:24:51,340
-keryemine dreams, awareness without content,
+00:24:11,340 --> 00:24:19,200
+A separate collaboration, called Intrepid, is testing IIT against active inference and against neurorepresentationalism,
 
 300
-00:24:51,600 --> 00:24:53,540
-which any complete theory has to handle.
+00:24:19,340 --> 00:24:22,600
+with four experiments and independent replications planned.
 
 301
-00:24:53,980 --> 00:24:56,900
-Meanwhile, let me line the theories up against the question
+00:24:22,960 --> 00:24:24,660
+Its results are pending, too.
 
 302
-00:24:56,900 --> 00:24:58,820
-this series is building toward.
+00:24:25,940 --> 00:24:27,060
+What would settle things?
 
 303
-00:24:59,300 --> 00:25:02,520
-Global workspace theory says a machine could be conscious
+00:24:27,240 --> 00:24:28,720
+A few candidate tests.
 
 304
-00:25:02,520 --> 00:25:04,980
-if it has a limited-capacity workspace
+00:24:29,120 --> 00:24:32,460
+IIT's inactive neuron prediction, if anyone can make it work.
 
 305
-00:25:04,980 --> 00:25:08,660
-whose contents are broadcast to many specialized processes.
+00:24:32,800 --> 00:24:39,660
+Lesion and stimulation studies of prefrontal cortex that are large enough and pre-registered to settle the front-versus-back fight.
 
 306
-00:25:09,410 --> 00:25:14,840
-Higher-order theories say yes if the machine monitors its own representations in the right way.
+00:24:41,340 --> 00:24:43,600
+that cleanly separate experience from access,
 
 307
-00:25:15,080 --> 00:25:18,640
-Recurrent processing theory requires genuine recurrence.
+00:24:43,840 --> 00:24:46,260
+and the extreme states of last episode,
 
 308
-00:25:19,360 --> 00:25:24,840
-Attention schema theory requires a model of the machine's own attention used to control it.
+00:24:46,480 --> 00:24:48,480
+cessations, ketamine dreams,
 
 309
-00:25:25,460 --> 00:25:30,900
-Integrated information theory says no for conventional digital hardware, whatever the software.
+00:24:48,880 --> 00:24:50,200
+awareness without content,
 
 310
-00:25:31,140 --> 00:25:38,720
-The beast machine version of predictive processing makes systems that are not regulating a living body very unlikely candidates.
+00:24:50,480 --> 00:24:52,420
+which any complete theory has to handle.
 
 311
-00:25:39,420 --> 00:25:45,620
-And unlimited associative learning, on its author's account, would require open-ended learning in a body,
+00:24:52,780 --> 00:24:54,980
+Meanwhile, let me line the theories up
 
 312
-00:25:45,880 --> 00:25:50,160
-driven by something like self-preservation, which today's systems lack.
+00:24:54,980 --> 00:24:57,700
+against the question this series is building toward.
 
 313
-00:25:50,460 --> 00:25:56,660
-So whether today's AI systems are candidates for consciousness depends almost entirely on which theory you believe,
+00:24:58,140 --> 00:25:01,380
+Global workspace theory says a machine could be conscious
 
 314
-00:25:56,840 --> 00:25:58,200
-and no theory has won.
+00:25:01,380 --> 00:25:03,860
+if it has a limited capacity workspace
 
 315
-00:25:58,380 --> 00:26:00,380
-That is not a reason for despair.
+00:25:03,860 --> 00:25:07,580
+whose contents are broadcast to many specialized processes.
 
 316
-00:26:00,580 --> 00:26:04,500
-It's the starting point for the most careful attempts yet to assess machines.
+00:25:08,240 --> 00:25:10,100
+Higher order theories say yes
 
 317
-00:26:05,090 --> 00:26:10,900
-In 2023, a group of 19 researchers turned most of these theories, though not IIT,
+00:25:11,340 --> 00:25:17,520
+its own representations in the right way. Recurrent processing theory requires genuine recurrence.
 
 318
-00:26:11,440 --> 00:26:15,560
-into a checklist of architectural indicators that you can look for in an AI system.
+00:25:18,220 --> 00:25:23,720
+Attention schema theory requires a model of the machine's own attention, used to control it.
 
 319
-00:26:15,900 --> 00:26:17,520
-That's where Part 3 begins.
+00:25:24,340 --> 00:25:29,360
+Integrated information theory says no for conventional digital hardware, whatever the
+
+320
+00:25:29,360 --> 00:25:34,980
+software. The beast machine version of predictive processing makes systems that are not regulating
+
+321
+00:25:34,980 --> 00:25:41,340
+a living body very unlikely candidates. And unlimited associative learning, on its author's
+
+322
+00:25:41,340 --> 00:25:46,980
+account, would require open-ended learning in a body, driven by something like self-preservation,
+
+323
+00:25:47,320 --> 00:25:52,620
+which today's systems lack. So whether today's AI systems are candidates for consciousness
+
+324
+00:25:52,620 --> 00:25:58,300
+depends almost entirely on which theory you believe, and no theory has won. That is not a
+
+325
+00:25:58,300 --> 00:26:03,380
+reason for despair. It's the starting point for the most careful attempts yet to assess machines.
+
+326
+00:26:05,000 --> 00:26:11,220
+a group of 19 researchers turned most of these theories, though not IIT, into a checklist of
+
+327
+00:26:11,220 --> 00:26:16,400
+architectural indicators that you can look for in an AI system. That's where Part 3 begins.
 

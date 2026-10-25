@@ -1,4 +1,4 @@
-This is Doing and Feeling, the long version. Episode six: Machines That Learn.
+This is Doing and Feeling. Episode six: Machines That Learn.
 
 In 2023, a group of researchers led by Lukas Berglund and Owain Evans reported a strange failure. Ask a leading language model who Tom Cruise's mother is, and it would usually answer correctly: Mary Lee Pfeiffer. Ask who Mary Lee Pfeiffer's son is, and it often couldn't say. Across a large set of real celebrities and their parents, GPT-4 answered the forward question about seventy-nine percent of the time and the reverse only about thirty-three percent. Put the fact in front of it, in the prompt, and it reverses it without trouble. The gap was in what training had stored, not in reasoning about what it could see. They called it the reversal curse.
 

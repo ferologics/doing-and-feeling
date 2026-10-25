@@ -13,20 +13,22 @@ The Map of Positions: every serious answer, and what each costs | Doing and Feel
 ## Description
 
 ```
-Doing and Feeling: Intelligence and Consciousness in Depth, episode 9 of 14. Every serious answer to the hard problem, what it costs, and what it says about octopuses and machines: functionalism, representationalism, enactivism, biological naturalism, integrated information theory, panpsychism, idealism, dualism and quantum theories. It ends with a clearly marked tour of ideas at the edges.
+Doing and Feeling: Intelligence and Consciousness in Depth, episode 9 of 14.
+
+Every serious answer to the hard problem, what it costs, and what it says about octopuses and machines: functionalism, representationalism, enactivism, biological naturalism, integrated information theory, panpsychism, idealism, dualism and quantum theories. It ends with a clearly marked tour of ideas at the edges.
 
 CHAPTERS
 0:00 The China brain
-1:44 Functionalism
-5:47 Representationalism
-8:39 Enactivism
-10:00 Biological naturalism and the Chinese Room
-12:37 Integrated information theory
-15:04 Russellian monism and panpsychism
-18:02 Idealism, dualism, mysterianism and quantum theories
-22:36 Crazyism
-23:30 The scoreboard
-24:47 The edges
+1:43 Functionalism
+5:46 Representationalism
+8:38 Enactivism
+9:59 Biological naturalism and the Chinese Room
+12:36 Integrated information theory
+15:03 Russellian monism and panpsychism
+18:01 Idealism, dualism, mysterianism and quantum theories
+22:35 Crazyism
+23:29 The scoreboard
+24:46 The edges
 
 Key sources:
 - Block 1978, Troubles with Functionalism: https://rintintin.colorado.edu/%7Evancecd/phil201/Block.pdf

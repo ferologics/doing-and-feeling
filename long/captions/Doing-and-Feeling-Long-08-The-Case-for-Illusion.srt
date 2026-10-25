@@ -1,1602 +1,1601 @@
 1
-00:00:00,000 --> 00:00:02,780
-This is Doing and
-Feeling, the long version.
+00:00:00,000 --> 00:00:01,800
+This is Doing and Feeling.
 
 2
-00:00:03,420 --> 00:00:05,360
+00:00:02,240 --> 00:00:04,240
 Episode eight: The Case for Illusion.
 
 3
-00:00:05,740 --> 00:00:10,210
+00:00:04,660 --> 00:00:09,130
 Right now, without moving your eyes, ask
 yourself how much of what you see is in
 
 4
-00:00:10,260 --> 00:00:14,080
+00:00:09,180 --> 00:00:12,980
 color. For almost everyone, the
 answer comes back instantly:
 
 5
-00:00:14,460 --> 00:00:20,270
+00:00:13,380 --> 00:00:19,170
 all of it. In 2020, the psychologists
 Michael Cohen, Thomas Botch, and Caroline
 
 6
-00:00:20,320 --> 00:00:22,160
+00:00:19,220 --> 00:00:21,040
 Robertson tested that confidence.
 
 7
-00:00:22,820 --> 00:00:27,310
+00:00:21,700 --> 00:00:26,210
 Participants wore virtual reality headsets
 with eye tracking and explored immersive
 
 8
-00:00:27,360 --> 00:00:31,960
+00:00:26,260 --> 00:00:30,860
 scenes: a historic site, a street
 dance, an orchestra rehearsal.
 
 9
-00:00:32,220 --> 00:00:36,250
+00:00:31,120 --> 00:00:35,130
 The software kept color only where each
 person was looking and drained it from
 
 10
-00:00:36,300 --> 00:00:39,200
+00:00:35,180 --> 00:00:38,080
 everything else, turning the
 periphery black and white.
 
 11
-00:00:39,620 --> 00:00:41,480
+00:00:38,260 --> 00:00:40,360
 Most participants never noticed.
 
 12
-00:00:41,940 --> 00:00:47,270
+00:00:40,820 --> 00:00:46,170
 In the most extreme condition, with color
 left in only a small central patch, less
 
 13
-00:00:47,320 --> 00:00:51,740
+00:00:46,220 --> 00:00:50,680
 than five percent of the visual field,
 nearly a third of them still did not notice.
 
 14
-00:00:52,120 --> 00:00:54,200
+00:00:51,100 --> 00:00:53,100
 That's a fact about peripheral vision.
 
 15
-00:00:54,480 --> 00:00:56,500
+00:00:53,420 --> 00:00:55,420
 Nobody thinks the eye is perfect.
 
 16
-00:00:56,840 --> 00:00:59,080
+00:00:55,720 --> 00:00:57,960
 The eye isn't what failed, though.
 
 17
-00:00:59,380 --> 00:01:00,960
+00:00:58,300 --> 00:00:59,840
 What failed was the report.
 
 18
-00:01:01,400 --> 00:01:05,990
+00:01:00,340 --> 00:01:04,890
 People were asked whether anything had
 changed in what they saw, and most reported
 
 19
-00:01:06,040 --> 00:01:09,770
+00:01:04,940 --> 00:01:08,650
 nothing amiss, although much of their
 visual field had lost its color.
 
 20
-00:01:09,820 --> 00:01:11,880
+00:01:08,700 --> 00:01:10,780
 There are two ways to read that.
 
 21
-00:01:12,100 --> 00:01:16,590
+00:01:11,020 --> 00:01:15,490
 The realist reading says the brain filled
 in the color, so the experience really was
 
 22
-00:01:16,640 --> 00:01:20,900
+00:01:15,540 --> 00:01:19,800
 colored, and introspection got the experience
 right while the world was different.
 
 23
-00:01:21,240 --> 00:01:25,330
+00:01:20,120 --> 00:01:24,230
 The other reading says people's judgments
 about their experience ran ahead of
 
 24
-00:01:25,380 --> 00:01:31,250
+00:01:24,280 --> 00:01:30,130
 anything going on. Either way, the sense
 of a rich, uniform, colorful visual field
 
 25
-00:01:31,300 --> 00:01:35,580
+00:01:30,180 --> 00:01:34,480
 turns out to be a construction, and
 introspection did not flag it as one.
 
 26
-00:01:35,980 --> 00:01:38,320
+00:01:34,880 --> 00:01:37,180
 Today's question is how far that goes.
 
 27
-00:01:38,800 --> 00:01:43,390
+00:01:37,680 --> 00:01:42,290
 Could introspection be wrong not just about
 the details of experience, but about its
 
 28
-00:01:43,440 --> 00:01:47,760
+00:01:42,340 --> 00:01:46,640
 most basic character, the very thing
 that makes the hard problem seem hard?
 
 29
-00:01:48,080 --> 00:01:52,850
+00:01:46,960 --> 00:01:51,730
 That is the claim of illusionism, and today
 it gets the strongest hearing I can give
 
 30
-00:01:52,900 --> 00:01:55,300
+00:01:51,780 --> 00:01:54,180
 it, followed by its hardest objections.
 
 31
-00:01:56,560 --> 00:02:00,820
+00:01:55,480 --> 00:01:59,700
 Start with what the view actually says,
 because it's routinely caricatured.
 
 32
-00:02:01,080 --> 00:02:06,950
+00:01:59,960 --> 00:02:05,830
 The modern statement is Keith Frankish's
 2016 paper, Illusionism as a Theory of
 
 33
-00:02:07,000 --> 00:02:11,490
+00:02:05,880 --> 00:02:10,370
 Consciousness, published as a target article
 in the Journal of Consciousness Studies
 
 34
-00:02:11,540 --> 00:02:15,370
+00:02:10,420 --> 00:02:14,270
 with a symposium of replies,
 later collected in a book.
 
 35
-00:02:15,420 --> 00:02:20,250
+00:02:14,320 --> 00:02:19,130
 Frankish draws a line between two
 things that ordinary talk runs together.
 
 36
-00:02:20,300 --> 00:02:24,370
+00:02:19,180 --> 00:02:23,250
 On one side is consciousness in
 the everyday, functional sense.
 
 37
-00:02:24,420 --> 00:02:29,280
+00:02:23,300 --> 00:02:28,160
 You're awake. You see the tomato, you can
 attend to it, think about it, report it.
 
 38
-00:02:29,480 --> 00:02:34,700
+00:02:28,360 --> 00:02:33,600
 When you stub your toe, a state arises that
 registers damage, seizes your attention,
 
 39
-00:02:34,920 --> 00:02:36,380
+00:02:33,820 --> 00:02:35,280
 and makes you want it to stop.
 
 40
-00:02:37,060 --> 00:02:38,760
+00:02:35,980 --> 00:02:37,640
 Illusionists deny none of this.
 
 41
-00:02:39,000 --> 00:02:42,880
+00:02:37,920 --> 00:02:41,760
 On the other side is phenomenal
 consciousness in the philosopher's sense:
 
 42
-00:02:43,320 --> 00:02:48,740
+00:02:42,220 --> 00:02:47,620
 special qualities of experience, qualia,
 that are supposed to be intrinsic, private,
 
 43
-00:02:49,120 --> 00:02:50,660
+00:02:47,980 --> 00:02:49,560
 ineffable, and known directly.
 
 44
-00:02:51,200 --> 00:02:55,430
+00:02:49,860 --> 00:02:54,310
 The redness of the red, considered as
 something over and above everything the
 
 45
-00:02:55,480 --> 00:02:58,920
+00:02:54,360 --> 00:02:57,800
 experience does. That is
 what illusionism denies.
 
 46
-00:02:59,380 --> 00:03:02,620
+00:02:58,320 --> 00:03:01,480
 Frankish's claim is that there
 are no such phenomenal properties.
 
 47
-00:03:02,960 --> 00:03:06,240
+00:03:01,780 --> 00:03:05,140
 What exist are what he calls
 quasi-phenomenal properties:
 
 48
-00:03:06,640 --> 00:03:11,230
+00:03:05,480 --> 00:03:10,110
 physical properties of brain states that
 introspection represents as having that
 
 49
-00:03:11,280 --> 00:03:12,780
+00:03:10,160 --> 00:03:11,680
 special phenomenal character.
 
 50
-00:03:13,100 --> 00:03:15,200
+00:03:11,940 --> 00:03:14,100
 The representation is real.
 
 51
-00:03:15,460 --> 00:03:17,500
+00:03:14,360 --> 00:03:16,400
 The character it attributes is not.
 
 52
-00:03:17,880 --> 00:03:20,720
+00:03:16,760 --> 00:03:19,620
 So what am I supposed to
 say about a toothache?
 
 53
-00:03:20,960 --> 00:03:22,540
+00:03:19,820 --> 00:03:21,420
 That it only seems to hurt?
 
 54
-00:03:22,880 --> 00:03:26,020
+00:03:21,760 --> 00:03:24,900
 It hurts. Everything that
 hurting does is real:
 
 55
-00:03:26,240 --> 00:03:30,220
+00:03:25,140 --> 00:03:29,240
 the alarm, the distraction, the
 misery, the plans to see a dentist.
 
 56
-00:03:30,640 --> 00:03:35,320
+00:03:29,540 --> 00:03:34,200
 What the illusionist denies is a further
 private glow that floats free of all that,
 
 57
-00:03:35,480 --> 00:03:39,330
+00:03:34,360 --> 00:03:38,230
 which introspection seems to point at when
 you attend to the pain in a philosophical
 
 58
-00:03:39,380 --> 00:03:41,540
+00:03:38,280 --> 00:03:40,440
 mood. The hurting is real.
 
 59
-00:03:41,800 --> 00:03:44,700
+00:03:40,720 --> 00:03:43,560
 The extra, ineffable
 quality is the illusion.
 
 60
-00:03:45,220 --> 00:03:48,680
+00:03:44,280 --> 00:03:47,580
 Frankish also distinguishes
 strong illusionism from weak.
 
 61
-00:03:48,940 --> 00:03:53,920
+00:03:47,960 --> 00:03:52,800
 Weak illusionism says phenomenal properties
 exist but aren't quite as they seem.
 
 62
-00:03:54,100 --> 00:03:58,670
+00:03:53,120 --> 00:03:57,570
 He argues that position is unstable,
 because once you strip away the strange
 
 63
-00:03:58,720 --> 00:04:02,700
+00:03:57,620 --> 00:04:01,600
 features, what's left is functional
 and representational anyway.
 
 64
-00:04:02,940 --> 00:04:04,920
+00:04:01,880 --> 00:04:03,790
 So he defends the strong version.
 
 65
-00:04:05,140 --> 00:04:10,240
+00:04:03,840 --> 00:04:09,140
 And he insists on a positive research
 program, which he calls the illusion problem:
 
 66
-00:04:10,700 --> 00:04:15,540
+00:04:09,520 --> 00:04:14,650
 explain why introspection represents our
 states as having phenomenal properties, and
 
 67
-00:04:15,590 --> 00:04:18,120
+00:04:14,700 --> 00:04:17,020
 why that representation is so compelling.
 
 68
-00:04:18,680 --> 00:04:20,500
+00:04:17,540 --> 00:04:19,400
 Compelling is the key word.
 
 69
-00:04:20,700 --> 00:04:25,810
+00:04:19,560 --> 00:04:24,710
 In the Müller-Lyer illusion, two equal lines
 with arrowheads pointing in or out look
 
 70
-00:04:25,860 --> 00:04:27,940
+00:04:24,760 --> 00:04:26,840
 unequal even after you've measured them.
 
 71
-00:04:28,340 --> 00:04:31,340
+00:04:27,340 --> 00:04:30,220
 Knowing the explanation
 doesn't switch an illusion off.
 
 72
-00:04:31,500 --> 00:04:36,430
+00:04:30,640 --> 00:04:35,310
 So if illusionism is true, your sense of
 an inner glow should survive your accepting
 
 73
-00:04:36,480 --> 00:04:41,530
+00:04:35,360 --> 00:04:40,410
 the theory, and its stubborn obviousness
 is not, by itself, evidence against the
 
 74
-00:04:41,580 --> 00:04:48,110
+00:04:40,460 --> 00:04:47,010
 view. The view's deepest roots are in
 Daniel Dennett, who died in 2024 and who
 
 75
-00:04:48,160 --> 00:04:50,020
+00:04:47,060 --> 00:04:48,920
 spent half a century on this project.
 
 76
-00:04:50,200 --> 00:04:56,310
+00:04:49,120 --> 00:04:55,190
 In a 1988 paper, Quining Qualia, Dennett
 went after the very concept of qualia as
 
 77
-00:04:56,360 --> 00:05:00,020
+00:04:55,240 --> 00:04:58,900
 philosophers define it. His
 method was the intuition pump:
 
 78
-00:05:00,260 --> 00:05:03,940
+00:04:59,120 --> 00:05:02,840
 a carefully designed story that
 shows you how your intuitions work.
 
 79
-00:05:04,400 --> 00:05:08,740
+00:05:03,080 --> 00:05:07,640
 The best known involves two professional
 coffee tasters at the same company.
 
 80
-00:05:09,120 --> 00:05:13,320
+00:05:08,020 --> 00:05:12,220
 Both have tasted the house blend for
 years, and both have stopped liking it.
 
 81
-00:05:13,620 --> 00:05:17,600
+00:05:12,440 --> 00:05:16,500
 One says the coffee tastes the same to
 him, but his standards have changed.
 
 82
-00:05:17,880 --> 00:05:22,430
+00:05:16,860 --> 00:05:21,330
 The other says his taste buds must have
 changed, so the coffee now tastes different
 
 83
-00:05:22,480 --> 00:05:24,700
+00:05:21,380 --> 00:05:23,580
 to him. Dennett pressed the question:
 
 84
-00:05:24,980 --> 00:05:27,260
+00:05:23,800 --> 00:05:26,160
 what could possibly settle
 which of them is right?
 
 85
-00:05:27,600 --> 00:05:30,020
+00:05:26,580 --> 00:05:28,890
 Perhaps there is no fact
 of the matter at all.
 
 86
-00:05:30,080 --> 00:05:35,270
+00:05:28,940 --> 00:05:34,150
 And if a concept generates questions with
 no possible answers, maybe the concept is
 
 87
-00:05:35,320 --> 00:05:40,950
+00:05:34,200 --> 00:05:39,830
 confused. His 1991 book, Consciousness
 Explained, attacked a picture he called the
 
 88
-00:05:41,000 --> 00:05:45,070
+00:05:39,880 --> 00:05:43,950
 Cartesian theater: the idea that somewhere
 in the brain there's a place where it all
 
 89
-00:05:45,120 --> 00:05:49,470
+00:05:44,000 --> 00:05:48,370
 comes together, a screen watched by an
 inner audience, and that a content becomes
 
 90
-00:05:49,520 --> 00:05:51,500
+00:05:48,420 --> 00:05:50,380
 conscious at the moment it arrives there.
 
 91
-00:05:51,720 --> 00:05:55,560
+00:05:50,900 --> 00:05:54,440
 The brain, he argued, has no
 such place and no such moment.
 
 92
-00:05:55,920 --> 00:05:57,640
+00:05:54,720 --> 00:05:56,540
 What it has are multiple drafts:
 
 93
-00:05:57,840 --> 00:06:01,300
+00:05:56,880 --> 00:06:00,180
 parallel streams of content,
 constantly edited and revised.
 
 94
-00:06:01,720 --> 00:06:04,050
+00:06:00,600 --> 00:06:03,010
 His favorite example was color phi.
 
 95
-00:06:04,100 --> 00:06:10,770
+00:06:03,060 --> 00:06:09,650
 In 1976, Paul Kolers and Michael von Grünau
 flashed a red dot and then, quickly, a
 
 96
-00:06:10,820 --> 00:06:12,680
+00:06:09,700 --> 00:06:11,560
 green dot a short distance away.
 
 97
-00:06:13,100 --> 00:06:17,970
+00:06:12,000 --> 00:06:16,870
 People see one dot moving and turning green
 partway along its path, before the green
 
 98
-00:06:18,020 --> 00:06:20,960
+00:06:16,920 --> 00:06:19,860
 dot has even appeared. So
 how did the brain know?
 
 99
-00:06:21,140 --> 00:06:25,510
+00:06:20,380 --> 00:06:24,410
 Either it held the experience back and
 edited it before release, which Dennett
 
 100
-00:06:25,560 --> 00:06:30,040
+00:06:24,460 --> 00:06:28,920
 called the Stalinesque story, or you saw
 it correctly and your memory was rewritten,
 
 101
-00:06:30,500 --> 00:06:35,170
+00:06:29,160 --> 00:06:34,050
 the Orwellian story. Dennett's provocative
 conclusion was that there is no fact
 
 102
-00:06:35,220 --> 00:06:40,360
+00:06:34,100 --> 00:06:38,310
 about which is true, because there is no
 finish line in the brain where experience
 
 103
-00:06:40,410 --> 00:06:43,090
+00:06:38,360 --> 00:06:41,760
 officially happens. No
 finish line, no theater.
 
 104
-00:06:43,140 --> 00:06:48,270
+00:06:42,120 --> 00:06:47,180
 A distributed system has no global clock
 either, and things still happen in it.
 
 105
-00:06:48,320 --> 00:06:51,033
+00:06:47,400 --> 00:06:50,120
 They do, and Dennett would
 take the analogy gladly.
 
 106
-00:06:51,083 --> 00:06:55,944
+00:06:50,380 --> 00:06:55,050
 Ask when a write really happened, apart
 from what the logs say and what the other
 
 107
-00:06:55,994 --> 00:06:58,707
+00:06:55,100 --> 00:06:57,580
 nodes later see, and
 there may be no answer.
 
 108
-00:06:58,757 --> 00:07:01,470
+00:06:57,880 --> 00:07:00,360
 His claim is that the brain is like that.
 
 109
-00:07:01,520 --> 00:07:03,460
+00:07:00,620 --> 00:07:02,360
 Things happen in it all the time.
 
 110
-00:07:04,020 --> 00:07:08,120
+00:07:02,700 --> 00:07:07,040
 What's missing is a single moment when
 one of them officially becomes experience.
 
 111
-00:07:08,560 --> 00:07:11,780
+00:07:07,660 --> 00:07:10,660
 In place of the theater, Dennett
 offered a method and a slogan.
 
 112
-00:07:12,120 --> 00:07:14,340
+00:07:10,920 --> 00:07:13,220
 The method was heterophenomenology:
 
 113
-00:07:14,700 --> 00:07:19,330
+00:07:13,500 --> 00:07:18,210
 take people's reports about their experience
 with total seriousness, as data about
 
 114
-00:07:19,380 --> 00:07:23,550
+00:07:18,260 --> 00:07:22,430
 how things seem to them, without assuming
 the reports are accurate descriptions of
 
 115
-00:07:23,600 --> 00:07:27,100
+00:07:22,480 --> 00:07:25,980
 what's happening inside. The
 slogan was fame in the brain.
 
 116
-00:07:27,240 --> 00:07:32,310
+00:07:26,200 --> 00:07:31,210
 A content becomes conscious the way a
 person becomes famous, by winning influence
 
 117
-00:07:32,360 --> 00:07:35,680
+00:07:31,260 --> 00:07:34,580
 over the rest of the system,
 not by entering a special room.
 
 118
-00:07:35,840 --> 00:07:37,940
+00:07:34,780 --> 00:07:36,840
 And he borrowed an image from computing:
 
 119
-00:07:38,240 --> 00:07:42,380
+00:07:37,140 --> 00:07:41,280
 the user illusion. Your laptop
 shows you folders and a trash can.
 
 120
-00:07:42,620 --> 00:07:47,870
+00:07:41,460 --> 00:07:46,750
 There are no tiny folders on the chip,
 but the interface is real, useful, and the
 
 121
-00:07:47,920 --> 00:07:49,960
+00:07:46,800 --> 00:07:48,810
 only way you ever deal
 with what's underneath.
 
 122
-00:07:50,480 --> 00:07:54,500
+00:07:48,860 --> 00:07:53,400
 On this view, the felt inner world
 is the brain's interface to itself.
 
 123
-00:07:56,160 --> 00:08:00,340
+00:07:55,060 --> 00:07:59,240
 Illusionism needs evidence that introspection
 can be wrong about our own minds.
 
 124
-00:08:00,900 --> 00:08:06,410
+00:07:59,480 --> 00:08:05,310
 There's a lot of it. In 1977, Richard Nisbett
 and Timothy Wilson published a classic
 
 125
-00:08:06,460 --> 00:08:09,140
+00:08:05,360 --> 00:08:08,020
 paper with the title Telling
 More Than We Can Know.
 
 126
-00:08:09,480 --> 00:08:14,830
+00:08:08,400 --> 00:08:13,710
 In one study, shoppers choosing among
 identical items laid out in a row tended to
 
 127
-00:08:14,880 --> 00:08:15,980
+00:08:13,760 --> 00:08:14,900
 pick the one on the right.
 
 128
-00:08:16,560 --> 00:08:20,820
+00:08:15,660 --> 00:08:19,720
 Asked why, they cited quality, and
 denied that position had mattered.
 
 129
-00:08:21,140 --> 00:08:25,760
+00:08:20,060 --> 00:08:24,640
 People confidently report the causes of
 their own choices, and are often wrong.
 
 130
-00:08:26,020 --> 00:08:31,150
+00:08:24,860 --> 00:08:30,050
 The philosopher Eric Schwitzgebel has
 argued that the problem goes deeper, to
 
 131
-00:08:31,200 --> 00:08:37,750
+00:08:30,100 --> 00:08:36,650
 experience itself. In a 2008 paper on the
 unreliability of naive introspection, he
 
 132
-00:08:37,800 --> 00:08:42,420
+00:08:36,700 --> 00:08:41,300
 collected basic questions about current
 experience on which careful people disagree:
 
 133
-00:08:42,880 --> 00:08:47,860
+00:08:41,920 --> 00:08:46,760
 how clear the periphery of the visual field
 is, whether emotions have a bodily feel,
 
 134
-00:08:48,180 --> 00:08:49,960
+00:08:47,020 --> 00:08:48,820
 whether thought has a sensory character.
 
 135
-00:08:50,260 --> 00:08:54,850
+00:08:49,060 --> 00:08:53,750
 These are questions about what experience
 is like right now, and introspection gives
 
 136
-00:08:54,900 --> 00:09:00,500
+00:08:53,800 --> 00:08:59,010
 conflicting answers. The psychologist Russell
 Hurlburt has spent decades on a method
 
 137
-00:09:00,550 --> 00:09:02,440
+00:08:59,060 --> 00:09:01,340
 called descriptive experience sampling.
 
 138
-00:09:02,780 --> 00:09:07,510
+00:09:01,600 --> 00:09:06,390
 A beeper goes off at random moments, and
 you describe exactly what was in your
 
 139
-00:09:07,560 --> 00:09:09,200
+00:09:06,440 --> 00:09:08,030
 experience just before it.
 
 140
-00:09:09,420 --> 00:09:13,790
+00:09:08,080 --> 00:09:12,690
 In one study of thirty people, inner speech
 showed up in about a quarter of samples
 
 141
-00:09:13,840 --> 00:09:16,320
+00:09:12,740 --> 00:09:15,220
 on average, but with enormous variation:
 
 142
-00:09:16,880 --> 00:09:20,700
+00:09:15,720 --> 00:09:19,580
 some people reported none at all,
 others three quarters of the time.
 
 143
-00:09:21,480 --> 00:09:26,050
+00:09:20,380 --> 00:09:24,950
 Hurlburt's long-running conclusion is that
 people's armchair generalizations about
 
 144
-00:09:26,100 --> 00:09:30,850
+00:09:25,000 --> 00:09:29,650
 their own inner lives are far less
 trustworthy than careful reports of specific
 
 145
-00:09:30,900 --> 00:09:36,490
+00:09:29,700 --> 00:09:35,370
 moments. And in 2015, the neurologist
 Adam Zeman gave a name to aphantasia:
 
 146
-00:09:36,540 --> 00:09:39,620
+00:09:35,420 --> 00:09:38,500
 the lifelong absence of
 voluntary visual imagery.
 
 147
-00:09:39,900 --> 00:09:44,280
+00:09:38,780 --> 00:09:43,180
 Some people discover only as adults that
 when others say they can picture a face,
 
 148
-00:09:44,480 --> 00:09:49,490
+00:09:43,380 --> 00:09:48,390
 they mean it literally. A difference as
 large as having inner pictures or not can go
 
 149
-00:09:49,540 --> 00:09:53,040
+00:09:48,440 --> 00:09:51,900
 unnoticed for decades, because
 everyone uses the same words.
 
 150
-00:09:53,460 --> 00:09:56,820
+00:09:52,080 --> 00:09:55,700
 In episode ten, we'll add
 choice blindness to this file.
 
 151
-00:09:57,080 --> 00:10:01,310
+00:09:55,980 --> 00:10:00,110
 All of that shows introspection
 is unreliable about details.
 
 152
-00:10:01,360 --> 00:10:05,240
+00:10:00,160 --> 00:10:04,140
 It doesn't show it's wrong about
 there being experience at all.
 
 153
-00:10:05,540 --> 00:10:09,600
+00:10:04,340 --> 00:10:08,480
 You're sliding from "sometimes mistaken"
 to "mistaken about everything."
 
 154
-00:10:09,980 --> 00:10:14,240
+00:10:08,820 --> 00:10:13,140
 That's exactly the right objection,
 and the illusionist has to answer it.
 
 155
-00:10:14,600 --> 00:10:17,900
+00:10:13,440 --> 00:10:16,800
 Local unreliability doesn't
 establish global error.
 
 156
-00:10:18,180 --> 00:10:20,640
+00:10:17,200 --> 00:10:19,560
 What illusionists add is a second step.
 
 157
-00:10:20,840 --> 00:10:25,150
+00:10:19,900 --> 00:10:24,050
 They argue that we can explain why we'd
 believe in phenomenal properties even if
 
 158
-00:10:25,200 --> 00:10:30,090
+00:10:24,100 --> 00:10:28,970
 there were none, and that if such an
 explanation works, believing in them anyway is
 
 159
-00:10:30,140 --> 00:10:32,940
+00:10:29,020 --> 00:10:31,820
 like believing in a ghost after
 you've found the projector.
 
 160
-00:10:33,240 --> 00:10:35,100
+00:10:32,160 --> 00:10:33,980
 Which brings us to the meta-problem.
 
 161
-00:10:36,360 --> 00:10:39,400
+00:10:35,200 --> 00:10:38,300
 Last episode ended with
 Chalmers's meta-problem:
 
 162
-00:10:39,540 --> 00:10:41,580
+00:10:38,440 --> 00:10:40,460
 why do we think there is a hard problem?
 
 163
-00:10:41,800 --> 00:10:47,190
+00:10:40,680 --> 00:10:46,070
 His 2018 paper, which drew a large set
 of replies, calls the culprits problem
 
 164
-00:10:47,240 --> 00:10:49,840
+00:10:46,120 --> 00:10:48,720
 intuitions. He sorts them into families.
 
 165
-00:10:50,680 --> 00:10:54,350
+00:10:49,480 --> 00:10:53,230
 Explanatory intuitions: experience
 can't be explained physically.
 
 166
-00:10:54,400 --> 00:10:58,120
+00:10:53,280 --> 00:10:57,020
 Metaphysical intuitions:
 experience isn't physical.
 
 167
-00:10:58,680 --> 00:11:00,640
+00:10:57,480 --> 00:10:59,540
 Knowledge intuitions, like Mary's.
 
 168
-00:11:01,060 --> 00:11:02,760
+00:10:59,960 --> 00:11:01,640
 Modal intuitions, like zombies.
 
 169
-00:11:03,020 --> 00:11:04,780
+00:11:01,920 --> 00:11:03,660
 And these intuitions run deep.
 
 170
-00:11:05,060 --> 00:11:09,690
+00:11:03,960 --> 00:11:08,590
 The developmental psychologist Paul Bloom
 has argued that children are natural
 
 171
-00:11:09,740 --> 00:11:13,340
+00:11:08,640 --> 00:11:12,240
 dualists, readily treating
 minds as separable from bodies.
 
 172
-00:11:13,660 --> 00:11:15,200
+00:11:12,560 --> 00:11:14,100
 What might the answer look like?
 
 173
-00:11:15,340 --> 00:11:19,080
+00:11:14,240 --> 00:11:17,980
 The answers I find most promising
 involve introspective models.
 
 174
-00:11:19,320 --> 00:11:24,270
+00:11:18,220 --> 00:11:23,150
 The brain represents its own perceptual
 states in a simplified way, as primitive
 
 175
-00:11:24,320 --> 00:11:28,470
+00:11:23,200 --> 00:11:27,370
 qualities with no visible structure,
 because it has no need to represent the
 
 176
-00:11:28,520 --> 00:11:33,070
+00:11:27,420 --> 00:11:31,950
 underlying machinery. A system with a
 model like that would find its own states
 
 177
-00:11:33,120 --> 00:11:38,370
+00:11:32,000 --> 00:11:37,270
 ineffable, intrinsic, and impossible to
 derive from anything physical, because the
 
 178
-00:11:38,420 --> 00:11:40,520
+00:11:37,320 --> 00:11:39,400
 model offers nothing to derive them from.
 
 179
-00:11:40,880 --> 00:11:44,880
+00:11:39,780 --> 00:11:43,780
 Then comes the twist that makes the
 meta-problem dangerous for realists.
 
 180
-00:11:45,100 --> 00:11:49,810
+00:11:44,180 --> 00:11:48,690
 Suppose we find a complete physical
 explanation of why we say there's a hard
 
 181
-00:11:49,860 --> 00:11:54,280
+00:11:48,740 --> 00:11:53,160
 problem, and that explanation never
 needs to mention experience itself.
 
 182
-00:11:54,680 --> 00:11:59,130
+00:11:53,560 --> 00:11:58,010
 Then our beliefs about experience would be
 explained without experience playing any
 
 183
-00:11:59,180 --> 00:12:03,690
+00:11:58,060 --> 00:12:02,590
 role. That threatens to debunk them, the
 way learning that a belief was produced by
 
 184
-00:12:03,740 --> 00:12:07,020
+00:12:02,640 --> 00:12:05,900
 a process indifferent to its
 truth undermines the belief.
 
 185
-00:12:07,460 --> 00:12:09,180
+00:12:06,460 --> 00:12:08,060
 Chalmers takes this seriously.
 
 186
-00:12:09,460 --> 00:12:14,430
+00:12:08,360 --> 00:12:13,330
 Either the illusionist is right, or the
 realist must show that experience itself
 
 187
-00:12:14,480 --> 00:12:16,800
+00:12:13,380 --> 00:12:15,700
 plays some role in
 producing our talk about it.
 
 188
-00:12:17,140 --> 00:12:22,290
+00:12:16,300 --> 00:12:21,210
 That's why he treats illusionism as a serious
 rival to his own view, not as a fringe
 
 189
-00:12:22,340 --> 00:12:24,760
+00:12:21,260 --> 00:12:23,660
 position. Here's what bugs me.
 
 190
-00:12:24,960 --> 00:12:29,680
+00:12:23,860 --> 00:12:28,560
 Any language model trained on human
 text will reproduce problem intuitions.
 
 191
-00:12:30,000 --> 00:12:35,310
+00:12:29,000 --> 00:12:34,210
 Ask one about its experience and it may
 tell you its inner life is mysterious and
 
 192
-00:12:35,360 --> 00:12:40,220
+00:12:34,260 --> 00:12:39,120
 hard to put into words. Does that make
 the meta-problem easier, or harder?
 
 193
-00:12:40,660 --> 00:12:45,510
+00:12:39,600 --> 00:12:44,410
 Both, I think. Easier, because it proves
 that problem-intuition behavior can be
 
 194
-00:12:45,560 --> 00:12:47,740
+00:12:44,460 --> 00:12:46,600
 produced by a mechanism we can inspect.
 
 195
-00:12:48,220 --> 00:12:52,550
+00:12:47,100 --> 00:12:51,450
 Harder, because it shows the behavior can
 arise for reasons that have nothing to do
 
 196
-00:12:52,600 --> 00:12:57,110
+00:12:51,500 --> 00:12:56,010
 with having experience, or even with
 having an introspective model, simply by
 
 197
-00:12:57,160 --> 00:12:58,980
+00:12:56,060 --> 00:12:57,880
 learning from people who talk this way.
 
 198
-00:12:59,200 --> 00:13:02,860
+00:12:58,120 --> 00:13:01,740
 In a language model, the reports
 alone tell you very little.
 
 199
-00:13:03,260 --> 00:13:08,670
+00:13:02,080 --> 00:13:07,410
 That turns out to be one of the central
 obstacles in episodes twelve and thirteen.
 
 200
-00:13:08,720 --> 00:13:12,520
+00:13:07,460 --> 00:13:11,400
 Several researchers have tried to
 say what the mechanism actually is.
 
 201
-00:13:12,660 --> 00:13:16,690
+00:13:11,640 --> 00:13:15,440
 The most concrete is Michael
 Graziano's attention schema theory.
 
 202
-00:13:16,740 --> 00:13:21,950
+00:13:15,720 --> 00:13:20,850
 The brain constantly controls its own
 attention, and good control requires a model
 
 203
-00:13:22,000 --> 00:13:26,350
+00:13:20,900 --> 00:13:25,190
 of the thing being controlled, the
 good regulator idea from episode four.
 
 204
-00:13:26,400 --> 00:13:31,350
+00:13:25,240 --> 00:13:30,250
 So the brain builds a simplified model of
 its attention, and that model depicts not
 
 205
-00:13:31,400 --> 00:13:34,560
+00:13:30,300 --> 00:13:33,410
 neurons competing for signal
 strength but something simpler:
 
 206
-00:13:34,800 --> 00:13:37,750
+00:13:33,460 --> 00:13:36,660
 an inner essence that
 grasps things, an awareness.
 
 207
-00:13:37,800 --> 00:13:42,930
+00:13:37,080 --> 00:13:41,830
 When you say you're aware of the cup,
 Graziano argues, you're reporting the contents
 
 208
-00:13:42,980 --> 00:13:48,110
+00:13:41,880 --> 00:13:46,990
 of that schema. It's the closest thing
 illusionism has to a wiring diagram, though
 
 209
-00:13:48,160 --> 00:13:50,920
+00:13:47,040 --> 00:13:49,800
 Graziano himself dislikes
 the word illusion.
 
 210
-00:13:51,520 --> 00:13:56,900
+00:13:50,380 --> 00:13:55,800
 Attention is real, he says, and awareness
 is the brain's useful caricature of it.
 
 211
-00:13:57,040 --> 00:14:00,530
+00:13:56,040 --> 00:13:59,430
 In episode eleven we'll treat
 it as a scientific theory.
 
 212
-00:14:00,580 --> 00:14:06,230
+00:13:59,480 --> 00:14:05,130
 In 2021, Andrew Wilterson and Graziano
 built a deep reinforcement learning agent
 
 213
-00:14:06,280 --> 00:14:10,240
+00:14:05,180 --> 00:14:09,140
 that had to control a simulated spotlight
 of attention to catch a falling ball.
 
 214
-00:14:10,680 --> 00:14:15,060
+00:14:09,580 --> 00:14:13,960
 Given an attention schema, a model of
 its own attention, it learned the task.
 
 215
-00:14:15,420 --> 00:14:18,380
+00:14:14,320 --> 00:14:17,300
 With the schema disabled,
 its performance collapsed.
 
 216
-00:14:18,780 --> 00:14:21,360
+00:14:17,560 --> 00:14:20,260
 That shows a functional
 reason to have such a model.
 
 217
-00:14:21,640 --> 00:14:26,690
+00:14:20,540 --> 00:14:25,570
 It says nothing about whether the agent
 experiences anything, and Graziano doesn't
 
 218
-00:14:26,740 --> 00:14:31,070
+00:14:25,620 --> 00:14:29,950
 claim it does. Thomas Metzinger's Being No
 One argues that there is no such thing as
 
 219
-00:14:31,120 --> 00:14:35,970
+00:14:30,000 --> 00:14:34,870
 a self. What exists is a phenomenal self-model
 that the brain cannot recognize as a
 
 220
-00:14:36,020 --> 00:14:40,250
+00:14:34,920 --> 00:14:39,150
 model. It's transparent, like a window
 you look through rather than at, so you
 
 221
-00:14:40,300 --> 00:14:43,100
+00:14:39,200 --> 00:14:42,000
 experience yourself as a self
 rather than as a model of one.
 
 222
-00:14:43,520 --> 00:14:48,950
+00:14:42,460 --> 00:14:47,830
 Douglas Hofstadter's Gödel, Escher, Bach,
 and later I Am a Strange Loop, argue that
 
 223
-00:14:49,000 --> 00:14:53,490
+00:14:47,880 --> 00:14:52,390
 a self is a strange loop: a pattern in
 a symbol-processing system that comes to
 
 224
-00:14:53,540 --> 00:14:58,290
+00:14:52,440 --> 00:14:57,170
 represent itself. The psychologist Nicholas
 Humphrey is a fellow traveler rather
 
 225
-00:14:58,340 --> 00:15:00,180
+00:14:57,220 --> 00:14:59,080
 than a card-carrying illusionist.
 
 226
-00:15:00,380 --> 00:15:06,850
+00:14:59,320 --> 00:15:05,730
 In Soul Dust and in Sentience, from 2022,
 he describes phenomenal consciousness as a
 
 227
-00:15:06,900 --> 00:15:11,910
+00:15:05,780 --> 00:15:10,810
 kind of magical show the brain stages for
 itself, one that may have evolved because
 
 228
-00:15:11,960 --> 00:15:14,120
+00:15:10,860 --> 00:15:13,000
 it makes being alive
 feel worth the trouble.
 
 229
-00:15:14,280 --> 00:15:18,770
+00:15:13,160 --> 00:15:17,650
 But in his reply to Frankish, he resisted
 the word illusion and called his view
 
 230
-00:15:18,820 --> 00:15:24,300
+00:15:17,700 --> 00:15:23,120
 phenomenal surrealism. The show is
 constructed, he thinks, but it isn't a mistake.
 
 231
-00:15:24,620 --> 00:15:27,580
+00:15:23,760 --> 00:15:26,480
 It's the brain's own artwork,
 and it matters to us.
 
 232
-00:15:27,820 --> 00:15:31,680
+00:15:26,720 --> 00:15:30,520
 And Geoffrey Hinton has offered a
 version aimed squarely at machines.
 
 233
-00:15:32,000 --> 00:15:36,520
+00:15:30,880 --> 00:15:35,400
 In an interview with the Globe and Mail,
 he rejected the idea of an inner theater.
 
 234
-00:15:36,880 --> 00:15:41,850
+00:15:35,900 --> 00:15:40,750
 On his account, talk of subjective
 experience is a way of describing what your
 
 235
-00:15:41,900 --> 00:15:45,480
+00:15:40,800 --> 00:15:44,380
 perceptual system is telling you
 when it isn't working properly:
 
 236
-00:15:45,740 --> 00:15:49,340
+00:15:44,640 --> 00:15:48,240
 the state of the world that would have
 to hold for your perception to be right.
 
 237
-00:15:49,520 --> 00:15:53,460
+00:15:48,460 --> 00:15:52,290
 Then he imagined a chatbot with a
 camera, trained to point at objects.
 
 238
-00:15:53,760 --> 00:15:57,240
+00:15:52,340 --> 00:15:56,140
 Put a prism in front of the lens,
 and it points to the wrong place.
 
 239
-00:15:57,540 --> 00:16:01,960
+00:15:56,340 --> 00:16:00,860
 Tell it about the prism, and it explains
 that the object is really straight ahead,
 
 240
-00:16:02,140 --> 00:16:05,660
+00:16:01,100 --> 00:16:04,560
 but it had the subjective experience
 of it being off to one side.
 
 241
-00:16:06,160 --> 00:16:10,950
+00:16:05,040 --> 00:16:09,850
 Hinton's claim is that it uses the phrase
 exactly as we do, and so has subjective
 
 242
-00:16:11,000 --> 00:16:14,480
+00:16:09,900 --> 00:16:13,380
 experience just as we
 do. That seems too quick.
 
 243
-00:16:14,720 --> 00:16:16,850
+00:16:13,620 --> 00:16:15,780
 The chatbot learned that phrase from us.
 
 244
-00:16:16,900 --> 00:16:21,260
+00:16:16,060 --> 00:16:20,160
 It did, and that is what the machine
 episodes will call the gaming problem:
 
 245
-00:16:21,600 --> 00:16:25,700
+00:16:20,660 --> 00:16:24,560
 a system trained on our words can
 give our reports without our reasons.
 
 246
-00:16:26,280 --> 00:16:31,960
+00:16:25,220 --> 00:16:30,840
 Blaise Agüera y Arcas, whom we met in episode
 four, takes the same line as Graziano.
 
 247
-00:16:32,640 --> 00:16:37,770
+00:16:31,560 --> 00:16:36,650
 Attention is a real computation, he argues,
 so a model of it is no more an illusion
 
 248
-00:16:37,820 --> 00:16:43,180
+00:16:36,700 --> 00:16:42,080
 than a chair is. Like Graziano, he accepts
 the mechanism and resists the name.
 
 249
-00:16:44,300 --> 00:16:50,170
+00:16:43,260 --> 00:16:49,070
 Fiction got here early. Peter Watts's 2006
 novel Blindsight, which drew openly on
 
 250
-00:16:50,220 --> 00:16:54,950
+00:16:49,120 --> 00:16:53,900
 Metzinger, sends a crew of modified humans
 to meet aliens that are vastly capable
 
 251
-00:16:55,000 --> 00:17:00,550
+00:16:54,200 --> 00:16:59,450
 and, it seems, entirely non-conscious,
 and asks whether consciousness might be a
 
 252
-00:17:00,600 --> 00:17:03,460
+00:16:59,500 --> 00:17:02,360
 costly side effect rather than
 the crown of intelligence.
 
 253
-00:17:03,960 --> 00:17:08,490
+00:17:02,840 --> 00:17:07,390
 It's the doing-versus-feeling split as a
 thriller, and Watts has made it free to
 
 254
-00:17:08,540 --> 00:17:10,980
+00:17:07,440 --> 00:17:09,900
 read online under a
 Creative Commons license.
 
 255
-00:17:11,340 --> 00:17:14,020
+00:17:10,340 --> 00:17:12,900
 Notice that the novel
 works under either reading.
 
 256
-00:17:14,240 --> 00:17:17,620
+00:17:13,100 --> 00:17:16,470
 A realist reads the aliens
 as lacking experience.
 
 257
-00:17:17,940 --> 00:17:22,390
+00:17:16,520 --> 00:17:21,270
 An illusionist reads them as lacking the
 self-model, and therefore lacking the
 
 258
-00:17:22,440 --> 00:17:26,280
+00:17:21,320 --> 00:17:25,160
 illusion. Episode ten has
 the real-world counterpart:
 
 259
-00:17:26,780 --> 00:17:30,600
+00:17:25,540 --> 00:17:29,500
 patients with blindsight, who respond
 to what they say they cannot see.
 
 260
-00:17:31,700 --> 00:17:34,040
+00:17:30,580 --> 00:17:32,940
 Now the objections, at full strength.
 
 261
-00:17:34,320 --> 00:17:39,270
+00:17:33,200 --> 00:17:38,170
 In 2018, on the New York Review of Books
 website, the philosopher Galen Strawson
 
 262
-00:17:39,320 --> 00:17:43,670
+00:17:38,220 --> 00:17:42,550
 called the denial of consciousness the
 silliest claim ever made, aiming chiefly at
 
 263
-00:17:43,720 --> 00:17:47,380
+00:17:42,600 --> 00:17:46,260
 Dennett. Dennett replied that
 Strawson had misdescribed his view.
 
 264
-00:17:48,100 --> 00:17:49,780
+00:17:46,520 --> 00:17:48,660
 Consciousness is real, he said.
 
 265
-00:17:50,020 --> 00:17:52,300
+00:17:48,980 --> 00:17:51,200
 It just isn't what
 Strawson takes it to be.
 
 266
-00:17:52,880 --> 00:17:57,090
+00:17:51,800 --> 00:17:55,990
 Strawson's answer was that what illusionists
 deny, the qualitative character of
 
 267
-00:17:57,140 --> 00:18:00,200
+00:17:56,040 --> 00:17:59,100
 experience, is exactly the
 thing we know for certain.
 
 268
-00:18:00,580 --> 00:18:03,560
+00:17:59,440 --> 00:18:02,460
 That's the core objection,
 and it can be put in one line.
 
 269
-00:18:03,760 --> 00:18:09,170
+00:18:02,680 --> 00:18:08,070
 An illusion is a way things seem, and a
 seeming is an experience, so illusionism
 
 270
-00:18:09,220 --> 00:18:11,400
+00:18:08,120 --> 00:18:10,320
 presupposes the very thing it denies.
 
 271
-00:18:12,140 --> 00:18:16,430
+00:18:11,000 --> 00:18:15,330
 John Searle made the point that where
 consciousness is concerned, the appearance is
 
 272
-00:18:16,480 --> 00:18:20,440
+00:18:15,380 --> 00:18:19,320
 the reality. You can be wrong about
 whether there's a tomato in front of you.
 
 273
-00:18:20,660 --> 00:18:23,460
+00:18:19,520 --> 00:18:22,360
 You can't be wrong that it
 seems to you that there is.
 
 274
-00:18:24,040 --> 00:18:28,190
+00:18:22,920 --> 00:18:27,090
 Frankish's reply is that a seeming can
 be a representational state, a kind of
 
 275
-00:18:28,240 --> 00:18:32,490
+00:18:27,140 --> 00:18:31,370
 judgment-like state produced by
 introspective mechanisms, without any extra
 
 276
-00:18:32,540 --> 00:18:36,930
+00:18:31,420 --> 00:18:35,860
 phenomenal property. Representations can
 misrepresent without themselves glowing.
 
 277
-00:18:36,980 --> 00:18:41,687
+00:18:36,200 --> 00:18:39,780
 And when you ask who is fooled,
 the answer is the system itself:
 
 278
-00:18:41,737 --> 00:18:45,713
+00:18:40,000 --> 00:18:45,030
 its reasoning, memory, and report
 mechanisms, with no little observer inside.
 
 279
-00:18:45,763 --> 00:18:50,470
+00:18:45,080 --> 00:18:50,080
 Strawson's rejoinder is that seeming to
 have such qualities already is having them.
 
 280
-00:18:50,520 --> 00:18:53,460
+00:18:50,360 --> 00:18:52,360
 Let me put that in my language.
 
 281
-00:18:53,920 --> 00:18:59,410
+00:18:53,020 --> 00:18:58,310
 Illusionism says the brain's self-model is
 lossy and confidently wrong about its own
 
 282
-00:18:59,460 --> 00:19:01,720
+00:18:58,360 --> 00:19:00,620
 internals. That's not exotic.
 
 283
-00:19:02,100 --> 00:19:07,390
+00:19:00,960 --> 00:19:06,270
 Every learned model of a complex system
 is lossy, and nothing forces a system's
 
 284
-00:19:07,440 --> 00:19:09,140
+00:19:06,320 --> 00:19:08,020
 model of itself to be accurate.
 
 285
-00:19:09,440 --> 00:19:14,020
+00:19:08,340 --> 00:19:12,900
 That's a good translation, and it's why
 many engineers find the view natural.
 
 286
-00:19:14,220 --> 00:19:17,440
+00:19:13,140 --> 00:19:16,320
 But the philosopher Philip
 Goff presses a different point.
 
 287
-00:19:18,140 --> 00:19:22,280
+00:19:16,960 --> 00:19:21,160
 Consciousness is the one thing each of us
 knows more directly than anything else.
 
 288
-00:19:22,440 --> 00:19:27,370
+00:19:21,360 --> 00:19:26,270
 All the evidence for any scientific theory,
 including the theory that experience is
 
 289
-00:19:27,420 --> 00:19:29,960
+00:19:26,320 --> 00:19:28,920
 an illusion, reaches
 us through experience.
 
 290
-00:19:30,520 --> 00:19:35,640
+00:19:29,440 --> 00:19:34,540
 So illusionism carries a heavier burden of
 proof than any ordinary empirical theory.
 
 291
-00:19:36,000 --> 00:19:39,620
+00:19:34,840 --> 00:19:38,520
 It asks us to doubt the medium
 through which we know everything else.
 
 292
-00:19:39,760 --> 00:19:43,700
+00:19:38,660 --> 00:19:42,580
 And there's the illusion problem
 itself, which is not yet solved.
 
 293
-00:19:43,980 --> 00:19:48,370
+00:19:42,860 --> 00:19:47,270
 Why would evolution build a self-model
 that represents our states as ineffable and
 
 294
-00:19:48,420 --> 00:19:52,340
+00:19:47,320 --> 00:19:51,240
 intrinsic? Graziano says
 simplification serves control.
 
 295
-00:19:52,780 --> 00:19:55,460
+00:19:51,680 --> 00:19:54,360
 Humphrey says the show makes
 life feel worth living.
 
 296
-00:19:56,060 --> 00:19:58,730
+00:19:54,960 --> 00:19:57,700
 Dennett says the interface hides
 what you don't need to see.
 
 297
-00:19:58,780 --> 00:20:02,120
+00:19:57,880 --> 00:20:01,060
 These are promising stories,
 not finished explanations.
 
 298
-00:20:02,660 --> 00:20:06,500
+00:20:01,400 --> 00:20:05,460
 A view that asks this much is
 easy to dismiss from outside.
 
 299
-00:20:07,040 --> 00:20:12,470
+00:20:06,060 --> 00:20:11,350
 The philosopher Joe Carlsmith's essay
 Grokking Illusionism is a sustained attempt to
 
 300
-00:20:12,520 --> 00:20:17,150
+00:20:11,400 --> 00:20:16,030
 understand it from the inside instead,
 and that is the right spirit in which to
 
 301
-00:20:17,200 --> 00:20:21,560
+00:20:16,080 --> 00:20:20,440
 judge it. Why does this view
 matter so much for this series?
 
 302
-00:20:21,820 --> 00:20:25,440
+00:20:20,660 --> 00:20:24,320
 Because it changes the machine
 question more than any other position.
 
 303
-00:20:25,780 --> 00:20:30,910
+00:20:24,560 --> 00:20:29,810
 If illusionism is right, then asking whether
 a machine is conscious becomes asking
 
 304
-00:20:30,960 --> 00:20:34,230
+00:20:29,860 --> 00:20:33,070
 whether it has the relevant
 kind of self-model:
 
 305
-00:20:34,280 --> 00:20:38,540
+00:20:33,120 --> 00:20:37,420
 introspective representations of its own
 states as having phenomenal qualities,
 
 306
-00:20:38,800 --> 00:20:42,530
+00:20:37,700 --> 00:20:41,440
 produced for the right reasons, and
 driving what it says about itself.
 
 307
-00:20:42,580 --> 00:20:47,600
+00:20:41,660 --> 00:20:46,500
 That's a question about mechanisms, and
 interpretability research can, in principle,
 
 308
-00:20:48,060 --> 00:20:52,150
+00:20:46,940 --> 00:20:51,050
 look for internal states that track the
 system's own processing and feed its
 
 309
-00:20:52,200 --> 00:20:56,860
+00:20:51,100 --> 00:20:55,760
 self-reports. Episode twelve covers
 early experiments of that kind.
 
 310
-00:20:57,060 --> 00:21:02,390
+00:20:56,040 --> 00:21:01,250
 But notice the trap. A language model
 trained on human writing can produce flawless
 
 311
-00:21:02,440 --> 00:21:07,410
+00:21:01,300 --> 00:21:06,310
 reports of ineffable inner experience
 without any such self-model, just by learning
 
 312
-00:21:07,460 --> 00:21:11,840
+00:21:06,360 --> 00:21:10,720
 how we talk. So illusionism doesn't
 make the machine question easy.
 
 313
-00:21:12,080 --> 00:21:16,080
+00:21:10,940 --> 00:21:14,980
 It makes it empirical. The test
 is not what the system says.
 
 314
-00:21:16,220 --> 00:21:22,030
+00:21:15,120 --> 00:21:20,910
 It's why it says it. In 2023, Dennett's
 own warning about AI was not about machines
 
 315
-00:21:22,080 --> 00:21:26,830
+00:21:20,960 --> 00:21:25,710
 that feel. It was about machines that pass
 for people, which he called counterfeit
 
 316
-00:21:26,880 --> 00:21:30,460
+00:21:25,760 --> 00:21:30,710
 people. We'll come back to that
 warning in the final episode.
 
 317
-00:21:31,740 --> 00:21:33,900
+00:21:30,760 --> 00:21:32,770
 Score it for me. Where does it stand?
 
 318
-00:21:34,300 --> 00:21:38,880
+00:21:32,820 --> 00:21:37,895
 In its favor: parsimony, since it
 adds no new ingredient to the world.
 
 319
-00:21:39,520 --> 00:21:43,770
+00:21:37,945 --> 00:21:42,231
 Tractability, since it turns the deepest
 question into the meta-problem, which
 
 320
-00:21:43,820 --> 00:21:48,810
+00:21:42,281 --> 00:21:47,749
 science can work on. And the track record
 of introspection, bad enough that trusting
 
 321
-00:21:48,860 --> 00:21:51,720
+00:21:47,799 --> 00:21:51,691
 it on the biggest question
 of all needs an argument.
 
 322
-00:21:52,000 --> 00:21:56,350
+00:21:51,741 --> 00:21:55,633
 Against it: the seeming objection,
 which illusionists have answered without
 
 323
-00:21:56,400 --> 00:22:01,420
+00:21:55,683 --> 00:22:00,320
 silencing. The burden of proof, since it
 asks us to doubt what seems most certain.
 
 324
-00:22:01,720 --> 00:22:05,700
+00:22:00,540 --> 00:22:04,620
 And the illusion problem, which
 remains a program rather than a result.
 
 325
-00:22:06,020 --> 00:22:11,070
+00:22:04,900 --> 00:22:09,950
 What illusionism establishes, I think,
 is that the hard problem's most powerful
 
 326
-00:22:11,120 --> 00:22:13,860
+00:22:10,000 --> 00:22:12,740
 intuitions could be the
 outputs of a mechanism.
 
 327
-00:22:14,180 --> 00:22:16,220
+00:22:13,020 --> 00:22:15,120
 It doesn't establish that they are.
 
 328
-00:22:16,520 --> 00:22:20,970
+00:22:15,440 --> 00:22:19,870
 That's a real achievement, and it's why
 the meta-problem comes back in the final
 
 329
-00:22:21,020 --> 00:22:24,070
+00:22:19,920 --> 00:22:23,000
 episode, as one of the things
 that could change minds.
 
 330
-00:22:24,120 --> 00:22:26,740
+00:22:23,420 --> 00:22:25,590
 Next episode, we lay out the whole map:
 
 331
-00:22:27,020 --> 00:22:31,910
+00:22:25,640 --> 00:22:30,790
 every serious position on the hard problem,
 what each one costs, and what each one
 
 332
-00:22:31,960 --> 00:22:33,760
+00:22:30,840 --> 00:22:32,700
 says about octopuses and machines.
 
 333
-00:22:34,220 --> 00:22:37,800
+00:22:33,160 --> 00:22:36,700
 And at the end, a short, clearly
 marked trip to the edges.

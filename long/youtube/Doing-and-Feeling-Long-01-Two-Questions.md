@@ -13,18 +13,20 @@ Two Questions: what intelligence is, and how we measure it | Doing and Feeling 1
 ## Description
 
 ```
-Doing and Feeling: Intelligence and Consciousness in Depth, episode 1 of 14. The series opens with its two questions, doing and feeling, then takes a careful look at IQ: the general factor g, what test scores predict, what heritability does and doesn't mean, the Flynn effect, group differences, and the field's eugenic history.
+Doing and Feeling: Intelligence and Consciousness in Depth, episode 1 of 14.
+
+The series opens with its two questions, doing and feeling, then takes a careful look at IQ: the general factor g, what test scores predict, what heritability does and doesn't mean, the Flynn effect, group differences, and the field's eugenic history.
 
 CHAPTERS
 0:00 Two questions, and the road map
-2:59 How intelligence testing began
-5:40 Spearman's g and the structure of abilities
-7:05 What g is, and what it isn't
-9:50 What test scores predict
-11:33 Heritability, the misunderstood number
-14:55 The Flynn effect
-16:47 Group differences and national IQ
-20:50 Neighboring ideas, and IQ for machines
+2:58 How intelligence testing began
+5:39 Spearman's g and the structure of abilities
+7:04 What g is, and what it isn't
+9:49 What test scores predict
+11:32 Heritability, the misunderstood number
+14:54 The Flynn effect
+16:46 Group differences and national IQ
+20:49 Neighboring ideas, and IQ for machines
 
 Key sources:
 - Spearman 1904, the general factor: https://psychclassics.yorku.ca/Spearman/

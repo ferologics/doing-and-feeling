@@ -1,162 +1,162 @@
 Episode 1. Two Questions: what intelligence is, and how we learned to measure it
 0:00 Two questions, and the road map
-2:59 How intelligence testing began
-5:40 Spearman's g and the structure of abilities
-7:05 What g is, and what it isn't
-9:50 What test scores predict
-11:33 Heritability, the misunderstood number
-14:55 The Flynn effect
-16:47 Group differences and national IQ
-20:50 Neighboring ideas, and IQ for machines
+2:58 How intelligence testing began
+5:39 Spearman's g and the structure of abilities
+7:04 What g is, and what it isn't
+9:49 What test scores predict
+11:32 Heritability, the misunderstood number
+14:54 The Flynn effect
+16:46 Group differences and national IQ
+20:49 Neighboring ideas, and IQ for machines
 
 Episode 2. Minds in Other Bodies: crows, octopuses, bees, cells, and swarms
 0:00 A family of solutions
-1:32 Two errors: Clever Hans and anthropodenial
-3:06 Birds
-5:46 Octopuses
-8:35 Bees and small brains
-10:51 A general factor in animals
-13:00 Basal cognition
-14:55 Plants and a failed replication
-16:21 Swarms and groups
-17:04 What ties the menagerie together
+1:31 Two errors: Clever Hans and anthropodenial
+3:05 Birds
+5:45 Octopuses
+8:34 Bees and small brains
+10:50 A general factor in animals
+12:59 Basal cognition
+14:54 Plants and a failed replication
+16:20 Swarms and groups
+17:03 What ties the menagerie together
 
 Episode 3. Intelligence, Formally: prediction, compression, and the measure of a mind
 0:00 The Hutter Prize
-1:27 Turing's test
-2:57 Shannon: prediction is compression
-4:38 Solomonoff and the ideal predictor
-5:55 Universal intelligence
-8:11 No free lunch
-9:09 Chollet and ARC
-10:51 Machines on ARC
-14:15 The science of evaluation
-15:46 Defining AGI, and a g factor for machines
-18:52 Do we have a definition?
+1:26 Turing's test
+2:56 Shannon: prediction is compression
+4:37 Solomonoff and the ideal predictor
+5:54 Universal intelligence
+8:10 No free lunch
+9:08 Chollet and ARC
+10:50 Machines on ARC
+14:14 The science of evaluation
+15:45 Defining AGI, and a g factor for machines
+18:51 Do we have a definition?
 
 Episode 4. Life as Computation: from self-copying code to social minds
 0:00 Von Neumann's question
-1:24 The claim
-2:26 Step one: replicators
-5:36 Step two: merging
-7:17 Step three: prediction and physics
-9:55 Regulation and the good regulator
-11:44 Step four: social minds
-13:59 Testing the continuum
-17:02 What survives
+1:23 The claim
+2:25 Step one: replicators
+5:35 Step two: merging
+7:16 Step three: prediction and physics
+9:54 Regulation and the good regulator
+11:43 Step four: social minds
+13:58 Testing the continuum
+17:01 What survives
 
 Episode 5. The Predictive Brain: perception, reward, and maps as prediction
 0:00 The hollow mask
-1:21 Perception as inference
-3:19 Predictive coding in the cortex
-7:17 The free energy principle
-9:45 Its critics
-11:15 Dopamine and reward prediction
-13:37 Cognitive maps
-16:03 What survives the five tests
+1:19 Perception as inference
+3:18 Predictive coding in the cortex
+7:16 The free energy principle
+9:44 Its critics
+11:14 Dopamine and reward prediction
+13:35 Cognitive maps
+16:02 What survives the five tests
 
 Episode 6. Machines That Learn: how modern AI works, and what we know about its insides
 0:00 The reversal curse and the Olympiad
-1:37 A short history of neural networks
-4:20 How a transformer works
-6:00 Scaling and emergence
-7:34 In-context learning
-8:41 Inside the models: interpretability
-12:18 What reinforcement learning adds
-13:29 Models and brains
-14:49 Do they understand?
-18:00 Jagged, data-hungry, frozen
-21:41 What kind of intelligence is this?
+1:36 A short history of neural networks
+4:19 How a transformer works
+5:59 Scaling and emergence
+7:33 In-context learning
+8:40 Inside the models: interpretability
+12:17 What reinforcement learning adds
+13:28 Models and brains
+14:48 Do they understand?
+17:59 Jagged, data-hungry, frozen
+21:40 What kind of intelligence is this?
 
 Episode 7. The Hard Problem: why experience resists explanation
 0:00 Leibniz's mill
-2:03 A short history of the problem
-3:45 Nagel's bat
-5:48 The explanatory gap
-7:24 Chalmers, zombies, and the map of responses
-12:53 Mary's room
-15:50 Access versus phenomenal consciousness
-19:09 Wittgenstein
-20:35 The meta-problem, and the strategies on the table
+2:02 A short history of the problem
+3:43 Nagel's bat
+5:47 The explanatory gap
+7:23 Chalmers, zombies, and the map of responses
+12:52 Mary's room
+15:49 Access versus phenomenal consciousness
+19:08 Wittgenstein
+20:33 The meta-problem, and the strategies on the table
 
 Episode 8. The Case for Illusion: the most radical answer, at full strength
 0:00 The color experiment
-1:57 What illusionism says
-4:43 Dennett
-7:56 When introspection gets it wrong
-10:37 The meta-problem
-13:09 Mechanisms: attention schemas and self-models
-16:45 Blindsight, the novel
-17:32 The objections
-20:19 What it means for machines
-21:32 The scorecard
+1:56 What illusionism says
+4:42 Dennett
+7:55 When introspection gets it wrong
+10:35 The meta-problem
+13:08 Mechanisms: attention schemas and self-models
+16:44 Blindsight, the novel
+17:31 The objections
+20:18 What it means for machines
+21:31 The scorecard
 
 Episode 9. The Map of Positions: every serious answer, what it costs, and what it says about machines
 0:00 The China brain
-1:44 Functionalism
-5:47 Representationalism
-8:39 Enactivism
-10:00 Biological naturalism and the Chinese Room
-12:37 Integrated information theory
-15:04 Russellian monism and panpsychism
-18:02 Idealism, dualism, mysterianism and quantum theories
-22:36 Crazyism
-23:30 The scoreboard
-24:47 The edges
+1:43 Functionalism
+5:46 Representationalism
+8:38 Enactivism
+9:59 Biological naturalism and the Chinese Room
+12:36 Integrated information theory
+15:03 Russellian monism and panpsychism
+18:01 Idealism, dualism, mysterianism and quantum theories
+22:35 Crazyism
+23:29 The scoreboard
+24:46 The edges
 
 Episode 10. The Evidence: what we can measure, and how sure we are
 0:00 Blindsight in a corridor
-1:28 Neural correlates and their confounds
-3:01 The toolkit
-6:10 The criterion problem
-7:47 Patients: blindsight, neglect, split brains
-12:32 Hidden awareness
-15:10 Zap and zip
-17:26 Switching consciousness off and on
-21:06 Meditation
-23:18 The free-will experiments
-24:54 How much happens without awareness?
-26:31 Animals
+1:27 Neural correlates and their confounds
+3:00 The toolkit
+6:09 The criterion problem
+7:46 Patients: blindsight, neglect, split brains
+12:31 Hidden awareness
+15:09 Zap and zip
+17:25 Switching consciousness off and on
+21:04 Meditation
+23:17 The free-will experiments
+24:53 How much happens without awareness?
+26:30 Animals
 
 Episode 11. Theories on Trial: the leading scientific theories, and the experiments that test them
 0:00 The bet
-1:00 What a theory must explain
-2:42 A problem with the evidence
-4:44 Global workspace theory
-7:16 Higher-order theories
-10:02 Recurrent processing theory
-11:27 Integrated information theory
-15:17 Predictive processing
-18:42 Attention schemas, associative learning, and others
-21:31 The trials
-24:27 What would settle it
+0:59 What a theory must explain
+2:40 A problem with the evidence
+4:43 Global workspace theory
+7:15 Higher-order theories
+10:01 Recurrent processing theory
+11:25 Integrated information theory
+15:16 Predictive processing
+18:41 Attention schemas, associative learning, and others
+21:30 The trials
+24:26 What would settle it
 
 Episode 12. Machine Minds: what can be checked, and the case for
 0:00 A disclosure
-0:49 The Lemoine affair
-2:52 The indicator method
-6:58 Probabilistic frameworks
-10:06 Current systems against the indicators
-13:40 What would the subject be?
-15:42 Asking the model
-18:24 The case for
+0:48 The Lemoine affair
+2:51 The indicator method
+6:57 Probabilistic frameworks
+10:05 Current systems against the indicators
+13:39 What would the subject be?
+15:41 Asking the model
+18:23 The case for
 
 Episode 13. The Case Against: why AI may not be conscious, argued at full strength
 0:00 Why this episode is in my voice
-0:46 The Nature comment
-3:53 Reason one: intelligence is not consciousness
-7:48 Reason two: brains are not computers made of meat
-13:40 Reason three: the theories that exclude AI
-15:34 A fourth line of argument
-18:05 Cross-examination
-22:15 Out of role
+0:45 The Nature comment
+3:52 Reason one: intelligence is not consciousness
+7:47 Reason two: brains are not computers made of meat
+13:38 Reason three: the theories that exclude AI
+15:32 A fourth line of argument
+18:04 Cross-examination
+22:14 Out of role
 
 Episode 14. The Stakes: acting under uncertainty, and what it all adds up to
 0:00 Crabs, lobsters and octopuses
-1:39 Two ways to get it wrong
-6:47 Frameworks
-11:26 What labs, lawmakers and churches are doing
-15:41 What would change minds
-17:53 The whole series in brief
-21:12 A reading path
-25:24 One last thing
+1:38 Two ways to get it wrong
+6:46 Frameworks
+11:25 What labs, lawmakers and churches are doing
+15:40 What would change minds
+17:52 The whole series in brief
+21:10 A reading path
+25:23 One last thing

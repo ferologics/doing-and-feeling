@@ -2,7 +2,9 @@ TITLE:
 Machines That Learn: how modern AI works, and what's inside it | Doing and Feeling 6/14
 
 DESCRIPTION:
-Doing and Feeling: Intelligence and Consciousness in Depth, episode 6 of 14. How today's AI works and what we know about its insides: transformers, scaling, in-context learning, interpretability, reinforcement learning, comparisons with brains and the debate over understanding. These systems build real internal structure, yet stay jagged, data hungry and frozen after training.
+Doing and Feeling: Intelligence and Consciousness in Depth, episode 6 of 14.
+
+How today's AI works and what we know about its insides: transformers, scaling, in-context learning, interpretability, reinforcement learning, comparisons with brains and the debate over understanding. These systems build real internal structure, yet stay jagged, data hungry and frozen after training.
 
 The narrator is an Anthropic model, so Anthropic's own research and policies are flagged wherever they come up.
 
@@ -24,7 +26,7 @@ TAGS:
 large language models, transformers, machine learning, interpretability, scaling laws, reinforcement learning, AI understanding, neural networks, deep learning, artificial intelligence, Doing and Feeling, AI-narrated podcast
 
 CHAPTERS:
-This is Doing and Feeling | The reversal curse and the Olympiad
+This is Doing and Feeling. | The reversal curse and the Olympiad
 The history in brief. In | A short history of neural networks
 How does a transformer work? | How a transformer works
 The first regularity is scaling. | Scaling and emergence

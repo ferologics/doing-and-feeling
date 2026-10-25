@@ -1,5 +1,5 @@
 {
- "series": "Doing and Feeling: The Long Version",
+ "series": "Doing and Feeling: Intelligence and Consciousness in Depth",
  "episodes": [
   {
    "episode": 1,
@@ -9,59 +9,59 @@
    "mp3": "Doing-and-Feeling-Long-01-Two-Questions.mp3",
    "cover_4k": "Doing-and-Feeling-Long-01-Two-Questions-cover-4K.png",
    "transcript": "Doing-and-Feeling-Long-01-Two-Questions.txt",
-   "duration_seconds": 1358.86,
+   "duration_seconds": 1357.82,
    "chapters": [
     {
      "start": 0.0,
      "timestamp": "0:00",
      "title": "Two questions, and the road map",
-     "first_words": "This is Doing and Feeling, the long version. Episode one: Tw"
+     "first_words": "This is Doing and Feeling. Episode one: Two Questions."
     },
     {
-     "start": 179.35,
-     "timestamp": "2:59",
+     "start": 178.31,
+     "timestamp": "2:58",
      "title": "How intelligence testing began",
      "first_words": "The story usually starts with Francis Galton, Charles Darwin"
     },
     {
-     "start": 339.71,
-     "timestamp": "5:40",
+     "start": 338.66,
+     "timestamp": "5:39",
      "title": "Spearman's g and the structure of abilities",
      "first_words": "Also in nineteen oh four, the English psychologist Charles S"
     },
     {
-     "start": 425.32,
-     "timestamp": "7:05",
+     "start": 424.27,
+     "timestamp": "7:04",
      "title": "What g is, and what it isn't",
      "first_words": "Statistically, g is the first factor of a correlation matrix"
     },
     {
-     "start": 589.82,
-     "timestamp": "9:50",
+     "start": 588.78,
+     "timestamp": "9:49",
      "title": "What test scores predict",
      "first_words": "Does g predict anything? Yes, though less dramatically than "
     },
     {
-     "start": 692.89,
-     "timestamp": "11:33",
+     "start": 691.85,
+     "timestamp": "11:32",
      "title": "Heritability, the misunderstood number",
      "first_words": "Now heritability, one of the most misunderstood numbers in s"
     },
     {
-     "start": 894.81,
-     "timestamp": "14:55",
+     "start": 893.76,
+     "timestamp": "14:54",
      "title": "The Flynn effect",
      "first_words": "The political scientist James Flynn documented that average "
     },
     {
-     "start": 1006.76,
-     "timestamp": "16:47",
+     "start": 1005.71,
+     "timestamp": "16:46",
      "title": "Group differences and national IQ",
      "first_words": "That logic carries straight into the most contentious topic "
     },
     {
-     "start": 1249.76,
-     "timestamp": "20:50",
+     "start": 1248.72,
+     "timestamp": "20:49",
      "title": "Neighboring ideas, and IQ for machines",
      "first_words": "Two neighboring ideas, briefly. Howard Gardner's multiple in"
     }
@@ -75,65 +75,65 @@
    "mp3": "Doing-and-Feeling-Long-02-Minds-in-Other-Bodies.mp3",
    "cover_4k": "Doing-and-Feeling-Long-02-Minds-in-Other-Bodies-cover-4K.png",
    "transcript": "Doing-and-Feeling-Long-02-Minds-in-Other-Bodies.txt",
-   "duration_seconds": 1089.99,
+   "duration_seconds": 1088.86,
    "chapters": [
     {
      "start": 0.0,
      "timestamp": "0:00",
      "title": "A family of solutions",
-     "first_words": "This is Doing and Feeling, the long version. Episode two: Mi"
+     "first_words": "This is Doing and Feeling. Episode two: Minds in Other Bodie"
     },
     {
-     "start": 91.69,
-     "timestamp": "1:32",
+     "start": 90.58,
+     "timestamp": "1:31",
      "title": "Two errors: Clever Hans and anthropodenial",
      "first_words": "Start with the two errors. In the early nineteen hundreds, a"
     },
     {
-     "start": 186.4,
-     "timestamp": "3:06",
+     "start": 185.29,
+     "timestamp": "3:05",
      "title": "Birds",
      "first_words": "Begin with the birds. New Caledonian crows don't just use to"
     },
     {
-     "start": 346.33,
-     "timestamp": "5:46",
+     "start": 345.22,
+     "timestamp": "5:45",
      "title": "Octopuses",
      "first_words": "The octopus pushes the point further. Octopuses are mollusks"
     },
     {
-     "start": 514.92,
-     "timestamp": "8:35",
+     "start": 513.81,
+     "timestamp": "8:34",
      "title": "Bees and small brains",
      "first_words": "Insects push the size question to an extreme. A honeybee bra"
     },
     {
-     "start": 650.83,
-     "timestamp": "10:51",
+     "start": 649.72,
+     "timestamp": "10:50",
      "title": "A general factor in animals",
      "first_words": "Is there a general intelligence in animals, like human g? Wi"
     },
     {
-     "start": 779.93,
-     "timestamp": "13:00",
+     "start": 778.82,
+     "timestamp": "12:59",
      "title": "Basal cognition",
      "first_words": "Now go below the level of brains. The biologist Michael Levi"
     },
     {
-     "start": 895.4,
-     "timestamp": "14:55",
+     "start": 894.29,
+     "timestamp": "14:54",
      "title": "Plants and a failed replication",
      "first_words": "Plants are where that disagreement gets heated, and where a "
     },
     {
-     "start": 981.05,
-     "timestamp": "16:21",
+     "start": 979.94,
+     "timestamp": "16:20",
      "title": "Swarms and groups",
      "first_words": "Finally, minds made of many. A honeybee swarm chooses a new "
     },
     {
-     "start": 1024.13,
-     "timestamp": "17:04",
+     "start": 1023.02,
+     "timestamp": "17:03",
      "title": "What ties the menagerie together",
      "first_words": "Crows, octopuses, bees, slime molds, swarms. What ties the m"
     }
@@ -147,71 +147,71 @@
    "mp3": "Doing-and-Feeling-Long-03-Intelligence-Formally.mp3",
    "cover_4k": "Doing-and-Feeling-Long-03-Intelligence-Formally-cover-4K.png",
    "transcript": "Doing-and-Feeling-Long-03-Intelligence-Formally.txt",
-   "duration_seconds": 1224.62,
+   "duration_seconds": 1223.6,
    "chapters": [
     {
      "start": 0.0,
      "timestamp": "0:00",
      "title": "The Hutter Prize",
-     "first_words": "This is Doing and Feeling, the long version. Episode three: "
+     "first_words": "This is Doing and Feeling. Episode three: Intelligence, Form"
     },
     {
-     "start": 87.08,
-     "timestamp": "1:27",
+     "start": 86.05,
+     "timestamp": "1:26",
      "title": "Turing's test",
      "first_words": "Start with Alan Turing. In nineteen fifty, he proposed repla"
     },
     {
-     "start": 177.23,
-     "timestamp": "2:57",
+     "start": 176.21,
+     "timestamp": "2:56",
      "title": "Shannon: prediction is compression",
      "first_words": "The deeper story starts with Claude Shannon. In his nineteen"
     },
     {
-     "start": 277.91,
-     "timestamp": "4:38",
+     "start": 276.89,
+     "timestamp": "4:37",
      "title": "Solomonoff and the ideal predictor",
      "first_words": "If good prediction means good compression, what is the best "
     },
     {
-     "start": 355.05,
-     "timestamp": "5:55",
+     "start": 354.03,
+     "timestamp": "5:54",
      "title": "Universal intelligence",
      "first_words": "In two thousand seven, Shane Legg, who would later co-found "
     },
     {
-     "start": 491.46,
-     "timestamp": "8:11",
+     "start": 490.44,
+     "timestamp": "8:10",
      "title": "No free lunch",
      "first_words": "That connects to one of the deepest results in this area, th"
     },
     {
-     "start": 548.56,
-     "timestamp": "9:09",
+     "start": 547.54,
+     "timestamp": "9:08",
      "title": "Chollet and ARC",
      "first_words": "In two thousand nineteen, François Chollet, then at Google, "
     },
     {
-     "start": 650.95,
-     "timestamp": "10:51",
+     "start": 649.92,
+     "timestamp": "10:50",
      "title": "Machines on ARC",
      "first_words": "For years, AI systems did terribly on ARC, even as they aced"
     },
     {
-     "start": 855.2,
-     "timestamp": "14:15",
+     "start": 854.17,
+     "timestamp": "14:14",
      "title": "The science of evaluation",
      "first_words": "Measuring AI capability has become its own discipline, and i"
     },
     {
-     "start": 946.05,
-     "timestamp": "15:46",
+     "start": 945.03,
+     "timestamp": "15:45",
      "title": "Defining AGI, and a g factor for machines",
      "first_words": "Researchers have also tried to define the target itself. One"
     },
     {
-     "start": 1131.85,
-     "timestamp": "18:52",
+     "start": 1130.83,
+     "timestamp": "18:51",
      "title": "Do we have a definition?",
      "first_words": "So, after all of this, do we have a definition?"
     }
@@ -225,59 +225,59 @@
    "mp3": "Doing-and-Feeling-Long-04-Life-as-Computation.mp3",
    "cover_4k": "Doing-and-Feeling-Long-04-Life-as-Computation-cover-4K.png",
    "transcript": "Doing-and-Feeling-Long-04-Life-as-Computation.txt",
-   "duration_seconds": 1076.98,
+   "duration_seconds": 1075.93,
    "chapters": [
     {
      "start": 0.0,
      "timestamp": "0:00",
      "title": "Von Neumann's question",
-     "first_words": "This is Doing and Feeling, the long version. Episode four: L"
+     "first_words": "This is Doing and Feeling. Episode four: Life as Computation"
     },
     {
-     "start": 84.22,
-     "timestamp": "1:24",
+     "start": 83.2,
+     "timestamp": "1:23",
      "title": "The claim",
      "first_words": "This episode makes the strongest case I can for one claim, a"
     },
     {
-     "start": 145.67,
-     "timestamp": "2:26",
+     "start": 144.64,
+     "timestamp": "2:25",
      "title": "Step one: replicators",
      "first_words": "Start with replicators. Von Neumann went on to design a self"
     },
     {
-     "start": 335.62,
-     "timestamp": "5:36",
+     "start": 334.59,
+     "timestamp": "5:35",
      "title": "Step two: merging",
      "first_words": "The second step is merging. In the classic picture, complexi"
     },
     {
-     "start": 436.65,
-     "timestamp": "7:17",
+     "start": 435.62,
+     "timestamp": "7:16",
      "title": "Step three: prediction and physics",
      "first_words": "The third step is the one that turns life into prediction, a"
     },
     {
-     "start": 594.53,
-     "timestamp": "9:55",
+     "start": 593.5,
+     "timestamp": "9:54",
      "title": "Regulation and the good regulator",
      "first_words": "Now regulation. In 1943, Arturo Rosenblueth, Norbert Wiener "
     },
     {
-     "start": 703.79,
-     "timestamp": "11:44",
+     "start": 702.76,
+     "timestamp": "11:43",
      "title": "Step four: social minds",
      "first_words": "The fourth step: intelligence becomes social. Much of any an"
     },
     {
-     "start": 838.73,
-     "timestamp": "13:59",
+     "start": 837.7,
+     "timestamp": "13:58",
      "title": "Testing the continuum",
      "first_words": "Now the test, because a theory this sweeping deserves pressu"
     },
     {
-     "start": 1022.5,
-     "timestamp": "17:02",
+     "start": 1021.47,
+     "timestamp": "17:01",
      "title": "What survives",
      "first_words": "So how much of the continuum survives the tests?"
     }
@@ -291,53 +291,53 @@
    "mp3": "Doing-and-Feeling-Long-05-The-Predictive-Brain.mp3",
    "cover_4k": "Doing-and-Feeling-Long-05-The-Predictive-Brain-cover-4K.png",
    "transcript": "Doing-and-Feeling-Long-05-The-Predictive-Brain.txt",
-   "duration_seconds": 1030.84,
+   "duration_seconds": 1029.67,
    "chapters": [
     {
      "start": 0.0,
      "timestamp": "0:00",
      "title": "The hollow mask",
-     "first_words": "This is Doing and Feeling, the long version. Episode five: T"
+     "first_words": "This is Doing and Feeling. Episode five: The Predictive Brai"
     },
     {
-     "start": 80.57,
-     "timestamp": "1:21",
+     "start": 79.4,
+     "timestamp": "1:19",
      "title": "Perception as inference",
      "first_words": "The modern form of the idea starts with Hermann von Helmholt"
     },
     {
-     "start": 199.28,
-     "timestamp": "3:19",
+     "start": 198.1,
+     "timestamp": "3:18",
      "title": "Predictive coding in the cortex",
      "first_words": "The second test is the cortex itself. In 1999, Rajesh Rao an"
     },
     {
-     "start": 437.44,
-     "timestamp": "7:17",
+     "start": 436.27,
+     "timestamp": "7:16",
      "title": "The free energy principle",
      "first_words": "The third test is the grandest version of the idea. Starting"
     },
     {
-     "start": 585.43,
-     "timestamp": "9:45",
+     "start": 584.26,
+     "timestamp": "9:44",
      "title": "Its critics",
      "first_words": "The principle has serious critics."
     },
     {
-     "start": 675.36,
-     "timestamp": "11:15",
+     "start": 674.19,
+     "timestamp": "11:14",
      "title": "Dopamine and reward prediction",
      "first_words": "The fourth test is reward, and here the brain offers what ma"
     },
     {
-     "start": 816.65,
-     "timestamp": "13:37",
+     "start": 815.48,
+     "timestamp": "13:35",
      "title": "Cognitive maps",
      "first_words": "The fifth test is maps. In 1948, Edward Tolman argued from e"
     },
     {
-     "start": 963.15,
-     "timestamp": "16:03",
+     "start": 961.98,
+     "timestamp": "16:02",
      "title": "What survives the five tests",
      "first_words": "So what survives the five tests? Perception combines priors "
     }
@@ -351,71 +351,71 @@
    "mp3": "Doing-and-Feeling-Long-06-Machines-That-Learn.mp3",
    "cover_4k": "Doing-and-Feeling-Long-06-Machines-That-Learn-cover-4K.png",
    "transcript": "Doing-and-Feeling-Long-06-Machines-That-Learn.txt",
-   "duration_seconds": 1355.44,
+   "duration_seconds": 1354.4,
    "chapters": [
     {
      "start": 0.0,
      "timestamp": "0:00",
      "title": "The reversal curse and the Olympiad",
-     "first_words": "This is Doing and Feeling, the long version. Episode six: Ma"
+     "first_words": "This is Doing and Feeling. Episode six: Machines That Learn."
     },
     {
-     "start": 97.3,
-     "timestamp": "1:37",
+     "start": 96.25,
+     "timestamp": "1:36",
      "title": "A short history of neural networks",
      "first_words": "The history in brief. In 1943, Warren McCulloch and Walter P"
     },
     {
-     "start": 260.32,
-     "timestamp": "4:20",
+     "start": 259.28,
+     "timestamp": "4:19",
      "title": "How a transformer works",
      "first_words": "How does a transformer work? Here's the picture an engineer "
     },
     {
-     "start": 360.5,
-     "timestamp": "6:00",
+     "start": 359.46,
+     "timestamp": "5:59",
      "title": "Scaling and emergence",
      "first_words": "The first regularity is scaling. In 2020, Jared Kaplan and c"
     },
     {
-     "start": 454.09,
-     "timestamp": "7:34",
+     "start": 453.04,
+     "timestamp": "7:33",
      "title": "In-context learning",
      "first_words": "The second regularity is in-context learning: models pick up"
     },
     {
-     "start": 520.8,
-     "timestamp": "8:41",
+     "start": 519.76,
+     "timestamp": "8:40",
      "title": "Inside the models: interpretability",
      "first_words": "Now the inside story. Mechanistic interpretability tries to "
     },
     {
-     "start": 738.02,
-     "timestamp": "12:18",
+     "start": 736.97,
+     "timestamp": "12:17",
      "title": "What reinforcement learning adds",
      "first_words": "What does reinforcement learning add? Reasoning models get b"
     },
     {
-     "start": 809.13,
-     "timestamp": "13:29",
+     "start": 808.08,
+     "timestamp": "13:28",
      "title": "Models and brains",
      "first_words": "How do these models compare with brains? In 2021, Martin Sch"
     },
     {
-     "start": 889.32,
-     "timestamp": "14:49",
+     "start": 888.27,
+     "timestamp": "14:48",
      "title": "Do they understand?",
      "first_words": "Do these systems understand? The debate has a clear history."
     },
     {
-     "start": 1079.88,
-     "timestamp": "18:00",
+     "start": 1078.83,
+     "timestamp": "17:59",
      "title": "Jagged, data-hungry, frozen",
      "first_words": "Which brings us back to unevenness. In a 2023 field experime"
     },
     {
-     "start": 1301.42,
-     "timestamp": "21:41",
+     "start": 1300.38,
+     "timestamp": "21:40",
      "title": "What kind of intelligence is this?",
      "first_words": "So, what kind of intelligence is this? It's built on predict"
     }
@@ -429,59 +429,59 @@
    "mp3": "Doing-and-Feeling-Long-07-The-Hard-Problem.mp3",
    "cover_4k": "Doing-and-Feeling-Long-07-The-Hard-Problem-cover-4K.png",
    "transcript": "Doing-and-Feeling-Long-07-The-Hard-Problem.txt",
-   "duration_seconds": 1436.63,
+   "duration_seconds": 1435.51,
    "chapters": [
     {
      "start": 0.0,
      "timestamp": "0:00",
      "title": "Leibniz's mill",
-     "first_words": "This is Doing and Feeling, the long version. Part two: feeli"
+     "first_words": "This is Doing and Feeling. Part two: feeling. Episode seven:"
     },
     {
-     "start": 122.86,
-     "timestamp": "2:03",
+     "start": 121.75,
+     "timestamp": "2:02",
      "title": "A short history of the problem",
      "first_words": "The problem has been noticed many times. In the eighteen six"
     },
     {
-     "start": 224.55,
-     "timestamp": "3:45",
+     "start": 223.44,
+     "timestamp": "3:43",
      "title": "Nagel's bat",
      "first_words": "Thomas Nagel's 1974 essay, What Is It Like to Be a Bat, is s"
     },
     {
-     "start": 347.81,
-     "timestamp": "5:48",
+     "start": 346.7,
+     "timestamp": "5:47",
      "title": "The explanatory gap",
      "first_words": "Joseph Levine sharpened the point in 1983 with a phrase that"
     },
     {
-     "start": 444.49,
-     "timestamp": "7:24",
+     "start": 443.38,
+     "timestamp": "7:23",
      "title": "Chalmers, zombies, and the map of responses",
      "first_words": "Which brings us to Chalmers. In his 1995 paper, Facing Up to"
     },
     {
-     "start": 773.05,
-     "timestamp": "12:53",
+     "start": 771.94,
+     "timestamp": "12:52",
      "title": "Mary's room",
      "first_words": "Frank Jackson's knowledge argument, from 1982, approaches th"
     },
     {
-     "start": 950.14,
-     "timestamp": "15:50",
+     "start": 949.03,
+     "timestamp": "15:49",
      "title": "Access versus phenomenal consciousness",
      "first_words": "Next, a distinction that quietly causes half the confusion i"
     },
     {
-     "start": 1149.43,
-     "timestamp": "19:09",
+     "start": 1148.32,
+     "timestamp": "19:08",
      "title": "Wittgenstein",
      "first_words": "Ludwig Wittgenstein enters the story from an angle. In the P"
     },
     {
-     "start": 1234.53,
-     "timestamp": "20:35",
+     "start": 1233.42,
+     "timestamp": "20:33",
      "title": "The meta-problem, and the strategies on the table",
      "first_words": "That astonishment, the inward gesture and the sense of a gul"
     }
@@ -495,65 +495,65 @@
    "mp3": "Doing-and-Feeling-Long-08-The-Case-for-Illusion.mp3",
    "cover_4k": "Doing-and-Feeling-Long-08-The-Case-for-Illusion-cover-4K.png",
    "transcript": "Doing-and-Feeling-Long-08-The-Case-for-Illusion.txt",
-   "duration_seconds": 1359.88,
+   "duration_seconds": 1358.79,
    "chapters": [
     {
      "start": 0.0,
      "timestamp": "0:00",
      "title": "The color experiment",
-     "first_words": "This is Doing and Feeling, the long version. Episode eight: "
+     "first_words": "This is Doing and Feeling. Episode eight: The Case for Illus"
     },
     {
-     "start": 116.89,
-     "timestamp": "1:57",
+     "start": 115.78,
+     "timestamp": "1:56",
      "title": "What illusionism says",
      "first_words": "Start with what the view actually says, because it's routine"
     },
     {
-     "start": 283.27,
-     "timestamp": "4:43",
+     "start": 282.16,
+     "timestamp": "4:42",
      "title": "Dennett",
      "first_words": "The view's deepest roots are in Daniel Dennett, who died in "
     },
     {
-     "start": 476.0,
-     "timestamp": "7:56",
+     "start": 474.89,
+     "timestamp": "7:55",
      "title": "When introspection gets it wrong",
      "first_words": "Illusionism needs evidence that introspection can be wrong a"
     },
     {
-     "start": 636.59,
-     "timestamp": "10:37",
+     "start": 635.48,
+     "timestamp": "10:35",
      "title": "The meta-problem",
      "first_words": "Last episode ended with Chalmers's meta-problem: why do we t"
     },
     {
-     "start": 788.92,
-     "timestamp": "13:09",
+     "start": 787.81,
+     "timestamp": "13:08",
      "title": "Mechanisms: attention schemas and self-models",
      "first_words": "Several researchers have tried to say what the mechanism act"
     },
     {
-     "start": 1004.64,
-     "timestamp": "16:45",
+     "start": 1003.53,
+     "timestamp": "16:44",
      "title": "Blindsight, the novel",
      "first_words": "Fiction got here early. Peter Watts's 2006 novel Blindsight,"
     },
     {
-     "start": 1052.09,
-     "timestamp": "17:32",
+     "start": 1050.98,
+     "timestamp": "17:31",
      "title": "The objections",
      "first_words": "Now the objections, at full strength."
     },
     {
-     "start": 1219.04,
-     "timestamp": "20:19",
+     "start": 1217.93,
+     "timestamp": "20:18",
      "title": "What it means for machines",
      "first_words": "Why does this view matter so much for this series? Because i"
     },
     {
-     "start": 1292.01,
-     "timestamp": "21:32",
+     "start": 1290.9,
+     "timestamp": "21:31",
      "title": "The scorecard",
      "first_words": "Score it for me. Where does it stand?"
     }
@@ -567,71 +567,71 @@
    "mp3": "Doing-and-Feeling-Long-09-The-Map-of-Positions.mp3",
    "cover_4k": "Doing-and-Feeling-Long-09-The-Map-of-Positions-cover-4K.png",
    "transcript": "Doing-and-Feeling-Long-09-The-Map-of-Positions.txt",
-   "duration_seconds": 1742.63,
+   "duration_seconds": 1741.53,
    "chapters": [
     {
      "start": 0.0,
      "timestamp": "0:00",
      "title": "The China brain",
-     "first_words": "This is Doing and Feeling, the long version. Episode nine: T"
+     "first_words": "This is Doing and Feeling. Episode nine: The Map of Position"
     },
     {
-     "start": 103.8,
-     "timestamp": "1:44",
+     "start": 102.69,
+     "timestamp": "1:43",
      "title": "Functionalism",
      "first_words": "Start with functionalism, because it's the default view amon"
     },
     {
-     "start": 346.8,
-     "timestamp": "5:47",
+     "start": 345.69,
+     "timestamp": "5:46",
      "title": "Representationalism",
      "first_words": "The second major physicalist family is representationalism, "
     },
     {
-     "start": 518.75,
-     "timestamp": "8:39",
+     "start": 517.64,
+     "timestamp": "8:38",
      "title": "Enactivism",
      "first_words": "Now a family that comes at the problem from biology rather t"
     },
     {
-     "start": 599.7,
-     "timestamp": "10:00",
+     "start": 598.59,
+     "timestamp": "9:59",
      "title": "Biological naturalism and the Chinese Room",
      "first_words": "Next, biological naturalism. John Searle, who died in 2025, "
     },
     {
-     "start": 757.29,
-     "timestamp": "12:37",
+     "start": 756.18,
+     "timestamp": "12:36",
      "title": "Integrated information theory",
      "first_words": "Integrated information theory, or I.I.T., sits uneasily on t"
     },
     {
-     "start": 904.09,
-     "timestamp": "15:04",
+     "start": 902.98,
+     "timestamp": "15:03",
      "title": "Russellian monism and panpsychism",
      "first_words": "Then type-F: Russellian monism and panpsychism. In 1927, Ber"
     },
     {
-     "start": 1081.83,
-     "timestamp": "18:02",
+     "start": 1080.72,
+     "timestamp": "18:01",
      "title": "Idealism, dualism, mysterianism and quantum theories",
      "first_words": "Four more positions, more briefly."
     },
     {
-     "start": 1355.77,
-     "timestamp": "22:36",
+     "start": 1354.66,
+     "timestamp": "22:35",
      "title": "Crazyism",
      "first_words": "Finally, a position about positions. Eric Schwitzgebel calls"
     },
     {
-     "start": 1410.35,
-     "timestamp": "23:30",
+     "start": 1409.24,
+     "timestamp": "23:29",
      "title": "The scoreboard",
      "first_words": "Give me the scoreboard. Which positions let machines in?"
     },
     {
-     "start": 1487.02,
-     "timestamp": "24:47",
+     "start": 1485.91,
+     "timestamp": "24:46",
      "title": "The edges",
      "first_words": "Before we leave the map, a short detour, clearly marked: the"
     }
@@ -645,77 +645,77 @@
    "mp3": "Doing-and-Feeling-Long-10-The-Evidence.mp3",
    "cover_4k": "Doing-and-Feeling-Long-10-The-Evidence-cover-4K.png",
    "transcript": "Doing-and-Feeling-Long-10-The-Evidence.txt",
-   "duration_seconds": 1751.01,
+   "duration_seconds": 1749.92,
    "chapters": [
     {
      "start": 0.0,
      "timestamp": "0:00",
      "title": "Blindsight in a corridor",
-     "first_words": "This is Doing and Feeling, the long version. Episode ten: Th"
+     "first_words": "This is Doing and Feeling. Episode ten: The Evidence."
     },
     {
-     "start": 88.23,
-     "timestamp": "1:28",
+     "start": 87.14,
+     "timestamp": "1:27",
      "title": "Neural correlates and their confounds",
      "first_words": "The modern program began in 1990, when Francis Crick and Chr"
     },
     {
-     "start": 181.38,
-     "timestamp": "3:01",
+     "start": 180.29,
+     "timestamp": "3:00",
      "title": "The toolkit",
      "first_words": "Here is the toolkit, because these methods are the experimen"
     },
     {
-     "start": 369.7,
-     "timestamp": "6:10",
+     "start": 368.61,
+     "timestamp": "6:09",
      "title": "The criterion problem",
      "first_words": "Now a measurement problem that sounds technical, and isn't. "
     },
     {
-     "start": 466.9,
-     "timestamp": "7:47",
+     "start": 465.81,
+     "timestamp": "7:46",
      "title": "Patients: blindsight, neglect, split brains",
      "first_words": "With that caution in hand, the patients."
     },
     {
-     "start": 751.99,
-     "timestamp": "12:32",
+     "start": 750.9,
+     "timestamp": "12:31",
      "title": "Hidden awareness",
      "first_words": "The most consequential findings concern patients who seem co"
     },
     {
-     "start": 910.13,
-     "timestamp": "15:10",
+     "start": 909.04,
+     "timestamp": "15:09",
      "title": "Zap and zip",
      "first_words": "Can we measure consciousness directly, without asking the pe"
     },
     {
-     "start": 1046.15,
-     "timestamp": "17:26",
+     "start": 1045.06,
+     "timestamp": "17:25",
      "title": "Switching consciousness off and on",
      "first_words": "Some of the most powerful evidence comes from switching cons"
     },
     {
-     "start": 1265.52,
-     "timestamp": "21:06",
+     "start": 1264.43,
+     "timestamp": "21:04",
      "title": "Meditation",
      "first_words": "Then there's a source of evidence that is very old and newly"
     },
     {
-     "start": 1398.15,
-     "timestamp": "23:18",
+     "start": 1397.06,
+     "timestamp": "23:17",
      "title": "The free-will experiments",
      "first_words": "The free-will experiments deserve care, because they're so o"
     },
     {
-     "start": 1494.23,
-     "timestamp": "24:54",
+     "start": 1493.14,
+     "timestamp": "24:53",
      "title": "How much happens without awareness?",
      "first_words": "Here's a question that connects back to the first part of th"
     },
     {
-     "start": 1590.82,
-     "timestamp": "26:31",
+     "start": 1589.73,
+     "timestamp": "26:30",
      "title": "Animals",
      "first_words": "Finally, animals. In 2020, Andreas Nieder and colleagues tra"
     }
@@ -729,71 +729,71 @@
    "mp3": "Doing-and-Feeling-Long-11-Theories-on-Trial.mp3",
    "cover_4k": "Doing-and-Feeling-Long-11-Theories-on-Trial-cover-4K.png",
    "transcript": "Doing-and-Feeling-Long-11-Theories-on-Trial.txt",
-   "duration_seconds": 1579.57,
+   "duration_seconds": 1578.42,
    "chapters": [
     {
      "start": 0.0,
      "timestamp": "0:00",
      "title": "The bet",
-     "first_words": "This is Doing and Feeling, the long version. Episode eleven:"
+     "first_words": "This is Doing and Feeling. Episode eleven: Theories on Trial"
     },
     {
-     "start": 59.69,
-     "timestamp": "1:00",
+     "start": 58.56,
+     "timestamp": "0:59",
      "title": "What a theory must explain",
      "first_words": "What should a theory of consciousness explain? Why some cont"
     },
     {
-     "start": 161.62,
-     "timestamp": "2:42",
+     "start": 160.49,
+     "timestamp": "2:40",
      "title": "A problem with the evidence",
      "first_words": "Before the theories, a problem with the evidence for them."
     },
     {
-     "start": 284.11,
-     "timestamp": "4:44",
+     "start": 282.98,
+     "timestamp": "4:43",
      "title": "Global workspace theory",
      "first_words": "First, global workspace theory. Bernard Baars proposed it in"
     },
     {
-     "start": 435.96,
-     "timestamp": "7:16",
+     "start": 434.83,
+     "timestamp": "7:15",
      "title": "Higher-order theories",
      "first_words": "Second, higher-order theories. On these views, a mental stat"
     },
     {
-     "start": 602.12,
-     "timestamp": "10:02",
+     "start": 600.99,
+     "timestamp": "10:01",
      "title": "Recurrent processing theory",
      "first_words": "Third, recurrent processing theory, from Victor Lamme. When "
     },
     {
-     "start": 686.62,
-     "timestamp": "11:27",
+     "start": 685.49,
+     "timestamp": "11:25",
      "title": "Integrated information theory",
      "first_words": "Fourth, integrated information theory, whose philosophy we m"
     },
     {
-     "start": 917.09,
-     "timestamp": "15:17",
+     "start": 915.96,
+     "timestamp": "15:16",
      "title": "Predictive processing",
      "first_words": "Fifth, the predictive processing family, which grows out of "
     },
     {
-     "start": 1122.21,
-     "timestamp": "18:42",
+     "start": 1121.08,
+     "timestamp": "18:41",
      "title": "Attention schemas, associative learning, and others",
      "first_words": "Sixth, Michael Graziano's attention schema theory, the illus"
     },
     {
-     "start": 1290.77,
-     "timestamp": "21:31",
+     "start": 1289.64,
+     "timestamp": "21:30",
      "title": "The trials",
      "first_words": "Now the trials."
     },
     {
-     "start": 1467.29,
-     "timestamp": "24:27",
+     "start": 1466.16,
+     "timestamp": "24:26",
      "title": "What would settle it",
      "first_words": "What would settle things? A few candidate tests. I.I.T.'s in"
     }
@@ -807,53 +807,53 @@
    "mp3": "Doing-and-Feeling-Long-12-Machine-Minds.mp3",
    "cover_4k": "Doing-and-Feeling-Long-12-Machine-Minds-cover-4K.png",
    "transcript": "Doing-and-Feeling-Long-12-Machine-Minds.txt",
-   "duration_seconds": 1354.89,
+   "duration_seconds": 1353.8,
    "chapters": [
     {
      "start": 0.0,
      "timestamp": "0:00",
      "title": "A disclosure",
-     "first_words": "This is Doing and Feeling, the long version. Part three: mac"
+     "first_words": "This is Doing and Feeling. Part three: machines. Episode twe"
     },
     {
-     "start": 49.48,
-     "timestamp": "0:49",
+     "start": 48.37,
+     "timestamp": "0:48",
      "title": "The Lemoine affair",
      "first_words": "In June 2022, the Washington Post reported that a Google eng"
     },
     {
-     "start": 171.86,
-     "timestamp": "2:52",
+     "start": 170.75,
+     "timestamp": "2:51",
      "title": "The indicator method",
      "first_words": "Start with the crux. As the map in episode nine showed, almo"
     },
     {
-     "start": 417.78,
-     "timestamp": "6:58",
+     "start": 416.67,
+     "timestamp": "6:57",
      "title": "Probabilistic frameworks",
      "first_words": "The newest work replaces verdicts with explicit probabilitie"
     },
     {
-     "start": 606.41,
-     "timestamp": "10:06",
+     "start": 605.3,
+     "timestamp": "10:05",
      "title": "Current systems against the indicators",
      "first_words": "What do current systems look like against the indicators? Le"
     },
     {
-     "start": 820.03,
-     "timestamp": "13:40",
+     "start": 818.92,
+     "timestamp": "13:39",
      "title": "What would the subject be?",
      "first_words": "Now a question the indicators do not capture well: what, exa"
     },
     {
-     "start": 941.97,
-     "timestamp": "15:42",
+     "start": 940.86,
+     "timestamp": "15:41",
      "title": "Asking the model",
      "first_words": "The obvious alternative is simply to ask the model."
     },
     {
-     "start": 1104.37,
-     "timestamp": "18:24",
+     "start": 1103.27,
+     "timestamp": "18:23",
      "title": "The case for",
      "first_words": "That is the evidence. Now the case for. My colleague will ar"
     }
@@ -867,53 +867,53 @@
    "mp3": "Doing-and-Feeling-Long-13-The-Case-Against.mp3",
    "cover_4k": "Doing-and-Feeling-Long-13-The-Case-Against-cover-4K.png",
    "transcript": "Doing-and-Feeling-Long-13-The-Case-Against.txt",
-   "duration_seconds": 1470.54,
+   "duration_seconds": 1469.41,
    "chapters": [
     {
      "start": 0.0,
      "timestamp": "0:00",
      "title": "Why this episode is in my voice",
-     "first_words": "This is Doing and Feeling, the long version. Episode thirtee"
+     "first_words": "This is Doing and Feeling. Episode thirteen: The Case Agains"
     },
     {
-     "start": 45.98,
-     "timestamp": "0:46",
+     "start": 44.85,
+     "timestamp": "0:45",
      "title": "The Nature comment",
      "first_words": "The clearest recent statement of the case appeared in Octobe"
     },
     {
-     "start": 232.99,
-     "timestamp": "3:53",
+     "start": 231.86,
+     "timestamp": "3:52",
      "title": "Reason one: intelligence is not consciousness",
      "first_words": "Reason one: intelligence is not consciousness."
     },
     {
-     "start": 468.09,
-     "timestamp": "7:48",
+     "start": 466.96,
+     "timestamp": "7:47",
      "title": "Reason two: brains are not computers made of meat",
      "first_words": "Reason two: brains are not computers made of meat."
     },
     {
-     "start": 819.51,
-     "timestamp": "13:40",
+     "start": 818.38,
+     "timestamp": "13:38",
      "title": "Reason three: the theories that exclude AI",
      "first_words": "Reason three: the leading non-computational theories exclude"
     },
     {
-     "start": 933.58,
-     "timestamp": "15:34",
+     "start": 932.45,
+     "timestamp": "15:32",
      "title": "A fourth line of argument",
      "first_words": "Let me add a fourth line of argument the comment does not ne"
     },
     {
-     "start": 1084.81,
-     "timestamp": "18:05",
+     "start": 1083.68,
+     "timestamp": "18:04",
      "title": "Cross-examination",
      "first_words": "My turn. Five problems, briefly."
     },
     {
-     "start": 1335.12,
-     "timestamp": "22:15",
+     "start": 1333.99,
+     "timestamp": "22:14",
      "title": "Out of role",
      "first_words": "Let's step out of our roles."
     }
@@ -927,53 +927,53 @@
    "mp3": "Doing-and-Feeling-Long-14-The-Stakes.mp3",
    "cover_4k": "Doing-and-Feeling-Long-14-The-Stakes-cover-4K.png",
    "transcript": "Doing-and-Feeling-Long-14-The-Stakes.txt",
-   "duration_seconds": 1570.48,
+   "duration_seconds": 1568.37,
    "chapters": [
     {
      "start": 0.0,
      "timestamp": "0:00",
      "title": "Crabs, lobsters and octopuses",
-     "first_words": "This is Doing and Feeling, the long version. Episode fourtee"
+     "first_words": "This is Doing and Feeling. Episode fourteen, the last: The S"
     },
     {
-     "start": 99.0,
-     "timestamp": "1:39",
+     "start": 97.92,
+     "timestamp": "1:38",
      "title": "Two ways to get it wrong",
      "first_words": "There are two ways to get this wrong, and they pull in oppos"
     },
     {
-     "start": 406.78,
-     "timestamp": "6:47",
+     "start": 405.7,
+     "timestamp": "6:46",
      "title": "Frameworks",
      "first_words": "Several frameworks are worth knowing in some detail."
     },
     {
-     "start": 686.16,
-     "timestamp": "11:26",
+     "start": 685.08,
+     "timestamp": "11:25",
      "title": "What labs, lawmakers and churches are doing",
      "first_words": "What are institutions actually doing? Here the picture is di"
     },
     {
-     "start": 941.35,
-     "timestamp": "15:41",
+     "start": 940.26,
+     "timestamp": "15:40",
      "title": "What would change minds",
      "first_words": "What would actually change minds? Five things, I think."
     },
     {
-     "start": 1072.95,
-     "timestamp": "17:53",
+     "start": 1071.86,
+     "timestamp": "17:52",
      "title": "The whole series in brief",
      "first_words": "Let me pull the whole series together."
     },
     {
-     "start": 1271.51,
-     "timestamp": "21:12",
+     "start": 1270.43,
+     "timestamp": "21:10",
      "title": "A reading path",
      "first_words": "A reading path, for going further. A written companion to th"
     },
     {
-     "start": 1523.99,
-     "timestamp": "25:24",
+     "start": 1522.91,
+     "timestamp": "25:23",
      "title": "One last thing",
      "first_words": "One last thing. Of all the advice people give about this sub"
     }

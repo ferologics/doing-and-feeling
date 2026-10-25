@@ -1,6 +1,6 @@
-This is Doing and Feeling, the long version. Episode 10, The Evidence.
+This is Doing and Feeling, Episode 10, The Evidence.
 In 2008, a team led by the neuroscientist Beatrice de Gelder reported a remarkable experiment and filmed it.
-Their subject, known as TN, was a physician who had suffered two strokes that destroyed the primary visual cortex on both sides of his brain.
+Their subject, known as T.N., was a physician who had suffered two strokes that destroyed the primary visual cortex on both sides of his brain.
 By every clinical test, he was blind. He walked with a cane and said he saw nothing at all.
 The researchers set up a long corridor cluttered with boxes and a chair,
 took away his cane, and asked him to walk down it.
@@ -69,7 +69,7 @@ Frontal activity linked to rivalry was reduced when report was removed, but not 
 also changes how people attend, so even this cleaner contrast is not perfectly clean.
 That result is ammunition for both sides of the front versus back debate next episode.
 And in October 2026, Doris Tso's lab, which had already used a no-report design with single face
-cells, posted a perprint based on recordings from thousands of neurons at once. Two monkeys
+cells, posted a preprint based on recordings from thousands of neurons at once. Two monkeys
 passively watched displays in which one face was flashed and another suppressed. In face-selective
 regions, activity flipped back and forth between representing the seen face and the suppressed one,
 each state lasting roughly 60 milliseconds. It's two animals from one lab, not yet peer-reviewed,
@@ -78,11 +78,14 @@ rate for experience, but it hints that what you see may be a rapidly contested s
 Now a measurement problem that sounds technical and is not.
 How do you know someone did not see something?
 The obvious answer is that they told you.
-But a report depends on two things.
-How much information gets through and how willing a person is to say yes.
-Signal detection theory, borrowed from radar engineering, separates them.
+But a report depends on two things,
+how much information gets through
+and how willing a person is to say yes.
+Signal detection theory, borrowed from radar engineering,
+separates them.
 Sensitivity is how well you can tell signal from noise.
-Criterion is how much evidence you demand before saying, I saw it.
+Criterion is how much evidence you demand before saying,
+I saw it.
 A cautious observer with a strict criterion will say nothing was there on many trials where some faint experience was present.
 This is the criterion problem, and in 2021, the philosopher Ian Phillips used it to challenge one of the fields found in cases.
 Blindsight, he argued, may not be vision without experience at all.
@@ -117,11 +120,11 @@ she mostly chose the one that was not burning. It became a textbook example of u
 information guiding choice. Here's what the textbooks often leave out. It was a single
 patient. A 1990 follow-up by Bisioc and Maria Luiser-Rosconi got inconsistent results. And in
 2025, a pre-registered replication tested 54 stroke patients, 21 of them with neglect. The
-burning house effect appeared in just one patient, who did not have neglect. Exploratory analyses
+burning house effect appeared in just one patient, who did not have neglect. Exploratory analyzes
 suggested that when people did show a preference, they preferred intact drawings over merely shaded
 ones, so the effect may not have been about fire at all. One patient and possibly about shading,
 not fire. How many textbook cases rest on one patient? More than you'd like. Others have held
-up well, like the imagined paiza. The lesson is to weigh a famous single case by how often it has
+up well, like the imagined paesa. The lesson is to weigh a famous single case by how often it has
 been reproduced, rather than by how often it has been retold. Then the split-brain patients.
 To treat severe epilepsy, some patients had the corpus callosum,
 the main bridge between the hemispheres, surgically cut.
@@ -140,10 +143,10 @@ For anyone who works with language models, that's the most important result in t
 An articulate explanation of a system's own behavior tells you nothing, on its own, about whether the explanation is causally accurate.
 That's the parallel drawn in Episode 6, where a model described carrying digits it never carried and will hold onto it for Episodes 12 and 13.
 And it is not confined to split brains.
-In choice blindness experiments, the next entry in Episode 8's File on Introspection,
+In Choice Blindness Experiments, the next entry in Episode 8's File on Introspection,
 Petter Johansson and Lars Hall had people choose which of two faces they found more attractive,
 then secretly handed them the other photo and asked them to explain their choice.
-On most of the manipulated trials, people did not notice the swap,
+On most of the manipulated trials, people did not notice the swap
 and explained why they had preferred a face they had actually rejected.
 Even the split brain itself is less settled than it looks.
 In 2017, Yer Pinto and colleagues reported two patients
@@ -162,177 +165,183 @@ In a well-known 2009 study using a careful standardized scale,
 18 of 44 patients diagnosed as vegetative by clinical consensus
 about 41 percent turned out to be minimally conscious. In 2006, Adrian Owen and colleagues
 published a short paper in Science that changed the field. A 23-year-old woman, five months after
-a traffic accident, met every criterion for the vegetative state. In an FMRI scanner, she was asked
-to imagine playing tennis and then to imagine walking through the rooms of her house. Her brain
-activity matched that of healthy volunteers, motor planning areas for tennis, spatial navigation
-areas for the house. She was following instructions. It was a single patient, and critics wondered
-whether the words alone triggered automatic responses. But in 2010, a larger study found
-that 5 of 54 patients could modulate their brain activity this way, and one could answer yes or no
-questions, imagining tennis for yes and the house for no. Then, in 2024, a study in the New England
-Journal of Medicine led by Yelena Bodian tested 353 patients at six centers in Europe and North
-America. Of the 241 who could not follow commands at the bedside, 60, a quarter, showed covert
-responses on brain imaging or E. E.g., the field calls this cognitive motor dissociation,
-and among patients who could follow commands at the bedside, only about 38% showed responses on
-miss many people who are plainly aware, so a negative scan cannot rule awareness out.
+a traffic accident, met every criterion for the vegetative state. In an FMR eye scanner,
+she was asked to imagine playing tennis and then to imagine walking through the rooms of her house.
+Her brain activity matched that of healthy volunteers, motor planning areas for tennis,
+spatial navigation areas for the house.
+She was following instructions.
+It was a single patient, and critics wondered whether the words alone triggered automatic
+responses.
+But in 2010, a larger study found that 5 of 54 patients could modulate their brain activity
+this way, and one could answer yes or no questions, imagining tennis for yes and the house for
+no.
+Then, in 2024, a study in the New England Journal of Medicine led by Yelena Bodian
+tested 353 patients at six centers in Europe and North America.
+Of the 241 who could not follow commands at the bedside, 60, a quarter,
+showed covert responses on brain imaging or E.
+E.g., the field calls this cognitive-motor dissociation.
+And among patients who could follow commands at the bedside,
+28% showed responses on the scans.
+The tests miss many people who are plainly aware, so a negative scan cannot rule awareness
+out.
 A quarter in this group, but following commands in a scanner is still access, in block sense.
-Does it tell us anything about experience? In a person, access is the best evidence of
-experience we ever get, and we grant it to each other on far less. So it raises urgent questions
-about pain, communication, and decisions to withdraw care.
-And it's the clearest demonstration that behavior
-can radically underestimate consciousness.
-Can we measure consciousness directly
-without asking the person to do anything?
+Does it tell us anything about experience?
+In a person, access is the best evidence of experience we ever get, and we grant it to
+each other on far less.
+So it raises urgent questions about pain, communication, and decisions to withdraw care.
+And it's the clearest demonstration that behavior can radically underestimate consciousness.
+Can we measure consciousness directly without asking the person to do anything?
 The closest thing we have is the Perturbational Complexity Index,
-developed by Marcello Massimini, Giulio Tononi, and colleagues,
-and first published in 2013.
-It's nicknamed Zap and Zip.
-with a pulse of transcranial magnetic stimulation and record the brain's echo with EEG. Then you
-zip it. You compress the spatial and temporal pattern of the response, using the same kind of
-algorithm that compresses computer files. A conscious brain answers a perturbation in a way
-that is both integrated, spreading widely, and differentiated, producing a complex,
-hard-to-compress pattern. An unconscious brain responds either locally, like a stone dropped in
-a big stereotyped wave, like a bell ringing. Either way, the response compresses easily.
-In the first study, values in dreamless sleep and under anesthesia fell roughly between 0.1
-and 0.3, and wakefulness ran from about 0.4 to 0.7. Vegetative patients were low,
-minimally conscious patients intermediate and locked-in patients, fully conscious but paralyzed,
-in the waking range. In 2016, Sylvia Cacerado and colleagues calibrated a cutoff of 0.31
-that separated conscious from unconscious conditions in a benchmark group of 150 people
-without a single error. Applied to 43 vegetative patients, it flagged 9 with high complexity,
-and 6 of those 9 later recovered signs of awareness. The most striking calibration case
-is ketamine. At anesthetic doses, it leaves people completely unresponsive. But they often
-report vivid dreams afterward, and under ketamine, the complexity index stayed high,
+developed by Marcello Massimini, Giulio Tononi, and colleagues, and first published in 2013.
+and zip. You zap the cortex with a pulse of transcranial magnetic stimulation and record
+the brain's echo with EEG. Then you zip it. You compress the spatial and temporal pattern of the
+response, using the same kind of algorithm that compresses computer files. A conscious brain
+answers a perturbation in a way that is both integrated, spreading widely, and differentiated,
+producing a complex, hard-to-compress pattern. An unconscious brain responds either locally,
+like a stone dropped in mud,
+or with a big stereotyped wave, like a bell ringing.
+Either way, the response compresses easily.
+In the first study, values in dreamless sleep
+and under anesthesia fell roughly between 0.1 and 0.3,
+and wakefulness ran from about 0.4 to 0.7.
+Vegetative patients were low,
+minimally conscious patients intermediate
+and locked in patients,
+fully conscious but paralyzed, in the waking range.
+In 2016, Sylvia Cacerado and colleagues calibrated a cutoff of 0.31 that separated conscious from unconscious conditions in a benchmark group of 150 people without a single error.
+Applied to 43 vegetative patients, it flagged 9 with high complexity, and 6 of those 9 later recovered signs of awareness.
+The most striking calibration case is ketamine.
+At anesthetic doses, it leaves people completely unresponsive.
+But they often report vivid dreams afterward, and under ketamine, the complexity index stayed high,
 matching what people later reported rather than how they looked from the outside.
 Notice where the measure's credibility comes from, though. It's calibrated against report.
-Right. Every consciousness meter is ultimately validated against people who can tell us,
-afterward whether they experienced anything. That's fine for humans. It becomes the deep
-problem for machines in episode 12. Some of the most powerful evidence comes from switching
-consciousness off and back on. General anesthesia is the only routine procedure that reliably
-interrupts experience and then returns it. But unresponsive is not the same as unconscious.
-There's an old, simple trick called the isolated forearm technique. Before the muscle relax
-is given, a tourniquet is inflated on one arm, so that hand can still move. In a 2017 study across
-six hospitals, 260 patients were asked, after intubation, to squeeze with that hand. Twelve
-of them, about four and a half percent, responded to the command. None of those questioned afterward
-remembered anything. So for some patients, under some regimes, there is connected awareness without
-memory, and the absence of a memory is not proof that nothing was experienced. Anesthetics act
-through quite different molecular mechanisms, yet the ones that abolish experience seem to share a
-breakdown of integrated communication across the brain. In September 2026, a study led by Andrea
-Luppy reported a common signature of anesthesia in six species—humans, macaques, marmosets, mice,
-zebrafish, and nematode worms. The drugs and recording methods differed. But in every species,
-activity in different parts of the nervous system became less coordinated, and its past predicted
-its future less well. Deep structures matter too. In 2020, Michelle Redinbaugh and colleagues found
-that stimulating a small region of the central thalamus could wake anesthetized macaques while
-the anesthetic was still flowing. And in 2025, deep electrodes in five human patients showed
-certain thalamic nuclei becoming active before the prefrontal cortex on trials where a stimulus
-was consciously seen, as if the thalamus were a gate. Sleep makes the same point from another
-angle. You're not unconscious all night. You dream, and not only in REM sleep. In 2017,
-Francesca Sicklery, Tononi, and colleagues woke people repeatedly through the night
-anything. Dreaming, in both REM and non-REM sleep, went with less slow-wave activity and more fast
-activity in a posterior region of the cortex. In a follow-up with seven sleepers, that signal alone
-predicted in real time, during non-REM sleep, whether they would report a dream, with about 87%
-accuracy. We'll meet that posterior hot zone again next episode. And in 2021, four labs reported
-two-way communication with lucid dreamers who solved simple arithmetic problems during REM sleep
-and signaled their answers with eye movements. Psychedelics push in yet another direction.
-Robin Carhart-Harris's entropic brain hypothesis and the model he developed with Carl Friston
-called Rebus proposed that psychedelics relax the brain's high-level prior beliefs,
-letting bottom-up signals flow more freely. That connects directly to the predictive brain of
-fits the finding that the diversity of brain signals, a cousin of ZAP and ZIP's compression
-measure, rises under psilocybin, LSD, and ketamine. In 2024, a study in Nature by Joshua
-Segel and colleagues scanned people repeatedly before, during, and after a dose of psilocybin.
-The drug desynchronized brain networks more than three times as much as a stimulant control,
+Right. Every consciousness meter is ultimately validated against people who can tell us, afterward, whether they experienced anything.
+That's fine for humans. It becomes the deep problem for machines in episode 12.
+Some of the most powerful evidence comes from switching consciousness off and back on.
+General anesthesia is the only routine procedure that reliably interrupts experience and then
+returns it. But unresponsive is not the same as unconscious. There's an old, simple trick
+called the isolated forearm technique. Before the muscle relaxant is given, a tourniquet is
+that hand can still move. In a 2017 study across six hospitals, 260 patients were asked, after
+intubation, to squeeze with that hand. Twelve of them, about four and a half percent, responded to
+the command. None of those questioned afterward remembered anything. So for some patients, under
+some regimes, there is connected awareness without memory, and the absence of a memory is not proof
+that nothing was experienced. Anesthetics act through quite different molecular mechanisms,
+yet the ones that abolish experience seem to share a breakdown of integrated communication
+across the brain. In September 2026, a study led by Andrea Luppy reported a common signature
+of anesthesia in six species—humans, macaques, marmosets, mice, zebrafish, and nematode worms.
+The drugs and recording methods differed. But in every species, activity in different parts
+of the nervous system became less coordinated, and its past predicted its future less well.
+Deep structures matter too. In 2020, Michelle Redinbaugh and colleagues found that stimulating
+a small region of the central thalamus could wake anesthetized macaques while the anesthetic was
+still flowing. And in 2025, deep electrodes in five human patients showed certain thalamic nuclei
+becoming active before the prefrontal cortex on trials where a stimulus was consciously seen,
+as if the thalamus were a gate. Sleep makes the same point from another angle.
+You're not unconscious all night. You dream, and not only in REM sleep. In 2017, Francesca
+Sicleri, Tononi, and colleagues woke people repeatedly through the night and asked whether
+they had been experiencing anything. Dreaming, in both REM and non-REM sleep, went with less
+slow-wave activity and more fast activity in a posterior region of the cortex. In a follow-up
+with seven sleepers, that signal alone predicted in real time during non-REM sleep whether they
+would report a dream with about 87% accuracy. We'll meet that posterior hot zone again next
+episode. And in 2021, four labs reported two-way communication with lucid dreamers who solved
+simple arithmetic problems during REM sleep and signaled their answers with eye movements.
+Psychedelics push in yet another direction.
+Robin Carhart-Harris' entropic brain hypothesis
+and the model he developed with Carl Friston called Rebus
+proposed that psychedelics relax the brain's high-level prior beliefs,
+letting bottom-up signals flow more freely.
+That connects directly to the predictive brain of episode 5
+and fits the finding that the diversity of brain signals,
+a cousin of ZAP and ZIP's compression measure,
+rises under psilocybin, LSD, and ketamine. In 2024, a study in Nature by Joshua Segel and
+colleagues scanned people repeatedly before, during, and after a dose of psilocybin. The
+drug desynchronized brain networks more than three times as much as a stimulant control,
 most strongly in the default mode network, the system most associated with self-referential
-And reduced coupling between the hippocampus and that network persisted for weeks.
+thought, and reduced coupling between the hippocampus and that network persisted for weeks.
 Then there's a source of evidence that is very old and newly scientific, meditation.
 Contemplative traditions have been mapping states of mind for more than 2,000 years.
-The Mandukya Upanishad distinguishes waking, dreaming, and dreamless sleep
-from a fourth state it describes as pure awareness.
-Buddhist traditions describe meditative absorptions called jhanas
-state called Nirodha Samapati, the attainment of cessation. These are first-person claims,
-made by people who have trained their attention for decades. On their own, they're not data in
-the scientist's sense, but they generate hypotheses that can now be tested. The philosopher Thomas
-Metzinger's 2024 book, The Elephant and the Blind, analyzes more than 500 reports from meditators of
-what he calls minimal phenomenal experience. Awareness with little or no content, and no
-sense of self or time. If that state exists, it's a precious test case for any theory that ties
-consciousness to self-modeling or to rich content. And in 2023, Ruben Lachonin, Matthew Sackett,
-Helene Slogter, and colleagues set out a research program on meditative cessations.
+The Mandukya Upanishad distinguishes waking, dreaming, and dreamless sleep from a fourth
+state it describes as pure awareness. Buddhist traditions describe meditative absorptions
+called jhanas and a state called Nirodha Samapati, the attainment of cessation.
+first-person claims made by people who have trained their attention for decades. On their own,
+they're not data in the scientist's sense, but they generate hypotheses that can now be tested.
+The philosopher Thomas Metzinger's 2024 book, The Elephant and the Blind, analyzes more than 500
+reports from meditators of what he calls minimal phenomenal experience, awareness with little or
+no content, and no sense of self or time. If that state exists, it's a precious test case for any
+theory that ties consciousness to self-modeling or to rich content. And in 2023, Ruben Lachonen,
+Matthew Sackett, Helene Slogter, and colleagues set out a research program on meditative cessations.
 Brief, apparently complete gaps in consciousness that some advanced practitioners say they can
 induce at will, and much longer ones in the traditional accounts. Early EEG work has studied
-a single advanced meditator intensively, across repeated cessation events. All of this is early,
-small, and dependent on trained reports. Trained reports are still reports. Why trust a meditator
-more than the shoppers of Episode 8? On reports alone, you should not, and every caveat about
-introspection from episode 8 applies. What training buys is consistency and the chance
-to pair reports with measurements. That's Varela's neurophenomenology from last episode
-finally getting data. And if consciousness can be switched off by training as well as by drugs,
-that's an experimental handle no anesthesiologist has. And any complete theory has to account for
-the extremes. The cessations, the dreams under Kerhameen, the awareness without content.
-The free will experiments deserve care because they're so often summarized wrongly. In 1983,
-Benjamin Libet asked people to flex their wrist whenever they felt like it, and to note,
-using a fast-moving clock when they first felt the urge. A slow buildup of electrical activity,
-the readiness potential, began a few hundred milliseconds before the reported moment of
-The headline wrote itself, your brain decides before you do.
+advanced meditator intensively across repeated cessation events. All of this is early, small,
+and dependent on trained reports. Trained reports are still reports. Why trust a meditator more than
+the shoppers of Episode 8? On reports alone, you should not, and every caveat about introspection
+from Episode 8 applies. What training buys is consistency and the chance to pair reports with
+measurements. That's Varela's neurophenomenology from last episode, finally getting data. And if
+consciousness can be switched off by training as well as by drugs, that's an experimental handle
+no anesthesiologist has. And any complete theory has to account for the extremes. The cessations,
+the dreams under ketamine, the awareness without content. The free will experiments deserve care
+because they're so often summarized wrongly.
+In 1983, Benjamin Libet asked people to flex their wrist whenever they felt like it,
+and to note, using a fast-moving clock when they first felt the urge.
+A slow buildup of electrical activity, the readiness potential,
+began a few hundred milliseconds before the reported moment of decision.
+The headline wrote itself,
+Your Brain Decides Before You Do.
 Three later findings complicate it.
-In 2012, Aaron Scherger, Jacobo Sit, and Stanislas DeHaan showed that the readiness potential can be explained as random neural noise drifting toward a threshold, with the movement launched when it crosses.
-Averaged backward from the moment of movement, that noise looks like a ramp.
-On this reading, the early signal is not a hidden decision at all.
-In 2008, Chun Siang Soon, John Dylan Haynes, and colleagues decoded which of two buttons
-someone would press from FMRI activity several seconds in advance, but with accuracy only
-around 60%, where chance is 50.
-And in 2019, Yuri Ma Os and colleagues had people decide which of two charities would
-receive a real $1,000 donation.
-The readiness potential was present when the choice was arbitrary, and absent or much
-Here's a question that connects back to the first part of the series.
-If machines can do so much without consciousness, how much can humans do without it?
-Less than the hype suggested.
-The famous 1957 claimed that flashing the words
-eat popcorn in a cinema-boosted sales was a hoax.
-In 1962, its author admitted it had been a gimmick,
-with too little data to mean anything.
-Unconscious thought theory,
-which claimed that complex decisions go better
-when you're distracted, has largely failed to replicate.
-Masked priming is real, but in careful studies,
-its effects are small and short-lived.
-The picture that has survived is roughly this.
-Unconscious processing in humans is fast,
-parallel, and specialized, and can extract some meaning from words. But flexible, multi-step
-reasoning and acting on novel combinations seem to depend on conscious access. Holding information
-over time mostly does too, though some studies find faint traces of unseen items lasting a few
-seconds. Which is interesting, because in machines that coupling apparently does not hold. Language
-models do multi-step reasoning, and most researchers doubt they're conscious.
-That's one of the deepest puzzles where our two topics meet. Either human brains couple flexible
-reasoning with consciousness for contingent architectural reasons, in which case machines
-show the coupling is optional. Or machines that reason flexibly have something functionally like
-conscious access, whether or not anything is experienced. Episodes 12 and 13 take both readings
-Finally, animals.
-In 2020, Andreas Nieder and colleagues trained two carrion crows
-to report whether they had seen a faint stimulus.
-Neurons in a high-level region of the crow forebrain
-tracked stimulus intensity at first,
-but during the delay before the response,
-they tracked what the crow went on to report,
-including its false alarms.
-That's a neural correlate of subjective report in a bird,
-whose brain, as we saw in episode two,
-like circuits by a separate evolutionary route. In April 2024, a group of scientists and philosophers
+In 2012, Aaron Scherger, Jacobo Sitt, and Stanislas DeHaan showed that the readiness
+potential can be explained as random neural noise drifting toward a threshold, with the
+movement launched when it crosses. Averaged backward from the moment of movement, that
+noise looks like a ramp. On this reading, the early signal is not a hidden decision at all.
+In 2008, Chun Xiangsoon, John Dylan Haynes, and colleagues decoded which of two buttons
+RI activity several seconds in advance, but with accuracy only around 60%, where chance is 50.
+And in 2019, Yuri Maos and colleagues had people decide which of two charities would receive a real
+thousand-dollar donation. The readiness potential was present when the choice was arbitrary,
+and absent or much reduced when it was deliberate. So these experiments concern the timing of
+arbitrary movements. They're interesting about how actions get started. On their own, they fall
+far short of refuting free will in the senses philosophers usually debate. Here's a question
+that connects back to the first part of the series. If machines can do so much without
+consciousness, how much can humans do without it? Less than the hype suggested. The famous 1957
+claimed that flashing the words eat popcorn in a cinema-boosted sales was a hoax.
+In 1962, its author admitted it had been a gimmick, with too little data to mean anything.
+Unconscious thought theory, which claimed that complex decisions go better when you're distracted,
+has largely failed to replicate. Masked priming is real, but in careful studies its effects are
+small and short-lived. The picture that has survived is roughly this. Unconscious processing
+in humans is fast, parallel, and specialized, and can extract some meaning from words. But flexible,
+multi-step reasoning and acting on novel combinations seem to depend on conscious
+access. Holding information over time mostly does too, though some studies find faint traces of
+unseen items lasting a few seconds. Which is interesting, because in machines that coupling
+apparently does not hold. Language models do multi-step reasoning, and most researchers doubt
+their conscious. That's one of the deepest puzzles where our two topics meet. Either human brains
+couple flexible reasoning with consciousness for contingent architectural reasons, in which case
+machines show the coupling is optional. Or machines that reason flexibly have something functionally
+like conscious access, whether or not anything is experienced. Episodes 12 and 13 take both
+readings seriously. Finally, animals. In 2020, Andreas Nieder and colleagues trained two carrion
+crows to report whether they had seen a faint stimulus. Neurons in a high-level region of the
+crow forebrain tracked stimulus intensity at first, but during the delay before the response,
+they tracked what the crow went on to report, including its false alarms. That's a neural
+correlate of subjective report in a bird, whose brain, as we saw in episode 2, arrived at cortex-like
+circuits by a separate evolutionary route. In April 2024, a group of scientists and philosophers
 launched the New York Declaration on Animal Consciousness. It states that there is strong
 scientific support for attributing conscious experience to mammals and birds. It states that
 there is at least a realistic possibility of it in all vertebrates, and in many invertebrates,
-including at least cephalopods, decapod crustaceans, and insects. And it says that
-to ignore that possibility in decisions affecting those animals.
-About 40 researchers signed at the launch, and hundreds more have signed since.
-The method behind statements like that is what the philosopher Jonathan Birch calls a theory-light approach.
-Rather than commit to one theory, look for behavioral markers associated with conscious experience in humans.
-Do animals trade off avoiding pain against getting something they want?
-Do they tend their wounds or learn to avoid places where they were hurt?
-given small shocks are more willing to abandon a poor shell than a good one.
-In 2021, Robin Crook gave octopuses a painful injection. They tended the spot,
-later avoided the chamber where it happened, and preferred one where a local anesthetic had
-brought relief. The octopus from episode two, it seems, can hurt, and the ball-rolling bumblebees
-from episode two met the behavioral criteria for play. Episode 14 returns to how evidence
-of this kind changed the law in Britain. And none of that transfers to AI.
-That's the point to end on. Every marker in this episode was calibrated in creatures that share
-our evolutionary history and our biology. In animals, behavior and biology come bundled,
-so a behavioral marker is evidence about the machinery underneath. A language model can
-produce any behavioral marker you can name, trade-off talk and pain talk included,
+including at least cephalopods, decapod crustaceans, and insects. And it says that it is irresponsible
+to ignore that possibility in decisions affecting those animals. About 40 researchers signed at the
+launch, and hundreds more have signed since. The method behind statements like that is what the
+Birch calls a theory-light approach. Rather than commit to one theory, look for behavioral markers
+associated with conscious experience in humans. Do animals trade off avoiding pain against getting
+something they want? Do they tend their wounds or learn to avoid places where they were hurt?
+Hermit crabs, given small shocks, are more willing to abandon a poor shell than a good one.
+In 2021, Robin Crook gave octopuses a painful injection. They tended the spot, later avoided
+and preferred one where a local anesthetic had brought relief.
+The octopus from episode 2, it seems, can hurt,
+and the ball-rolling bumblebees from episode 2 met the behavioral criteria for play.
+Episode 14 returns to how evidence of this kind changed the law in Britain.
+And none of that transfers to AI.
+That's the point to end on.
+Every marker in this episode was calibrated in creatures that share our evolutionary history and our biology.
+In animals, behavior and biology come bundled,
+so a behavioral marker is evidence about the machinery underneath.
+A language model can produce any behavioral marker you can name,
+trade-off talk and pain talk included,
 because it learned from text written by creatures that have the machinery.
 For machines, theory-like approaches break down
 and were forced back onto theory,

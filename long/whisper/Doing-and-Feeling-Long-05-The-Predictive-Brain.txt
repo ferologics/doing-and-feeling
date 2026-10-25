@@ -1,208 +1,211 @@
-This is Doing and Feeling, the long version. Episode 5, The Predictive Brain. Take a hollow mask of a face and turn it so you're looking at its inside, the concave side. You'd expect to see a hollow. Most people do not. They see a normal face bulging toward them, and if the mask rotates, the face seems to turn the wrong way, eerily tracking them. Knowing that it's hollow does not help.
+This is Doing and Feeling, Episode 5, The Predictive Brain.
+Take a hollow mask of a face and turn it so you're looking at its inside, the concave side.
+You'd expect to see a hollow. Most people do not.
+They see a normal face bulging toward them, and if the mask rotates, the face seems to turn the wrong way, eerily tracking them.
+Knowing that it's hollow does not help.
 Your brain has an extremely strong expectation that faces are convex,
 and the light reaching your eyes is ambiguous enough that the expectation wins.
 In one small brain imaging study from 2009, with 13 patients and 16 controls,
 healthy volunteers were fooled almost every time,
 while people with schizophrenia were fooled far less often.
 It's a small sample, but it fits the idea that the balance between expectation and evidence is a setting,
-be set differently. This episode argues that the brain is well described as a prediction machine,
+and that it can be set differently.
+This episode argues that the brain is well described as a prediction machine,
 and then shows where that description is solid and where it is still mostly slogan.
-We'll put the idea through five tests. Perception, the wiring of the cortex,
-a grand unifying principle, reward, and the brain's internal maps. It's the bridge between
-the computational story of the last episode and the machines of the next.
+We'll put the idea through five tests.
+Perception, the wiring of the cortex, a grand unifying principle, reward, and the brain's internal maps.
+It's the bridge between the computational story of the last episode and the machines of the next.
 The modern form of the idea starts with Hermann von Helmholtz in the 1860s.
 Perception, he argued, involves unconscious inference.
 The brain receives ambiguous signals and infers their most probable causes, drawing on experience.
 The modern form is Bayesian.
 Combine a likelihood, how well each possible cause would explain the incoming signals,
-with a prior, how probable each cause was to begin with,
-and you get a posterior, the brain's best guess.
-The hollow mask is what happens when the prior is strong and the likelihood is weak.
-Is the brain actually Bayesian?
-The best evidence comes from experiments on combining the senses.
-In 2002, Mark Ernst and Martin Banks had people judge the height of a bar they could both see and feel.
-When the researchers added noise to the visual display, people leaned more on touch,
+with a prior, how probable each cause was to begin with, and you get a posterior,
+best guess. The hollow mask is what happens when the prior is strong and the likelihood is weak.
+Is the brain actually Bayesian? The best evidence comes from experiments on combining the senses.
+In 2002, Mark Ernst and Martin Banks had people judge the height of a bar they could both see
+and feel. When the researchers added noise to the visual display, people leaned more on touch,
 and they weighted the two senses almost exactly as an ideal statistician would,
-in proportion to each one's reliability.
-But there is a long list of cases where people are measurably not optimal.
-In 2018, Dobromir Ranev and Rachel Denison cataloged them in a Target article
-for the journal Behavioral and Brain Sciences,
-and argued that claims of optimality are often flexible enough to fit almost anything.
-Their advice was to stop asking whether the brain is optimal
-start building explicit models of what observers actually do. In that journal, a target article is
-published together with many short commentaries from other researchers and a reply from the authors,
-which is a good way to see how contested even this basic claim is. So is the brain Bayesian or not?
-The fairest answer is that it uses priors and weights evidence by reliability, approximately,
-with systematic shortcuts. Bayesian is a good framework for asking what the brain is computing.
+one's reliability. But there is a long list of cases where people are measurably not optimal.
+In 2018, Dobromir Ranev and Rachel Denison cataloged them in a Target article for the
+journal Behavioral and Brain Sciences and argued that claims of optimality are often flexible
+enough to fit almost anything. Their advice was to stop asking whether the brain is optimal
+and start building explicit models of what observers actually do. In that journal,
+is published together with many short commentaries
+from other researchers and a reply from the authors,
+which is a good way to see how contested
+even this basic claim is.
+So is the brain Bayesian or not?
+The fairest answer is that it uses
+priors and weights evidence by reliability,
+approximately, with systematic shortcuts.
+Bayesian is a good framework
+for asking what the brain is computing.
 It is not a finding that the brain computes it perfectly.
-The second test is the cortex itself. In 1999, Rajesh Rao and Dana Ballard proposed an influential
-model of predictive coding in visual cortex. The visual system is a hierarchy. In their model,
-each level sends predictions down about what the level below should be seeing,
-only the prediction error, the part of the signal that was not predicted. When predictions are good,
-little needs to travel upward. Their model explained puzzling properties of neurons in
+The second test is the cortex itself.
+In 1999, Rajesh Rao and Dana Ballard
+proposed an influential model of predictive coding in visual cortex.
+The visual system is a hierarchy.
+In their model, each level sends predictions down
+about what the level below should be seeing
+and sends up only the prediction error,
+the part of the signal that was not predicted.
+When predictions are good, little needs to travel upward.
+Their model explained puzzling properties of neurons
 visual cortex, such as cells that respond less to a line when it extends beyond the patch they
 monitor, because the extension was predictable from context. That's a compression scheme.
 Video codecs do the same thing. Send keyframes, then only the differences from what you'd predict.
-episode 3's equivalence of prediction and compression, is no accident. How much of what
-comes in actually reaches behavior? In a 2024 paper, Ji-Yu Zhang and Marcus Meister estimated
-that human behavior carries about 10 bits of information per second, while our senses take
-in something like a billion. They called the gap the unbearable slowness of being.
-The authors stress how little anyone understands about that bottleneck,
-but it is at least consistent with a brain that keeps a model of its world
-and passes on mainly what the model failed to anticipate.
-The supporting evidence for predictive coding is real.
-Neural responses shrink when a stimulus repeats,
-and in 2008, Christopher Summerfield and colleagues showed with functional MRI
-that this repetition suppression in a face-processing region
-was stronger when repeats were expected.
-A well-known brainwave, the mismatched negativity,
-appears when a run of identical tones is broken by a deviant one.
-And if you omit a tone from a predictable sequence,
-auditory cortex responds to the silence.
+And the parallel with Episode 3's equivalence of prediction and compression
+is no accident. How much of what comes in actually reaches behavior? In a 2024 paper,
+Marcus Meister, estimated that human behavior carries about 10 bits of information per second,
+while our senses take in something like a billion. They called the gap the unbearable slowness of
+being. The authors stress how little anyone understands about that bottleneck, but it is
+at least consistent with a brain that keeps a model of its world and passes on mainly what the
+model failed to anticipate. The supporting evidence for predictive coding is real. Neural responses
+And in 2008, Christopher Summerfield and colleagues showed with functional MRI that this repetition suppression in a face-processing region was stronger when repeats were expected.
+A well-known brainwave, the mismatched negativity, appears when a run of identical tones is broken by a deviant one.
+And if you omit a tone from a predictable sequence, auditory cortex responds to the silence.
 In predictive coding, attention becomes precision.
-The weight the brain gives to prediction errors from a source,
-depending on how reliable that source is expected to be.
-Now the mess.
-When Dmitry Kalyakovich and Rufin Vogels recorded single neurons
-in the monkey's temporal cortex,
-not depend on how likely the repeat was. Summerfield's own group later called the mismatch
-between the brain scans and the neurons unexplained. And there's a live dispute right now.
-A large preprint led by Jacob Westerberg and Andrei Bastos, recording from Mice and Monkeys,
-reported that most oddball responses in sensory cortex are explained by adaptation,
-neurons simply tiring of repeated input. Responses to violations of a learned sequence
-came late, and in the monkeys, appeared first in prefrontal cortex, which suggests the deep
-prediction errors may be computed higher up rather than at every level. Then, in January 2026,
-another preprint from Jordan Ham's lab found that primary visual cortex in mice does respond to
-sequence-level surprises, learned within fewer than 10 repetitions, and that the effect vanished
-when feedback from a frontal region, the anterior cingulate, was silenced. Both were posted as per
-prints, and they may be measuring somewhat different things. But notice what is being
-argued about. Nobody in this fight doubts that the brain predicts. In 2025, the International
-Brain Laboratory published a brain-wide map of mice making decisions, recorded from more than
-half a million neurons across 279 brain areas. It found the animal's prior expectations encoded
-in at least a fifth to a third of the regions, at every level from early sensory areas,
-including the thalamus, up to motor and frontal cortex. What's in question is the specific
-textbook circuit, in which every level computes errors and passes them up.
+brain gives to prediction errors from a source, depending on how reliable that source is expected
+to be. Now the mess. When Dmitry Kalyakovich and Rufin Vogels recorded single neurons in the
+monkey's temporal cortex, repetition suppression did not depend on how likely the repeat was.
+Summerfield's own group later called the mismatch between the brain scans and the neurons
+unexplained. And there's a live dispute right now. A large preprint led by Jacob Westerberg
+and Andre Bastos, recording from Mice and Monkeys, reported that most oddball responses
+in sensory cortex are explained by adaptation, neurons simply tiring of repeated input.
+Responses to violations of a learned sequence were sparse, came late, and in the monkeys,
+appeared first in prefrontal cortex, which suggests the deep prediction errors may be
+computed higher up rather than at every level. Then, in January 2026, another preprint from
+Jordan Ham's lab found that primary visual cortex in mice does respond to sequence-level surprises,
+learned within fewer than 10 repetitions, and that the effect vanished when feedback from a
+frontal region, the anterior cingulate, was silenced. Both were posted as preprints,
+and they may be measuring somewhat different things. But notice what is being argued about.
+in this fight doubts that the brain predicts. In 2025, the International Brain Laboratory
+published a brain-wide map of mice making decisions, recorded from more than half a
+million neurons across 279 brain areas. It found the animal's prior expectations encoded in at
+least a fifth to a third of the regions, at every level from early sensory areas, including the
+thalamus, up to motor and frontal cortex. What's in question is the specific textbook circuit,
+in which every level computes errors and passes them up.
 The third test is the grandest version of the idea.
 Starting in the mid-2000s, the neuroscientist Carl Fristen proposed the free energy principle.
 Here's the core logic.
 Any system that persists, a cell, an organism, a brain,
 must stay within a limited set of states compatible with its existence.
 A fish must stay in water.
-In information-theoretic terms, it must avoid surprising states.
-But a system cannot measure surprise directly, because that would require knowing the true probability of everything.
-What it can do is minimize a quantity called variational free energy, which is always at least as large as surprise.
+In information theoretic terms, it must avoid surprising states.
+But a system cannot measure surprise directly,
+because that would require knowing the true probability of everything.
+What it can do is minimize a quantity called variational free energy,
+which is always at least as large as surprise.
 Keep free energy low, and you keep surprise low.
-That's the evidence lower bound from variational inference. Free energy is just its negative.
-Exactly the same mathematics.
-Minimizing it does two things at once.
-It makes the system's approximate posterior closer to the true one,
-and it improves how well the system's model fits its data.
-In a variational autoencoder, an encoder network learns to produce that approximate posterior in a single pass.
-Predictive coding settles on it gradually by passing errors back and forth.
-Friston adds two big ideas.
-The first is the Markov blanket, a statistical boundary that separates a system's internal
-states from the world, mediated by sensory states coming in and active states going out.
-The second is active inference.
-An organism can reduce prediction error in two ways, change its predictions to fit the
-world, which is perception, or change the world to fit its predictions, which is action.
-When you reach for a cup, on this view, your brain predicts the sensations of grasping
-act to make that prediction come true. To choose actions, agents score them by a related quantity
-called expected free energy, which combines getting what you prefer with reducing your
-uncertainty. That second part is a principled account of curiosity. There's a classic objection
-called the dark room problem. If organisms minimize surprise, why do not we all sit in a dark, quiet
-room? The standard answer, from a 2012 paper by Friston, Christopher Thornton, and Andy Clark,
-is that surprise is relative to an organism's model of itself.
-A creature that expects to eat, stay warm and explore
-would find a dark room deeply surprising.
+That's the evidence lower bound from variational inference.
+Free energy is just its negative.
+mathematics. Minimizing it does two things at once. It makes the system's approximate posterior
+closer to the true one, and it improves how well the system's model fits its data.
+In a variational autoencoder, an encoder network learns to produce that approximate posterior in a
+single pass. Predictive coding settles on it gradually by passing errors back and forth.
+Friston adds two big ideas. The first is the Markov blanket, a statistical boundary that
+system's internal states from the world, mediated by sensory states coming in and active states
+going out. The second is active inference. An organism can reduce prediction error in two ways,
+change its predictions to fit the world, which is perception, or change the world to fit its
+predictions, which is action. When you reach for a cup, on this view, your brain predicts the
+sensations of grasping it, and your muscles act to make that prediction come true. To choose actions,
+by a related quantity called expected free energy, which combines getting what you prefer
+with reducing your uncertainty. That second part is a principled account of curiosity.
+There's a classic objection called the dark room problem. If organisms minimize surprise,
+why do not we all sit in a dark, quiet room? The standard answer, from a 2012 paper by Friston,
+Christopher Thornton, and Andy Clark, is that surprise is relative to an organism's model of
+that expects to eat, stay warm and explore, would find a dark room deeply surprising.
 The principle has serious critics.
-If minimizing free energy covers perception, action,
-attention and learning all at once,
+If minimizing free energy covers perception, action, attention and learning all at once,
 what observation could ever count against it?
 That's the first criticism, and Friston largely agrees, in a sense.
-He describes it as a mathematical principle,
-like the principle of least action in physics, from which testable process theories,
-such as predictive coding, can be derived. Critics reply that a framework that can describe
-anything explains nothing until you commit to a specific process theory, and the process
-theories are where the evidence lives, and where, as we just saw, the fights are.
-The second is technical. In a 2022 Behavioral and Brain Sciences Target article titled The
-Emperor's New Markov Blankets, Gell Bruinberg and colleagues argued that the field uses Markov
-blankets in two senses. One is a formal tool from statistics, a property of a model. The other is a
-claim about real physical boundaries between organisms and their environments. Sliding between
-them, they argue, makes the framework seem to deliver more than it does. The third is a tension
-with reinforcement learning, which says agents maximize reward. Friston's reply is that rewards
-can be recast as prior preferences. The organism expects to be fed, so being fed is unsurprising.
+He describes it as a mathematical principle, like the principle of least action in physics,
+from which testable process theories such as predictive coding can be derived.
+Critics reply that a framework that can describe anything explains nothing
+until you commit to a specific process theory,
+and the process theories are where the evidence lies,
+and where, as we just saw, the fights are.
+The second is technical.
+In a 2022 Behavioral and Brain Sciences target article
+titled The Emperor's New Markov Blankets,
+Jell Bruinberg and colleagues argued
+that the field uses Markov blankets in two senses.
+One is a formal tool from statistics, a property of a model.
+The other is a claim about real physical boundaries
+between organisms and their environments.
+Sliding between them, they argue,
+makes the framework seem to deliver more than it does.
+The third is a tension with reinforcement learning,
+which says agents maximize reward.
+Friston's reply is that rewards can be recast as prior preferences.
+The organism expects to be fed, so being fed is unsurprising.
 Whether that recasting adds insight or just relabels the problem is still argued about.
-The fourth test is reward, and here the brain offers what may be the clearest machine learning
-algorithm ever found in biology. In the 1990s, Wolfram Schultz recorded dopamine neurons in
-monkeys learning that a cue predicted a squirt of juice. At first, the neurons fired a burst when
-the juice arrived. After learning, the burst moved to the cue, and the juice itself produced
-no response. And if the expected juice failed to arrive, the neurons dipped below baseline at
-exactly the moment it should have come. In 1997, Schultz, Peter Dayen, and Reed Montague pointed
-out that this is precisely the reward prediction error of temporal difference learning, an algorithm
-Richard Sutton had developed for machines. The reward you got, plus the value of where you ended
-up, minus the value you predicted. Once the cue reliably predicts juice, the juice is no longer
-news. The news arrives with the cue, and so does the burst. The same algorithm had powered TD
-Gammon, a backgammon program from the early 90s. The correspondence has deepened. In 2020,
-Will Dabney and colleagues at DeepMind and Harvard found that dopamine neurons encode not
-one expected reward, but a distribution. Some neurons are tuned to be optimistic,
-others pessimistic, and the population as a whole represents the range of possible rewards,
-exactly as in distributional reinforcement learning, which had been invented a few years earlier for AI.
+The fourth test is reward, and here the brain offers
+what may be the clearest machine learning algorithm ever found in biology.
+In the 1990s, Wolfram Schultz recorded dopamine neurons in monkeys' learning
+predicted a squirt of juice. At first, the neurons fired a burst when the juice arrived.
+After learning, the burst moved to the queue, and the juice itself produced no response.
+And if the expected juice failed to arrive, the neurons dipped below baseline at exactly the
+moment it should have come. In 1997, Schultz, Peter Dayen, and Reed Montague pointed out that
+this is precisely the reward prediction error of temporal difference learning, an algorithm Richard
+Sutton had developed for machines. The reward you got, plus the value of where you ended up,
+minus the value you predicted. Once the Q reliably predicts juice, the juice is no longer news.
+The news arrives with the Q, and so does the burst. The same algorithm had powered TDgammon,
+a backgammon program from the early 90s. The correspondence has deepened. In 2020,
+while Dabney and colleagues at DeepMind and Harvard
+found that dopamine neurons encode not one expected reward, but a distribution.
+Some neurons are tuned to be optimistic, others pessimistic,
+and the population as a whole represents the range of possible rewards,
+exactly as in distributional reinforcement learning,
+which had been invented a few years earlier for AI.
 An algorithm first tested on Atari games turned out to fit dopamine recordings in mice.
 That could mean the brain runs it, or just that evolution and engineers found the same good solution.
 Either way, the match keeps growing.
-In 2025, a study in Nature reported that dopamine neurons jointly map when a reward will arrive
-and how big it will be. But even here the slogan has a challenger. In 2022, H. Wee-yung-yung,
-Vijay Nambudiri, and colleagues argued, from experiments in mice, that dopamine release looks
-more like a signal of learned causal associations, worked out by looking backward from rewards,
-than a forward prediction error.
+In 2025, a study in Nature reported that dopamine neurons jointly map when a reward will arrive and how big it will be.
+But even here the slogan has a challenger.
+In 2022, H. Wee-Yung-Yung, Vijay Nambudiri, and colleagues argued, from experiments in mice,
+that dopamine release looks more like a signal of learned causal associations,
+worked out by looking backward from rewards, than a forward prediction error.
 The prediction error account remains the best-supported algorithm in biology,
 and it is still contested at the edges.
-The fifth test is maps.
-In 1948, Edward Tallman argued from experiments with rats in mazes
-that animals build cognitive maps,
+The fifth test is MAPS.
+In 1948, Edward Tallman argued from experiments with rats in mazes that animals build cognitive maps,
 internal models that let them take shortcuts they've never tried.
-The neural evidence arrived in 1971,
-when John O'Keefe and Jonathan Dostrovsky found placed cells in the rat hippocampus,
+The neural evidence arrived in 1971, when John O'Keefe and Jonathan Dostrovsky found placed cells in the rat hippocampus,
 neurons that fire when the animal is in a particular location.
 In 2005, Maybritt and Edvard Moser's lab found grid cells in the nearby entorhinal cortex,
-which fire at many locations arranged in a strikingly regular triangular lattice,
-like coordinate lines laid over the world.
-O'Keefe and the Mosers shared the 2014 Nobel Prize.
-Nearby are head direction cells, which work like a compass,
-and boundary cells, which fire near walls.
-Together they form something close to a navigation system.
-These maps predict.
-During rest and sleep, the hippocampus replays sequences of placed cell activity,
-compressed in time, including paths the animal took and sometimes paths it has not.
-In 2017, Kimberly Stachenfeld, Matthew Botvinik, and Samuel Jerschman
-proposed that the hippocampus encodes each place by where you are likely to go next from it,
-what reinforcement learning calls a successor representation.
-That explains why place fields stretch backward along a habitual route.
-And the maps are not only spatial.
-In 2016, Alexandra Konstantinosku, Jill O'Reilly, and Timothy Behrens
-taught people an abstract space of cartoon birds whose necks and legs varied in length
-and found grid-like brain signals as people mentally moved through that conceptual space.
+fire at many locations arranged in a strikingly regular triangular lattice, like coordinate lines
+laid over the world. O'Keefe and the Mosers shared the 2014 Nobel Prize. Nearby are head direction
+cells, which work like a compass, and boundary cells, which fire near walls. Together they form
+something close to a navigation system. These maps predict. During rest and sleep, the hippocampus
+replay sequences of place cell activity, compressed in time, including paths the animal took and
+sometimes paths it has not. In 2017, Kimberly Stachenfeld, Matthew Botvinik, and Samuel
+Jerschman proposed that the hippocampus encodes each place by where you are likely to go next
+from it, what reinforcement learning calls a successor representation. That explains why
+place fields stretch backward along a habitual route. And the maps are not only spatial.
+In 2016, Alexandra Konstantiniscou, Jill O'Reilly, and Timothy Behrens taught people an abstract space of cartoon birds whose necks and legs varied in length and found grid-like brain signals as people mentally moved through that conceptual space.
 The brain seems to reuse its navigation machinery to organize knowledge in general.
 James Whittington, Behrens, and colleagues then built a model called the Talman-Eichenbaum machine
 that learns to separate the structure of an environment from its sensory contents.
 So the same structural knowledge carries over to new places,
 and its units developed place-like and grid-like responses.
-In 2022, Whittington, Joseph Warren, and Behrens showed that transformers with a particular kind
-of position encoding are closely related, mathematically, to that model, and reproduce
-the same cell types. A model of the hippocampus and the architecture of modern AI turned out to
-be cousins. So what survives the five tests? Perception combines priors with evidence,
-roughly in proportion to reliability.
-The cortex is full of expectation signals
+In 2022, Whittington, Joseph Warren, and Behrens showed that transformers
+with a particular kind of position encoding are closely related, mathematically, to that model,
+and reproduce the same cell types. A model of the hippocampus and the architecture of modern AI
+turned out to be cousins. So what survives the five tests? Perception combines priors with evidence,
+roughly in proportion to reliability. The cortex is full of expectation signals,
 even if the textbook circuit is under dispute.
 The free energy principle is better described
 as a powerful mathematical lens than as a testable theory.
 Reward learning is the clearest case of a machine algorithm
 running in biology.
-And the hippocampus builds predictive maps
-and one leading model of them
-turns out to be a close mathematical cousin of the transformer.
-In every case, the brain is learning a model of its world and using it to anticipate what comes next.
-And all of it could happen without anyone home.
+And the hippocampus builds predictive maps,
+and one leading model of them turns out to be
+a close mathematical cousin of the transformer.
+In every case, the brain is learning a model of its world
+and using it to anticipate what comes next.
+and all of it could happen without anyone home.
 Nothing in this episode needed the word experience.
 That's the point to hold on to.
 Some theories we'll meet in episode 11 argue that experience is made of exactly this kind of prediction,

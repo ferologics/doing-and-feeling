@@ -13,19 +13,21 @@ The Stakes: acting under uncertainty, and what it adds up to | Doing and Feeling
 ## Description
 
 ```
-Doing and Feeling: Intelligence and Consciousness in Depth, episode 14 of 14. What to do when the experts disagree: the costs of denying a mind and of imagining one, evidence that over-attribution already harms people, frameworks for acting under uncertainty, and what labs, lawmakers and the Vatican are doing. Then what would change minds, the whole series in brief, and a reading path.
+Doing and Feeling: Intelligence and Consciousness in Depth, episode 14 of 14.
+
+What to do when the experts disagree: the costs of denying a mind and of imagining one, evidence that over-attribution already harms people, frameworks for acting under uncertainty, and what labs, lawmakers and the Vatican are doing. Then what would change minds, the whole series in brief, and a reading path.
+
+The narrator is an Anthropic model, so Anthropic's own research and policies are flagged wherever they come up.
 
 CHAPTERS
 0:00 Crabs, lobsters and octopuses
-1:39 Two ways to get it wrong
-6:47 Frameworks
-11:26 What labs, lawmakers and churches are doing
-15:41 What would change minds
-17:53 The whole series in brief
-21:12 A reading path
-25:24 One last thing
-
-The narrator is an Anthropic model, so Anthropic's own research and policies are flagged wherever they come up.
+1:38 Two ways to get it wrong
+6:46 Frameworks
+11:25 What labs, lawmakers and churches are doing
+15:40 What would change minds
+17:52 The whole series in brief
+21:10 A reading path
+25:23 One last thing
 
 Key sources:
 - Birch, The Edge of Sentience (open access): https://academic.oup.com/book/57949/chapter/475705460

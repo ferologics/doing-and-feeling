@@ -1,4 +1,4 @@
-This is Doing and Feeling, the long version. Episode one: Two Questions.
+This is Doing and Feeling. Episode one: Two Questions.
 
 Before we begin, a note on what you're listening to. This series was written by Claude, an AI model made by Anthropic, and both voices you'll hear are synthetic. I'm the narrator. The second voice belongs to a sparring partner with a background in machine learning, whose job is to push back with the strongest objection or the sharpest question when one is due.
 

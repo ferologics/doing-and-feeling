@@ -1,1216 +1,1200 @@
 1
-00:00:00,000 --> 00:00:14,700
-This is Doing and Feeling, the long version. Part 2, Feeling. Episode 7, The Hard Problem. In 1714, Gottfried Leibniz proposed a thought experiment that sits underneath every argument in this part of the series.
+00:00:00,000 --> 00:00:13,600
+This is Doing and Feeling. Part 2, Feeling. Episode 7, The Hard Problem. In 1714, Gottfried Leibniz proposed a thought experiment that sits underneath every argument in this part of the series.
 
 2
-00:00:15,220 --> 00:00:27,740
+00:00:14,120 --> 00:00:26,620
 Suppose, he said, there were a machine whose structure made it think, feel, and perceive. Now imagine it enlarged, keeping all its proportions, until you could walk inside it the way you walk into a mill.
 
 3
-00:00:28,440 --> 00:00:31,820
+00:00:27,340 --> 00:00:30,700
 Inside, you would find only parts pushing against other parts.
 
 4
-00:00:32,480 --> 00:00:35,120
+00:00:31,380 --> 00:00:34,000
 Nowhere would you find anything that explains a perception.
 
 5
-00:00:35,860 --> 00:00:40,800
+00:00:34,760 --> 00:00:39,680
 Leibniz concluded that perception must belong to something simple, not to mechanism.
 
 6
-00:00:41,240 --> 00:00:45,360
+00:00:40,120 --> 00:00:44,260
 Swap the mill for a modern neural network, and you have the contemporary version.
 
 7
-00:00:45,780 --> 00:00:52,200
+00:00:44,740 --> 00:00:51,080
 Open up a large language model, and you find matrix multiplications and nonlinearities all the way down.
 
 8
-00:00:52,710 --> 00:00:54,600
+00:00:51,590 --> 00:00:53,480
 You can trace every number it computes,
 
 9
-00:00:54,640 --> 00:00:58,520
+00:00:53,540 --> 00:00:57,400
 and nowhere in the trace is there a place where things start to feel like something.
 
 10
-00:00:59,060 --> 00:01:01,700
+00:00:57,940 --> 00:01:00,580
 Open up a brain, and the story is the same,
 
 11
-00:01:01,900 --> 00:01:05,380
+00:01:00,780 --> 00:01:04,280
 with ion channels and neurotransmitters instead of matrices.
 
 12
-00:01:05,940 --> 00:01:10,120
+00:01:04,820 --> 00:01:09,020
 Notice the shape of the argument, because it's this whole episode in miniature.
 
 13
-00:01:10,480 --> 00:01:16,340
+00:01:09,480 --> 00:01:15,240
 It moves from I cannot see experience in the mechanism to experience is not in the mechanism.
 
 14
-00:01:16,680 --> 00:01:20,160
+00:01:15,560 --> 00:01:19,080
 The question for this episode is whether that move is valid
 
 15
-00:01:20,160 --> 00:01:26,600
-and what you're committed to if you say yes or no. Here's the route. A short history of how this
+00:01:21,080 --> 00:01:27,160
+yes or no. Here's the route. A short history of how this became a respectable problem.
 
 16
-00:01:26,600 --> 00:01:32,540
-became a respectable problem. Then the three arguments that define the modern debate. Thomas
+00:01:27,380 --> 00:01:33,580
+Then the three arguments that define the modern debate. Thomas Nagel's bat, Joseph Levine's
 
 17
-00:01:32,540 --> 00:01:39,040
-Nagel's bat, Joseph Levine's explanatory gap, and David Chalmers's hard problem, including the
+00:01:33,580 --> 00:01:39,580
+explanatory gap, and David Chalmers's hard problem, including the formal conceivability argument
 
 18
-00:01:39,040 --> 00:01:45,000
-formal conceivability argument and the full map of responses to it. Then Frank Jackson's Mary and
+00:01:39,580 --> 00:01:45,660
+and the full map of responses to it. Then Frank Jackson's Mary and the four serious replies to her.
 
 19
-00:01:45,000 --> 00:01:49,800
-the four serious replies to her. Then the distinction between access and phenomenal
+00:01:45,840 --> 00:01:50,600
+Then the distinction between access and phenomenal consciousness, and an experiment
 
 20
-00:01:49,800 --> 00:01:57,020
-consciousness, and an experiment from 1960 that still divides the field. Then Wittgenstein. And
+00:01:51,080 --> 00:01:57,400
+1960 that still divides the field. Then Wittgenstein. And finally, a first look at the
 
 21
-00:01:57,020 --> 00:02:01,400
-finally, a first look at the meta-problem, which the next episode puts to work.
+00:01:57,400 --> 00:02:03,700
+metaproblem, which the next episode puts to work. The problem has been noticed many times.
 
 22
-00:02:02,360 --> 00:02:09,340
-The problem has been noticed many times. In the 1860s, Thomas Huxley wrote that the arrival of a
+00:02:03,940 --> 00:02:10,440
+In the 1860s, Thomas Huxley wrote that the arrival of a state of consciousness from irritated nerve
 
 23
-00:02:09,340 --> 00:02:15,280
-state of consciousness from irritated nerve tissue was as unaccountable as the genie appearing when
+00:02:10,440 --> 00:02:15,500
+tissue was as unaccountable as the genie appearing when Aladdin rubbed his lamp.
 
 24
-00:02:15,280 --> 00:02:23,000
-Aladdin rubbed his lamp. In 1872, the physiologist Emel du Biwa-Raymond gave a famous lecture on the
+00:02:15,500 --> 00:02:22,760
+In 1872, the physiologist Emel du Biwa-Raymond gave a famous lecture on the limits of natural
 
 25
-00:02:23,000 --> 00:02:28,980
-limits of natural science, and consciousness was on his list. His verdict on how matter produces
+00:02:22,760 --> 00:02:28,420
+science, and consciousness was on his list. His verdict on how matter produces sensation
 
 26
-00:02:28,980 --> 00:02:35,700
-sensation was a single Latin word, ignorabimus, we shall never know. Then psychology spent much
+00:02:28,420 --> 00:02:34,800
+was a single Latin word, ignorabimus, we shall never know. Then psychology spent much of the
 
 27
-00:02:35,700 --> 00:02:40,900
-of the 20th century, avoiding the subject. Behaviorism said that science should study
+00:02:34,800 --> 00:02:40,320
+20th century avoiding the subject. Behaviorism said that science should study behavior,
 
 28
-00:02:40,900 --> 00:02:47,840
-behavior, not interstates. In 1949, the philosopher Gilbert Ryle mocked the picture of a ghost in the
+00:02:40,320 --> 00:02:46,480
+not interstates. In 1949, the philosopher Gilbert Ryle mocked the picture of a ghost
 
 29
-00:02:47,840 --> 00:02:53,460
-machine as a category mistake, like a visitor who is shown the colleges, the libraries, and the
+00:02:46,480 --> 00:02:50,740
+in the machine as a category mistake, like a visitor who is shown the colleges,
 
 30
-00:02:53,460 --> 00:02:59,540
-laboratories, and then asks where the university is. The cognitive revolution brought back internal
+00:02:51,180 --> 00:02:55,480
+the libraries, and the laboratories, and then asks where the university is.
 
 31
-00:02:59,540 --> 00:03:05,040
-processing, but as information processing. Experience itself stayed off the agenda.
+00:02:55,640 --> 00:03:01,060
+The cognitive revolution brought back internal processing, but as information processing.
 
 32
-00:03:05,340 --> 00:03:12,760
-The modern revival came in the 1990s. In 1994, Francis Crick, co-discoverer of the structure
+00:03:01,600 --> 00:03:07,100
+Experience itself stayed off the agenda. The modern revival came in the 1990s.
 
 33
-00:03:12,760 --> 00:03:19,240
-of DNA, published The Astonishing Hypothesis, arguing that your joys and sorrows, your memories,
+00:03:07,100 --> 00:03:23,680
+In 1994, Francis Crick, co-discoverer of the structure of DNA, published The Astonishing Hypothesis, arguing that your joys and sorrows, your memories, your sense of self and free will, come down to the activity of enormous numbers of neurons.
 
 34
-00:03:19,600 --> 00:03:24,800
-your sense of self and free will, come down to the activity of enormous numbers of neurons.
-
-35
-00:03:24,800 --> 00:03:34,120
+00:03:23,680 --> 00:03:33,020
 That same year, at a conference in Tucson, a young Australian philosopher named David Chalmers gave a talk that named the problem in a way that stuck.
 
-36
-00:03:34,540 --> 00:03:39,740
+35
+00:03:33,420 --> 00:03:38,600
 Within a few years, there were dedicated journals, conferences, and a research program.
 
-37
-00:03:39,820 --> 00:03:43,040
+36
+00:03:39,020 --> 00:03:41,940
 But the argument everyone reaches for first is older.
 
-38
-00:03:44,200 --> 00:03:51,520
+37
+00:03:43,080 --> 00:03:50,400
 Thomas Nagel's 1974 essay, What Is It Like to Be a Bat?, is 16 pages long and makes four moves.
 
-39
-00:03:51,920 --> 00:03:53,980
-The fourth is the one people forget.
+38
+00:03:50,560 --> 00:03:52,840
+The fourth is The One People Forget.
 
-40
-00:03:54,800 --> 00:04:00,320
+39
+00:03:53,680 --> 00:03:59,220
 First, a definition. A creature is conscious, Nagel says, when there is something it is like
 
-41
-00:04:00,320 --> 00:04:05,940
+40
+00:03:59,220 --> 00:04:04,820
 to be that creature, for the creature itself. That phrase, something it is like, became the
 
-42
-00:04:05,940 --> 00:04:11,120
+41
+00:04:04,820 --> 00:04:10,000
 standard way of picking out what philosophers call phenomenal consciousness. Second, that
 
-43
-00:04:11,120 --> 00:04:16,420
+42
+00:04:10,000 --> 00:04:15,300
 subjective character is tied to a point of view. Bats perceive the world by echolocation,
 
-44
-00:04:16,760 --> 00:04:22,840
+43
+00:04:15,660 --> 00:04:21,740
 they emit high-pitched calls and build a picture from the echoes. We can study sonar exhaustively,
 
-45
-00:04:24,800 --> 00:04:30,720
+44
+00:04:23,680 --> 00:04:29,620
 that way is fully accessible only from a bat's kind of point of view. Imagining yourself hanging
 
-46
-00:04:30,720 --> 00:04:36,060
+45
+00:04:29,620 --> 00:04:34,980
 upside down with webbed arms does not help. That tells you what it would be like for you to behave
 
-47
-00:04:36,060 --> 00:04:42,520
+46
+00:04:34,980 --> 00:04:41,420
 like a bat, not what it is like for a bat to be a bat. Third, and this is the key step, scientific
 
-48
-00:04:42,520 --> 00:04:47,860
+47
+00:04:41,420 --> 00:04:46,740
 reduction normally works by moving away from particular points of view toward more objective
 
-49
-00:04:47,860 --> 00:04:53,780
+48
+00:04:46,740 --> 00:04:52,720
 description. We understood lightning by setting aside how it looks to human eyes and describing
 
+49
+00:04:53,500 --> 00:04:58,900
+discharge. But if the thing you're trying to explain is the point of view itself, then moving
+
 50
-00:04:54,960 --> 00:05:00,580
-charge. But if the thing you're trying to explain is the point of view itself, then moving away from
+00:04:58,900 --> 00:05:04,440
+away from points of view moves you away from the very thing you wanted to explain. Fourth, the
 
 51
-00:05:00,580 --> 00:05:06,060
-points of view moves you away from the very thing you wanted to explain. Fourth, the conclusion.
+00:05:04,440 --> 00:05:10,920
+conclusion. Nagel did not say physicalism is false. He said that we currently have no idea how it could
 
 52
-00:05:06,740 --> 00:05:12,160
-Nagel did not say physicalism is false. He said that we currently have no idea how it could be
+00:05:10,920 --> 00:05:17,080
+be true. His analogy was the claim that matter is energy, put forward by a philosopher in ancient
 
 53
-00:05:12,160 --> 00:05:18,180
-true. His analogy was the claim that matter is energy, put forward by a philosopher in ancient
-
-54
-00:05:18,180 --> 00:05:24,420
+00:05:17,080 --> 00:05:23,300
 Greece. It might have been true, but no one then had the concepts to see how. Nagel even proposed
 
-55
-00:05:24,800 --> 00:05:30,760
+54
+00:05:23,680 --> 00:05:29,660
 program he called objective phenomenology, a way of describing the structure of experiences
 
-56
-00:05:30,760 --> 00:05:36,220
+55
+00:05:29,660 --> 00:05:35,100
 that does not require having them. That program is still mostly a promissory note,
 
-57
-00:05:36,360 --> 00:05:42,180
+56
+00:05:35,240 --> 00:05:41,080
 but it's worth remembering that the most famous anti-reductionist essay of the 20th century ends
 
-58
-00:05:42,180 --> 00:05:46,260
+57
+00:05:41,080 --> 00:05:45,160
 by asking for better science, not by declaring it impossible.
 
-59
-00:05:47,460 --> 00:05:51,780
+58
+00:05:46,360 --> 00:05:50,660
 Joseph Levine sharpened the point in 1983 with a phrase that stuck,
 
-60
-00:05:51,780 --> 00:05:57,920
+59
+00:05:50,660 --> 00:05:56,840
 the explanatory gap. Compare two identity claims. Heat is the motion of molecules,
 
-61
-00:05:58,400 --> 00:06:04,280
+60
+00:05:57,300 --> 00:06:03,180
 and pain is the firing of sea fibers, which, by the way, is a philosopher's toy example
 
-62
-00:06:04,280 --> 00:06:09,260
+61
+00:06:03,180 --> 00:06:08,160
 rather than real neuroscience. In the heat case, once you understand molecular motion,
 
-63
-00:06:09,560 --> 00:06:14,880
+62
+00:06:08,460 --> 00:06:13,760
 nothing is left over. Molecular motion does everything heat does. It raises thermometers,
 
-64
-00:06:15,200 --> 00:06:20,940
+63
+00:06:14,100 --> 00:06:19,820
 melts ice, burns your hand. There's no residual question. In the pain case, even if the identity
 
-65
-00:06:21,780 --> 00:06:26,500
+64
+00:06:20,660 --> 00:06:25,400
 could still ask, why does that firing feel like this, rather than like something else or like
 
-66
-00:06:26,500 --> 00:06:32,400
+65
+00:06:25,400 --> 00:06:31,300
 nothing at all? The identity might hold, but it does not explain. Levine's point was epistemic,
 
-67
-00:06:32,800 --> 00:06:38,300
+66
+00:06:31,660 --> 00:06:37,200
 not metaphysical. He was not claiming that pain is non-physical. He was claiming that our
 
-68
-00:06:38,300 --> 00:06:44,100
+67
+00:06:37,200 --> 00:06:43,000
 explanations leave a gap that our explanations of heat do not. Whether that gap reflects something
 
-69
-00:06:44,100 --> 00:06:49,580
+68
+00:06:43,000 --> 00:06:48,480
 about the world or only about the limits of our concepts is what the rest of the debate is about.
 
-70
-00:06:49,580 --> 00:06:53,820
+69
+00:06:48,480 --> 00:06:52,700
 Heat had a gap, too, until statistical mechanics closed it.
 
-71
-00:06:54,120 --> 00:06:56,220
+70
+00:06:52,980 --> 00:06:55,100
 Why think this one is different in kind?
 
-72
-00:06:56,640 --> 00:07:00,560
-That's the hope of a position we'll meet shortly, Type-C physicalism.
+71
+00:06:55,580 --> 00:06:59,440
+That's the hope of a position we'll meet shortly, Type C physicalism.
 
-73
-00:07:00,780 --> 00:07:03,040
+72
+00:06:59,660 --> 00:07:01,920
 The worry is about how the heat gap closed.
 
-74
-00:07:03,580 --> 00:07:07,340
+73
+00:07:02,500 --> 00:07:06,240
 Statistical mechanics showed that molecular motion does everything heat does.
 
-75
-00:07:07,580 --> 00:07:11,700
+74
+00:07:06,480 --> 00:07:10,600
 It explained heat's functions, and for heat there was nothing more to explain.
 
-76
-00:07:12,040 --> 00:07:15,160
+75
+00:07:10,940 --> 00:07:14,060
 If experience is something over and above its functions,
 
-77
-00:07:15,440 --> 00:07:18,940
+76
+00:07:14,300 --> 00:07:17,820
 a story about functions cannot close the gap the same way.
 
-78
-00:07:19,580 --> 00:07:23,020
+77
+00:07:18,480 --> 00:07:21,900
 Whether it is something more is exactly what Chalmers' argument is about.
 
-79
-00:07:24,000 --> 00:07:25,800
+78
+00:07:22,920 --> 00:07:24,680
 Which brings us to Chalmers.
 
-80
-00:07:26,020 --> 00:07:30,740
+79
+00:07:24,920 --> 00:07:29,640
 In his 1995 paper, Facing Up to the Problem of Consciousness,
 
-81
-00:07:30,900 --> 00:07:33,960
+80
+00:07:29,840 --> 00:07:32,860
 and his 1996 book, The Conscious Mind,
 
-82
-00:07:34,300 --> 00:07:38,020
+81
+00:07:33,160 --> 00:07:36,900
 he separated the easy problems of consciousness from the hard problem.
 
-83
-00:07:38,260 --> 00:07:40,940
+82
+00:07:37,160 --> 00:07:39,840
 The easy problems are about explaining functions,
 
-84
-00:07:41,320 --> 00:07:44,440
+83
+00:07:40,180 --> 00:07:43,320
 how we discriminate stimuli, integrate information,
 
+84
+00:07:43,780 --> 00:07:46,260
+report our mental states, focus attention,
+
 85
-00:07:44,860 --> 00:07:49,120
-report our mental states, focus attention, deliberately control behavior,
+00:07:46,260 --> 00:07:50,000
+deliberately control behavior, and how waking differs from sleep.
 
 86
-00:07:49,580 --> 00:07:55,280
-how waking differs from sleep. They're easy only in a special sense. They may take centuries to
+00:07:50,320 --> 00:07:52,540
+They're easy only in a special sense.
 
 87
-00:07:55,280 --> 00:08:00,160
-solve, but we know what kind of thing an answer is, a mechanism that performs the function.
+00:07:52,700 --> 00:07:56,720
+They may take centuries to solve, but we know what kind of thing an answer is,
 
 88
-00:08:00,600 --> 00:08:05,420
-The hard problem is why the performance of those functions is accompanied by experience.
+00:07:56,720 --> 00:07:59,040
+a mechanism that performs the function.
 
 89
-00:08:06,000 --> 00:08:11,320
-Chalmers' claim is structural. Once you've explained every function, it still seems a
+00:07:59,360 --> 00:08:04,300
+The hard problem is why the performance of those functions is accompanied by experience.
 
 90
-00:08:11,320 --> 00:08:16,280
-further question why any of it is felt. Function does not appear to entail feeling.
+00:08:04,900 --> 00:08:06,560
+Chalmers' claim is structural.
 
 91
-00:08:16,280 --> 00:08:19,600
-That sounds like an argument from incredulity.
+00:08:07,000 --> 00:08:12,420
+Once you've explained every function, it still seems a further question why any of it is felt.
 
 92
-00:08:19,920 --> 00:08:25,700
-I cannot see how the code produces the behavior, so the behavior must come from somewhere else.
+00:08:12,880 --> 00:08:15,180
+Function does not appear to entail feeling.
 
 93
-00:08:25,900 --> 00:08:30,800
-If a junior engineer said that about a bug, I'd send them back to the debugger.
-
-94
-00:08:31,020 --> 00:08:33,800
+00:08:29,480 --> 00:08:32,680
 And if that were the whole argument, you'd be right to.
 
-95
-00:08:34,020 --> 00:08:37,780
+94
+00:08:32,940 --> 00:08:36,660
 So Chalmers made it explicit, and it's worth going through slowly.
 
-96
-00:08:38,120 --> 00:08:40,360
+95
+00:08:37,000 --> 00:08:39,260
 This is the conceivability argument.
 
-97
-00:08:40,820 --> 00:08:43,560
+96
+00:08:39,760 --> 00:08:42,440
 Premise 1. A zombie world is conceivable.
 
-98
-00:08:44,080 --> 00:08:50,200
+97
+00:08:42,960 --> 00:08:49,080
 Picture a world physically identical to ours, down to the last particle, in which nobody experiences anything.
 
-99
-00:08:50,640 --> 00:08:57,140
+98
+00:08:49,540 --> 00:08:56,040
 Your zombie twin talks about the redness of sunsets and the pain of stubbed toes, but there's nothing it's like to be it.
 
-100
-00:08:57,440 --> 00:09:03,880
+99
+00:08:56,260 --> 00:09:02,760
 Not conceivable in a lazy sense, but ideally conceivable, surviving any amount of careful reflection.
 
-101
-00:09:04,400 --> 00:09:09,400
+100
+00:09:03,240 --> 00:09:08,300
 Premise 2. If something is ideally conceivable, then it's metaphysically possible.
 
-102
-00:09:10,060 --> 00:09:10,700
+101
+00:09:08,940 --> 00:09:09,600
 Premise 3.
 
-103
-00:09:11,000 --> 00:09:12,820
+102
+00:09:10,000 --> 00:09:11,720
 If a zombie world is possible,
 
-104
-00:09:13,100 --> 00:09:16,700
+103
+00:09:11,980 --> 00:09:15,540
 then the physical facts do not necessitate the facts about experience,
 
-105
-00:09:16,880 --> 00:09:18,480
+104
+00:09:15,780 --> 00:09:17,360
 and physicalism is false.
 
-106
-00:09:19,060 --> 00:09:19,640
+105
+00:09:17,940 --> 00:09:18,520
 Conclusion.
 
-107
-00:09:19,980 --> 00:09:21,120
+106
+00:09:18,860 --> 00:09:20,020
 Physicalism is false.
 
-108
-00:09:21,500 --> 00:09:22,920
+107
+00:09:20,320 --> 00:09:21,820
 The argument is valid,
 
+108
+00:09:22,020 --> 00:09:24,440
+so every response has to reject a premise.
+
 109
-00:09:23,100 --> 00:09:25,520
-so every response has to reject a premise,
+00:09:24,740 --> 00:09:29,180
+And Chalmers himself drew the map of responses in a 2003 paper
 
 110
-00:09:25,760 --> 00:09:30,300
-and Chalmers himself drew the map of responses in a 2003 paper
-
-111
-00:09:30,300 --> 00:09:32,320
+00:09:29,180 --> 00:09:31,220
 that sorts positions by letter.
 
-112
-00:09:32,680 --> 00:09:36,100
+111
+00:09:31,540 --> 00:09:35,000
 It's the most useful map in the field, so here it is.
 
-113
-00:09:36,560 --> 00:09:38,700
+112
+00:09:35,420 --> 00:09:37,580
 Type of physicalists deny premise 1.
 
-114
-00:09:39,400 --> 00:09:41,560
+113
+00:09:38,300 --> 00:09:40,460
 Daniel Dennett and the illusionists live here.
 
-115
-00:09:42,120 --> 00:09:44,400
+114
+00:09:41,020 --> 00:09:43,280
 Zombies only seem conceivable, they say,
 
-116
-00:09:44,700 --> 00:09:47,780
+115
+00:09:43,500 --> 00:09:46,660
 because we have not really imagined everything we're stipulating.
 
-117
-00:09:48,180 --> 00:09:50,420
+116
+00:09:47,080 --> 00:09:49,300
 Dennett's comparison is vitalism.
 
-118
-00:09:50,840 --> 00:09:54,460
+117
+00:09:49,720 --> 00:09:53,320
 Picture someone who, after every function of life has been explained,
 
-119
-00:09:54,960 --> 00:09:58,000
+118
+00:09:53,840 --> 00:09:56,880
 still asks why all that is accompanied by life itself.
 
-120
-00:09:58,220 --> 00:10:02,620
+119
+00:09:57,120 --> 00:10:01,520
 The question sounds deep until you realize that being alive just is metabolism,
 
-121
-00:10:03,160 --> 00:10:05,300
+120
+00:10:02,040 --> 00:10:04,200
 growth, reproduction, and the rest.
 
-122
-00:10:05,720 --> 00:10:08,600
+121
+00:10:04,700 --> 00:10:07,480
 Once those are explained, nothing is left over.
 
-123
-00:10:09,400 --> 00:10:14,900
+122
+00:10:08,300 --> 00:10:13,800
 this view, experience is the same. Explain every function and there's no further ingredient,
 
-124
-00:10:14,900 --> 00:10:20,260
+123
+00:10:14,080 --> 00:10:19,160
 and zombies seem conceivable only because we never really imagine all the functions at once.
 
-125
-00:10:20,680 --> 00:10:27,080
+124
+00:10:19,560 --> 00:10:25,980
 Type B physicalists accept premise 1 but deny premise 2. Brian Lohr, David Papineau,
 
-126
-00:10:27,220 --> 00:10:33,200
+125
+00:10:26,100 --> 00:10:32,100
 and Ned Block are among them. Their model is water. Before modern chemistry, it seemed perfectly
 
-127
-00:10:33,200 --> 00:10:38,880
+126
+00:10:32,100 --> 00:10:37,760
 conceivable that water was something other than H2O. But Saul Kripke showed that identity statements
 
+127
+00:10:52,960 --> 00:10:55,760
+That sounds like the obvious answer.
+
 128
-00:10:39,400 --> 00:10:45,620
-water is H2O, if true, are necessarily true, even though we discover them empirically.
+00:10:56,500 --> 00:11:00,200
+Conceivability is a fact about our concepts, not about the world.
 
 129
-00:10:45,840 --> 00:10:51,860
-So conceivability can mislead. Maybe pain is identical to some brain process necessarily,
+00:11:00,500 --> 00:11:03,680
+So what stops type B physicalism from simply winning?
 
 130
-00:10:52,240 --> 00:10:56,880
-even though we can conceive otherwise. That sounds like the obvious answer.
+00:11:04,200 --> 00:11:07,200
+Partly Kripke himself, which is a lovely twist.
 
 131
-00:10:57,600 --> 00:11:03,120
-Conceivability is a fact about our concepts, not about the world. So what stops type B
+00:11:08,300 --> 00:11:14,320
+and necessity, he argued that pain is not like water. With water, we can explain away the feeling
 
 132
-00:11:03,120 --> 00:11:09,680
-physicalism from simply winning. Partly Kripke himself, which is a lovely twist. In naming and
+00:11:14,320 --> 00:11:20,460
+of contingency. When we seem to imagine water that is not H2O, what we're really imagining is
 
 133
-00:11:09,680 --> 00:11:15,580
-necessity, he argued that pain is not like water. With water, we can explain away the feeling of
+00:11:20,460 --> 00:11:26,800
+some watery-looking stuff that is not H2O, fool's water, so to speak. With pain, the trick fails.
 
 134
-00:11:15,580 --> 00:11:21,760
-contingency. When we seem to imagine water that is not H2O, what we're really imagining is some
+00:11:27,200 --> 00:11:32,820
+Anything that feels like pain simply is pain. There's no gap between how pain appears and what
 
 135
-00:11:21,760 --> 00:11:28,760
-watery-looking stuff that is not H2O fools water, so to speak. With pain, the trick fails. Anything
+00:11:32,820 --> 00:11:38,620
+it is, so you cannot say you merely imagined something that seemed like pain. Kripke used
 
 136
-00:11:28,760 --> 00:11:34,340
-that feels like pain simply is pain. There's no gap between how pain appears and what it is,
+00:11:38,620 --> 00:11:43,060
+this against identity theories, and type B physicalists have been working around it ever
 
 137
-00:11:34,480 --> 00:11:40,300
-so you cannot say you merely imagined something that seemed like pain. Kripke used this against
+00:11:43,060 --> 00:11:50,100
+since. Chalmers added a formal tool, two-dimensional semantics, to say exactly when conceivability does
 
 138
-00:11:40,300 --> 00:11:45,920
-identity theories, and type B physicalists have been working around it ever since. Chalmers added
+00:11:50,100 --> 00:11:56,200
+entail possibility. Very roughly, it separates what a word picks out in the actual world from
 
 139
-00:11:45,920 --> 00:11:52,340
-a formal tool, two-dimensional semantics, to say exactly when conceivability does entail possibility.
+00:11:56,200 --> 00:12:01,900
+the way it picks things out. Type B physicalists reject the tool, and the dispute continues in
 
 140
-00:11:52,820 --> 00:11:58,260
-Very roughly, it separates what a word picks out in the actual world from the way it picks things
+00:12:03,300 --> 00:12:09,340
+Type C physicalism says the gap is real now, but will close once we have concepts we do not yet
 
 141
-00:11:59,120 --> 00:12:03,920
-Type B physicalists reject the tool, and the dispute continues in technical journals.
+00:12:09,340 --> 00:12:14,300
+possess. Chalmers argues that under pressure it collapses into one of the other letters,
 
 142
-00:12:04,540 --> 00:12:10,780
-Type C physicalism says the gap is real now, but will close once we have concepts we do not yet possess.
+00:12:14,640 --> 00:12:21,340
+physicalist or not. Then come the non-physicalist letters. Type D is interactionist dualism.
 
 143
-00:12:11,580 --> 00:12:17,100
-Chalmers argues that under pressure it collapses into one of the other letters, physicalist or not.
+00:12:21,620 --> 00:12:28,280
+Experience is non-physical and pushes matter around. Type E is epiphenomenalism. Experience
 
 144
-00:12:17,460 --> 00:12:19,620
-Then come the non-physicalist letters.
+00:12:28,280 --> 00:12:34,900
+is non-physical and does nothing at all. And typef is Russellian monism, the family that includes
 
 145
-00:12:20,000 --> 00:12:22,440
-Type D is interactionist dualism.
+00:12:34,900 --> 00:12:40,620
+many forms of panpsychism, on which experience is the hidden intrinsic nature of what physics
 
 146
-00:12:22,680 --> 00:12:25,920
-Experience is non-physical and pushes matter around.
+00:12:40,620 --> 00:12:47,080
+describes only from the outside. Keep these six letters in mind. Typef gets the whole of the next
 
 147
-00:12:26,400 --> 00:12:28,400
-Type E is epiphenomenalism.
+00:12:47,080 --> 00:12:54,280
+episode, and the rest are the skeleton of episode 9. Frank Jackson's knowledge argument from 1982
 
 148
-00:12:28,760 --> 00:12:31,900
-Experience is non-physical and does nothing at all.
+00:12:54,280 --> 00:12:59,860
+approaches the same territory from another direction. Mary is a brilliant scientist who
 
 149
-00:12:32,120 --> 00:12:37,600
-And typef is Russellian monism, the family that includes many forms of panpsychism,
+00:12:59,860 --> 00:13:05,000
+knows every physical fact about color vision, the wavelengths, the retinal cones, every neural
 
 150
-00:12:37,760 --> 00:12:43,520
-on which experience is the hidden intrinsic nature of what physics describes only from the outside.
+00:13:05,000 --> 00:13:10,180
+pathway. But she has lived her whole life in a black and white room. One day she walks out and
 
 151
-00:12:44,000 --> 00:12:45,920
-Keep these six letters in mind.
+00:13:10,180 --> 00:13:15,680
+sees a ripe tomato. Does she learn something new? If she does, then knowing all the physical facts
 
 152
-00:12:46,620 --> 00:12:51,520
-Typa gets the whole of the next episode, and the rest are the skeleton of episode 9.
+00:13:15,680 --> 00:13:20,560
+was not knowing all the facts. There are four main replies, and they're worth having straight.
 
 153
-00:12:52,660 --> 00:12:58,460
-Frank Jackson's knowledge argument from 1982 approaches the same territory from another direction.
+00:13:20,560 --> 00:13:24,780
+The Ability Hypothesis from David Lewis and Lawrence Nemiro
 
 154
-00:12:58,760 --> 00:13:03,160
-Mary is a brilliant scientist who knows every physical fact about color vision,
-
-155
-00:13:03,400 --> 00:13:06,540
-the wavelengths, the retinal cones, every neural pathway.
-
-156
-00:13:06,820 --> 00:13:09,620
-But she has lived her whole life in a black and white room.
-
-157
-00:13:09,900 --> 00:13:12,380
-One day she walks out and sees a ripe tomato.
-
-158
-00:13:12,740 --> 00:13:14,020
-Does she learn something new?
-
-159
-00:13:14,240 --> 00:13:18,160
-If she does, then knowing all the physical facts was not knowing all the facts.
-
-160
-00:13:18,520 --> 00:13:21,680
-There are four main replies, and they're worth having straight.
-
-161
-00:13:21,960 --> 00:13:25,860
-The ability hypothesis from David Lewis and Lawrence Nemiro.
-
-162
-00:13:26,580 --> 00:13:28,760
+00:13:24,780 --> 00:13:27,660
 Mary gains abilities rather than facts,
 
-163
-00:13:29,020 --> 00:13:32,640
-the ability to imagine red, to recognize it, to remember it.
+155
+00:13:27,920 --> 00:13:31,540
+the ability to imagine read, to recognize it, to remember it.
 
-164
-00:13:33,040 --> 00:13:34,540
+156
+00:13:31,720 --> 00:13:33,440
 Know how, not know that.
 
-165
-00:13:34,780 --> 00:13:38,240
-The objection is that it really does seem she learned something statable.
+157
+00:13:33,660 --> 00:13:37,140
+The objection is that it really does seem she learned something statable,
 
-166
-00:13:38,480 --> 00:13:40,200
-That seeing red is like this.
+158
+00:13:37,360 --> 00:13:39,100
+that seeing read is like this.
 
-167
-00:13:40,560 --> 00:13:42,140
-The acquaintance hypothesis.
+159
+00:13:39,260 --> 00:13:41,240
+The Acquaintance Hypothesis
 
-168
-00:13:42,600 --> 00:13:46,980
+160
+00:13:41,240 --> 00:13:45,900
 Mary becomes directly acquainted with a property she already knew all about,
 
-169
-00:13:47,240 --> 00:13:49,200
+161
+00:13:46,120 --> 00:13:48,100
 a new relation to an old property.
 
+162
+00:13:48,400 --> 00:13:50,280
+Then the most influential reply,
+
+163
+00:13:50,560 --> 00:13:56,700
+the phenomenal concept strategy. Mary acquires a new concept, a recognitional concept that points
+
+164
+00:13:56,700 --> 00:14:01,920
+at the experience from the inside, something like this kind of state. That new concept picks
+
+165
+00:14:01,920 --> 00:14:06,760
+out a physical property she already knew under a different, scientific concept, the way the
+
+166
+00:14:06,760 --> 00:14:12,700
+morning star and the evening star turned out to be the same planet. Same fact, new way of thinking
+
+167
+00:14:12,700 --> 00:14:19,040
+about it. The strategy has a second attraction. If phenomenal concepts and physical concepts are
+
+168
+00:14:20,560 --> 00:14:25,860
+heads, you'd expect to be able to pull them apart in imagination, even if the things they
+
+169
+00:14:25,860 --> 00:14:31,660
+refer to cannot come apart. So the strategy explains why zombies seem conceivable without
+
 170
-00:13:49,500 --> 00:13:53,420
-Then the most influential reply, the phenomenal concept strategy.
+00:14:31,660 --> 00:14:36,360
+adding anything to the world. It explains the intuition rather than honoring it.
 
 171
-00:13:54,100 --> 00:13:59,460
-Mary acquires a new concept, a recognitional concept that points at the experience from the inside,
+00:14:36,680 --> 00:14:42,440
+That's the move that feels right to me as an engineer. When a model is confidently wrong,
 
 172
-00:13:59,820 --> 00:14:01,380
-something like this kind of state.
+00:14:42,700 --> 00:14:46,400
+you explain the confidence. You do not treat it as evidence.
 
 173
-00:14:01,640 --> 00:14:06,900
-That new concept picks out a physical property she already knew under a different, scientific concept,
+00:14:46,400 --> 00:14:49,220
+It's attractive for exactly that reason.
 
 174
-00:14:07,140 --> 00:14:11,400
-the way the morning star and the evening star turned out to be the same planet.
+00:14:49,880 --> 00:14:55,680
+Chalmers replied in 2007 with what's sometimes called his master argument, which is a dilemma.
 
 175
-00:14:11,820 --> 00:14:14,260
-Same fact, new way of thinking about it.
-
-176
-00:14:14,500 --> 00:14:16,560
-The strategy has a second attraction.
-
-177
-00:14:16,980 --> 00:14:22,020
-If phenomenal concepts and physical concepts are wired up independently in our heads,
-
-178
-00:14:23,420 --> 00:14:28,480
-able to pull them apart in imagination, even if the things they refer to cannot come apart.
-
-179
-00:14:28,680 --> 00:14:33,940
-So the strategy explains why zombies seem conceivable without adding anything to the
-
-180
-00:14:33,940 --> 00:14:39,760
-world. It explains the intuition rather than honoring it. That's the move that feels right
-
-181
-00:14:39,760 --> 00:14:46,440
-to me as an engineer. When a model is confidently wrong, you explain the confidence. You do not
-
-182
-00:14:46,440 --> 00:14:52,920
-treat it as evidence. It's attractive for exactly that reason. Chalmers replied in 2007,
-
-183
-00:14:53,420 --> 00:14:56,780
-with what's sometimes called his master argument, which is a dilemma.
-
-184
-00:14:57,180 --> 00:15:01,520
+00:14:56,100 --> 00:15:00,420
 Ask whether your zombie twin has the same phenomenal concepts you have.
 
-185
-00:15:01,680 --> 00:15:06,760
+176
+00:15:00,580 --> 00:15:05,640
 If it does, then those concepts cannot explain your special epistemic situation,
 
-186
-00:15:07,040 --> 00:15:09,780
+177
+00:15:05,920 --> 00:15:08,600
 since the zombie has them without any experience.
 
-187
-00:15:10,020 --> 00:15:15,280
+178
+00:15:08,920 --> 00:15:14,180
 If it does not, then phenomenal concepts cannot be explained in physical terms after all.
 
-188
-00:15:15,720 --> 00:15:18,460
+179
+00:15:14,740 --> 00:15:17,340
 Either way, he argues, the strategy fails.
 
-189
-00:15:18,960 --> 00:15:23,920
-Its defenders have replies, and this is one of the liveliest disputes in the field.
+180
+00:15:17,760 --> 00:15:19,480
+Its defenders have replies,
 
-190
-00:15:24,240 --> 00:15:26,060
+181
+00:15:19,500 --> 00:15:22,820
+and this is one of the liveliest disputes in the field.
+
+182
+00:15:23,140 --> 00:15:24,940
 The fourth reply is Dennett's.
 
-191
-00:15:26,280 --> 00:15:30,640
-He argued that a Mary who truly knew everything physical would not be surprised at all.
+183
+00:15:25,180 --> 00:15:28,080
+He argued that a Mary who truly knew everything physical
 
-192
-00:15:30,840 --> 00:15:34,280
-Show her a blue banana as a trick, and she'd say at once,
+184
+00:15:28,080 --> 00:15:29,520
+would not be surprised at all.
 
-193
-00:15:34,480 --> 00:15:36,420
+185
+00:15:29,740 --> 00:15:31,900
+Show her a blue banana as a trick,
+
+186
+00:15:31,940 --> 00:15:33,180
+and she'd say at once,
+
+187
+00:15:33,380 --> 00:15:35,300
 that is not what yellow looks like.
 
-194
-00:15:36,620 --> 00:15:37,740
+188
+00:15:35,480 --> 00:15:36,620
 And one more twist.
 
-195
-00:15:38,040 --> 00:15:42,180
-Jackson himself later abandoned the argument and became a physicalist,
+189
+00:15:36,920 --> 00:15:39,560
+Jackson himself later abandoned the argument
 
-196
-00:15:42,340 --> 00:15:45,520
+190
+00:15:39,560 --> 00:15:41,080
+and became a physicalist,
+
+191
+00:15:41,080 --> 00:15:44,420
 explaining experience in terms of mental representation.
 
-197
-00:15:45,520 --> 00:15:48,760
+192
+00:15:44,900 --> 00:15:47,640
 The argument outlived its author's belief in it.
 
-198
-00:15:49,840 --> 00:15:54,000
+193
+00:15:48,680 --> 00:15:52,900
 Next, a distinction that quietly causes half the confusion in this area.
 
+194
+00:15:53,260 --> 00:15:57,460
+In 1995, Ned Block distinguished phenomenal consciousness,
+
+195
+00:15:57,800 --> 00:16:00,300
+the what it's like, from access consciousness,
+
+196
+00:16:00,760 --> 00:16:05,820
+information being available for reasoning, for report, and for controlling behavior.
+
+197
+00:16:06,200 --> 00:16:09,120
+Block's point was that the two are conceptually distinct,
+
+198
+00:16:11,140 --> 00:16:17,120
+slide between them. His example was blindsight, which we will meet properly in episode 10.
+
 199
-00:15:54,340 --> 00:16:01,420
-In 1995, Ned Block distinguished phenomenal consciousness, the what it's like, from access consciousness.
+00:16:17,380 --> 00:16:22,640
+People with damage to visual cortex who deny seeing anything in part of their visual field
 
 200
-00:16:01,860 --> 00:16:06,920
-Information being available for reasoning, for report, and for controlling behavior.
+00:16:22,640 --> 00:16:27,620
+yet can guess about objects they're far better than chance. It's tempting to reason that,
 
 201
-00:16:07,420 --> 00:16:13,580
-Block's point was that the two are conceptually distinct, and that scientists constantly slide between them.
+00:16:27,760 --> 00:16:33,880
+because these patients lack visual experience and also lack certain abilities, experience must be
 
 202
-00:16:15,560 --> 00:16:21,720
-which we will meet properly in episode 10. People with damage to visual cortex who deny seeing
+00:16:33,880 --> 00:16:39,880
+what supplies those abilities. Block called this a fallacy. The patients also lack access.
 
 203
-00:16:21,720 --> 00:16:26,920
-anything in part of their visual field yet can guess about objects they're far better than chance.
+00:16:41,080 --> 00:16:46,340
+which missing ingredient explains the missing abilities. Block then went further and argued
 
 204
-00:16:27,260 --> 00:16:32,540
-It's tempting to reason that because these patients lack visual experience and also lack
+00:16:46,340 --> 00:16:52,160
+that phenomenal consciousness overflows access. His evidence starts with an experiment by George
 
 205
-00:16:32,540 --> 00:16:38,580
-certain abilities, experience must be what supplies those abilities. Block called this a fallacy.
+00:16:52,160 --> 00:16:59,360
+Sperling from 1960. Flash a grid of 12 letters, three rows of four, for a fraction of a second.
 
 206
-00:16:38,960 --> 00:16:44,460
-The patients also lack access. You cannot tell which missing ingredient explains the missing
+00:16:59,680 --> 00:17:05,500
+Ask people to report everything, and they manage about four. But if a tone just after the flash
 
 207
-00:16:45,520 --> 00:16:50,120
-Bloch then went further and argued that phenomenal consciousness overflows access.
+00:17:05,500 --> 00:17:10,520
+tells them which row to report, they can get most of that row, whichever row it is.
 
 208
-00:16:50,480 --> 00:16:54,900
-His evidence starts with an experiment by George Sperling from 1960.
+00:17:11,080 --> 00:17:16,420
+So for a moment, most of the grid was available, even though only a fraction can ever be reported.
 
 209
-00:16:55,460 --> 00:17:00,460
-Flash a grid of 12 letters, three rows of four, for a fraction of a second.
+00:17:17,100 --> 00:17:21,800
+Bloch's interpretation is that you consciously see the whole grid, specific letters, and all,
 
 210
-00:17:00,660 --> 00:17:04,120
-Ask people to report everything, and they manage about four.
+00:17:21,980 --> 00:17:23,820
+and that what's limited is access.
 
 211
-00:17:04,360 --> 00:17:08,180
-But if a tone just after the flash tells them which row to report,
+00:17:24,460 --> 00:17:26,460
+Experience is richer than report.
 
 212
-00:17:08,520 --> 00:17:11,640
-they can get most of that row, whichever row it is.
+00:17:26,780 --> 00:17:32,120
+He made the case in 2007 in a Target article in Behavioral and Brain Sciences,
 
 213
-00:17:11,820 --> 00:17:14,580
-So for a moment, most of the grid was available,
+00:17:32,480 --> 00:17:38,680
+the format we met in Episode 5, and its commentaries are a fine place to watch a field argue with itself.
 
 214
-00:17:15,520 --> 00:17:20,720
-only a fraction can ever be reported. Block's interpretation is that you consciously see the
+00:17:38,680 --> 00:17:47,260
+On the other side, Michael Cohen and Daniel Dennett argued in 2011 that experiences inaccessible in principle could never be tested.
 
 215
-00:17:20,720 --> 00:17:26,900
-whole grid, specific letters, and all, and that what's limited is access. Experience is richer
+00:17:47,800 --> 00:17:56,940
+Others, such as the philosopher Ian Phillips, suggested that people may experience something more generic, letter-like shapes rather than specific letters.
 
 216
-00:17:26,900 --> 00:17:33,240
-than report. He made the case in 2007 in a Target article in Behavioral and Brain Sciences,
+00:17:57,560 --> 00:18:01,460
+Underneath, this lies what's often called the refrigerator light problem.
 
 217
-00:17:33,580 --> 00:17:38,920
-the format we met in episode 5, and its commentaries are a fine place to watch a field
+00:18:01,720 --> 00:18:05,280
+Whenever you check whether you're conscious of something, you access it.
 
 218
-00:17:38,920 --> 00:17:44,720
-argue with itself. On the other side, Michael Cohen and Daniel Dennett argued in 2011 that
+00:18:05,280 --> 00:18:09,580
+So you can never catch experience in the act of existing without access,
 
 219
-00:17:45,820 --> 00:17:51,600
-inaccessible in principle could never be tested. Others, such as the philosopher Ian Phillips,
+00:18:09,860 --> 00:18:13,400
+just as you can never open the fridge door and see the light off.
 
 220
-00:17:52,140 --> 00:17:57,180
-suggested that people may experience something more generic, letter-like shapes rather than
+00:18:13,700 --> 00:18:17,380
+So this is a measurement problem wearing a metaphysics costume.
 
 221
-00:17:57,180 --> 00:18:02,560
-specific letters. Underneath, this lies what's often called the refrigerator light problem.
-
-222
-00:18:02,860 --> 00:18:07,960
-Whenever you check whether you're conscious of something, you access it. So you can never catch
-
-223
-00:18:07,960 --> 00:18:13,620
-experience in the act of existing without access, just as you can never open the fridge door and
-
-224
-00:18:15,520 --> 00:18:18,480
-This is a measurement problem wearing a metaphysics costume.
-
-225
-00:18:18,840 --> 00:18:21,760
+00:18:17,680 --> 00:18:20,640
 Every probe you can build is an access probe.
 
-226
-00:18:22,280 --> 00:18:23,460
+222
+00:18:21,200 --> 00:18:22,340
 Largely, yes.
 
-227
-00:18:23,660 --> 00:18:27,140
+223
+00:18:22,560 --> 00:18:26,020
 And it becomes a major empirical fight in episode 11
 
-228
-00:18:27,140 --> 00:18:31,600
+224
+00:18:26,020 --> 00:18:30,500
 because two leading scientific theories line up on opposite sides of it.
 
-229
-00:18:31,800 --> 00:18:35,040
+225
+00:18:30,700 --> 00:18:33,940
 A few more distinctions will keep the rest of the series clear.
 
+226
+00:18:35,280 --> 00:18:40,280
+separate creature consciousness being awake rather than in a coma from state consciousness,
+
+227
+00:18:40,640 --> 00:18:46,620
+a particular mental state being conscious rather than unconscious. Scientists separate the level
+
+228
+00:18:46,620 --> 00:18:52,540
+of consciousness, its contents, and the conscious self. And some researchers, including Tim Bain,
+
+229
+00:18:52,960 --> 00:18:59,760
+argue that even talking about levels is misleading. Dreaming, psychedelic states, sedation, and minimal
+
 230
-00:18:35,860 --> 00:18:37,800
-Philosopher's separate creature consciousness,
+00:18:59,760 --> 00:19:05,160
+consciousness after brain injury differ along several dimensions at once, rather than sitting
 
 231
-00:18:38,120 --> 00:18:41,380
-being awake rather than in a coma, from state consciousness,
+00:19:05,280 --> 00:19:10,980
+at different points on one dial. Ludwig Wittgenstein enters the story from an angle.
 
 232
-00:18:41,660 --> 00:18:45,200
-a particular mental state being conscious rather than unconscious.
+00:19:11,260 --> 00:19:16,840
+In the Philosophical Investigations, he imagines that everyone has a box containing something they
 
 233
-00:18:46,040 --> 00:18:51,000
-Scientists separate the level of consciousness, its contents, and the conscious self.
+00:19:16,840 --> 00:19:22,800
+call a beetle. No one can look into anyone else's box, and everyone knows what a beetle is only from
 
 234
-00:18:51,160 --> 00:18:56,580
-And some researchers, including Tim Bain, argue that even talking about levels is misleading.
+00:19:22,800 --> 00:19:28,060
+their own case. His point is that in such a language game, the thing in the box drops out
 
 235
-00:18:57,600 --> 00:19:02,780
-Dreaming, psychedelic states, sedation, and minimal consciousness after brain injury
+00:19:28,060 --> 00:19:34,180
+of the picture entirely. The word beetle gets its meaning from its public use, whatever is or is not
 
 236
-00:19:02,780 --> 00:19:07,960
-differ along several dimensions at once, rather than sitting at different points on one dial.
+00:19:35,280 --> 00:19:38,540
+That image belongs to his larger private language argument,
 
 237
-00:19:09,220 --> 00:19:12,080
-Ludwig Wittgenstein enters the story from an angle.
-
-238
-00:19:12,560 --> 00:19:14,240
-In the philosophical investigations,
-
-239
-00:19:14,680 --> 00:19:18,540
-he imagines that everyone has a box containing something they call a beetle.
-
-240
-00:19:18,980 --> 00:19:21,440
-No one can look into anyone else's box,
-
-241
-00:19:21,460 --> 00:19:24,600
-and everyone knows what a beetle is only from their own case.
-
-242
-00:19:24,880 --> 00:19:27,360
-His point is that in such a language game,
-
-243
-00:19:27,600 --> 00:19:30,300
-the thing in the box drops out of the picture entirely.
-
-244
-00:19:30,800 --> 00:19:33,580
-The word beetle gets its meaning from its public use,
-
-245
-00:19:33,800 --> 00:19:35,700
-whatever is or is not inside.
-
-246
-00:19:36,140 --> 00:19:39,640
-That image belongs to his larger private language argument.
-
-247
-00:19:39,640 --> 00:19:45,180
+00:19:38,840 --> 00:19:44,080
 the claim that words for sensations cannot get their meaning from private inner objects
 
-248
-00:19:45,180 --> 00:19:47,380
+238
+00:19:44,080 --> 00:19:46,260
 that only the speaker can inspect.
 
-249
-00:19:47,680 --> 00:19:51,100
+239
+00:19:46,500 --> 00:19:50,000
 And in a passage that every student of this problem should read,
 
-250
-00:19:51,340 --> 00:19:56,380
+240
+00:19:50,220 --> 00:19:55,280
 he describes the feeling of an unbridgeable gulf between consciousness and brain processes.
 
-251
-00:19:56,720 --> 00:19:59,520
+241
+00:19:55,580 --> 00:19:58,420
 It does not arise in ordinary life, he says.
 
-252
-00:19:59,740 --> 00:20:03,060
+242
+00:19:58,640 --> 00:20:01,940
 It arises when you turn your attention on your own consciousness,
 
-253
-00:20:03,380 --> 00:20:06,280
-in a philosophical mood, and ask in astonishment
+243
+00:20:01,940 --> 00:20:07,700
+in a philosophical mood, and ask in astonishment how this could possibly come from a process in
 
-254
-00:20:06,280 --> 00:20:09,260
-how this could possibly come from a process in the brain.
+244
+00:20:07,700 --> 00:20:13,800
+the brain. Notice the word this and the gesture inward that goes with it. Wittgenstein treated
 
-255
-00:20:09,640 --> 00:20:13,200
-Notice the word this and the gesture inward that goes with it.
+245
+00:20:13,800 --> 00:20:19,760
+that astonishment as a symptom to be examined, not a discovery to be honored. Wittgenstein's
 
-256
-00:20:13,900 --> 00:20:19,400
-Wittgenstein treated that astonishment as a symptom to be examined, not a discovery to be honored.
+246
+00:20:19,760 --> 00:20:25,600
+influence runs through behaviorism, through Dennett, and into the contemporary view called
 
-257
-00:20:20,280 --> 00:20:27,480
-Wittgenstein's influence runs through behaviorism, through Dennett, and into the contemporary view called illusionism.
+247
+00:20:25,600 --> 00:20:31,000
+illusionism. He did not try to solve the hard problem. He tried to show that it might be a
 
-258
-00:20:27,780 --> 00:20:30,080
-He did not try to solve the hard problem.
-
-259
-00:20:30,260 --> 00:20:33,040
-He tried to show that it might be a knot in our language.
-
-260
-00:20:34,180 --> 00:20:39,520
+248
+00:20:33,080 --> 00:20:38,420
 That astonishment, the inward gesture, and the sense of a gulf is itself something people do.
 
-261
-00:20:39,640 --> 00:20:43,240
+249
+00:20:38,680 --> 00:20:42,120
 They say it, write it down, and argue about it on podcasts.
 
-262
-00:20:43,560 --> 00:20:48,020
+250
+00:20:42,600 --> 00:20:46,900
 In 2018, Chalmers turned that observation into a research program.
 
-263
-00:20:48,620 --> 00:20:51,680
+251
+00:20:47,540 --> 00:20:50,580
 Alongside the hard problem, he proposed the meta-problem.
 
-264
-00:20:52,100 --> 00:20:54,620
+252
+00:20:51,000 --> 00:20:53,500
 Explain why we think there is a hard problem.
 
-265
-00:20:54,760 --> 00:20:59,000
+253
+00:20:53,680 --> 00:20:57,900
 Why do brains produce reports like I cannot explain my own experience?
 
-266
-00:20:59,300 --> 00:21:01,280
-Because those reports are behavior.
+254
+00:20:58,440 --> 00:21:00,160
+Because those reports are behavior,
 
-267
-00:21:01,660 --> 00:21:05,040
-Explaining them is, in principle, an easy problem,
+255
+00:21:00,660 --> 00:21:03,920
+explaining them is, in principle, an easy problem,
 
-268
-00:21:05,040 --> 00:21:10,100
-one that realists and their opponents can work on together while expecting different kinds of
+256
+00:21:04,380 --> 00:21:07,240
+one that realists and their opponents can work on together
 
-269
-00:21:10,100 --> 00:21:14,460
-answer. I think it's the most productive development in this debate in decades,
+257
+00:21:07,240 --> 00:21:09,360
+while expecting different kinds of answer.
 
-270
-00:21:14,460 --> 00:21:20,820
-and the next episode builds on it. Let me step back and name the strategies on the table.
+258
+00:21:09,700 --> 00:21:13,340
+I think it's the most productive development in this debate in decades,
 
-271
-00:21:21,060 --> 00:21:26,320
-The first is to dissolve the problem. Show that it rests on a confusion or an illusion.
+259
+00:21:13,340 --> 00:21:15,560
+and the next episode builds on it.
 
-272
-00:21:26,840 --> 00:21:31,760
+260
+00:21:16,500 --> 00:21:19,680
+Let me step back and name the strategies on the table.
+
+261
+00:21:19,940 --> 00:21:22,060
+The first is to dissolve the problem,
+
+262
+00:21:22,340 --> 00:21:25,220
+show that it rests on a confusion or an illusion.
+
+263
+00:21:25,900 --> 00:21:30,640
 That's Wittgenstein's spirit and the illusionist program of Dennett and Keith Frankish.
 
+264
+00:21:31,020 --> 00:21:33,060
+The second is to reduce the problem.
+
+265
+00:21:33,440 --> 00:21:38,480
+Accept that experience is real and physical and explain why it seems otherwise.
+
+266
+00:21:38,980 --> 00:21:42,760
+That's type B physicalism, the phenomenal concept strategy,
+
+267
+00:21:42,980 --> 00:21:49,020
+and the representationalist theories that identify experience with a certain kind of mental representation.
+
+268
+00:21:49,640 --> 00:21:52,220
+The third is to expand our picture of reality.
+
+269
+00:21:52,760 --> 00:21:56,440
+Accept that physics as we know it leaves something out and add to it.
+
+270
+00:21:56,940 --> 00:21:58,860
+Dualism adds a new kind of property.
+
+271
+00:21:59,540 --> 00:22:04,900
+Panpsychism and Russellian monism say experience is the intrinsic nature of matter.
+
+272
+00:22:05,520 --> 00:22:08,180
+Idealism says experience is all there is.
+
 273
-00:21:31,760 --> 00:21:38,940
-The second is to reduce the problem. Accept that experience is real and physical and explain why it
+00:22:08,520 --> 00:22:11,680
+And where do professional philosophers actually land?
 
 274
-00:21:38,940 --> 00:21:44,640
-seems otherwise. That's type B physicalism, the phenomenal concept strategy, and the
+00:22:11,820 --> 00:22:13,600
+Is there a majority view?
 
 275
-00:21:44,640 --> 00:21:49,440
-representationalist theories that identify experience with a certain kind of mental
+00:22:13,920 --> 00:22:15,240
+There's survey data.
 
 276
-00:21:49,440 --> 00:21:55,680
-representation. The third is to expand our picture of reality. Accept that physics as we know it
+00:22:15,480 --> 00:22:19,600
+In the 2020 Philpapers Survey of Professional Philosophers,
 
 277
-00:21:55,680 --> 00:22:02,320
-leave something out and add to it. Dualism adds a new kind of property. Panpsychism and Russellian
-
-278
-00:22:02,320 --> 00:22:09,280
-monism say experience is the intrinsic nature of matter. Idealism says experience is all there is.
-
-279
-00:22:09,780 --> 00:22:14,720
-And where do professional philosophers actually land? Is there a majority view?
-
-280
-00:22:15,040 --> 00:22:20,720
-There's survey data. In the 2020 Philpapers Survey of Professional Philosophers,
-
-281
-00:22:20,720 --> 00:22:27,180
+00:22:19,600 --> 00:22:26,100
 about 62% said there is a hard problem of consciousness, and about 30% said there is not.
 
-282
-00:22:27,460 --> 00:22:33,560
+278
+00:22:26,300 --> 00:22:32,460
 At the same time, about 52% accepted or leaned toward physicalism about the mind,
 
-283
-00:22:33,780 --> 00:22:40,360
+279
+00:22:32,800 --> 00:22:39,260
 against 32% for non-physicalism. On consciousness specifically, functionalism was the most popular
 
-284
-00:22:40,360 --> 00:22:45,560
+280
+00:22:39,260 --> 00:22:44,440
 single view at about a third, then dualism at about a fifth, with identity theory,
 
-285
-00:22:45,560 --> 00:22:48,300
+281
+00:22:44,440 --> 00:22:47,200
 panpsychism, and eliminativism trailing.
 
-286
-00:22:48,740 --> 00:22:51,640
+282
+00:22:47,620 --> 00:22:50,540
 Put that together and you get the field's real position.
 
-287
-00:22:52,040 --> 00:22:54,660
+283
+00:22:50,840 --> 00:22:53,560
 Most philosophers think the problem is genuine
 
-288
-00:22:54,660 --> 00:22:58,160
+284
+00:22:53,560 --> 00:22:57,040
 and a narrow majority still expect a physical answer.
 
-289
-00:22:58,620 --> 00:23:00,560
+285
+00:22:57,520 --> 00:22:59,440
 Few think it has been delivered yet.
 
-290
-00:23:01,480 --> 00:23:04,980
+286
+00:23:00,380 --> 00:23:03,860
 Eliminativism is the one that says consciousness does not exist.
 
-291
-00:23:05,280 --> 00:23:09,100
+287
+00:23:04,140 --> 00:23:07,980
 With under 5%, why give it more airtime than the others?
 
-292
-00:23:09,460 --> 00:23:11,780
+288
+00:23:08,340 --> 00:23:10,680
 Because the small number hides two things.
 
-293
-00:23:12,340 --> 00:23:16,580
+289
+00:23:11,240 --> 00:23:15,480
 First, the label eliminativism sounds like denying that you feel pain,
 
-294
-00:23:16,780 --> 00:23:19,180
+290
+00:23:15,680 --> 00:23:18,080
 which no serious defender of the view does.
 
-295
-00:23:19,580 --> 00:23:22,960
+291
+00:23:18,480 --> 00:23:21,860
 What they deny is that experience has the special private,
 
-296
-00:23:23,280 --> 00:23:25,900
+292
+00:23:22,160 --> 00:23:24,780
 ineffable qualities philosophers call qualia.
 
-297
-00:23:26,400 --> 00:23:30,160
+293
+00:23:25,300 --> 00:23:29,040
 Critics reply that this is denying consciousness by another name.
 
-298
-00:23:30,520 --> 00:23:33,180
+294
+00:23:29,280 --> 00:23:32,060
 Most defenders prefer the label illusionism.
 
-299
-00:23:33,620 --> 00:23:37,060
+295
+00:23:32,320 --> 00:23:35,940
 Second, it's the position that most changes the question we care about.
 
-300
-00:23:37,340 --> 00:23:39,020
+296
+00:23:36,240 --> 00:23:37,920
 If illusionism is right,
 
-301
-00:23:39,020 --> 00:23:42,220
+297
+00:23:37,920 --> 00:23:41,120
 asking whether a machine is conscious stops being a mystery
 
-302
-00:23:42,220 --> 00:23:46,920
+298
+00:23:41,120 --> 00:23:45,800
 and becomes a question you could, in principle, answer by looking inside it.
 
-303
-00:23:47,100 --> 00:23:51,960
+299
+00:23:46,020 --> 00:23:50,860
 So next episode, we give the most radical answer the strongest hearing we can
 
-304
-00:23:51,960 --> 00:23:54,480
+300
+00:23:50,860 --> 00:23:53,360
 and then put it through its hardest objections.
 

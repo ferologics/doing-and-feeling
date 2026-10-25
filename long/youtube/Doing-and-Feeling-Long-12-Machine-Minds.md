@@ -13,19 +13,21 @@ Machine Minds: what can be checked, and the case for | Doing and Feeling 12/14
 ## Description
 
 ```
-Doing and Feeling: Intelligence and Consciousness in Depth, episode 12 of 14. Could today's AI be conscious? What can actually be checked: the indicator method, probabilistic frameworks, interpretability evidence, what the subject would even be, and why self-reports are hard to trust. The episode ends with the strongest case for machine consciousness.
+Doing and Feeling: Intelligence and Consciousness in Depth, episode 12 of 14.
+
+Could today's AI be conscious? What can actually be checked: the indicator method, probabilistic frameworks, interpretability evidence, what the subject would even be, and why self-reports are hard to trust. The episode ends with the strongest case for machine consciousness.
+
+The narrator is an Anthropic model, so Anthropic's own research and policies are flagged wherever they come up.
 
 CHAPTERS
 0:00 A disclosure
-0:49 The Lemoine affair
-2:52 The indicator method
-6:58 Probabilistic frameworks
-10:06 Current systems against the indicators
-13:40 What would the subject be?
-15:42 Asking the model
-18:24 The case for
-
-The narrator is an Anthropic model, so Anthropic's own research and policies are flagged wherever they come up.
+0:48 The Lemoine affair
+2:51 The indicator method
+6:57 Probabilistic frameworks
+10:05 Current systems against the indicators
+13:39 What would the subject be?
+15:41 Asking the model
+18:23 The case for
 
 Key sources:
 - Butlin, Long et al. 2023, consciousness in AI: https://arxiv.org/abs/2308.08708

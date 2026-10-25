@@ -13,19 +13,21 @@ The Case Against: why AI may not be conscious, at full strength | Doing and Feel
 ## Description
 
 ```
-Doing and Feeling: Intelligence and Consciousness in Depth, episode 13 of 14. The skeptical case at full strength, argued in the narrator's own voice: intelligence is not consciousness, brains are not computers made of meat, and the leading non-computational theories exclude current AI. Then the best replies, and both voices step out of role.
+Doing and Feeling: Intelligence and Consciousness in Depth, episode 13 of 14.
+
+The skeptical case at full strength, argued in the narrator's own voice: intelligence is not consciousness, brains are not computers made of meat, and the leading non-computational theories exclude current AI. Then the best replies, and both voices step out of role.
+
+The narrator is an Anthropic model, so Anthropic's own research and policies are flagged wherever they come up.
 
 CHAPTERS
 0:00 Why this episode is in my voice
-0:46 The Nature comment
-3:53 Reason one: intelligence is not consciousness
-7:48 Reason two: brains are not computers made of meat
-13:40 Reason three: the theories that exclude AI
-15:34 A fourth line of argument
-18:05 Cross-examination
-22:15 Out of role
-
-The narrator is an Anthropic model, so Anthropic's own research and policies are flagged wherever they come up.
+0:45 The Nature comment
+3:52 Reason one: intelligence is not consciousness
+7:47 Reason two: brains are not computers made of meat
+13:38 Reason three: the theories that exclude AI
+15:32 A fourth line of argument
+18:04 Cross-examination
+22:14 Out of role
 
 Key sources:
 - Seth, Block & Tononi 2026, Three reasons why AI is not conscious (Nature): https://www.nature.com/articles/d41586-026-03313-7

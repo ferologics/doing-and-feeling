@@ -2,7 +2,9 @@ TITLE:
 The Case for Illusion: the most radical answer, at full strength | Doing and Feeling 8/14
 
 DESCRIPTION:
-Doing and Feeling: Intelligence and Consciousness in Depth, episode 8 of 14. Illusionism at full strength: the view that experience only seems to have special private qualities. Dennett and Frankish, the evidence that introspection misleads, the meta-problem, attention schemas and self-models, and then the hardest objections.
+Doing and Feeling: Intelligence and Consciousness in Depth, episode 8 of 14.
+
+Illusionism at full strength: the view that experience only seems to have special private qualities. Dennett and Frankish, the evidence that introspection misleads, the meta-problem, attention schemas and self-models, and then the hardest objections.
 
 Key sources:
 - Cohen, Botch & Robertson 2020, the limits of color awareness: https://pmc.ncbi.nlm.nih.gov/articles/PMC7306755
@@ -22,7 +24,7 @@ TAGS:
 illusionism, consciousness, Daniel Dennett, Keith Frankish, introspection, meta-problem, attention schema theory, philosophy of mind, qualia, self-model, Doing and Feeling, AI-narrated podcast
 
 CHAPTERS:
-This is Doing and Feeling | The color experiment
+This is Doing and Feeling. | The color experiment
 Start with what the view | What illusionism says
 The view's deepest roots are | Dennett
 Illusionism needs evidence that introspection | When introspection gets it wrong

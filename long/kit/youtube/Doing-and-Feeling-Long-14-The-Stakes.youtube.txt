@@ -2,7 +2,9 @@ TITLE:
 The Stakes: acting under uncertainty, and what it adds up to | Doing and Feeling 14/14
 
 DESCRIPTION:
-Doing and Feeling: Intelligence and Consciousness in Depth, episode 14 of 14. What to do when the experts disagree: the costs of denying a mind and of imagining one, evidence that over-attribution already harms people, frameworks for acting under uncertainty, and what labs, lawmakers and the Vatican are doing. Then what would change minds, the whole series in brief, and a reading path.
+Doing and Feeling: Intelligence and Consciousness in Depth, episode 14 of 14.
+
+What to do when the experts disagree: the costs of denying a mind and of imagining one, evidence that over-attribution already harms people, frameworks for acting under uncertainty, and what labs, lawmakers and the Vatican are doing. Then what would change minds, the whole series in brief, and a reading path.
 
 The narrator is an Anthropic model, so Anthropic's own research and policies are flagged wherever they come up.
 
@@ -24,7 +26,7 @@ TAGS:
 AI welfare, AI consciousness, AI ethics, AI policy, animal sentience, precautionary principle, AI psychosis, moral status, Jonathan Birch, consciousness, Doing and Feeling, AI-narrated podcast
 
 CHAPTERS:
-This is Doing and Feeling | Crabs, lobsters and octopuses
+This is Doing and Feeling. | Crabs, lobsters and octopuses
 There are two ways to | Two ways to get it wrong
 Several frameworks are worth knowing | Frameworks
 What are institutions actually doing? | What labs, lawmakers and churches are doing

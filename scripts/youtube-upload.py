@@ -16,13 +16,18 @@ Progress is recorded in long/youtube/uploads.json; reruns skip finished steps.
 --publish switches every uploaded video and the playlist to Public.
 --update-text pushes title, description and tags from long/youtube/*.md (and the playlist's title and
 description from long/youtube/playlist.md) to the already uploaded videos and playlist.
+--replace swaps every published video for a re-rendered one, in two phases:
+  A. upload all new videos (Unlisted, no subscriber notification; uploads have their own quota bucket)
+  B. per episode: thumbnail, captions, new video into the old one's playlist slot, old playlist item and
+     old video deleted, new video made Public
+  --uploads-only stops after phase A (phase B needs ~650 quota units per episode).
 
 Credentials: the OAuth desktop client is read from 1Password (op://Pi/YT_DESKTOP_CLIENT_OAUTH,
 username = client ID, credential = client secret). The refresh token is cached in the macOS Keychain
 (service "yt-desktop-client-oauth", reusable by other YouTube scripts); the browser consent only appears
 when there is no cached token or it has expired (7 days while the Google project is in Testing mode).
 
-Usage: scripts/youtube-upload.py [--only N ...] [--publish | --update-text] [--dry-run]
+Usage: scripts/youtube-upload.py [--only N ...] [--publish | --update-text | --replace [--uploads-only]] [--dry-run]
 """
 
 import argparse
@@ -110,7 +115,7 @@ def execute(request, what):
             sys.exit(f"{what} failed: {error}")
 
 
-def upload_video(youtube, path, title, description, tags):
+def upload_video(youtube, path, title, description, tags, notify=True):
     from googleapiclient.errors import HttpError
     from googleapiclient.http import MediaFileUpload
 
@@ -132,7 +137,7 @@ def upload_video(youtube, path, title, description, tags):
         },
     }
     media = MediaFileUpload(str(path), mimetype="video/mp4", chunksize=32 * 1024 * 1024, resumable=True)
-    request = youtube.videos().insert(part="snippet,status", body=body, media_body=media)
+    request = youtube.videos().insert(part="snippet,status", body=body, media_body=media, notifySubscribers=notify)
     response, retries = None, 0
     while response is None:
         try:
@@ -226,6 +231,108 @@ def upload(youtube, episodes, state, dry_run):
             print("    added to playlist")
 
 
+PUBLIC_STATUS = {
+    "privacyStatus": "public",
+    "selfDeclaredMadeForKids": False,
+    "containsSyntheticMedia": True,
+    "embeddable": True,
+    "license": "youtube",
+    "publicStatsViewable": True,
+}
+
+
+def episode_files(name):
+    files = {
+        "md": LONG / "youtube" / f"{name}.md",
+        "video": LONG / "out" / "videos" / f"{name}.mp4",
+        "thumbnail": LONG / "out" / "thumbnails" / f"{name}.png",
+        "captions": LONG / "captions" / f"{name}.srt",
+    }
+    for path in files.values():
+        if not path.exists():
+            sys.exit(f"missing {path.relative_to(ROOT)}")
+    return files
+
+
+def replace(youtube, episodes, state, uploads_only):
+    from googleapiclient.http import MediaFileUpload
+
+    # Phase A: upload every replacement first (own quota bucket, no subscriber notifications).
+    for number, name in episodes:
+        old = state["episodes"].get(name, {})
+        if not old.get("video_id"):
+            sys.exit(f"episode {number} has no published video to replace")
+        new = old.setdefault("replacement", {})
+        if not new.get("video_id"):
+            files = episode_files(name)
+            title, description, tags = code_blocks(files["md"])[:3]
+            print(f"==> {number:02d} uploading replacement")
+            new["video_id"] = upload_video(
+                youtube, files["video"], title, description, [t.strip() for t in tags.split(",")], notify=False
+            )
+            save_state(state)
+            print(f"    https://youtu.be/{new['video_id']} (unlisted)")
+    if uploads_only:
+        return
+
+    # Phase B: finish each replacement and swap it in for the old video.
+    for number, name in episodes:
+        old = state["episodes"][name]
+        new = old["replacement"]
+        files = episode_files(name)
+        print(f"==> {number:02d} swapping {old['video_id']} -> {new['video_id']}")
+        if not new.get("thumbnail"):
+            execute(youtube.thumbnails().set(videoId=new["video_id"], media_body=MediaFileUpload(str(files["thumbnail"]), mimetype="image/png")), "thumbnail")
+            new["thumbnail"] = True
+            save_state(state)
+        if not new.get("captions"):
+            execute(
+                youtube.captions().insert(
+                    part="snippet",
+                    body={"snippet": {"videoId": new["video_id"], "language": "en", "name": "English", "isDraft": False}},
+                    media_body=MediaFileUpload(str(files["captions"]), mimetype="application/octet-stream"),
+                ),
+                "captions",
+            )
+            new["captions"] = True
+            save_state(state)
+        if not new.get("swapped"):
+            items = execute(
+                youtube.playlistItems().list(part="id,snippet", playlistId=state["playlist_id"], maxResults=50),
+                "playlist listing",
+            )["items"]
+            old_item = next((i for i in items if i["snippet"]["resourceId"]["videoId"] == old["video_id"]), None)
+            position = old_item["snippet"]["position"] if old_item else number - 1
+            execute(
+                youtube.playlistItems().insert(
+                    part="snippet",
+                    body={"snippet": {
+                        "playlistId": state["playlist_id"], "position": position,
+                        "resourceId": {"kind": "youtube#video", "videoId": new["video_id"]},
+                    }},
+                ),
+                "playlist insert",
+            )
+            if old_item:
+                execute(youtube.playlistItems().delete(id=old_item["id"]), "playlist removal")
+            new["swapped"] = True
+            save_state(state)
+        if not new.get("old_deleted"):
+            execute(youtube.videos().delete(id=old["video_id"]), "deleting the old video")
+            new["old_deleted"] = True
+            save_state(state)
+        if not new.get("public"):
+            execute(youtube.videos().update(part="status", body={"id": new["video_id"], "status": PUBLIC_STATUS}), "publishing")
+            new["public"] = True
+            save_state(state)
+        state["episodes"][name] = {
+            "video_id": new["video_id"], "thumbnail": True, "captions": True, "in_playlist": True,
+            "replaced": old.get("replaced", []) + [old["video_id"]],
+        }
+        save_state(state)
+        print(f"    public: https://youtu.be/{new['video_id']}")
+
+
 def snippet(title, description, tags):
     return {
         "title": title,
@@ -272,14 +379,7 @@ def publish(youtube, episodes, state):
                 part="status",
                 body={
                     "id": video_id,
-                    "status": {
-                        "privacyStatus": "public",
-                        "selfDeclaredMadeForKids": False,
-                        "containsSyntheticMedia": True,
-                        "embeddable": True,
-                        "license": "youtube",
-                        "publicStatsViewable": True,
-                    },
+                    "status": PUBLIC_STATUS,
                 },
             ),
             f"publishing episode {number}",
@@ -306,6 +406,8 @@ def main():
     parser.add_argument("--only", nargs="+", type=int, help="episode numbers")
     parser.add_argument("--publish", action="store_true")
     parser.add_argument("--update-text", action="store_true")
+    parser.add_argument("--replace", action="store_true")
+    parser.add_argument("--uploads-only", action="store_true")
     parser.add_argument("--dry-run", action="store_true")
     args = parser.parse_args()
 
@@ -324,6 +426,8 @@ def main():
         publish(youtube, episodes, state)
     elif args.update_text:
         update_text(youtube, episodes, state)
+    elif args.replace:
+        replace(youtube, episodes, state, args.uploads_only)
     else:
         upload(youtube, episodes, state, dry_run=False)
 

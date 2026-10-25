@@ -1,4 +1,4 @@
-This is Doing and Feeling, the long version. Episode three: Intelligence, Formally.
+This is Doing and Feeling. Episode three: Intelligence, Formally.
 
 In two thousand six, the computer scientist Marcus Hutter put up prize money for an odd challenge: compress a hundred megabytes of English Wikipedia as small as possible. The program that decompresses it counts toward the total size, so you can't cheat by hiding the text inside the decompressor. Since two thousand twenty, the challenge has used a full gigabyte, with a prize fund of up to half a million euros, and the record fell three times in two thousand twenty six, most recently in July.
 

@@ -13,19 +13,21 @@ Minds in Other Bodies: crows, octopuses, bees, cells and swarms | Doing and Feel
 ## Description
 
 ```
-Doing and Feeling: Intelligence and Consciousness in Depth, episode 2 of 14. Intelligence evolved more than once, on very different hardware. A tour of crows, octopuses, bees, single cells, plants and swarms, and of the two errors science makes about animal minds: seeing too much, like Clever Hans, and too little.
+Doing and Feeling: Intelligence and Consciousness in Depth, episode 2 of 14.
+
+Intelligence evolved more than once, on very different hardware. A tour of crows, octopuses, bees, single cells, plants and swarms, and of the two errors science makes about animal minds: seeing too much, like Clever Hans, and too little.
 
 CHAPTERS
 0:00 A family of solutions
-1:32 Two errors: Clever Hans and anthropodenial
-3:06 Birds
-5:46 Octopuses
-8:35 Bees and small brains
-10:51 A general factor in animals
-13:00 Basal cognition
-14:55 Plants and a failed replication
-16:21 Swarms and groups
-17:04 What ties the menagerie together
+1:31 Two errors: Clever Hans and anthropodenial
+3:05 Birds
+5:45 Octopuses
+8:34 Bees and small brains
+10:50 A general factor in animals
+12:59 Basal cognition
+14:54 Plants and a failed replication
+16:20 Swarms and groups
+17:03 What ties the menagerie together
 
 Key sources:
 - Weir, Chappell & Kacelnik 2002, Betty's hook: https://doi.org/10.1126/science.1073433

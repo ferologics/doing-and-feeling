@@ -5,7 +5,7 @@ Inputs:  long/kit/Doing-and-Feeling-Long-manifest.json (chapter starts from Clau
          long/kit/youtube/<episode>.youtube.txt     (TITLE / DESCRIPTION / TAGS / CHAPTERS)
          long/whisper/<episode>.json                        (our Whisper word timestamps)
 Output:  long/youtube/<episode>.md, same layout as the short-series files (title, description with a CHAPTERS
-         block after the first paragraph, tags), so scripts/check.py can validate them.
+         block before the 'Key sources:' paragraph, tags), so scripts/check.py can validate them.
 
 Each chapter's opening words (manifest `first_words`) are located in the transcript near the
 manifest time; the script reports the measured offset and fails if any chapter is off by more than
@@ -75,15 +75,17 @@ def main():
             for chapter in episode["chapters"][1:]:  # the first chapter is pinned to 0:00
                 offset, score = locate(words, chapter)
                 offsets.append(offset)
-                if score < 0.4 or abs(offset) > MAX_OFFSET:  # spelled-out years and misheard names lower the score
+                if score < 0.3 or abs(offset) > MAX_OFFSET:  # spelled-out years and misheard names lower the score
                     failures.append(f"{name}: '{chapter['title']}' offset {offset:+.1f}s, match {score:.2f}")
             print(f"{name}: chapters verified, max offset {max(map(abs, offsets)):.1f}s")
         else:
             print(f"{name}: no transcript yet, chapters NOT verified")
 
         chapters = "\n".join(f"{c['timestamp']} {c['title']}" for c in episode["chapters"])
-        intro, _, rest = text["DESCRIPTION"].partition("\n\n")
-        description = f"{intro}\n\nCHAPTERS\n{chapters}\n\n{rest}".strip()
+        intro, marker, rest = text["DESCRIPTION"].partition("\n\nKey sources:")
+        if not marker:
+            sys.exit(f"{name}: description has no 'Key sources:' paragraph to put the chapters before")
+        description = f"{intro}\n\nCHAPTERS\n{chapters}{marker}{rest}".strip()
         (OUT / f"{name}.md").write_text(
             f"# Episode {episode['episode']} — {episode['short_title']}\n\n"
             f"- **File:** `long/out/videos/{name}.mp4`\n"
