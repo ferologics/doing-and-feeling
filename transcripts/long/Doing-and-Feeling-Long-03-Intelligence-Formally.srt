@@ -1,0 +1,960 @@
+1
+00:00:00,000 --> 00:00:05,560
+This is Doing and Feeling the Long Version, Episode 3, Intelligence Formally.
+
+2
+00:00:05,800 --> 00:00:11,860
+In 2006, the computer scientist Marcus Hutter put up prize money for an odd challenge.
+
+3
+00:00:12,240 --> 00:00:16,540
+Compress 100 megabytes of English Wikipedia as small as possible.
+
+4
+00:00:16,820 --> 00:00:24,500
+The program that decompresses it counts toward the total size, so you cannot cheat by hiding the text inside the decompressor.
+
+5
+00:00:24,500 --> 00:00:31,420
+Since 2020, the challenge has used a full gigabyte, with a prize fund of up to half a million euros,
+
+6
+00:00:31,740 --> 00:00:36,800
+and the record fell three times in 2026, most recently in July.
+
+7
+00:00:37,160 --> 00:00:40,460
+Why would zipping Wikipedia have anything to do with intelligence?
+
+8
+00:00:40,820 --> 00:00:44,820
+The answer connects information theory, the foundations of statistics,
+
+9
+00:00:45,240 --> 00:00:50,960
+a mathematical definition of intelligence, and the training objective of every large language model.
+
+10
+00:00:51,700 --> 00:00:55,440
+Last episode, intelligence took many forms in many bodies.
+
+11
+00:00:55,900 --> 00:01:01,480
+This one asks whether there's a definition that does not depend on any species, body, or test.
+
+12
+00:01:01,840 --> 00:01:02,900
+Here's the argument.
+
+13
+00:01:03,220 --> 00:01:08,940
+The best formal definitions tie intelligence to prediction and compression across many environments.
+
+14
+00:01:09,320 --> 00:01:15,400
+But every definition builds in assumptions about what counts as simple or about which tasks matter,
+
+15
+00:01:15,600 --> 00:01:17,560
+and no learner is best at everything.
+
+16
+00:01:18,200 --> 00:01:21,400
+That is why measuring machine intelligence is so contested,
+
+17
+00:01:21,500 --> 00:01:25,600
+and why a score can change dramatically depending on how a model is run.
+
+18
+00:01:26,680 --> 00:01:28,220
+Start with Alan Turing.
+
+19
+00:01:28,700 --> 00:01:31,940
+In 1950, he proposed replacing the question,
+
+20
+00:01:32,080 --> 00:01:37,040
+can machines think, which he considered too meaningless to deserve discussion, with a game.
+
+21
+00:01:37,280 --> 00:01:41,960
+An interrogator converses by text with a hidden human and a hidden machine.
+
+22
+00:01:42,340 --> 00:01:45,380
+If the interrogator cannot reliably tell which is which,
+
+23
+00:01:45,380 --> 00:01:48,440
+the machine has done everything we could reasonably ask.
+
+24
+00:01:48,640 --> 00:01:52,140
+The imitation game is operational, which is its virtue.
+
+25
+00:01:52,360 --> 00:01:55,900
+It is also a test of human likeness, which is its weakness.
+
+26
+00:01:56,220 --> 00:02:02,080
+In 2025, Cameron Jones and Benjamin Burgin ran a pre-registered version
+
+27
+00:02:02,080 --> 00:02:04,520
+with Turing's original three-party design.
+
+28
+00:02:05,160 --> 00:02:09,000
+Judges chatted for five minutes with a human and a machine at the same time,
+
+29
+00:02:09,280 --> 00:02:10,880
+then picked which one was human.
+
+30
+00:02:10,880 --> 00:02:15,720
+GPT-4.5, prompted to adopt a particular human-like persona,
+
+31
+00:02:16,080 --> 00:02:21,240
+was judged to be the human 73% of the time, more often than the real humans were.
+
+32
+00:02:21,580 --> 00:02:26,480
+A meta model given the same persona prompt was picked 56% of the time.
+
+33
+00:02:27,040 --> 00:02:34,380
+Baseline systems, GPT-4.0 and the 1960s chatbot Eliza, were picked only about a fifth of the time.
+
+34
+00:02:34,660 --> 00:02:39,880
+So both of the systems that passed were playing a character someone had written for them.
+
+35
+00:02:40,880 --> 00:02:45,940
+lesson. What the test measured was how well a system could play a particular kind of human.
+
+36
+00:02:46,260 --> 00:02:51,360
+That's a real capability, and a socially important one, given what it implies about
+
+37
+00:02:51,360 --> 00:02:55,600
+who you might be talking to online. But it is not a definition of intelligence.
+
+38
+00:02:56,680 --> 00:03:02,260
+The deeper story starts with Claude Shannon. In his 1948 theory of communication,
+
+39
+00:03:02,660 --> 00:03:08,800
+information is surprise. An event with probability p carries minus log 2 of p bits.
+
+40
+00:03:09,260 --> 00:03:13,960
+In a 1951 paper, Shannon estimated the information content of English
+
+41
+00:03:13,960 --> 00:03:18,520
+by asking people to guess the next letter of a text, one letter at a time.
+
+42
+00:03:18,800 --> 00:03:23,520
+People were good at it because they understood the language and the world the text described.
+
+43
+00:03:24,060 --> 00:03:28,040
+Shannon was using people's knowledge of the language as a measuring instrument.
+
+44
+00:03:28,300 --> 00:03:32,280
+The better they guessed, the less information each new letter carried.
+
+45
+00:03:32,700 --> 00:03:33,720
+Here's the key link.
+
+46
+00:03:33,880 --> 00:03:37,300
+A technique called arithmetic coding can encode a symbol
+
+47
+00:03:38,800 --> 00:03:44,600
+p using very nearly minus log 2 of p bits. So the better your model predicts the next symbol,
+
+48
+00:03:44,800 --> 00:03:50,680
+the fewer bits you need to encode it. Prediction and compression are the same problem. Train a
+
+49
+00:03:50,680 --> 00:03:55,600
+model to minimize prediction error, measured as cross-entropy, and you are literally training
+
+50
+00:03:55,600 --> 00:04:01,740
+it to compress. Which is why language model loss is reported in bits or Nats per token.
+
+51
+00:04:02,360 --> 00:04:08,080
+Per training is compression with extra steps. And researchers at DeepMind made that literal
+
+52
+00:04:09,340 --> 00:04:16,020
+paper titled Language Modeling is Compression. They used a large model trained mostly on text
+
+53
+00:04:16,020 --> 00:04:21,660
+as a general-purpose compressor, and it squeezed image patches and audio smaller than the standard
+
+54
+00:04:21,660 --> 00:04:28,640
+specialized formats, PNG, and FLAC. The caveat matters. Count the size of the model itself,
+
+55
+00:04:28,800 --> 00:04:34,840
+and it loses badly because the model is enormous. But the result shows how much general structure
+
+56
+00:04:34,840 --> 00:04:41,320
+a good predictor absorbs. If good prediction means good compression, what is the best possible
+
+57
+00:04:41,320 --> 00:04:47,920
+predictor? In the 1960s, Ray Solomonoff gave a remarkable answer. Consider every computer
+
+58
+00:04:47,920 --> 00:04:53,040
+program that could have produced the data you've seen so far. Weight each program by two to the
+
+59
+00:04:53,040 --> 00:04:58,720
+minus its length in bits so that shorter programs count for much more. Then predict the next
+
+60
+00:04:58,720 --> 00:05:04,560
+observation by averaging over what all those programs would output next. This is Occam's
+
+61
+00:05:04,560 --> 00:05:09,740
+razor made mathematical. The length of the shortest program that produces a given string
+
+62
+00:05:09,740 --> 00:05:16,380
+is called its Kalmogorov complexity, after Andrei Kalmogorov, who developed the idea independently,
+
+63
+00:05:16,680 --> 00:05:22,560
+as did Gregory Chaitin. Solomanov showed that if the data come from any computable process at all,
+
+64
+00:05:22,800 --> 00:05:26,940
+his predictor's total error is bounded by the complexity of that process.
+
+65
+00:05:28,720 --> 00:05:34,780
+world, and no computable predictor can beat it by more than a constant. The catch is that it is
+
+66
+00:05:34,780 --> 00:05:40,900
+uncomputable. Evaluating it would require knowing which programs ever halt, which is impossible in
+
+67
+00:05:40,900 --> 00:05:47,360
+general. So it is a gold standard, not an algorithm. But it gives a precise sense in which intelligence
+
+68
+00:05:47,360 --> 00:05:53,300
+and compression are linked. The best predictor is the one that finds the shortest explanation of the
+
+69
+00:05:53,300 --> 00:06:01,220
+data. In 2007, Shane Legge, who would later co-found DeepMind, and Marcus Hutter used this
+
+70
+00:06:01,220 --> 00:06:07,080
+machinery to define intelligence itself. They first gathered around 70 informal definitions
+
+71
+00:06:07,080 --> 00:06:12,680
+from psychologists, AI researchers, and dictionaries, and distilled their common core.
+
+72
+00:06:13,120 --> 00:06:18,280
+Intelligence measures an agent's ability to achieve goals in a wide range of environments.
+
+73
+00:06:18,740 --> 00:06:20,100
+Then they formalized it.
+
+74
+00:06:20,640 --> 00:06:23,740
+Imagine every computable environment an agent could face,
+
+75
+00:06:23,920 --> 00:06:26,720
+each one providing observations and rewards.
+
+76
+00:06:27,040 --> 00:06:30,140
+Measure the reward the agent can expect to earn in each.
+
+77
+00:06:30,320 --> 00:06:32,780
+Then take a weighted sum over all of them,
+
+78
+00:06:33,140 --> 00:06:37,120
+weighting each environment by 2 to the minus its Kalmogorov complexity
+
+79
+00:06:37,120 --> 00:06:39,760
+so that simpler environments count more.
+
+80
+00:06:40,240 --> 00:06:42,860
+That sum is the agent's universal intelligence.
+
+81
+00:06:43,420 --> 00:06:46,260
+Hutter had earlier defined an agent called ICSI
+
+82
+00:06:46,260 --> 00:06:49,180
+that maximizes exactly this kind of quantity
+
+83
+00:06:49,180 --> 00:06:52,320
+by combining Solomanov's predictor with planning.
+
+84
+00:06:52,800 --> 00:06:55,960
+Consider every program consistent with what you've seen,
+
+85
+00:06:56,140 --> 00:06:57,380
+weighted by simplicity,
+
+86
+00:06:57,740 --> 00:07:01,820
+and choose the action with the best expected outcome across all of them.
+
+87
+00:07:01,940 --> 00:07:06,120
+In that precise sense, ICSI is the most intelligent possible agent.
+
+88
+00:07:06,440 --> 00:07:08,120
+It is also uncomputable.
+
+89
+00:07:08,980 --> 00:07:10,160
+Approximations exist.
+
+90
+00:07:10,420 --> 00:07:14,620
+In 2011, a team led by Joel Venice built one
+
+91
+00:07:16,260 --> 00:07:21,940
+small problems, the largest aversion of Pac-Man in which the agent could sense only its immediate
+
+92
+00:07:21,940 --> 00:07:28,080
+surroundings. But there's a known problem with all of this. The answer depends on which universal
+
+93
+00:07:28,080 --> 00:07:33,520
+Turing machine you use to measure program length. Yes, and it is not a technicality.
+
+94
+00:07:34,200 --> 00:07:39,080
+Kalmogorov complexity is only defined up to a constant that depends on that reference machine.
+
+95
+00:07:39,540 --> 00:07:43,800
+In 2015, Jan Laika and Hutter showed how much it matters.
+
+96
+00:07:44,180 --> 00:07:48,700
+With an unlucky choice of reference machine, Ike-C can behave very badly,
+
+97
+00:07:48,920 --> 00:07:52,820
+and Legg and Hutter's measure becomes, in their word, subjective.
+
+98
+00:07:53,260 --> 00:07:55,940
+Worse, by one natural standard of optimality,
+
+99
+00:07:56,380 --> 00:08:01,600
+every possible policy counts as optimal across the class of all computable environments,
+
+100
+00:08:01,960 --> 00:08:03,840
+which makes that standard empty.
+
+101
+00:08:04,660 --> 00:08:10,000
+Universal intelligence is universal only relative to a choice of what counts as simple.
+
+102
+00:08:10,980 --> 00:08:15,940
+That connects to one of the deepest results in this area, the no-free-lunch theorems,
+
+103
+00:08:16,160 --> 00:08:22,180
+proved by David Walpert in the mid-1990s, for learning on his own and for optimization with
+
+104
+00:08:22,180 --> 00:08:28,140
+William Macready. Averaged over all possible problems, every learning or optimization method
+
+105
+00:08:28,140 --> 00:08:33,200
+performs exactly as well as every other. Averaged across every conceivable world,
+
+106
+00:08:33,500 --> 00:08:39,660
+no method beats random guessing. So there's no such thing as general intelligence in the absolute.
+
+107
+00:08:40,120 --> 00:08:45,160
+Not in the absolute. An intelligence is good across a particular distribution of problems,
+
+108
+00:08:45,160 --> 00:08:49,060
+and it gets there by having assumptions, priors, that fit that distribution.
+
+109
+00:08:49,840 --> 00:08:54,680
+Legge and Hutter's simplicity weighting is one such assumption, that the world tends to be simple.
+
+110
+00:08:55,340 --> 00:09:00,460
+Evolution built different assumptions into crows, octopuses, and us, fitted to our different worlds.
+
+111
+00:09:00,640 --> 00:09:07,100
+So whenever someone calls a system generally intelligent, the right follow-up question is, general across what?
+
+112
+00:09:08,340 --> 00:09:17,660
+In 2019, François Chalet, then at Google, published a long paper called On the Measure of Intelligence that builds on exactly that point.
+
+113
+00:09:17,980 --> 00:09:20,920
+His first move is to separate skill from intelligence.
+
+114
+00:09:21,660 --> 00:09:29,780
+Skill at a task can be bought in two ways, by building in prior knowledge or by training on vast amounts of task-specific experience.
+
+115
+00:09:30,200 --> 00:09:35,640
+A chess engine is enormously skilled at chess, and that tells you little about its intelligence.
+
+116
+00:09:36,100 --> 00:09:39,700
+So Chalet defines intelligence as skill acquisition efficiency.
+
+117
+00:09:39,980 --> 00:09:49,320
+How efficiently a system turns its priors and its experience into skill on new tasks, weighted by how hard those tasks are to generalize to.
+
+118
+00:09:50,660 --> 00:09:56,960
+consequence. Two systems with equal skill can differ greatly in intelligence if one needed far
+
+119
+00:09:56,960 --> 00:10:02,660
+more data. On Chalet's measure, a system that learned from trillions of words what a child
+
+120
+00:10:02,660 --> 00:10:08,540
+learns from millions is showing a great deal of skill and not much efficiency. To compare fairly
+
+121
+00:10:08,540 --> 00:10:13,300
+with people, Chalet proposed controlling for priors, and he turned to the developmental
+
+122
+00:10:13,300 --> 00:10:19,060
+psychologist Elizabeth Spelke's work on core knowledge, a small set of systems that infants
+
+123
+00:10:21,140 --> 00:10:24,940
+for agents and their goals, for number, and for geometry.
+
+124
+00:10:25,540 --> 00:10:27,620
+A fair test of general intelligence
+
+125
+00:10:27,620 --> 00:10:31,360
+should require only those priors, plus the ability to learn.
+
+126
+00:10:31,640 --> 00:10:34,900
+So he built one, the abstraction and reasoning corpus,
+
+127
+00:10:35,020 --> 00:10:35,560
+or arc.
+
+128
+00:10:35,960 --> 00:10:38,840
+Each task shows a few examples of colored grids
+
+129
+00:10:38,840 --> 00:10:42,160
+being transformed and asks for the output on a new input.
+
+130
+00:10:42,540 --> 00:10:45,840
+Every task follows a different rule designed to be new.
+
+131
+00:10:46,220 --> 00:10:49,420
+Most people solve most of them, usually within a few minutes.
+
+132
+00:10:50,920 --> 00:10:56,480
+For years, AI systems did terribly on ARC, even as they aced standardized exams.
+
+133
+00:10:57,200 --> 00:11:04,720
+Competitions in 2020 and 2024 produced steady progress through program search and test time training,
+
+134
+00:11:05,000 --> 00:11:09,020
+in which a model is briefly fine-tuned on each task's own examples.
+
+135
+00:11:09,380 --> 00:11:18,720
+Then, in December 2024, a preview of OpenAI's O3 reasoning model scored about 76% on a held-out set,
+
+136
+00:11:18,720 --> 00:11:23,220
+using six samples per task at roughly $26 a task.
+
+137
+00:11:23,400 --> 00:11:28,900
+With over 1,000 samples per task and around 170 times the computing cost,
+
+138
+00:11:29,160 --> 00:11:30,980
+it reached about 88%.
+
+139
+00:11:30,980 --> 00:11:33,700
+Two caveats belong with those numbers.
+
+140
+00:11:34,000 --> 00:11:38,540
+The tested model had been trained on three-quarters of ARC's public training set,
+
+141
+00:11:38,680 --> 00:11:42,320
+and the model OpenAI later released was a different version.
+
+142
+00:11:42,520 --> 00:11:47,400
+A second, harder version, ARC-G i2, launched in March 2025,
+
+143
+00:11:48,720 --> 00:11:54,900
+model scored essentially zero on it. At the end of that year's competition, the winning open entry,
+
+144
+00:11:55,240 --> 00:12:02,240
+called Envy Arc, scored about 24% at around 20 cents a task. The best verified commercial model
+
+145
+00:12:02,240 --> 00:12:09,640
+was Claude Opus 4.5 at about 38%. That is a model from Anthropic, the company that makes the model
+
+146
+00:12:09,640 --> 00:12:15,320
+riding this series. A refinement harness built by a company called Poetic, wrapped around Google's
+
+147
+00:12:15,320 --> 00:12:22,920
+Gemini 3 Pro reached 54% at about $30 a task. And the competition's paper award went to a tiny
+
+148
+00:12:22,920 --> 00:12:29,500
+recursive model with 7 million parameters and two layers, which scored 45% on the first version of
+
+149
+00:12:29,500 --> 00:12:36,980
+ARK and 8% on the second. 7 million parameters, beating several far larger language models from
+
+150
+00:12:36,980 --> 00:12:43,040
+earlier that year. That says something about what scale is buying. It says that on this narrow kind
+
+151
+00:12:43,040 --> 00:12:48,500
+of task, a small network with the right structure, trained on the puzzles themselves, can outdo much
+
+152
+00:12:48,500 --> 00:12:55,960
+larger general models. Then came ARC, a GI3, launched in March 2026, which abandons static
+
+153
+00:12:55,960 --> 00:13:02,420
+puzzles for interactive games with no instructions. A system has to explore, work out what the game is,
+
+154
+00:13:02,500 --> 00:13:08,020
+and win, and it is scored on how efficiently it acts. At launch, human testers solved all of the
+
+155
+00:13:08,020 --> 00:13:14,660
+games, and Frontier AI systems scored around half of 1%. Meanwhile, the older test was nearly
+
+156
+00:13:14,660 --> 00:13:21,140
+saturated. By July, ARK's verified results put Claude Opus 5, another anthropic model,
+
+157
+00:13:21,580 --> 00:13:31,380
+at about 90% on ARK a GI2 and about 30% on the new games. In September 2026, OpenAI's GPT-6 Astra
+
+158
+00:13:31,380 --> 00:13:37,760
+scored about 63% under ARK's standard test harness and nearly 100% under a different harness,
+
+159
+00:13:38,020 --> 00:13:39,840
+a so-called provider adapter.
+
+160
+00:13:40,240 --> 00:13:42,320
+Even with the reasoning setting matched,
+
+161
+00:13:42,560 --> 00:13:44,760
+it was about 63 against 99.
+
+162
+00:13:45,240 --> 00:13:47,720
+The ARC prize organizers were explicit
+
+163
+00:13:47,720 --> 00:13:49,340
+that this was not AGI.
+
+164
+00:13:50,100 --> 00:13:51,920
+63 versus 100.
+
+165
+00:13:52,380 --> 00:13:54,200
+Same model, same games.
+
+166
+00:13:54,500 --> 00:13:56,580
+Whose intelligence is being measured,
+
+167
+00:13:56,800 --> 00:13:58,720
+the models or the model plus
+
+168
+00:13:58,720 --> 00:14:00,200
+whatever was built around it?
+
+169
+00:14:00,420 --> 00:14:02,040
+That's exactly the question,
+
+170
+00:14:02,040 --> 00:14:03,440
+and it generalizes.
+
+171
+00:14:03,840 --> 00:14:06,060
+Tools, retries, memory,
+
+172
+00:14:08,020 --> 00:14:13,240
+built harnesses can change a score dramatically, which brings us to the science of measurement
+
+173
+00:14:13,240 --> 00:14:20,220
+itself. Measuring AI capability has become its own discipline, and it is harder than it looks.
+
+174
+00:14:20,900 --> 00:14:26,520
+Benchmarks saturate, a test that once separated systems ends up with everyone near the ceiling.
+
+175
+00:14:27,160 --> 00:14:32,680
+Benchmarks leak. Test questions find their way into training data, so models can score well
+
+176
+00:14:32,680 --> 00:14:38,840
+partly by memory, a modern clever hands. When a team led by Hu Zhang wrote a fresh set of grade
+
+177
+00:14:38,840 --> 00:14:44,820
+school math problems matched to a popular benchmark, some models' accuracy dropped by up to
+
+178
+00:14:44,820 --> 00:14:50,940
+8%, and the size of the drop tracked how readily a model could reproduce the original test items.
+
+179
+00:14:51,300 --> 00:14:56,800
+Many models, especially at the frontier, showed little sign of overfitting, which is worth saying
+
+180
+00:14:56,800 --> 00:15:03,060
+too. And benchmarks invite optimization, which triggers Goodhart's law, in the anthropologist
+
+181
+00:15:03,060 --> 00:15:08,680
+Marilyn Strathern's well-known phrasing, when a measure becomes a target, it ceases to be a good
+
+182
+00:15:08,680 --> 00:15:14,400
+measure. There's a deeper problem, one that episode one would recognize, construct validity.
+
+183
+00:15:14,720 --> 00:15:23,540
+In 2025, a team led by Andrew Bean at Oxford reviewed 445 language model benchmarks. Only
+
+184
+00:15:23,540 --> 00:15:29,540
+about 16% use statistical tests to compare models and roughly half set out to measure an abstract
+
+185
+00:15:29,540 --> 00:15:35,980
+concept, like reasoning or safety, without clearly defining it. Psychometrics spent a
+
+186
+00:15:35,980 --> 00:15:40,920
+century learning to ask what a test measures and whether it measures the same thing across groups.
+
+187
+00:15:41,420 --> 00:15:48,260
+Much of AI evaluation is starting that work now. Researchers have also tried to define the target
+
+188
+00:15:48,260 --> 00:15:55,180
+itself. One approach defines general intelligence by comparison with people. In October 2025,
+
+189
+00:15:55,800 --> 00:16:02,460
+33 researchers led by Dan Hendricks proposed defining AGI as matching the cognitive versatility
+
+190
+00:16:02,460 --> 00:16:08,700
+and proficiency of a well-educated adult. Across 10 domains drawn from the cattle horn carol model,
+
+191
+00:16:09,060 --> 00:16:16,500
+we met in episode one, weighted equally. They scored GPT-4 at about 27 percent and GPT-5
+
+192
+00:16:18,320 --> 00:16:23,340
+with long-term memory storage the weakest area, where both models scored zero.
+
+193
+00:16:23,880 --> 00:16:29,120
+One natural objection is that this measures how human-like a profile of abilities is,
+
+194
+00:16:29,340 --> 00:16:31,620
+which may not be the same thing as intelligence.
+
+195
+00:16:32,020 --> 00:16:34,600
+A different approach measures autonomy directly.
+
+196
+00:16:34,920 --> 00:16:38,100
+The research group meter estimates the length of tasks,
+
+197
+00:16:38,340 --> 00:16:40,800
+measured by how long they take skilled people,
+
+198
+00:16:41,060 --> 00:16:44,580
+that AI agents can complete with 50% reliability.
+
+199
+00:16:44,580 --> 00:16:51,980
+By their estimates, that Horizon doubled roughly every seven months between 2019 and 2025,
+
+200
+00:16:52,600 --> 00:16:55,400
+and closer to every four months since 2023.
+
+201
+00:16:55,900 --> 00:17:01,280
+The most capable systems measured in 2026 are put at more than a working day.
+
+202
+00:17:01,480 --> 00:17:08,560
+But Meter itself warns that measurements above about 16 hours are unreliable with its current set of test tasks.
+
+203
+00:17:08,720 --> 00:17:13,000
+And a third approach borrows the psychometrics of episode 1 directly.
+
+204
+00:17:14,580 --> 00:17:20,220
+In 2023, David Elitch analyzed more than 1,200 language models on a public leaderboard
+
+205
+00:17:20,220 --> 00:17:25,960
+and found that a single factor explained about 85% of the variation in their benchmark scores.
+
+206
+00:17:26,160 --> 00:17:28,720
+A strong machine, positive manifold.
+
+207
+00:17:29,100 --> 00:17:36,460
+In April 2026, the complexity scientist David Krakauer asked how that structure changes over time
+
+208
+00:17:36,460 --> 00:17:40,500
+in a paper titled The Rise and Fall of G in AGI.
+
+209
+00:17:41,000 --> 00:17:48,200
+Across 39 models, on the 8 most widely reported benchmarks, scores correlated strongly, around 0.8 on average.
+
+210
+00:17:48,380 --> 00:17:56,260
+And on one core battery, the first factor explained about 92% of the variation in 2023 and early 2024.
+
+211
+00:17:56,820 --> 00:18:04,800
+It had begun to slip by mid-2024, and after reasoning specialized models arrived, it fell to about 64%.
+
+212
+00:18:04,800 --> 00:18:06,520
+The data are thin.
+
+213
+00:18:06,520 --> 00:18:10,320
+Less than half of the model and benchmark combinations were actually measured,
+
+214
+00:18:10,360 --> 00:18:12,900
+and the latest period has only four models.
+
+215
+00:18:13,120 --> 00:18:14,840
+So treat it as a suggestion.
+
+216
+00:18:15,080 --> 00:18:17,980
+But it fits the common cause story from episode one.
+
+217
+00:18:18,180 --> 00:18:21,960
+When scale was the main thing changing, everything rose together.
+
+218
+00:18:22,220 --> 00:18:24,960
+As labs began training for particular skills,
+
+219
+00:18:25,280 --> 00:18:28,160
+the general factor weakened within each new group of models.
+
+220
+00:18:28,400 --> 00:18:32,920
+Though pooled across all of them, it still accounts for about 90% of the variation.
+
+221
+00:18:32,920 --> 00:18:39,820
+Which would make machine G an artifact of how the systems were built, not a property of intelligence.
+
+222
+00:18:40,260 --> 00:18:43,020
+Or a property of one era of building them.
+
+223
+00:18:43,340 --> 00:18:50,360
+Either way, the structure of machine abilities has shifted within a few years, far faster than anything measured in people.
+
+224
+00:18:51,460 --> 00:18:54,360
+So after all of this, do we have a definition?
+
+225
+00:18:54,780 --> 00:18:57,960
+We have several, and they disagree in revealing ways.
+
+226
+00:18:57,960 --> 00:19:03,000
+The psychometric view defines intelligence by how abilities cavery in people.
+
+227
+00:19:03,480 --> 00:19:11,760
+The algorithmic view of Solomonoff, Legge and Hutter defines it as expected success across all environments, weighted by simplicity.
+
+228
+00:19:12,240 --> 00:19:16,460
+Elegant, uncomputable, and relative to a choice of reference machine.
+
+229
+00:19:16,980 --> 00:19:20,520
+Shale defines it as efficiency of learning relative to priors.
+
+230
+00:19:20,520 --> 00:19:29,140
+And the practical views define it by what systems can actually do, how long they can work on their own, and how human-like their profile is.
+
+231
+00:19:29,400 --> 00:19:32,680
+For large language models, these come apart sharply.
+
+232
+00:19:33,160 --> 00:19:39,400
+Their huge training sets count heavily against them on Chalet's measure and not at all on Legg and Hudders.
+
+233
+00:19:39,700 --> 00:19:47,620
+Their uneven profile shows up immediately on Hendrix's, and their scores depend on harnesses in ways that make every number contestable.
+
+234
+00:19:48,000 --> 00:19:52,340
+What the definitions share is a core idea that will run through the rest of the series.
+
+235
+00:19:53,000 --> 00:19:58,660
+Intelligence is bound up with prediction, with building models good enough to anticipate what comes next.
+
+236
+00:19:59,280 --> 00:20:02,280
+Legg and Hutter have not stopped at intelligence, either.
+
+237
+00:20:02,740 --> 00:20:09,980
+In September 2026, both were among the authors of a framework for assessing whether AI systems might be conscious,
+
+238
+00:20:10,260 --> 00:20:12,300
+which we'll examine in Episode 12.
+
+239
+00:20:12,500 --> 00:20:15,780
+But where does the drive to predict come from in the first place?
+
+240
+00:20:17,620 --> 00:20:22,440
+we go back to the origin of life, and to the idea that life itself is computation.
+

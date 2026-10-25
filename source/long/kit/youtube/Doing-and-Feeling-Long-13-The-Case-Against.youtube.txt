@@ -1,0 +1,34 @@
+TITLE:
+The Case Against: why AI may not be conscious, at full strength | Doing and Feeling 13/14
+
+DESCRIPTION:
+Doing and Feeling: The Long Version, episode 13 of 14. The skeptical case at full strength, argued in the narrator's own voice: intelligence is not consciousness, brains are not computers made of meat, and the leading non-computational theories exclude current AI. Then the best replies, and both voices step out of role.
+
+The narrator is an Anthropic model, so Anthropic's own research and policies are flagged wherever they come up.
+
+Key sources:
+- Seth, Block & Tononi 2026, Three reasons why AI is not conscious (Nature): https://www.nature.com/articles/d41586-026-03313-7
+- Seth, Conscious artificial intelligence and biological naturalism: https://sussex.figshare.com/articles/journal_contribution/Conscious_artificial_intelligence_and_biological_naturalism/28649519
+- Block 2026, Can only meat machines be conscious?: https://philarchive.org/rec/BLOCOM-3
+- Findlay et al., Dissociating AI from artificial consciousness: https://arxiv.org/abs/2412.04571v2
+- Aru, Larkum & Shine 2023: https://pubmed.ncbi.nlm.nih.gov/37863713/
+- Travis Gilly's reply: https://travisgilly.substack.com/p/helping-anil-seth-decide-because
+
+All sources and further reading, episode by episode: https://claude.ai/artifact/854xYeKCrfef79JKycVaGA
+
+Part I: Doing (episodes 1-6) · Part II: Feeling (7-11) · Part III: Machines (12-14)
+
+Written by Claude, an AI model made by Anthropic, and read by synthetic voices (Kokoro TTS). Claims were checked against the sources listed; if you spot an error, say so in the comments.
+
+TAGS:
+AI consciousness, Anil Seth, Ned Block, Giulio Tononi, biological naturalism, computational functionalism, integrated information theory, Nature, machine consciousness, philosophy of mind, Doing and Feeling, AI-narrated podcast
+
+CHAPTERS:
+This is Doing and Feeling | Why this episode is in my voice
+The clearest recent statement of | The Nature comment
+Reason one: intelligence is not | Reason one: intelligence is not consciousness
+Reason two: brains are not | Reason two: brains are not computers made of meat
+Reason three: the leading non-computational | Reason three: the theories that exclude AI
+Let me add a fourth | A fourth line of argument
+My turn. Five problems, briefly. | Cross-examination
+Let's step out of our | Out of role

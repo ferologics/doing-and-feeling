@@ -1,0 +1,844 @@
+1
+00:00:00,000 --> 00:00:23,880
+This is Doing and Feeling, the long version. Episode 5, The Predictive Brain. Take a hollow mask of a face and turn it so you're looking at its inside, the concave side. You'd expect to see a hollow. Most people do not. They see a normal face bulging toward them, and if the mask rotates, the face seems to turn the wrong way, eerily tracking them. Knowing that it's hollow does not help.
+
+2
+00:00:23,880 --> 00:00:28,520
+Your brain has an extremely strong expectation that faces are convex,
+
+3
+00:00:28,660 --> 00:00:33,460
+and the light reaching your eyes is ambiguous enough that the expectation wins.
+
+4
+00:00:33,660 --> 00:00:39,440
+In one small brain imaging study from 2009, with 13 patients and 16 controls,
+
+5
+00:00:40,040 --> 00:00:42,820
+healthy volunteers were fooled almost every time,
+
+6
+00:00:43,000 --> 00:00:46,340
+while people with schizophrenia were fooled far less often.
+
+7
+00:00:46,660 --> 00:00:52,840
+It's a small sample, but it fits the idea that the balance between expectation and evidence is a setting,
+
+8
+00:00:53,880 --> 00:00:59,020
+be set differently. This episode argues that the brain is well described as a prediction machine,
+
+9
+00:00:59,220 --> 00:01:03,320
+and then shows where that description is solid and where it is still mostly slogan.
+
+10
+00:01:03,580 --> 00:01:08,680
+We'll put the idea through five tests. Perception, the wiring of the cortex,
+
+11
+00:01:09,140 --> 00:01:15,220
+a grand unifying principle, reward, and the brain's internal maps. It's the bridge between
+
+12
+00:01:15,220 --> 00:01:19,080
+the computational story of the last episode and the machines of the next.
+
+13
+00:01:19,980 --> 00:01:25,040
+The modern form of the idea starts with Hermann von Helmholtz in the 1860s.
+
+14
+00:01:25,420 --> 00:01:29,120
+Perception, he argued, involves unconscious inference.
+
+15
+00:01:29,440 --> 00:01:35,600
+The brain receives ambiguous signals and infers their most probable causes, drawing on experience.
+
+16
+00:01:36,020 --> 00:01:38,060
+The modern form is Bayesian.
+
+17
+00:01:38,400 --> 00:01:43,260
+Combine a likelihood, how well each possible cause would explain the incoming signals,
+
+18
+00:01:43,320 --> 00:01:46,900
+with a prior, how probable each cause was to begin with,
+
+19
+00:01:46,900 --> 00:01:49,880
+and you get a posterior, the brain's best guess.
+
+20
+00:01:50,420 --> 00:01:54,880
+The hollow mask is what happens when the prior is strong and the likelihood is weak.
+
+21
+00:01:55,120 --> 00:01:56,960
+Is the brain actually Bayesian?
+
+22
+00:01:57,180 --> 00:02:00,660
+The best evidence comes from experiments on combining the senses.
+
+23
+00:02:01,020 --> 00:02:07,980
+In 2002, Mark Ernst and Martin Banks had people judge the height of a bar they could both see and feel.
+
+24
+00:02:08,240 --> 00:02:13,000
+When the researchers added noise to the visual display, people leaned more on touch,
+
+25
+00:02:13,000 --> 00:02:17,640
+and they weighted the two senses almost exactly as an ideal statistician would,
+
+26
+00:02:17,840 --> 00:02:19,980
+in proportion to each one's reliability.
+
+27
+00:02:20,260 --> 00:02:24,580
+But there is a long list of cases where people are measurably not optimal.
+
+28
+00:02:24,920 --> 00:02:30,960
+In 2018, Dobromir Ranev and Rachel Denison cataloged them in a Target article
+
+29
+00:02:30,960 --> 00:02:33,640
+for the journal Behavioral and Brain Sciences,
+
+30
+00:02:33,960 --> 00:02:38,840
+and argued that claims of optimality are often flexible enough to fit almost anything.
+
+31
+00:02:39,080 --> 00:02:42,400
+Their advice was to stop asking whether the brain is optimal
+
+32
+00:02:43,000 --> 00:02:49,400
+start building explicit models of what observers actually do. In that journal, a target article is
+
+33
+00:02:49,400 --> 00:02:55,060
+published together with many short commentaries from other researchers and a reply from the authors,
+
+34
+00:02:55,060 --> 00:03:01,980
+which is a good way to see how contested even this basic claim is. So is the brain Bayesian or not?
+
+35
+00:03:02,260 --> 00:03:08,280
+The fairest answer is that it uses priors and weights evidence by reliability, approximately,
+
+36
+00:03:08,280 --> 00:03:14,280
+with systematic shortcuts. Bayesian is a good framework for asking what the brain is computing.
+
+37
+00:03:14,620 --> 00:03:17,740
+It is not a finding that the brain computes it perfectly.
+
+38
+00:03:18,700 --> 00:03:26,740
+The second test is the cortex itself. In 1999, Rajesh Rao and Dana Ballard proposed an influential
+
+39
+00:03:26,740 --> 00:03:33,280
+model of predictive coding in visual cortex. The visual system is a hierarchy. In their model,
+
+40
+00:03:33,620 --> 00:03:37,180
+each level sends predictions down about what the level below should be seeing,
+
+41
+00:03:38,280 --> 00:03:43,560
+only the prediction error, the part of the signal that was not predicted. When predictions are good,
+
+42
+00:03:43,900 --> 00:03:49,100
+little needs to travel upward. Their model explained puzzling properties of neurons in
+
+43
+00:03:49,100 --> 00:03:54,760
+visual cortex, such as cells that respond less to a line when it extends beyond the patch they
+
+44
+00:03:54,760 --> 00:04:00,300
+monitor, because the extension was predictable from context. That's a compression scheme.
+
+45
+00:04:00,720 --> 00:04:06,420
+Video codecs do the same thing. Send keyframes, then only the differences from what you'd predict.
+
+46
+00:04:08,280 --> 00:04:13,640
+episode 3's equivalence of prediction and compression, is no accident. How much of what
+
+47
+00:04:13,640 --> 00:04:20,600
+comes in actually reaches behavior? In a 2024 paper, Ji-Yu Zhang and Marcus Meister estimated
+
+48
+00:04:20,600 --> 00:04:26,100
+that human behavior carries about 10 bits of information per second, while our senses take
+
+49
+00:04:26,100 --> 00:04:30,380
+in something like a billion. They called the gap the unbearable slowness of being.
+
+50
+00:04:30,600 --> 00:04:34,720
+The authors stress how little anyone understands about that bottleneck,
+
+51
+00:04:34,720 --> 00:04:38,880
+but it is at least consistent with a brain that keeps a model of its world
+
+52
+00:04:38,880 --> 00:04:42,300
+and passes on mainly what the model failed to anticipate.
+
+53
+00:04:42,620 --> 00:04:45,680
+The supporting evidence for predictive coding is real.
+
+54
+00:04:46,160 --> 00:04:49,080
+Neural responses shrink when a stimulus repeats,
+
+55
+00:04:49,220 --> 00:04:54,940
+and in 2008, Christopher Summerfield and colleagues showed with functional MRI
+
+56
+00:04:54,940 --> 00:04:58,480
+that this repetition suppression in a face-processing region
+
+57
+00:04:58,480 --> 00:05:00,840
+was stronger when repeats were expected.
+
+58
+00:05:00,840 --> 00:05:04,160
+A well-known brainwave, the mismatched negativity,
+
+59
+00:05:04,720 --> 00:05:08,500
+appears when a run of identical tones is broken by a deviant one.
+
+60
+00:05:08,700 --> 00:05:11,600
+And if you omit a tone from a predictable sequence,
+
+61
+00:05:11,940 --> 00:05:14,380
+auditory cortex responds to the silence.
+
+62
+00:05:14,700 --> 00:05:17,900
+In predictive coding, attention becomes precision.
+
+63
+00:05:18,200 --> 00:05:21,420
+The weight the brain gives to prediction errors from a source,
+
+64
+00:05:21,660 --> 00:05:24,940
+depending on how reliable that source is expected to be.
+
+65
+00:05:25,340 --> 00:05:26,240
+Now the mess.
+
+66
+00:05:26,460 --> 00:05:30,880
+When Dmitry Kalyakovich and Rufin Vogels recorded single neurons
+
+67
+00:05:30,880 --> 00:05:32,800
+in the monkey's temporal cortex,
+
+68
+00:05:34,720 --> 00:05:40,240
+not depend on how likely the repeat was. Summerfield's own group later called the mismatch
+
+69
+00:05:40,240 --> 00:05:45,460
+between the brain scans and the neurons unexplained. And there's a live dispute right now.
+
+70
+00:05:45,980 --> 00:05:52,380
+A large preprint led by Jacob Westerberg and Andrei Bastos, recording from Mice and Monkeys,
+
+71
+00:05:52,900 --> 00:05:58,000
+reported that most oddball responses in sensory cortex are explained by adaptation,
+
+72
+00:05:58,440 --> 00:06:04,100
+neurons simply tiring of repeated input. Responses to violations of a learned sequence
+
+73
+00:06:04,720 --> 00:06:11,400
+came late, and in the monkeys, appeared first in prefrontal cortex, which suggests the deep
+
+74
+00:06:11,400 --> 00:06:17,360
+prediction errors may be computed higher up rather than at every level. Then, in January 2026,
+
+75
+00:06:17,980 --> 00:06:24,480
+another preprint from Jordan Ham's lab found that primary visual cortex in mice does respond to
+
+76
+00:06:24,480 --> 00:06:30,480
+sequence-level surprises, learned within fewer than 10 repetitions, and that the effect vanished
+
+77
+00:06:30,480 --> 00:06:36,760
+when feedback from a frontal region, the anterior cingulate, was silenced. Both were posted as per
+
+78
+00:06:36,760 --> 00:06:41,120
+prints, and they may be measuring somewhat different things. But notice what is being
+
+79
+00:06:41,120 --> 00:06:47,580
+argued about. Nobody in this fight doubts that the brain predicts. In 2025, the International
+
+80
+00:06:47,580 --> 00:06:53,320
+Brain Laboratory published a brain-wide map of mice making decisions, recorded from more than
+
+81
+00:06:53,320 --> 00:07:00,560
+half a million neurons across 279 brain areas. It found the animal's prior expectations encoded
+
+82
+00:07:00,560 --> 00:07:05,580
+in at least a fifth to a third of the regions, at every level from early sensory areas,
+
+83
+00:07:05,760 --> 00:07:11,720
+including the thalamus, up to motor and frontal cortex. What's in question is the specific
+
+84
+00:07:11,720 --> 00:07:16,020
+textbook circuit, in which every level computes errors and passes them up.
+
+85
+00:07:16,920 --> 00:07:20,260
+The third test is the grandest version of the idea.
+
+86
+00:07:20,660 --> 00:07:26,560
+Starting in the mid-2000s, the neuroscientist Carl Fristen proposed the free energy principle.
+
+87
+00:07:26,980 --> 00:07:28,400
+Here's the core logic.
+
+88
+00:07:28,700 --> 00:07:32,660
+Any system that persists, a cell, an organism, a brain,
+
+89
+00:07:32,860 --> 00:07:36,500
+must stay within a limited set of states compatible with its existence.
+
+90
+00:07:36,860 --> 00:07:38,740
+A fish must stay in water.
+
+91
+00:07:39,140 --> 00:07:43,140
+In information-theoretic terms, it must avoid surprising states.
+
+92
+00:07:43,140 --> 00:07:49,820
+But a system cannot measure surprise directly, because that would require knowing the true probability of everything.
+
+93
+00:07:50,300 --> 00:07:57,200
+What it can do is minimize a quantity called variational free energy, which is always at least as large as surprise.
+
+94
+00:07:57,860 --> 00:08:00,720
+Keep free energy low, and you keep surprise low.
+
+95
+00:08:01,040 --> 00:08:07,160
+That's the evidence lower bound from variational inference. Free energy is just its negative.
+
+96
+00:08:07,660 --> 00:08:09,540
+Exactly the same mathematics.
+
+97
+00:08:10,320 --> 00:08:12,200
+Minimizing it does two things at once.
+
+98
+00:08:12,380 --> 00:08:15,960
+It makes the system's approximate posterior closer to the true one,
+
+99
+00:08:16,060 --> 00:08:19,280
+and it improves how well the system's model fits its data.
+
+100
+00:08:19,740 --> 00:08:26,460
+In a variational autoencoder, an encoder network learns to produce that approximate posterior in a single pass.
+
+101
+00:08:26,900 --> 00:08:31,560
+Predictive coding settles on it gradually by passing errors back and forth.
+
+102
+00:08:32,180 --> 00:08:33,920
+Friston adds two big ideas.
+
+103
+00:08:34,320 --> 00:08:39,560
+The first is the Markov blanket, a statistical boundary that separates a system's internal
+
+104
+00:08:39,560 --> 00:08:44,560
+states from the world, mediated by sensory states coming in and active states going out.
+
+105
+00:08:44,880 --> 00:08:46,880
+The second is active inference.
+
+106
+00:08:47,120 --> 00:08:52,540
+An organism can reduce prediction error in two ways, change its predictions to fit the
+
+107
+00:08:52,540 --> 00:08:57,500
+world, which is perception, or change the world to fit its predictions, which is action.
+
+108
+00:08:57,740 --> 00:09:02,640
+When you reach for a cup, on this view, your brain predicts the sensations of grasping
+
+109
+00:09:03,920 --> 00:09:10,000
+act to make that prediction come true. To choose actions, agents score them by a related quantity
+
+110
+00:09:10,000 --> 00:09:14,840
+called expected free energy, which combines getting what you prefer with reducing your
+
+111
+00:09:14,840 --> 00:09:21,140
+uncertainty. That second part is a principled account of curiosity. There's a classic objection
+
+112
+00:09:21,140 --> 00:09:27,480
+called the dark room problem. If organisms minimize surprise, why do not we all sit in a dark, quiet
+
+113
+00:09:27,480 --> 00:09:33,440
+room? The standard answer, from a 2012 paper by Friston, Christopher Thornton, and Andy Clark,
+
+114
+00:09:33,920 --> 00:09:37,360
+is that surprise is relative to an organism's model of itself.
+
+115
+00:09:37,700 --> 00:09:41,500
+A creature that expects to eat, stay warm and explore
+
+116
+00:09:41,500 --> 00:09:43,840
+would find a dark room deeply surprising.
+
+117
+00:09:44,860 --> 00:09:47,020
+The principle has serious critics.
+
+118
+00:09:47,400 --> 00:09:51,260
+If minimizing free energy covers perception, action,
+
+119
+00:09:51,720 --> 00:09:53,620
+attention and learning all at once,
+
+120
+00:09:53,920 --> 00:09:56,440
+what observation could ever count against it?
+
+121
+00:09:56,700 --> 00:10:00,820
+That's the first criticism, and Friston largely agrees, in a sense.
+
+122
+00:10:01,020 --> 00:10:03,540
+He describes it as a mathematical principle,
+
+123
+00:10:03,920 --> 00:10:08,300
+like the principle of least action in physics, from which testable process theories,
+
+124
+00:10:08,540 --> 00:10:13,460
+such as predictive coding, can be derived. Critics reply that a framework that can describe
+
+125
+00:10:13,460 --> 00:10:18,320
+anything explains nothing until you commit to a specific process theory, and the process
+
+126
+00:10:18,320 --> 00:10:22,900
+theories are where the evidence lives, and where, as we just saw, the fights are.
+
+127
+00:10:23,080 --> 00:10:29,940
+The second is technical. In a 2022 Behavioral and Brain Sciences Target article titled The
+
+128
+00:10:29,940 --> 00:10:36,300
+Emperor's New Markov Blankets, Gell Bruinberg and colleagues argued that the field uses Markov
+
+129
+00:10:36,300 --> 00:10:43,180
+blankets in two senses. One is a formal tool from statistics, a property of a model. The other is a
+
+130
+00:10:43,180 --> 00:10:49,260
+claim about real physical boundaries between organisms and their environments. Sliding between
+
+131
+00:10:49,260 --> 00:10:54,820
+them, they argue, makes the framework seem to deliver more than it does. The third is a tension
+
+132
+00:10:54,820 --> 00:11:01,460
+with reinforcement learning, which says agents maximize reward. Friston's reply is that rewards
+
+133
+00:11:01,460 --> 00:11:08,260
+can be recast as prior preferences. The organism expects to be fed, so being fed is unsurprising.
+
+134
+00:11:08,720 --> 00:11:13,880
+Whether that recasting adds insight or just relabels the problem is still argued about.
+
+135
+00:11:14,740 --> 00:11:20,380
+The fourth test is reward, and here the brain offers what may be the clearest machine learning
+
+136
+00:11:20,380 --> 00:11:27,440
+algorithm ever found in biology. In the 1990s, Wolfram Schultz recorded dopamine neurons in
+
+137
+00:11:27,440 --> 00:11:33,100
+monkeys learning that a cue predicted a squirt of juice. At first, the neurons fired a burst when
+
+138
+00:11:33,100 --> 00:11:38,560
+the juice arrived. After learning, the burst moved to the cue, and the juice itself produced
+
+139
+00:11:38,560 --> 00:11:44,600
+no response. And if the expected juice failed to arrive, the neurons dipped below baseline at
+
+140
+00:11:44,600 --> 00:11:50,840
+exactly the moment it should have come. In 1997, Schultz, Peter Dayen, and Reed Montague pointed
+
+141
+00:11:50,840 --> 00:11:56,080
+out that this is precisely the reward prediction error of temporal difference learning, an algorithm
+
+142
+00:11:56,080 --> 00:12:01,660
+Richard Sutton had developed for machines. The reward you got, plus the value of where you ended
+
+143
+00:12:01,660 --> 00:12:08,220
+up, minus the value you predicted. Once the cue reliably predicts juice, the juice is no longer
+
+144
+00:12:08,220 --> 00:12:14,660
+news. The news arrives with the cue, and so does the burst. The same algorithm had powered TD
+
+145
+00:12:14,660 --> 00:12:21,040
+Gammon, a backgammon program from the early 90s. The correspondence has deepened. In 2020,
+
+146
+00:12:21,560 --> 00:12:26,620
+Will Dabney and colleagues at DeepMind and Harvard found that dopamine neurons encode not
+
+147
+00:12:26,620 --> 00:12:32,000
+one expected reward, but a distribution. Some neurons are tuned to be optimistic,
+
+148
+00:12:32,520 --> 00:12:37,900
+others pessimistic, and the population as a whole represents the range of possible rewards,
+
+149
+00:12:38,220 --> 00:12:44,240
+exactly as in distributional reinforcement learning, which had been invented a few years earlier for AI.
+
+150
+00:12:44,760 --> 00:12:50,840
+An algorithm first tested on Atari games turned out to fit dopamine recordings in mice.
+
+151
+00:12:51,240 --> 00:12:57,640
+That could mean the brain runs it, or just that evolution and engineers found the same good solution.
+
+152
+00:12:57,980 --> 00:13:00,120
+Either way, the match keeps growing.
+
+153
+00:13:00,630 --> 00:13:07,600
+In 2025, a study in Nature reported that dopamine neurons jointly map when a reward will arrive
+
+154
+00:13:07,600 --> 00:13:14,240
+and how big it will be. But even here the slogan has a challenger. In 2022, H. Wee-yung-yung,
+
+155
+00:13:14,600 --> 00:13:20,560
+Vijay Nambudiri, and colleagues argued, from experiments in mice, that dopamine release looks
+
+156
+00:13:20,560 --> 00:13:26,000
+more like a signal of learned causal associations, worked out by looking backward from rewards,
+
+157
+00:13:26,000 --> 00:13:27,720
+than a forward prediction error.
+
+158
+00:13:28,360 --> 00:13:32,580
+The prediction error account remains the best-supported algorithm in biology,
+
+159
+00:13:32,580 --> 00:13:35,100
+and it is still contested at the edges.
+
+160
+00:13:36,080 --> 00:13:37,920
+The fifth test is maps.
+
+161
+00:13:38,220 --> 00:13:43,180
+In 1948, Edward Tallman argued from experiments with rats in mazes
+
+162
+00:13:43,180 --> 00:13:45,180
+that animals build cognitive maps,
+
+163
+00:13:45,440 --> 00:13:48,660
+internal models that let them take shortcuts they've never tried.
+
+164
+00:13:49,060 --> 00:13:51,840
+The neural evidence arrived in 1971,
+
+165
+00:13:51,840 --> 00:13:57,240
+when John O'Keefe and Jonathan Dostrovsky found placed cells in the rat hippocampus,
+
+166
+00:13:57,440 --> 00:14:01,100
+neurons that fire when the animal is in a particular location.
+
+167
+00:14:01,380 --> 00:14:07,120
+In 2005, Maybritt and Edvard Moser's lab found grid cells in the nearby entorhinal cortex,
+
+168
+00:14:07,500 --> 00:14:12,020
+which fire at many locations arranged in a strikingly regular triangular lattice,
+
+169
+00:14:12,280 --> 00:14:14,460
+like coordinate lines laid over the world.
+
+170
+00:14:14,960 --> 00:14:18,500
+O'Keefe and the Mosers shared the 2014 Nobel Prize.
+
+171
+00:14:19,240 --> 00:14:22,140
+Nearby are head direction cells, which work like a compass,
+
+172
+00:14:22,440 --> 00:14:25,040
+and boundary cells, which fire near walls.
+
+173
+00:14:25,400 --> 00:14:28,220
+Together they form something close to a navigation system.
+
+174
+00:14:28,500 --> 00:14:29,780
+These maps predict.
+
+175
+00:14:30,140 --> 00:14:35,040
+During rest and sleep, the hippocampus replays sequences of placed cell activity,
+
+176
+00:14:35,360 --> 00:14:40,480
+compressed in time, including paths the animal took and sometimes paths it has not.
+
+177
+00:14:40,660 --> 00:14:46,100
+In 2017, Kimberly Stachenfeld, Matthew Botvinik, and Samuel Jerschman
+
+178
+00:14:46,100 --> 00:14:51,240
+proposed that the hippocampus encodes each place by where you are likely to go next from it,
+
+179
+00:14:51,560 --> 00:14:54,880
+what reinforcement learning calls a successor representation.
+
+180
+00:14:55,360 --> 00:14:59,860
+That explains why place fields stretch backward along a habitual route.
+
+181
+00:15:00,020 --> 00:15:01,900
+And the maps are not only spatial.
+
+182
+00:15:02,220 --> 00:15:07,640
+In 2016, Alexandra Konstantinosku, Jill O'Reilly, and Timothy Behrens
+
+183
+00:15:07,640 --> 00:15:12,520
+taught people an abstract space of cartoon birds whose necks and legs varied in length
+
+184
+00:15:12,520 --> 00:15:18,040
+and found grid-like brain signals as people mentally moved through that conceptual space.
+
+185
+00:15:18,320 --> 00:15:23,580
+The brain seems to reuse its navigation machinery to organize knowledge in general.
+
+186
+00:15:23,960 --> 00:15:30,040
+James Whittington, Behrens, and colleagues then built a model called the Talman-Eichenbaum machine
+
+187
+00:15:30,040 --> 00:15:34,460
+that learns to separate the structure of an environment from its sensory contents.
+
+188
+00:15:35,000 --> 00:15:38,320
+So the same structural knowledge carries over to new places,
+
+189
+00:15:38,320 --> 00:15:42,100
+and its units developed place-like and grid-like responses.
+
+190
+00:15:42,520 --> 00:15:48,960
+In 2022, Whittington, Joseph Warren, and Behrens showed that transformers with a particular kind
+
+191
+00:15:48,960 --> 00:15:54,640
+of position encoding are closely related, mathematically, to that model, and reproduce
+
+192
+00:15:54,640 --> 00:16:01,060
+the same cell types. A model of the hippocampus and the architecture of modern AI turned out to
+
+193
+00:16:01,060 --> 00:16:07,700
+be cousins. So what survives the five tests? Perception combines priors with evidence,
+
+194
+00:16:07,700 --> 00:16:10,060
+roughly in proportion to reliability.
+
+195
+00:16:10,560 --> 00:16:13,240
+The cortex is full of expectation signals
+
+196
+00:16:13,240 --> 00:16:15,860
+even if the textbook circuit is under dispute.
+
+197
+00:16:16,140 --> 00:16:18,820
+The free energy principle is better described
+
+198
+00:16:18,820 --> 00:16:22,520
+as a powerful mathematical lens than as a testable theory.
+
+199
+00:16:22,800 --> 00:16:26,060
+Reward learning is the clearest case of a machine algorithm
+
+200
+00:16:26,060 --> 00:16:27,500
+running in biology.
+
+201
+00:16:27,840 --> 00:16:30,440
+And the hippocampus builds predictive maps
+
+202
+00:16:30,440 --> 00:16:32,260
+and one leading model of them
+
+203
+00:16:32,260 --> 00:16:35,680
+turns out to be a close mathematical cousin of the transformer.
+
+204
+00:16:35,680 --> 00:16:42,560
+In every case, the brain is learning a model of its world and using it to anticipate what comes next.
+
+205
+00:16:43,080 --> 00:16:45,700
+And all of it could happen without anyone home.
+
+206
+00:16:46,140 --> 00:16:48,980
+Nothing in this episode needed the word experience.
+
+207
+00:16:49,500 --> 00:16:51,280
+That's the point to hold on to.
+
+208
+00:16:51,660 --> 00:16:57,560
+Some theories we'll meet in episode 11 argue that experience is made of exactly this kind of prediction,
+
+209
+00:16:57,880 --> 00:17:00,620
+especially prediction about keeping a body alive.
+
+210
+00:17:01,100 --> 00:17:03,500
+Others say prediction is beside the point.
+
+211
+00:17:03,500 --> 00:17:08,940
+But first, the machines, how they learn, and what researchers have found inside them.
+

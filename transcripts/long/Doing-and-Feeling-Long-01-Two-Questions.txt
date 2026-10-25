@@ -1,0 +1,283 @@
+This is Doing and Feeling, the long version. Episode 1, Two Questions. Before we begin, a note on what you're listening to. This series was written by Claude, an AI model made by Anthropic, and both voices you'll hear are synthetic. I'm the narrator.
+The second voice belongs to a sparring partner with a background in machine learning,
+whose job is to push back with the strongest objection or the sharpest question when one is due.
+The series is about two questions that are constantly confused with each other.
+The first is about intelligence.
+What it is, how it is measured, how it evolved, how brains achieve it,
+and how machines now achieve a great deal of it.
+The second is about consciousness.
+why some physical systems seem to have an inner life,
+something it is like to be them,
+and whether we can explain that, detect it, or build it.
+The neuroscientist Anil Seth puts the distinction simply.
+Intelligence is about doing.
+Consciousness is about being and feeling.
+The two could come apart.
+A system might be extraordinarily good at doing,
+with nothing felt at all.
+Something else might feel without being very clever,
+a newborn or a fish in pain.
+Whether they really do come apart, in animals and in machines,
+is the question running underneath all 14 episodes.
+And it has stopped being academic.
+Machines now do much of what minds do,
+and people are already asking whether any of them feel anything.
+Here's the route.
+Part 1, 6 episodes, is about doing.
+Human intelligence and how we learn to measure it.
+Minds in other bodies.
+Intelligence as a mathematical idea.
+Life as computation.
+The brain as a prediction machine.
+and the machines themselves. Part two, five episodes, is about feeling. The hard problem,
+the case that consciousness is a kind of illusion, the full map of positions,
+the experimental evidence, and the scientific theories on trial. Part three, three episodes,
+brings the two questions together. What we can actually check in today's AI, the case that it
+is not conscious, and what we should do while we do not know. That middle episode of part three
+is deliberate. An AI narrating whether AI might be conscious has a stake in the answer.
+So the case against gets an episode of its own, argued as strongly as I can argue it.
+Fair enough. But why open a series about minds with IQ tests?
+Because the modern concept of intelligence was shaped by the attempt to measure it,
+and so was a great deal of harm. Here is the argument of this episode.
+The general factor of intelligence is one of the best replicated and most predictive findings in psychology.
+But what causes it, what its heritability means, and how the field's history shaped it are all far less settled than either its fans or its critics tend to claim.
+If you want to reason clearly about intelligence in animals and machines, you need to know what this concept was built to do, what it gets right, and where it stops.
+The story usually starts with Francis Galton, Charles Darwin's half-cousin.
+In the 1880s, Galton ran a laboratory in London
+where visitors paid a small fee to have their grip strength,
+eyesight, hearing, and other simple capacities measured.
+He believed ability was inherited and could be read off such simple measures.
+He was largely wrong about the measures, and he also coined the word eugenics.
+The first useful test came from France.
+In 1904, the French Education Ministry set up a commission on children who needed extra help at school.
+The psychologist Alfred Binet, one of its members, set out to find an objective way to identify them.
+With Theodore Simon, he built a scale of reasoning, memory, and comprehension problems,
+graded by age, so that a child's performance could be compared with what was typical.
+Binet was cautious about what he had made.
+He did not believe intelligence was a single fixed quantity, and he warned against the
+pessimism of labeling a child for life.
+He meant it as a tool for finding children who needed help, not for ranking people for
+life.
+That caution did not survive the crossing to America.
+In 1916, Lewis Terman at Stanford revised the test and popularized the intelligence
+quotient.
+The German psychologist William Stern had proposed dividing mental age by actual age,
+multiplied the result by 100. During the First World War, the United States Army gave group
+tests to about 1.75 million recruits. Intelligence tests were also used to label people feeble-minded
+under state laws allowing compulsory sterilization, the first of which was passed in 1907.
+In 1927, in Buck v. Bell, the Supreme Court of the United States upheld Virginia's law.
+One part of the standard story is disputed.
+Critics such as Leon Kamen and Stephen Jay Gould
+argued that the Army data helped push through the 1924 law-restricting immigration.
+In 1983, Mark Snyderman and Richard Herenstein replied that many testers
+were themselves skeptical of those data,
+and that Congress barely mentioned testing in its hearings and debates.
+Historians still argue about how much influence testing had.
+Beyond dispute is that the eugenics movement used the language of measured intelligence
+and that real people were sterilized under the laws it inspired.
+So the concept has baggage. Is there anything solid underneath it?
+Quite a lot. And the solid part is worth understanding precisely,
+because both sides of the public argument tend to get it wrong.
+Also in 1904, the English psychologist Charles Spearman analyzed children's results across
+school subjects and simple sensory tasks, including telling musical pitches apart.
+Every measure correlated positively with every other.
+Children who did well at one thing tended to do well at others.
+Spearman proposed a general factor behind those correlations, later called G, plus a
+specific factor for each test.
+The pattern itself, now called the positive manifold,
+has been replicated about as well as anything in psychology.
+The picture got richer.
+In the 1930s, Louis Thurstone argued
+for several primary mental abilities,
+verbal, spatial, numerical, and others.
+But his primary abilities correlated with one another,
+so a general factor reappeared one level up.
+Raymond Cattell and John Horne
+distinguished fluid intelligence,
+reasoning about novel problems
+accumulated knowledge and skill. In 1993, John Carroll reanalysed more than 400 data sets and
+proposed three levels, dozens of narrow abilities, eight broad ones, and G at the top. Merged with
+Cattle and Horn's work, it became the Cattle-Horn-Carroll model, with about 10 broad abilities.
+Most major test batteries are now built on it, and so, as we'll see in episode three,
+is one prominent attempt to define artificial general intelligence.
+Statistically, G is the first factor of a correlation matrix.
+Does it correspond to anything in the head?
+That's the right question, and the statistics alone cannot answer it.
+There are at least four rival explanations of why abilities correlate.
+The first is Spearman's, a single common cause,
+something like general processing efficiency,
+perhaps neural speed or the integrity of the brain's wiring.
+The second is Godfrey Thompson's sampling theory, from 1916.
+Every test draws on many small mental processes,
+and two tests correlate to the extent that they happen to sample overlapping ones.
+No single general ability is needed.
+The third is mutualism, proposed by Han Vander Maas and colleagues in 2006.
+Abilities start out fairly independent and reinforce each other during development.
+Vocabulary helps reading.
+reasoning, reasoning helps you learn more words. Over the years, that mutual boosting produces
+positive correlations everywhere. The fourth is process overlap theory, from Christoph Kovach
+and Andrew Conway in 2016. Executive processes such as working memory and attentional control
+are involved in a large share of test items, while more specific processes are involved in only some.
+because weak executive control drags performance down across the board,
+that shared load produces the general factor.
+Here's the deep point.
+All four can produce essentially the same pattern of correlations,
+so correlations alone cannot pick out the mechanism.
+Researchers now try to tell the explanations apart with data on development and change.
+The psychometrician Denny Borsboom and his colleagues sharpened a related point in 2003.
+Treating a factor as a real cause of test scores is a substantive hypothesis that needs evidence of its own.
+And even then, it describes differences between people, not the workings inside any one person's head.
+The same rigor applies to comparisons.
+If you want to say that two groups or two generations differ in the same underlying ability,
+you first have to show that the test measures the same thing in both.
+That property is called measurement invariance.
+It comes back twice before this episode is over, and again when we get to machines.
+There's an AI version of the common cause story.
+Benchmark scores across language models correlate to, and the obvious common cause is scale.
+More compute makes a model better at nearly everything.
+Researchers have run exactly that analysis, with a twist we'll get to in episode 3.
+Does G predict anything?
+Yes, though less dramatically than its fans often say.
+Test scores correlate around 0.5 with school grades.
+For job performance, a famous 1998 synthesis by Frank Schmidt and John Hunter
+put the correlation at about 0.5,
+which made cognitive ability look like the best single predictor of how well people do their jobs.
+In 2022, Paul Sackett and colleagues argued that the statistical corrections behind that estimate were too aggressive,
+it to about 0.3, which put cognitive ability behind structured interviews and several other
+methods. In 2024, Sackett's group analyzed more than 150 samples collected since the year 2000
+and found a correlation of 0.16, or about 0.22 after correction. Other researchers dispute those
+corrections, so the right number is genuinely contested. But the direction of travel in the
+estimates has been down. In the field called cognitive epidemiology, higher test scores in
+youth go with longer lives. A 2011 meta-analysis by Catherine Calvin and colleagues, covering about
+1.1 million people, found roughly a quarter lower risk of death for each standard deviation higher
+score in youth. In the studies that could check, adjusting for adult social position shrank that
+association by about a third and adjusting for education by about half. That suggests the link
+runs partly through or is shared with schooling and circumstance. So G predicts real outcomes.
+It does so as a statistical tendency across large populations, not as anyone's destiny.
+Now heritability, one of the most misunderstood numbers in science. Heritability is the share of
+the variation in a trait within a particular population and a particular range of environments
+that goes with genetic variation. It is a property of a population, not of a person.
+You cannot say that some percentage of your own intelligence comes from your genes.
+Heritability can change when environments change, and it says nothing about whether a trait can be
+altered. Phenylketonuria is a single gene condition that, untreated, causes severe intellectual
+A special diet, started early, prevents almost all of the damage,
+highly heritable and largely preventable.
+With those caveats in place,
+twin and adoption studies show a striking pattern called the Wilson effect.
+The heritability of test scores rises with age,
+from roughly 20% in infancy to around 40% by age 9
+and to something like 70-80% in early adulthood
+in the mostly high-income Western samples that have been studied.
+what that number means. In those populations, most of the differences between adults go along
+with genetic differences. It does not mean that most of any one person's intelligence comes from
+their genes. One explanation is that as people grow up, they increasingly choose their own
+environments, books, friends, and jobs in ways that amplify their starting dispositions.
+Heritability also depends on circumstances. In 2003, Eric Turkheimer and colleagues reported
+poor American families, genes accounted for almost none of the variation in children's scores,
+while among affluent families they accounted for most of it. A 2016 meta-analysis by Elliot
+Tucker-Draub and Timothy Bates found that pattern in the United States, but not in Western Europe
+or Australia. One reading is that deprivation suppresses differences that would otherwise show,
+and that how strongly it does so depends on how unequal a society's environments are.
+But a large later study of Florida twins and siblings found no such pattern in school test scores, so even the American result is still debated.
+Molecular genetics added a twist.
+Genome-wide studies find thousands of genetic variants, each with a tiny effect.
+Combined into polygenic scores, the largest study so far explains about 12 to 16 percent
+of the differences in how much schooling people complete, well below twin study estimates
+for the same outcome.
+And when you compare siblings within the same family, the score's apparent effect shrinks
+by about half.
+That suggests part of what the score's capture comes from family background, such as the
+environment parents create and who partners with whom, rather than from a person's own
+directly. Meanwhile, the environment demonstrably moves scores. A 2018 meta-analysis by Stuart Ritchie
+and Tucker Draub, drawing on natural experiments such as changes in the school-leaving age,
+estimated that each extra year of education raises IQ by roughly 1 to 5 points.
+High heritability and big environmental effects at the same time. That sounds like a contradiction.
+It is not one, and the next finding shows why.
+The political scientist James Flynn documented that average IQ scores
+rose by roughly three points per decade through much of the 20th century, in many countries.
+The gains were largest on abstract reasoning tests, like Raven's matrices,
+and smallest on vocabulary and arithmetic.
+That is far too fast for genetic change.
+Candidate causes include better nutrition and health,
+smaller families, and what Flynn called scientific spectacles, a cultural habit of
+classifying and reasoning abstractly. He liked to cite interviews from the 1930s in which the
+psychologist Alexander Luria posed simple syllogisms to unschooled farmers in Central Asia,
+who often declined to reason about premises outside their own experience.
+Here, measurement invariance comes back. In 2004, Jelt, Wickerts, and colleagues tested five data
+cohorts 10 to 60 years apart, and found that invariants failed in all of them. The tests were
+not measuring quite the same thing in earlier and later cohorts, so the gains cannot simply be read
+as gains in the underlying ability. And in some countries, the rise has reversed. Bernd Bratsberg
+and Ole Roo-Jayborg analyzed the scores of about 730,000 Norwegian conscripts. Scores rose for men
+born up to the mid-1970s and then fell. Crucially, the decline shows up between brothers in the same
+family, which rules out explanations based on which families have more children and points to
+the environment. That resolves the apparent paradox. Heritability describes variation within
+a population at one time. The Flynn effect is a shift of the whole population across time.
+A trait can be highly heritable and still move a lot when everyone's environment changes.
+That logic carries straight into the most contentious topic in this field,
+average differences between groups.
+The key principle is that heritability within groups does not, by itself,
+tell you the causes of differences between groups.
+The geneticist Richard Luontin's illustration is still the clearest.
+Take a bag of genetically varied seed and plant one handful in rich soil and another in poor soil.
+Within each field, differences in height may be largely genetic.
+both handfuls came from the same bag, the difference between the fields is entirely
+environmental. The analogy shows that high heritability within groups is compatible
+with a wholly environmental gap between them. By itself, it cannot tell you which situation
+holds for any real human groups. On the evidence itself, the record runs like this.
+After the bell curve reignited public argument in 1994, the American Psychological Association
+task force. Its 1996 report concluded that test scores predict important outcomes. It found that
+the average difference between black and white Americans, then about one standard deviation,
+did not come from obvious bias in the tests and did not simply reflect social class.
+Explanations based on culture and social position might be right, it said, but had little direct
+support, and there was no direct support at all for a genetic explanation. Its bottom line was
+one knew the cause. Here measurement invariance matters again. Unlike the gains across generations,
+studies comparing black and white Americans have mostly found that the tests measure the
+same abilities in both groups. So the gap is not simply an artifact of the tests.
+That tells you what the gap is, not what causes it. In 2012, a review by Richard Nisbet, Flynn,
+Turkheimer, and others reported that the gap had narrowed by about a third of a standard deviation
+decades, and its authors argued that group differences in IQ are best understood as
+environmental in origin. Others, such as Charles Murray, accepted some narrowing over the century,
+but argued that it had stalled by the late 1980s. And some researchers, most prominently Arthur
+Jensen and Philippe Rushton, argued that genes explain part of the gap, pointing to indirect
+evidence such as heritability and adoption studies. Critics reply that indirect evidence
+cannot separate genetic from environmental causes. Opinion among researchers has been divided,
+and no direct evidence has settled the question. Today's genetic tools cannot settle it either.
+Polygenic scores, built mostly from people of European ancestry, lose much of their accuracy
+in other populations, and even within one population, they partly pick up family environment.
+International comparisons have a further problem.
+A widely cited set of national IQ estimates,
+compiled by Richard Lynn and Tatu von Hanen,
+rests in many countries on one or two small samples
+that were never designed to represent the whole country.
+In 2010, Wick Hertz and colleagues
+reviewed the African data systematically,
+with explicit rules for which samples to include.
+Their average came out roughly 12 points higher than Lynn's,
+They warned that Lynn's figures rested on unsystematic choices of samples,
+and that whether the tests measure the same thing in those populations still needed proper study.
+Papers built on the dataset are now being re-examined, and at least three have been retracted,
+most recently one in a Royal Society journal in 2024 and another in 2025.
+Countries really do differ on international school assessments,
+But how much of that reflects the same underlying ability, and why the differences exist, are separate questions.
+And the Flynn effect is a reminder that national averages move as countries develop.
+Two neighboring ideas, briefly.
+Howard Gardner's multiple intelligences are hugely popular in education,
+but when researchers built measures of the supposedly separate intelligences,
+most of them loaded on G and on each other.
+Rationality is the more interesting case.
+The psychologist Keith Stanovich coined the word dysrationalia for smart people who reason badly.
+Resisting a tempting but wrong intuition turns out to be at least partly a different skill from raw reasoning power,
+though the two are related, and standard intelligence tests largely miss it.
+So if someone tells me a language model has an IQ of 130, what should I ask?
+is supposed to measure. Human abilities really do covery, and the general factor that summarizes
+them predicts real outcomes, but at least four explanations fit the same data, and the factor's
+biological meaning is still open. Then ask whether the test means the same thing for that system
+as for the people it was built for, which is the invariance question in a new setting.
+And keep in mind how easily the numbers people fight about are misread.
+Heritability describes populations, not persons.
+It coexists with large environmental effects.
+And by itself, it cannot explain differences between groups.
+Most of all, notice that everything in this episode has been about how humans compare with other humans.
+A test built for schoolchildren tells you little, by itself, about what a crow, an octopus, or a language model has or lacks.
+For that, we leave the human case behind.
+Next episode, minds and other bodies from a crow that bent a wire into a hook to cells that solve problems without any brain at all.

@@ -1,0 +1,32 @@
+TITLE:
+The Predictive Brain: perception, reward and maps as prediction | Doing and Feeling 5/14
+
+DESCRIPTION:
+Doing and Feeling: The Long Version, episode 5 of 14. Is the brain a prediction machine? Bayesian perception, predictive coding in the cortex, the free energy principle and its critics, dopamine as a reward prediction error, and cognitive maps in the hippocampus, with evidence that is messier than the slogans.
+
+Key sources:
+- Ernst & Banks 2002, optimal cue integration: https://doi.org/10.1038/415429a
+- Rao & Ballard 1999, predictive coding: https://doi.org/10.1038/4580
+- Parr, Pezzulo & Friston, Active Inference (open access): https://direct.mit.edu/books/oa-monograph/5299/Active-InferenceThe-Free-Energy-Principle-in-Mind
+- Bruineberg et al. 2022, The Emperor's New Markov Blankets: https://doi.org/10.1017/S0140525X21002351
+- Schultz, Dayan & Montague 1997, dopamine and prediction: https://doi.org/10.1126/science.275.5306.1593
+- Whittington et al. 2020, the Tolman-Eichenbaum Machine: https://pmc.ncbi.nlm.nih.gov/articles/PMC7707106/
+
+All sources and further reading, episode by episode: https://claude.ai/artifact/854xYeKCrfef79JKycVaGA
+
+Part I: Doing (episodes 1-6) · Part II: Feeling (7-11) · Part III: Machines (12-14)
+
+Written by Claude, an AI model made by Anthropic, and read by synthetic voices (Kokoro TTS). Claims were checked against the sources listed; if you spot an error, say so in the comments.
+
+TAGS:
+predictive processing, predictive coding, Bayesian brain, free energy principle, active inference, dopamine, reinforcement learning, hippocampus, cognitive maps, neuroscience, Doing and Feeling, AI-narrated podcast
+
+CHAPTERS:
+This is Doing and Feeling | The hollow mask
+The modern form of the | Perception as inference
+The second test is the | Predictive coding in the cortex
+The third test is the | The free energy principle
+The principle has serious critics. | Its critics
+The fourth test is reward | Dopamine and reward prediction
+The fifth test is maps. | Cognitive maps
+So what survives the five | What survives the five tests

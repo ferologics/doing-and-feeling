@@ -1,0 +1,1356 @@
+1
+00:00:00,000 --> 00:00:04,820
+This is Doing and Feeling, the long version. Episode 10, The Evidence.
+
+2
+00:00:05,160 --> 00:00:12,740
+In 2008, a team led by the neuroscientist Beatrice de Gelder reported a remarkable experiment and filmed it.
+
+3
+00:00:12,980 --> 00:00:21,680
+Their subject, known as TN, was a physician who had suffered two strokes that destroyed the primary visual cortex on both sides of his brain.
+
+4
+00:00:21,820 --> 00:00:27,120
+By every clinical test, he was blind. He walked with a cane and said he saw nothing at all.
+
+5
+00:00:27,620 --> 00:00:31,700
+The researchers set up a long corridor cluttered with boxes and a chair,
+
+6
+00:00:31,940 --> 00:00:34,720
+took away his cane, and asked him to walk down it.
+
+7
+00:00:34,900 --> 00:00:40,140
+He did, weaving carefully around every obstacle, while insisting he could not see them.
+
+8
+00:00:40,480 --> 00:00:45,340
+That is the split between doing and feeling from episode one in a hospital corridor.
+
+9
+00:00:45,800 --> 00:00:50,420
+Something in his brain was processing visual information well enough to steer his body.
+
+10
+00:00:50,760 --> 00:00:53,660
+Yet, as far as he could tell, none of it was seen.
+
+11
+00:00:54,200 --> 00:00:58,620
+Two episodes ago, we met a novel that imagined a whole species built that way.
+
+12
+00:00:58,880 --> 00:01:01,020
+Here was one man for one sense.
+
+13
+00:01:01,280 --> 00:01:07,020
+This episode is about evidence, what the science of consciousness can actually measure, and how far to trust it.
+
+14
+00:01:07,300 --> 00:01:11,400
+The methods, the patience, the hidden awareness of people who seem unresponsive,
+
+15
+00:01:11,600 --> 00:01:17,280
+the closest thing we have to a consciousness meter, the states that switch experience off and on, and the animals.
+
+16
+00:01:17,780 --> 00:01:22,900
+Along the way, we'll find that some of the field's most famous results are shakier than their reputations.
+
+17
+00:01:23,660 --> 00:01:30,220
+Theories wait until next episode. Today is data. The modern program began in 1990,
+
+18
+00:01:30,680 --> 00:01:35,660
+when Francis Crick and Christophe Koch proposed setting the philosophical puzzle aside for a
+
+19
+00:01:35,660 --> 00:01:41,260
+while and hunting for the neural correlates of consciousness. David Chalmers later gave
+
+20
+00:01:41,260 --> 00:01:46,640
+the careful definition. A neural correlate of a conscious state is a minimal system whose
+
+21
+00:01:46,640 --> 00:01:52,640
+activity is sufficient, under the right background conditions, for that state. The core method is
+
+22
+00:01:53,660 --> 00:01:55,220
+called contrastive analysis.
+
+23
+00:01:55,600 --> 00:01:57,300
+Hold the stimulus constant,
+
+24
+00:01:57,680 --> 00:01:59,800
+arrange for it to be consciously perceived
+
+25
+00:01:59,800 --> 00:02:01,940
+on some trials and not on others,
+
+26
+00:02:02,120 --> 00:02:04,480
+and compare brain activity between the two.
+
+27
+00:02:04,740 --> 00:02:07,420
+Whatever differs is a candidate correlate.
+
+28
+00:02:07,700 --> 00:02:08,920
+But there's a trap,
+
+29
+00:02:08,960 --> 00:02:12,140
+and much of the last 15 years has been about escaping it.
+
+30
+00:02:12,440 --> 00:02:15,400
+Whatever differs between seen and unseen trials
+
+31
+00:02:15,400 --> 00:02:18,000
+includes far more than the experience itself.
+
+32
+00:02:18,260 --> 00:02:20,200
+It includes prerequisites,
+
+33
+00:02:20,340 --> 00:02:23,180
+like attention, expectation, and arousal,
+
+34
+00:02:23,660 --> 00:02:25,800
+which must be in place before you can see anything.
+
+35
+00:02:25,800 --> 00:02:29,260
+And it includes consequences, the act of reporting,
+
+36
+00:02:29,640 --> 00:02:32,260
+the memory of having seen, your confidence about it.
+
+37
+00:02:32,440 --> 00:02:35,460
+In 2012, Jan Aru and colleagues,
+
+38
+00:02:35,660 --> 00:02:38,000
+and separately Tom de Groff and colleagues,
+
+39
+00:02:38,200 --> 00:02:39,920
+made this argument forcefully.
+
+40
+00:02:40,140 --> 00:02:43,600
+A naive contrast picks up the machinery around consciousness
+
+41
+00:02:43,600 --> 00:02:45,380
+along with consciousness itself.
+
+42
+00:02:45,760 --> 00:02:48,760
+Every machine learning person knows that problem.
+
+43
+00:02:48,980 --> 00:02:52,540
+If your probe cannot separate a property from its correlates,
+
+44
+00:02:53,660 --> 00:02:59,140
+correlates and declare victory. Exactly, and the field's response has been to invent clever
+
+45
+00:02:59,140 --> 00:03:05,800
+contrasts. Here is the toolkit, because these methods are the experimental heart of the field.
+
+46
+00:03:06,380 --> 00:03:11,340
+Masking, flash an image for a few hundredths of a second, then replace it with a pattern.
+
+47
+00:03:11,800 --> 00:03:17,600
+Set the timing at threshold, and the very same flash is seen on some trials and missed on others.
+
+48
+00:03:18,240 --> 00:03:19,200
+Binocular rivalry.
+
+49
+00:03:19,520 --> 00:03:23,700
+Show each eye a different image, say a face to one and a house to the other.
+
+50
+00:03:24,100 --> 00:03:29,640
+Instead of a blend, your experience alternates every few seconds, while the input never changes.
+
+51
+00:03:30,620 --> 00:03:36,420
+Nikos Lagathetes and his colleagues trained monkeys to report which image they were seeing during rivalry
+
+52
+00:03:36,420 --> 00:03:39,300
+and recorded neurons along the visual pathway.
+
+53
+00:03:39,500 --> 00:03:44,600
+In the earliest visual areas, only a small minority of cells followed the reported percept.
+
+54
+00:03:45,150 --> 00:03:48,040
+In an intermediate area, a bit more than a third did.
+
+55
+00:03:48,320 --> 00:03:53,080
+In the high-level face and object areas of the temporal lobe, about 9 in 10 did.
+
+56
+00:03:53,440 --> 00:03:58,640
+In those single neurons, awareness seemed to be reflected late in the hierarchy, not early.
+
+57
+00:03:58,980 --> 00:04:04,920
+Later brain imaging in humans, though, found percept-linked signals even in primary visual cortex.
+
+58
+00:04:05,560 --> 00:04:11,300
+Continuous flash suppression, introduced by Naotsu Gutsu-chiya and Koch in 2005,
+
+59
+00:04:11,740 --> 00:04:14,040
+is rivalry turned up to full strength.
+
+60
+00:04:14,600 --> 00:04:20,220
+Flash rapidly changing colorful patterns to one eye, and a static picture shown to the other eye,
+
+61
+00:04:20,420 --> 00:04:25,500
+can stay invisible for many seconds, long enough to test what the brain does with things you never
+
+62
+00:04:25,500 --> 00:04:32,480
+see. Inattentional blindness. In Daniel Simons and Christopher Chabris's famous video, people
+
+63
+00:04:32,480 --> 00:04:38,140
+counting basketball passes often fail to notice a person in a gorilla suit strolling through the
+
+64
+00:04:38,140 --> 00:04:44,320
+scene. Then one of the most important methodological innovations of recent years, no-report paradigms.
+
+65
+00:04:44,600 --> 00:04:49,600
+If report contaminates the contrast, infer what someone is experiencing without asking.
+
+66
+00:04:50,020 --> 00:04:55,560
+During rivalry, the eyes make involuntary tracking movements that follow whichever image is dominant.
+
+67
+00:04:56,040 --> 00:05:04,880
+In 2014, Stefan Fressler and colleagues used those movements, along with pupil size, to read out the percept with no report at all.
+
+68
+00:05:05,120 --> 00:05:13,180
+Frontal activity linked to rivalry was reduced when report was removed, but not abolished, and some frontal regions stayed active.
+
+69
+00:05:14,600 --> 00:05:20,300
+also changes how people attend, so even this cleaner contrast is not perfectly clean.
+
+70
+00:05:20,500 --> 00:05:25,860
+That result is ammunition for both sides of the front versus back debate next episode.
+
+71
+00:05:26,080 --> 00:05:32,960
+And in October 2026, Doris Tso's lab, which had already used a no-report design with single face
+
+72
+00:05:32,960 --> 00:05:38,960
+cells, posted a perprint based on recordings from thousands of neurons at once. Two monkeys
+
+73
+00:05:38,960 --> 00:05:44,780
+passively watched displays in which one face was flashed and another suppressed. In face-selective
+
+74
+00:05:44,780 --> 00:05:49,660
+regions, activity flipped back and forth between representing the seen face and the suppressed one,
+
+75
+00:05:50,020 --> 00:05:56,300
+each state lasting roughly 60 milliseconds. It's two animals from one lab, not yet peer-reviewed,
+
+76
+00:05:56,360 --> 00:06:02,060
+and the face counted as seen was the one human viewers reported. A switching rate is not a frame
+
+77
+00:06:02,060 --> 00:06:07,580
+rate for experience, but it hints that what you see may be a rapidly contested state rather than
+
+78
+00:06:09,260 --> 00:06:12,920
+Now a measurement problem that sounds technical and is not.
+
+79
+00:06:13,140 --> 00:06:15,260
+How do you know someone did not see something?
+
+80
+00:06:15,520 --> 00:06:17,980
+The obvious answer is that they told you.
+
+81
+00:06:18,200 --> 00:06:20,340
+But a report depends on two things.
+
+82
+00:06:20,560 --> 00:06:24,860
+How much information gets through and how willing a person is to say yes.
+
+83
+00:06:25,320 --> 00:06:29,760
+Signal detection theory, borrowed from radar engineering, separates them.
+
+84
+00:06:30,140 --> 00:06:33,140
+Sensitivity is how well you can tell signal from noise.
+
+85
+00:06:33,720 --> 00:06:37,960
+Criterion is how much evidence you demand before saying, I saw it.
+
+86
+00:06:38,960 --> 00:06:45,660
+A cautious observer with a strict criterion will say nothing was there on many trials where some faint experience was present.
+
+87
+00:06:45,940 --> 00:06:54,360
+This is the criterion problem, and in 2021, the philosopher Ian Phillips used it to challenge one of the fields found in cases.
+
+88
+00:06:55,100 --> 00:06:59,120
+Blindsight, he argued, may not be vision without experience at all.
+
+89
+00:06:59,320 --> 00:07:08,040
+It may be degraded conscious vision, so faint and strange that patients, applying the standard of normal sight, sincerely report seeing nothing.
+
+90
+00:07:08,960 --> 00:07:17,260
+On that reading, blindsight shows how unreliable a report of nothing can be, rather than showing that sophisticated vision can run in the dark.
+
+91
+00:07:17,540 --> 00:07:23,260
+So the most famous evidence for doing without feeling might be feeling that's too weak to count.
+
+92
+00:07:23,600 --> 00:07:28,860
+That's the live question, and worth holding in mind for every patient case in this episode.
+
+93
+00:07:29,480 --> 00:07:37,000
+Defenders of the classic reading point to signal detection studies suggesting that blindsight differs from faint, normal vision.
+
+94
+00:07:39,220 --> 00:07:45,460
+but it has pushed the field to measure confidence and response bias far more routinely than it once did.
+
+95
+00:07:46,420 --> 00:07:48,680
+With that caution in hand, the patients.
+
+96
+00:07:49,200 --> 00:07:51,760
+Blindsight was named by Lawrence Weisskrantz,
+
+97
+00:07:51,940 --> 00:07:56,840
+whose patient DB had part of his primary visual cortex surgically removed.
+
+98
+00:07:57,380 --> 00:08:01,340
+DB denied seeing anything in the affected half of his visual field,
+
+99
+00:08:01,540 --> 00:08:04,780
+yet when forced to guess, he could point to objects there
+
+100
+00:08:04,780 --> 00:08:08,480
+and discriminate orientation and movement far above chance.
+
+101
+00:08:08,960 --> 00:08:15,020
+Weisskrantz and colleagues' key report appeared in 1974 and his monograph in 1986.
+
+102
+00:08:15,660 --> 00:08:19,120
+Some blindsight patients report no experience at all,
+
+103
+00:08:19,340 --> 00:08:21,740
+others a vague feeling that something is there.
+
+104
+00:08:21,960 --> 00:08:23,800
+And there's effective blindsight.
+
+105
+00:08:24,180 --> 00:08:30,220
+Patients respond, above chance, to the emotional expressions of faces they say they cannot see.
+
+106
+00:08:30,900 --> 00:08:33,400
+Hemispatial neglect is in some ways stranger.
+
+107
+00:08:33,780 --> 00:08:36,800
+After damage typically to the right parietal lobe,
+
+108
+00:08:36,800 --> 00:08:44,040
+patients ignore the left side of space. In 1978, Edordo Bisioc and Claudio Lutzati
+
+109
+00:08:44,040 --> 00:08:49,520
+asked neglect patients in Milan to imagine standing in the cathedral square and describe
+
+110
+00:08:49,520 --> 00:08:55,580
+what they saw. They described only the buildings on their imagined right. Asked to imagine standing
+
+111
+00:08:55,580 --> 00:09:00,740
+at the opposite end of the square, they described the other side and omitted what they had just
+
+112
+00:09:00,740 --> 00:09:06,720
+described. The neglect lived in the representation of space itself. Then there's the most famous
+
+113
+00:09:06,800 --> 00:09:13,040
+neglect case of all. In 1988, John Marshall and Peter Halligan reported a patient shown two
+
+114
+00:09:13,040 --> 00:09:17,880
+drawings of a house, identical, except that one had flames coming from its left side.
+
+115
+00:09:18,140 --> 00:09:22,920
+She said the drawings were the same. Yet when asked which house she would rather live in,
+
+116
+00:09:23,100 --> 00:09:28,540
+she mostly chose the one that was not burning. It became a textbook example of unconscious
+
+117
+00:09:28,540 --> 00:09:33,800
+information guiding choice. Here's what the textbooks often leave out. It was a single
+
+118
+00:09:33,800 --> 00:09:41,400
+patient. A 1990 follow-up by Bisioc and Maria Luiser-Rosconi got inconsistent results. And in
+
+119
+00:09:41,400 --> 00:09:48,600
+2025, a pre-registered replication tested 54 stroke patients, 21 of them with neglect. The
+
+120
+00:09:48,600 --> 00:09:54,640
+burning house effect appeared in just one patient, who did not have neglect. Exploratory analyses
+
+121
+00:09:54,640 --> 00:10:00,560
+suggested that when people did show a preference, they preferred intact drawings over merely shaded
+
+122
+00:10:00,560 --> 00:10:06,620
+ones, so the effect may not have been about fire at all. One patient and possibly about shading,
+
+123
+00:10:06,960 --> 00:10:13,540
+not fire. How many textbook cases rest on one patient? More than you'd like. Others have held
+
+124
+00:10:13,540 --> 00:10:19,920
+up well, like the imagined paiza. The lesson is to weigh a famous single case by how often it has
+
+125
+00:10:19,920 --> 00:10:25,480
+been reproduced, rather than by how often it has been retold. Then the split-brain patients.
+
+126
+00:10:25,860 --> 00:10:29,860
+To treat severe epilepsy, some patients had the corpus callosum,
+
+127
+00:10:30,060 --> 00:10:32,980
+the main bridge between the hemispheres, surgically cut.
+
+128
+00:10:33,440 --> 00:10:36,800
+Roger Sperry, who shared a Nobel Prize for this work,
+
+129
+00:10:36,940 --> 00:10:41,840
+and Michael Gazzaniga showed that each hemisphere could respond to information the other did not have.
+
+130
+00:10:42,200 --> 00:10:44,500
+In Gazzaniga's most famous demonstration,
+
+131
+00:10:44,900 --> 00:10:47,400
+the speaking left hemisphere saw a chicken claw,
+
+132
+00:10:47,580 --> 00:10:50,060
+and the right hemisphere saw a snowy scene.
+
+133
+00:10:50,200 --> 00:10:52,180
+The right hand picked a picture of a chicken,
+
+134
+00:10:52,180 --> 00:10:55,940
+and the left hand, controlled by the right hemisphere, picked a shovel.
+
+135
+00:10:56,420 --> 00:11:01,280
+Asked why, the left hemisphere, which never saw the snow, answered without hesitation.
+
+136
+00:11:01,580 --> 00:11:05,720
+The claw goes with the chicken, and you need a shovel to clean out the chicken shed.
+
+137
+00:11:06,400 --> 00:11:09,520
+Gazzaniga called the system behind such answers the interpreter,
+
+138
+00:11:09,860 --> 00:11:16,300
+a process that generates fluent, confident explanations for behavior whose real causes it cannot see.
+
+139
+00:11:16,580 --> 00:11:22,080
+For anyone who works with language models, that's the most important result in this episode.
+
+140
+00:11:22,180 --> 00:11:31,420
+An articulate explanation of a system's own behavior tells you nothing, on its own, about whether the explanation is causally accurate.
+
+141
+00:11:31,760 --> 00:11:40,840
+That's the parallel drawn in Episode 6, where a model described carrying digits it never carried and will hold onto it for Episodes 12 and 13.
+
+142
+00:11:41,060 --> 00:11:43,680
+And it is not confined to split brains.
+
+143
+00:11:43,680 --> 00:11:48,980
+In choice blindness experiments, the next entry in Episode 8's File on Introspection,
+
+144
+00:11:49,560 --> 00:11:54,460
+Petter Johansson and Lars Hall had people choose which of two faces they found more attractive,
+
+145
+00:11:54,840 --> 00:11:59,160
+then secretly handed them the other photo and asked them to explain their choice.
+
+146
+00:11:59,620 --> 00:12:03,700
+On most of the manipulated trials, people did not notice the swap,
+
+147
+00:12:03,860 --> 00:12:07,440
+and explained why they had preferred a face they had actually rejected.
+
+148
+00:12:07,740 --> 00:12:11,020
+Even the split brain itself is less settled than it looks.
+
+149
+00:12:11,460 --> 00:12:15,580
+In 2017, Yer Pinto and colleagues reported two patients
+
+150
+00:12:15,580 --> 00:12:19,520
+who could respond to stimuli anywhere in the visual field with either hand,
+
+151
+00:12:19,680 --> 00:12:22,580
+though they could not compare stimuli across the two halves,
+
+152
+00:12:22,760 --> 00:12:27,580
+and suggested that perception may be split while the person remains one conscious agent.
+
+153
+00:12:27,860 --> 00:12:30,560
+With two patients, that is contested.
+
+154
+00:12:31,360 --> 00:12:36,580
+The most consequential findings concern patients who seem completely unresponsive.
+
+155
+00:12:36,920 --> 00:12:38,380
+Clinically, there's a spectrum.
+
+156
+00:12:38,860 --> 00:12:41,300
+In coma, patients cannot be roused.
+
+157
+00:12:41,520 --> 00:12:45,920
+In the vegetative state, now often called unresponsive wakefulness syndrome,
+
+158
+00:12:46,300 --> 00:12:50,660
+they have sleep-wake cycles and open their eyes, but show no sign of awareness.
+
+159
+00:12:50,960 --> 00:12:55,780
+In the minimally conscious state, signs of awareness are inconsistent but genuine.
+
+160
+00:12:56,520 --> 00:12:58,400
+Bedside diagnosis is hard.
+
+161
+00:12:58,660 --> 00:13:03,060
+In a well-known 2009 study using a careful standardized scale,
+
+162
+00:13:03,420 --> 00:13:08,280
+18 of 44 patients diagnosed as vegetative by clinical consensus
+
+163
+00:13:08,380 --> 00:13:15,660
+about 41 percent turned out to be minimally conscious. In 2006, Adrian Owen and colleagues
+
+164
+00:13:15,660 --> 00:13:22,400
+published a short paper in Science that changed the field. A 23-year-old woman, five months after
+
+165
+00:13:22,400 --> 00:13:29,620
+a traffic accident, met every criterion for the vegetative state. In an FMRI scanner, she was asked
+
+166
+00:13:29,620 --> 00:13:35,120
+to imagine playing tennis and then to imagine walking through the rooms of her house. Her brain
+
+167
+00:13:35,120 --> 00:13:40,620
+activity matched that of healthy volunteers, motor planning areas for tennis, spatial navigation
+
+168
+00:13:40,620 --> 00:13:46,600
+areas for the house. She was following instructions. It was a single patient, and critics wondered
+
+169
+00:13:46,600 --> 00:13:52,320
+whether the words alone triggered automatic responses. But in 2010, a larger study found
+
+170
+00:13:52,320 --> 00:13:58,020
+that 5 of 54 patients could modulate their brain activity this way, and one could answer yes or no
+
+171
+00:13:58,020 --> 00:14:05,100
+questions, imagining tennis for yes and the house for no. Then, in 2024, a study in the New England
+
+172
+00:14:05,120 --> 00:14:12,320
+Journal of Medicine led by Yelena Bodian tested 353 patients at six centers in Europe and North
+
+173
+00:14:12,320 --> 00:14:20,080
+America. Of the 241 who could not follow commands at the bedside, 60, a quarter, showed covert
+
+174
+00:14:20,080 --> 00:14:26,660
+responses on brain imaging or E. E.g., the field calls this cognitive motor dissociation,
+
+175
+00:14:26,820 --> 00:14:33,340
+and among patients who could follow commands at the bedside, only about 38% showed responses on
+
+176
+00:14:35,120 --> 00:14:40,420
+miss many people who are plainly aware, so a negative scan cannot rule awareness out.
+
+177
+00:14:40,660 --> 00:14:46,780
+A quarter in this group, but following commands in a scanner is still access, in block sense.
+
+178
+00:14:47,060 --> 00:14:52,960
+Does it tell us anything about experience? In a person, access is the best evidence of
+
+179
+00:14:52,960 --> 00:14:59,000
+experience we ever get, and we grant it to each other on far less. So it raises urgent questions
+
+180
+00:14:59,000 --> 00:15:03,240
+about pain, communication, and decisions to withdraw care.
+
+181
+00:15:03,700 --> 00:15:06,280
+And it's the clearest demonstration that behavior
+
+182
+00:15:06,280 --> 00:15:08,520
+can radically underestimate consciousness.
+
+183
+00:15:09,460 --> 00:15:11,820
+Can we measure consciousness directly
+
+184
+00:15:11,820 --> 00:15:14,120
+without asking the person to do anything?
+
+185
+00:15:14,420 --> 00:15:18,360
+The closest thing we have is the Perturbational Complexity Index,
+
+186
+00:15:18,620 --> 00:15:22,840
+developed by Marcello Massimini, Giulio Tononi, and colleagues,
+
+187
+00:15:23,100 --> 00:15:24,880
+and first published in 2013.
+
+188
+00:15:25,300 --> 00:15:27,460
+It's nicknamed Zap and Zip.
+
+189
+00:15:29,000 --> 00:15:36,160
+with a pulse of transcranial magnetic stimulation and record the brain's echo with EEG. Then you
+
+190
+00:15:36,160 --> 00:15:41,660
+zip it. You compress the spatial and temporal pattern of the response, using the same kind of
+
+191
+00:15:41,660 --> 00:15:46,700
+algorithm that compresses computer files. A conscious brain answers a perturbation in a way
+
+192
+00:15:46,700 --> 00:15:51,840
+that is both integrated, spreading widely, and differentiated, producing a complex,
+
+193
+00:15:52,040 --> 00:15:57,920
+hard-to-compress pattern. An unconscious brain responds either locally, like a stone dropped in
+
+194
+00:15:59,000 --> 00:16:04,580
+a big stereotyped wave, like a bell ringing. Either way, the response compresses easily.
+
+195
+00:16:04,840 --> 00:16:10,460
+In the first study, values in dreamless sleep and under anesthesia fell roughly between 0.1
+
+196
+00:16:10,460 --> 00:16:17,060
+and 0.3, and wakefulness ran from about 0.4 to 0.7. Vegetative patients were low,
+
+197
+00:16:17,440 --> 00:16:22,880
+minimally conscious patients intermediate and locked-in patients, fully conscious but paralyzed,
+
+198
+00:16:22,880 --> 00:16:29,880
+in the waking range. In 2016, Sylvia Cacerado and colleagues calibrated a cutoff of 0.31
+
+199
+00:16:29,880 --> 00:16:36,180
+that separated conscious from unconscious conditions in a benchmark group of 150 people
+
+200
+00:16:36,180 --> 00:16:43,200
+without a single error. Applied to 43 vegetative patients, it flagged 9 with high complexity,
+
+201
+00:16:43,440 --> 00:16:49,160
+and 6 of those 9 later recovered signs of awareness. The most striking calibration case
+
+202
+00:16:49,160 --> 00:16:55,600
+is ketamine. At anesthetic doses, it leaves people completely unresponsive. But they often
+
+203
+00:16:55,600 --> 00:17:00,800
+report vivid dreams afterward, and under ketamine, the complexity index stayed high,
+
+204
+00:17:01,260 --> 00:17:05,320
+matching what people later reported rather than how they looked from the outside.
+
+205
+00:17:05,760 --> 00:17:11,020
+Notice where the measure's credibility comes from, though. It's calibrated against report.
+
+206
+00:17:11,340 --> 00:17:16,640
+Right. Every consciousness meter is ultimately validated against people who can tell us,
+
+207
+00:17:16,640 --> 00:17:22,480
+afterward whether they experienced anything. That's fine for humans. It becomes the deep
+
+208
+00:17:22,480 --> 00:17:28,860
+problem for machines in episode 12. Some of the most powerful evidence comes from switching
+
+209
+00:17:28,860 --> 00:17:34,620
+consciousness off and back on. General anesthesia is the only routine procedure that reliably
+
+210
+00:17:34,620 --> 00:17:40,280
+interrupts experience and then returns it. But unresponsive is not the same as unconscious.
+
+211
+00:17:40,880 --> 00:17:46,480
+There's an old, simple trick called the isolated forearm technique. Before the muscle relax
+
+212
+00:17:46,640 --> 00:17:53,320
+is given, a tourniquet is inflated on one arm, so that hand can still move. In a 2017 study across
+
+213
+00:17:53,320 --> 00:18:00,280
+six hospitals, 260 patients were asked, after intubation, to squeeze with that hand. Twelve
+
+214
+00:18:00,280 --> 00:18:05,920
+of them, about four and a half percent, responded to the command. None of those questioned afterward
+
+215
+00:18:05,920 --> 00:18:11,620
+remembered anything. So for some patients, under some regimes, there is connected awareness without
+
+216
+00:18:11,620 --> 00:18:17,840
+memory, and the absence of a memory is not proof that nothing was experienced. Anesthetics act
+
+217
+00:18:17,840 --> 00:18:23,300
+through quite different molecular mechanisms, yet the ones that abolish experience seem to share a
+
+218
+00:18:23,300 --> 00:18:29,980
+breakdown of integrated communication across the brain. In September 2026, a study led by Andrea
+
+219
+00:18:29,980 --> 00:18:37,160
+Luppy reported a common signature of anesthesia in six species—humans, macaques, marmosets, mice,
+
+220
+00:18:37,160 --> 00:18:43,500
+zebrafish, and nematode worms. The drugs and recording methods differed. But in every species,
+
+221
+00:18:43,940 --> 00:18:49,580
+activity in different parts of the nervous system became less coordinated, and its past predicted
+
+222
+00:18:49,580 --> 00:18:56,500
+its future less well. Deep structures matter too. In 2020, Michelle Redinbaugh and colleagues found
+
+223
+00:18:56,500 --> 00:19:02,040
+that stimulating a small region of the central thalamus could wake anesthetized macaques while
+
+224
+00:19:02,040 --> 00:19:08,400
+the anesthetic was still flowing. And in 2025, deep electrodes in five human patients showed
+
+225
+00:19:08,400 --> 00:19:13,820
+certain thalamic nuclei becoming active before the prefrontal cortex on trials where a stimulus
+
+226
+00:19:13,820 --> 00:19:19,380
+was consciously seen, as if the thalamus were a gate. Sleep makes the same point from another
+
+227
+00:19:19,380 --> 00:19:25,380
+angle. You're not unconscious all night. You dream, and not only in REM sleep. In 2017,
+
+228
+00:19:25,920 --> 00:19:30,220
+Francesca Sicklery, Tononi, and colleagues woke people repeatedly through the night
+
+229
+00:19:32,860 --> 00:19:39,380
+anything. Dreaming, in both REM and non-REM sleep, went with less slow-wave activity and more fast
+
+230
+00:19:39,380 --> 00:19:45,360
+activity in a posterior region of the cortex. In a follow-up with seven sleepers, that signal alone
+
+231
+00:19:45,360 --> 00:19:51,860
+predicted in real time, during non-REM sleep, whether they would report a dream, with about 87%
+
+232
+00:19:51,860 --> 00:19:59,360
+accuracy. We'll meet that posterior hot zone again next episode. And in 2021, four labs reported
+
+233
+00:19:59,360 --> 00:20:05,140
+two-way communication with lucid dreamers who solved simple arithmetic problems during REM sleep
+
+234
+00:20:05,140 --> 00:20:10,580
+and signaled their answers with eye movements. Psychedelics push in yet another direction.
+
+235
+00:20:11,080 --> 00:20:17,100
+Robin Carhart-Harris's entropic brain hypothesis and the model he developed with Carl Friston
+
+236
+00:20:17,100 --> 00:20:22,420
+called Rebus proposed that psychedelics relax the brain's high-level prior beliefs,
+
+237
+00:20:22,760 --> 00:20:27,880
+letting bottom-up signals flow more freely. That connects directly to the predictive brain of
+
+238
+00:20:29,360 --> 00:20:34,240
+fits the finding that the diversity of brain signals, a cousin of ZAP and ZIP's compression
+
+239
+00:20:34,240 --> 00:20:41,900
+measure, rises under psilocybin, LSD, and ketamine. In 2024, a study in Nature by Joshua
+
+240
+00:20:41,900 --> 00:20:47,760
+Segel and colleagues scanned people repeatedly before, during, and after a dose of psilocybin.
+
+241
+00:20:47,900 --> 00:20:53,220
+The drug desynchronized brain networks more than three times as much as a stimulant control,
+
+242
+00:20:53,600 --> 00:20:58,860
+most strongly in the default mode network, the system most associated with self-referential
+
+243
+00:20:59,360 --> 00:21:04,040
+And reduced coupling between the hippocampus and that network persisted for weeks.
+
+244
+00:21:04,960 --> 00:21:10,260
+Then there's a source of evidence that is very old and newly scientific, meditation.
+
+245
+00:21:10,940 --> 00:21:15,660
+Contemplative traditions have been mapping states of mind for more than 2,000 years.
+
+246
+00:21:16,120 --> 00:21:21,360
+The Mandukya Upanishad distinguishes waking, dreaming, and dreamless sleep
+
+247
+00:21:21,360 --> 00:21:24,420
+from a fourth state it describes as pure awareness.
+
+248
+00:21:24,760 --> 00:21:28,660
+Buddhist traditions describe meditative absorptions called jhanas
+
+249
+00:21:29,360 --> 00:21:35,600
+state called Nirodha Samapati, the attainment of cessation. These are first-person claims,
+
+250
+00:21:35,840 --> 00:21:41,280
+made by people who have trained their attention for decades. On their own, they're not data in
+
+251
+00:21:41,280 --> 00:21:47,380
+the scientist's sense, but they generate hypotheses that can now be tested. The philosopher Thomas
+
+252
+00:21:47,380 --> 00:21:54,660
+Metzinger's 2024 book, The Elephant and the Blind, analyzes more than 500 reports from meditators of
+
+253
+00:21:54,660 --> 00:22:00,140
+what he calls minimal phenomenal experience. Awareness with little or no content, and no
+
+254
+00:22:00,140 --> 00:22:06,200
+sense of self or time. If that state exists, it's a precious test case for any theory that ties
+
+255
+00:22:06,200 --> 00:22:13,020
+consciousness to self-modeling or to rich content. And in 2023, Ruben Lachonin, Matthew Sackett,
+
+256
+00:22:13,320 --> 00:22:17,280
+Helene Slogter, and colleagues set out a research program on meditative cessations.
+
+257
+00:22:17,740 --> 00:22:22,380
+Brief, apparently complete gaps in consciousness that some advanced practitioners say they can
+
+258
+00:22:22,380 --> 00:22:28,040
+induce at will, and much longer ones in the traditional accounts. Early EEG work has studied
+
+259
+00:22:28,040 --> 00:22:34,040
+a single advanced meditator intensively, across repeated cessation events. All of this is early,
+
+260
+00:22:34,280 --> 00:22:41,200
+small, and dependent on trained reports. Trained reports are still reports. Why trust a meditator
+
+261
+00:22:41,200 --> 00:22:47,380
+more than the shoppers of Episode 8? On reports alone, you should not, and every caveat about
+
+262
+00:22:47,380 --> 00:22:53,140
+introspection from episode 8 applies. What training buys is consistency and the chance
+
+263
+00:22:53,140 --> 00:22:58,600
+to pair reports with measurements. That's Varela's neurophenomenology from last episode
+
+264
+00:22:58,600 --> 00:23:04,220
+finally getting data. And if consciousness can be switched off by training as well as by drugs,
+
+265
+00:23:04,480 --> 00:23:10,980
+that's an experimental handle no anesthesiologist has. And any complete theory has to account for
+
+266
+00:23:10,980 --> 00:23:16,620
+the extremes. The cessations, the dreams under Kerhameen, the awareness without content.
+
+267
+00:23:17,620 --> 00:23:23,680
+The free will experiments deserve care because they're so often summarized wrongly. In 1983,
+
+268
+00:23:24,320 --> 00:23:28,680
+Benjamin Libet asked people to flex their wrist whenever they felt like it, and to note,
+
+269
+00:23:28,900 --> 00:23:34,840
+using a fast-moving clock when they first felt the urge. A slow buildup of electrical activity,
+
+270
+00:23:35,060 --> 00:23:39,640
+the readiness potential, began a few hundred milliseconds before the reported moment of
+
+271
+00:23:40,980 --> 00:23:44,040
+The headline wrote itself, your brain decides before you do.
+
+272
+00:23:44,500 --> 00:23:46,480
+Three later findings complicate it.
+
+273
+00:23:46,840 --> 00:23:59,380
+In 2012, Aaron Scherger, Jacobo Sit, and Stanislas DeHaan showed that the readiness potential can be explained as random neural noise drifting toward a threshold, with the movement launched when it crosses.
+
+274
+00:24:00,080 --> 00:24:04,080
+Averaged backward from the moment of movement, that noise looks like a ramp.
+
+275
+00:24:04,240 --> 00:24:07,940
+On this reading, the early signal is not a hidden decision at all.
+
+276
+00:24:08,460 --> 00:24:14,780
+In 2008, Chun Siang Soon, John Dylan Haynes, and colleagues decoded which of two buttons
+
+277
+00:24:14,780 --> 00:24:20,900
+someone would press from FMRI activity several seconds in advance, but with accuracy only
+
+278
+00:24:20,900 --> 00:24:23,520
+around 60%, where chance is 50.
+
+279
+00:24:23,720 --> 00:24:29,460
+And in 2019, Yuri Ma Os and colleagues had people decide which of two charities would
+
+280
+00:24:29,460 --> 00:24:31,920
+receive a real $1,000 donation.
+
+281
+00:24:32,580 --> 00:24:37,700
+The readiness potential was present when the choice was arbitrary, and absent or much
+
+282
+00:24:53,900 --> 00:24:57,560
+Here's a question that connects back to the first part of the series.
+
+283
+00:24:57,980 --> 00:25:03,280
+If machines can do so much without consciousness, how much can humans do without it?
+
+284
+00:25:03,560 --> 00:25:05,180
+Less than the hype suggested.
+
+285
+00:25:05,580 --> 00:25:08,500
+The famous 1957 claimed that flashing the words
+
+286
+00:25:08,500 --> 00:25:11,280
+eat popcorn in a cinema-boosted sales was a hoax.
+
+287
+00:25:11,540 --> 00:25:14,780
+In 1962, its author admitted it had been a gimmick,
+
+288
+00:25:14,940 --> 00:25:16,660
+with too little data to mean anything.
+
+289
+00:25:17,280 --> 00:25:18,560
+Unconscious thought theory,
+
+290
+00:25:18,820 --> 00:25:21,040
+which claimed that complex decisions go better
+
+291
+00:25:21,040 --> 00:25:23,800
+when you're distracted, has largely failed to replicate.
+
+292
+00:25:24,400 --> 00:25:27,400
+Masked priming is real, but in careful studies,
+
+293
+00:25:27,420 --> 00:25:29,420
+its effects are small and short-lived.
+
+294
+00:25:29,600 --> 00:25:31,900
+The picture that has survived is roughly this.
+
+295
+00:25:32,340 --> 00:25:34,820
+Unconscious processing in humans is fast,
+
+296
+00:25:35,180 --> 00:25:41,080
+parallel, and specialized, and can extract some meaning from words. But flexible, multi-step
+
+297
+00:25:41,080 --> 00:25:47,080
+reasoning and acting on novel combinations seem to depend on conscious access. Holding information
+
+298
+00:25:47,080 --> 00:25:53,140
+over time mostly does too, though some studies find faint traces of unseen items lasting a few
+
+299
+00:25:53,140 --> 00:26:00,320
+seconds. Which is interesting, because in machines that coupling apparently does not hold. Language
+
+300
+00:26:00,320 --> 00:26:04,900
+models do multi-step reasoning, and most researchers doubt they're conscious.
+
+301
+00:26:05,380 --> 00:26:10,900
+That's one of the deepest puzzles where our two topics meet. Either human brains couple flexible
+
+302
+00:26:10,900 --> 00:26:15,980
+reasoning with consciousness for contingent architectural reasons, in which case machines
+
+303
+00:26:15,980 --> 00:26:21,780
+show the coupling is optional. Or machines that reason flexibly have something functionally like
+
+304
+00:26:21,780 --> 00:26:28,580
+conscious access, whether or not anything is experienced. Episodes 12 and 13 take both readings
+
+305
+00:26:30,620 --> 00:26:31,900
+Finally, animals.
+
+306
+00:26:32,260 --> 00:26:37,000
+In 2020, Andreas Nieder and colleagues trained two carrion crows
+
+307
+00:26:37,000 --> 00:26:39,580
+to report whether they had seen a faint stimulus.
+
+308
+00:26:40,260 --> 00:26:43,280
+Neurons in a high-level region of the crow forebrain
+
+309
+00:26:43,280 --> 00:26:45,620
+tracked stimulus intensity at first,
+
+310
+00:26:45,760 --> 00:26:47,760
+but during the delay before the response,
+
+311
+00:26:48,020 --> 00:26:50,200
+they tracked what the crow went on to report,
+
+312
+00:26:50,460 --> 00:26:52,100
+including its false alarms.
+
+313
+00:26:52,460 --> 00:26:55,920
+That's a neural correlate of subjective report in a bird,
+
+314
+00:26:56,060 --> 00:26:58,840
+whose brain, as we saw in episode two,
+
+315
+00:27:00,320 --> 00:27:07,260
+like circuits by a separate evolutionary route. In April 2024, a group of scientists and philosophers
+
+316
+00:27:07,260 --> 00:27:12,880
+launched the New York Declaration on Animal Consciousness. It states that there is strong
+
+317
+00:27:12,880 --> 00:27:18,520
+scientific support for attributing conscious experience to mammals and birds. It states that
+
+318
+00:27:18,520 --> 00:27:23,560
+there is at least a realistic possibility of it in all vertebrates, and in many invertebrates,
+
+319
+00:27:23,840 --> 00:27:29,580
+including at least cephalopods, decapod crustaceans, and insects. And it says that
+
+320
+00:27:30,320 --> 00:27:34,100
+to ignore that possibility in decisions affecting those animals.
+
+321
+00:27:34,520 --> 00:27:38,980
+About 40 researchers signed at the launch, and hundreds more have signed since.
+
+322
+00:27:39,180 --> 00:27:44,820
+The method behind statements like that is what the philosopher Jonathan Birch calls a theory-light approach.
+
+323
+00:27:45,180 --> 00:27:51,080
+Rather than commit to one theory, look for behavioral markers associated with conscious experience in humans.
+
+324
+00:27:51,500 --> 00:27:55,120
+Do animals trade off avoiding pain against getting something they want?
+
+325
+00:27:55,340 --> 00:27:59,120
+Do they tend their wounds or learn to avoid places where they were hurt?
+
+326
+00:28:00,320 --> 00:28:04,440
+given small shocks are more willing to abandon a poor shell than a good one.
+
+327
+00:28:04,640 --> 00:28:10,360
+In 2021, Robin Crook gave octopuses a painful injection. They tended the spot,
+
+328
+00:28:10,680 --> 00:28:15,320
+later avoided the chamber where it happened, and preferred one where a local anesthetic had
+
+329
+00:28:15,320 --> 00:28:21,580
+brought relief. The octopus from episode two, it seems, can hurt, and the ball-rolling bumblebees
+
+330
+00:28:21,580 --> 00:28:28,220
+from episode two met the behavioral criteria for play. Episode 14 returns to how evidence
+
+331
+00:28:28,220 --> 00:28:32,740
+of this kind changed the law in Britain. And none of that transfers to AI.
+
+332
+00:28:33,440 --> 00:28:39,320
+That's the point to end on. Every marker in this episode was calibrated in creatures that share
+
+333
+00:28:39,320 --> 00:28:45,900
+our evolutionary history and our biology. In animals, behavior and biology come bundled,
+
+334
+00:28:45,940 --> 00:28:51,100
+so a behavioral marker is evidence about the machinery underneath. A language model can
+
+335
+00:28:51,100 --> 00:28:55,980
+produce any behavioral marker you can name, trade-off talk and pain talk included,
+
+336
+00:28:55,980 --> 00:28:59,880
+because it learned from text written by creatures that have the machinery.
+
+337
+00:29:00,240 --> 00:29:03,580
+For machines, theory-like approaches break down
+
+338
+00:29:03,580 --> 00:29:05,480
+and were forced back onto theory,
+
+339
+00:29:06,090 --> 00:29:09,000
+which is why the next episode puts the theories on trial.
+

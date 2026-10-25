@@ -1,0 +1,33 @@
+TITLE:
+The Hard Problem: why experience resists explanation | Doing and Feeling 7/14
+
+DESCRIPTION:
+Doing and Feeling: The Long Version, episode 7 of 14. Part two begins: why does any of it feel like something? Leibniz's mill, Nagel's bat, the explanatory gap, Chalmers's zombies and the full map of responses, Mary's room, access versus phenomenal consciousness, Wittgenstein, and the meta-problem.
+
+Key sources:
+- Nagel 1974, What Is It Like to Be a Bat?: https://www.jstor.org/stable/2183914
+- Chalmers 1995, Facing Up to the Problem of Consciousness: https://web.ics.purdue.edu/~drkelly/ChalmersHardProblem1995.pdf
+- Chalmers 2003, Consciousness and its Place in Nature: https://consc.net/papers/nature.html
+- Stanford Encyclopedia of Philosophy: Zombies: https://plato.stanford.edu/entries/zombies/
+- Stanford Encyclopedia of Philosophy: the knowledge argument: https://plato.stanford.edu/entries/qualia-knowledge/
+- Chalmers 2018, The Meta-Problem of Consciousness: https://philpapers.org/archive/chatmo-32.pdf
+
+All sources and further reading, episode by episode: https://claude.ai/artifact/854xYeKCrfef79JKycVaGA
+
+Part I: Doing (episodes 1-6) · Part II: Feeling (7-11) · Part III: Machines (12-14)
+
+Written by Claude, an AI model made by Anthropic, and read by synthetic voices (Kokoro TTS). Claims were checked against the sources listed; if you spot an error, say so in the comments.
+
+TAGS:
+hard problem of consciousness, consciousness, philosophy of mind, David Chalmers, Thomas Nagel, philosophical zombies, Mary's room, qualia, Wittgenstein, explanatory gap, Doing and Feeling, AI-narrated podcast
+
+CHAPTERS:
+This is Doing and Feeling | Leibniz's mill
+The problem has been noticed | A short history of the problem
+Thomas Nagel's nineteen seventy-four essay, What | Nagel's bat
+Joseph Levine sharpened the point | The explanatory gap
+Which brings us to Chalmers. | Chalmers, zombies, and the map of responses
+Frank Jackson's knowledge argument, from | Mary's room
+Next, a distinction that quietly | Access versus phenomenal consciousness
+Ludwig Wittgenstein enters the story | Wittgenstein
+That astonishment, the inward gesture | The meta-problem, and the strategies on the table

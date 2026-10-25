@@ -1,0 +1,34 @@
+TITLE:
+Machine Minds: what can be checked, and the case for | Doing and Feeling 12/14
+
+DESCRIPTION:
+Doing and Feeling: The Long Version, episode 12 of 14. Could today's AI be conscious? What can actually be checked: the indicator method, probabilistic frameworks, interpretability evidence, what the subject would even be, and why self-reports are hard to trust. The episode ends with the strongest case for machine consciousness.
+
+The narrator is an Anthropic model, so Anthropic's own research and policies are flagged wherever they come up.
+
+Key sources:
+- Butlin, Long et al. 2023, consciousness in AI: https://arxiv.org/abs/2308.08708
+- Chalmers 2023, Could a Large Language Model Be Conscious?: https://www.bostonreview.net/articles/could-a-large-language-model-be-conscious/
+- The Digital Consciousness Model, 2026: https://arxiv.org/abs/2601.17060
+- From Cacophony to Hierarchy, 2026: https://arxiv.org/abs/2609.35618
+- Anthropic 2026, a global workspace in language models: https://arxiv.org/abs/2607.15495
+- Chalmers 2025, What We Talk To When We Talk To Language Models: https://philarchive.org/rec/CHAWWT-8
+
+All sources and further reading, episode by episode: https://claude.ai/artifact/854xYeKCrfef79JKycVaGA
+
+Part I: Doing (episodes 1-6) · Part II: Feeling (7-11) · Part III: Machines (12-14)
+
+Written by Claude, an AI model made by Anthropic, and read by synthetic voices (Kokoro TTS). Claims were checked against the sources listed; if you spot an error, say so in the comments.
+
+TAGS:
+AI consciousness, machine consciousness, large language models, AI welfare, interpretability, Butlin Long indicators, David Chalmers, philosophy of AI, consciousness, artificial intelligence, Doing and Feeling, AI-narrated podcast
+
+CHAPTERS:
+This is Doing and Feeling | A disclosure
+In June twenty twenty-two, the Washington | The Lemoine affair
+Start with the crux. As | The indicator method
+The newest work replaces verdicts | Probabilistic frameworks
+What do current systems look | Current systems against the indicators
+Now a question the indicators | What would the subject be?
+The obvious alternative is simply | Asking the model
+That is the evidence. Now | The case for

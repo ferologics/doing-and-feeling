@@ -1,0 +1,240 @@
+This is Doing and Feeling the Long Version, Episode 3, Intelligence Formally.
+In 2006, the computer scientist Marcus Hutter put up prize money for an odd challenge.
+Compress 100 megabytes of English Wikipedia as small as possible.
+The program that decompresses it counts toward the total size, so you cannot cheat by hiding the text inside the decompressor.
+Since 2020, the challenge has used a full gigabyte, with a prize fund of up to half a million euros,
+and the record fell three times in 2026, most recently in July.
+Why would zipping Wikipedia have anything to do with intelligence?
+The answer connects information theory, the foundations of statistics,
+a mathematical definition of intelligence, and the training objective of every large language model.
+Last episode, intelligence took many forms in many bodies.
+This one asks whether there's a definition that does not depend on any species, body, or test.
+Here's the argument.
+The best formal definitions tie intelligence to prediction and compression across many environments.
+But every definition builds in assumptions about what counts as simple or about which tasks matter,
+and no learner is best at everything.
+That is why measuring machine intelligence is so contested,
+and why a score can change dramatically depending on how a model is run.
+Start with Alan Turing.
+In 1950, he proposed replacing the question,
+can machines think, which he considered too meaningless to deserve discussion, with a game.
+An interrogator converses by text with a hidden human and a hidden machine.
+If the interrogator cannot reliably tell which is which,
+the machine has done everything we could reasonably ask.
+The imitation game is operational, which is its virtue.
+It is also a test of human likeness, which is its weakness.
+In 2025, Cameron Jones and Benjamin Burgin ran a pre-registered version
+with Turing's original three-party design.
+Judges chatted for five minutes with a human and a machine at the same time,
+then picked which one was human.
+GPT-4.5, prompted to adopt a particular human-like persona,
+was judged to be the human 73% of the time, more often than the real humans were.
+A meta model given the same persona prompt was picked 56% of the time.
+Baseline systems, GPT-4.0 and the 1960s chatbot Eliza, were picked only about a fifth of the time.
+So both of the systems that passed were playing a character someone had written for them.
+lesson. What the test measured was how well a system could play a particular kind of human.
+That's a real capability, and a socially important one, given what it implies about
+who you might be talking to online. But it is not a definition of intelligence.
+The deeper story starts with Claude Shannon. In his 1948 theory of communication,
+information is surprise. An event with probability p carries minus log 2 of p bits.
+In a 1951 paper, Shannon estimated the information content of English
+by asking people to guess the next letter of a text, one letter at a time.
+People were good at it because they understood the language and the world the text described.
+Shannon was using people's knowledge of the language as a measuring instrument.
+The better they guessed, the less information each new letter carried.
+Here's the key link.
+A technique called arithmetic coding can encode a symbol
+p using very nearly minus log 2 of p bits. So the better your model predicts the next symbol,
+the fewer bits you need to encode it. Prediction and compression are the same problem. Train a
+model to minimize prediction error, measured as cross-entropy, and you are literally training
+it to compress. Which is why language model loss is reported in bits or Nats per token.
+Per training is compression with extra steps. And researchers at DeepMind made that literal
+paper titled Language Modeling is Compression. They used a large model trained mostly on text
+as a general-purpose compressor, and it squeezed image patches and audio smaller than the standard
+specialized formats, PNG, and FLAC. The caveat matters. Count the size of the model itself,
+and it loses badly because the model is enormous. But the result shows how much general structure
+a good predictor absorbs. If good prediction means good compression, what is the best possible
+predictor? In the 1960s, Ray Solomonoff gave a remarkable answer. Consider every computer
+program that could have produced the data you've seen so far. Weight each program by two to the
+minus its length in bits so that shorter programs count for much more. Then predict the next
+observation by averaging over what all those programs would output next. This is Occam's
+razor made mathematical. The length of the shortest program that produces a given string
+is called its Kalmogorov complexity, after Andrei Kalmogorov, who developed the idea independently,
+as did Gregory Chaitin. Solomanov showed that if the data come from any computable process at all,
+his predictor's total error is bounded by the complexity of that process.
+world, and no computable predictor can beat it by more than a constant. The catch is that it is
+uncomputable. Evaluating it would require knowing which programs ever halt, which is impossible in
+general. So it is a gold standard, not an algorithm. But it gives a precise sense in which intelligence
+and compression are linked. The best predictor is the one that finds the shortest explanation of the
+data. In 2007, Shane Legge, who would later co-found DeepMind, and Marcus Hutter used this
+machinery to define intelligence itself. They first gathered around 70 informal definitions
+from psychologists, AI researchers, and dictionaries, and distilled their common core.
+Intelligence measures an agent's ability to achieve goals in a wide range of environments.
+Then they formalized it.
+Imagine every computable environment an agent could face,
+each one providing observations and rewards.
+Measure the reward the agent can expect to earn in each.
+Then take a weighted sum over all of them,
+weighting each environment by 2 to the minus its Kalmogorov complexity
+so that simpler environments count more.
+That sum is the agent's universal intelligence.
+Hutter had earlier defined an agent called ICSI
+that maximizes exactly this kind of quantity
+by combining Solomanov's predictor with planning.
+Consider every program consistent with what you've seen,
+weighted by simplicity,
+and choose the action with the best expected outcome across all of them.
+In that precise sense, ICSI is the most intelligent possible agent.
+It is also uncomputable.
+Approximations exist.
+In 2011, a team led by Joel Venice built one
+small problems, the largest aversion of Pac-Man in which the agent could sense only its immediate
+surroundings. But there's a known problem with all of this. The answer depends on which universal
+Turing machine you use to measure program length. Yes, and it is not a technicality.
+Kalmogorov complexity is only defined up to a constant that depends on that reference machine.
+In 2015, Jan Laika and Hutter showed how much it matters.
+With an unlucky choice of reference machine, Ike-C can behave very badly,
+and Legg and Hutter's measure becomes, in their word, subjective.
+Worse, by one natural standard of optimality,
+every possible policy counts as optimal across the class of all computable environments,
+which makes that standard empty.
+Universal intelligence is universal only relative to a choice of what counts as simple.
+That connects to one of the deepest results in this area, the no-free-lunch theorems,
+proved by David Walpert in the mid-1990s, for learning on his own and for optimization with
+William Macready. Averaged over all possible problems, every learning or optimization method
+performs exactly as well as every other. Averaged across every conceivable world,
+no method beats random guessing. So there's no such thing as general intelligence in the absolute.
+Not in the absolute. An intelligence is good across a particular distribution of problems,
+and it gets there by having assumptions, priors, that fit that distribution.
+Legge and Hutter's simplicity weighting is one such assumption, that the world tends to be simple.
+Evolution built different assumptions into crows, octopuses, and us, fitted to our different worlds.
+So whenever someone calls a system generally intelligent, the right follow-up question is, general across what?
+In 2019, François Chalet, then at Google, published a long paper called On the Measure of Intelligence that builds on exactly that point.
+His first move is to separate skill from intelligence.
+Skill at a task can be bought in two ways, by building in prior knowledge or by training on vast amounts of task-specific experience.
+A chess engine is enormously skilled at chess, and that tells you little about its intelligence.
+So Chalet defines intelligence as skill acquisition efficiency.
+How efficiently a system turns its priors and its experience into skill on new tasks, weighted by how hard those tasks are to generalize to.
+consequence. Two systems with equal skill can differ greatly in intelligence if one needed far
+more data. On Chalet's measure, a system that learned from trillions of words what a child
+learns from millions is showing a great deal of skill and not much efficiency. To compare fairly
+with people, Chalet proposed controlling for priors, and he turned to the developmental
+psychologist Elizabeth Spelke's work on core knowledge, a small set of systems that infants
+for agents and their goals, for number, and for geometry.
+A fair test of general intelligence
+should require only those priors, plus the ability to learn.
+So he built one, the abstraction and reasoning corpus,
+or arc.
+Each task shows a few examples of colored grids
+being transformed and asks for the output on a new input.
+Every task follows a different rule designed to be new.
+Most people solve most of them, usually within a few minutes.
+For years, AI systems did terribly on ARC, even as they aced standardized exams.
+Competitions in 2020 and 2024 produced steady progress through program search and test time training,
+in which a model is briefly fine-tuned on each task's own examples.
+Then, in December 2024, a preview of OpenAI's O3 reasoning model scored about 76% on a held-out set,
+using six samples per task at roughly $26 a task.
+With over 1,000 samples per task and around 170 times the computing cost,
+it reached about 88%.
+Two caveats belong with those numbers.
+The tested model had been trained on three-quarters of ARC's public training set,
+and the model OpenAI later released was a different version.
+A second, harder version, ARC-G i2, launched in March 2025,
+model scored essentially zero on it. At the end of that year's competition, the winning open entry,
+called Envy Arc, scored about 24% at around 20 cents a task. The best verified commercial model
+was Claude Opus 4.5 at about 38%. That is a model from Anthropic, the company that makes the model
+riding this series. A refinement harness built by a company called Poetic, wrapped around Google's
+Gemini 3 Pro reached 54% at about $30 a task. And the competition's paper award went to a tiny
+recursive model with 7 million parameters and two layers, which scored 45% on the first version of
+ARK and 8% on the second. 7 million parameters, beating several far larger language models from
+earlier that year. That says something about what scale is buying. It says that on this narrow kind
+of task, a small network with the right structure, trained on the puzzles themselves, can outdo much
+larger general models. Then came ARC, a GI3, launched in March 2026, which abandons static
+puzzles for interactive games with no instructions. A system has to explore, work out what the game is,
+and win, and it is scored on how efficiently it acts. At launch, human testers solved all of the
+games, and Frontier AI systems scored around half of 1%. Meanwhile, the older test was nearly
+saturated. By July, ARK's verified results put Claude Opus 5, another anthropic model,
+at about 90% on ARK a GI2 and about 30% on the new games. In September 2026, OpenAI's GPT-6 Astra
+scored about 63% under ARK's standard test harness and nearly 100% under a different harness,
+a so-called provider adapter.
+Even with the reasoning setting matched,
+it was about 63 against 99.
+The ARC prize organizers were explicit
+that this was not AGI.
+63 versus 100.
+Same model, same games.
+Whose intelligence is being measured,
+the models or the model plus
+whatever was built around it?
+That's exactly the question,
+and it generalizes.
+Tools, retries, memory,
+built harnesses can change a score dramatically, which brings us to the science of measurement
+itself. Measuring AI capability has become its own discipline, and it is harder than it looks.
+Benchmarks saturate, a test that once separated systems ends up with everyone near the ceiling.
+Benchmarks leak. Test questions find their way into training data, so models can score well
+partly by memory, a modern clever hands. When a team led by Hu Zhang wrote a fresh set of grade
+school math problems matched to a popular benchmark, some models' accuracy dropped by up to
+8%, and the size of the drop tracked how readily a model could reproduce the original test items.
+Many models, especially at the frontier, showed little sign of overfitting, which is worth saying
+too. And benchmarks invite optimization, which triggers Goodhart's law, in the anthropologist
+Marilyn Strathern's well-known phrasing, when a measure becomes a target, it ceases to be a good
+measure. There's a deeper problem, one that episode one would recognize, construct validity.
+In 2025, a team led by Andrew Bean at Oxford reviewed 445 language model benchmarks. Only
+about 16% use statistical tests to compare models and roughly half set out to measure an abstract
+concept, like reasoning or safety, without clearly defining it. Psychometrics spent a
+century learning to ask what a test measures and whether it measures the same thing across groups.
+Much of AI evaluation is starting that work now. Researchers have also tried to define the target
+itself. One approach defines general intelligence by comparison with people. In October 2025,
+33 researchers led by Dan Hendricks proposed defining AGI as matching the cognitive versatility
+and proficiency of a well-educated adult. Across 10 domains drawn from the cattle horn carol model,
+we met in episode one, weighted equally. They scored GPT-4 at about 27 percent and GPT-5
+with long-term memory storage the weakest area, where both models scored zero.
+One natural objection is that this measures how human-like a profile of abilities is,
+which may not be the same thing as intelligence.
+A different approach measures autonomy directly.
+The research group meter estimates the length of tasks,
+measured by how long they take skilled people,
+that AI agents can complete with 50% reliability.
+By their estimates, that Horizon doubled roughly every seven months between 2019 and 2025,
+and closer to every four months since 2023.
+The most capable systems measured in 2026 are put at more than a working day.
+But Meter itself warns that measurements above about 16 hours are unreliable with its current set of test tasks.
+And a third approach borrows the psychometrics of episode 1 directly.
+In 2023, David Elitch analyzed more than 1,200 language models on a public leaderboard
+and found that a single factor explained about 85% of the variation in their benchmark scores.
+A strong machine, positive manifold.
+In April 2026, the complexity scientist David Krakauer asked how that structure changes over time
+in a paper titled The Rise and Fall of G in AGI.
+Across 39 models, on the 8 most widely reported benchmarks, scores correlated strongly, around 0.8 on average.
+And on one core battery, the first factor explained about 92% of the variation in 2023 and early 2024.
+It had begun to slip by mid-2024, and after reasoning specialized models arrived, it fell to about 64%.
+The data are thin.
+Less than half of the model and benchmark combinations were actually measured,
+and the latest period has only four models.
+So treat it as a suggestion.
+But it fits the common cause story from episode one.
+When scale was the main thing changing, everything rose together.
+As labs began training for particular skills,
+the general factor weakened within each new group of models.
+Though pooled across all of them, it still accounts for about 90% of the variation.
+Which would make machine G an artifact of how the systems were built, not a property of intelligence.
+Or a property of one era of building them.
+Either way, the structure of machine abilities has shifted within a few years, far faster than anything measured in people.
+So after all of this, do we have a definition?
+We have several, and they disagree in revealing ways.
+The psychometric view defines intelligence by how abilities cavery in people.
+The algorithmic view of Solomonoff, Legge and Hutter defines it as expected success across all environments, weighted by simplicity.
+Elegant, uncomputable, and relative to a choice of reference machine.
+Shale defines it as efficiency of learning relative to priors.
+And the practical views define it by what systems can actually do, how long they can work on their own, and how human-like their profile is.
+For large language models, these come apart sharply.
+Their huge training sets count heavily against them on Chalet's measure and not at all on Legg and Hudders.
+Their uneven profile shows up immediately on Hendrix's, and their scores depend on harnesses in ways that make every number contestable.
+What the definitions share is a core idea that will run through the rest of the series.
+Intelligence is bound up with prediction, with building models good enough to anticipate what comes next.
+Legg and Hutter have not stopped at intelligence, either.
+In September 2026, both were among the authors of a framework for assessing whether AI systems might be conscious,
+which we'll examine in Episode 12.
+But where does the drive to predict come from in the first place?
+we go back to the origin of life, and to the idea that life itself is computation.

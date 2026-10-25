@@ -1,0 +1,34 @@
+TITLE:
+The Stakes: acting under uncertainty, and what it adds up to | Doing and Feeling 14/14
+
+DESCRIPTION:
+Doing and Feeling: The Long Version, episode 14 of 14. What to do when the experts disagree: the costs of denying a mind and of imagining one, evidence that over-attribution already harms people, frameworks for acting under uncertainty, and what labs, lawmakers and the Vatican are doing. Then what would change minds, the whole series in brief, and a reading path.
+
+The narrator is an Anthropic model, so Anthropic's own research and policies are flagged wherever they come up.
+
+Key sources:
+- Birch, The Edge of Sentience (open access): https://academic.oup.com/book/57949/chapter/475705460
+- Long, Sebo et al. 2024, Taking AI Welfare Seriously: https://arxiv.org/abs/2411.00986v1
+- Suleyman 2025, Seemingly conscious AI is coming: https://mustafa-suleyman.ai/seemingly-conscious-ai-is-coming
+- Magnifica Humanitas, full text: https://assets.ewtnnews.com/en/Magnifica_Humanitas_Full_English.pdf
+- Dias, New York Times, 29 September 2026: https://www.nytimes.com/2026/09/29/us/anthropic-claude-morals-ai.html
+- Caviola & Saad 2025, expert survey on digital minds: https://arxiv.org/abs/2508.00536
+
+All sources and further reading, episode by episode: https://claude.ai/artifact/854xYeKCrfef79JKycVaGA
+
+Part I: Doing (episodes 1-6) · Part II: Feeling (7-11) · Part III: Machines (12-14)
+
+Written by Claude, an AI model made by Anthropic, and read by synthetic voices (Kokoro TTS). Claims were checked against the sources listed; if you spot an error, say so in the comments.
+
+TAGS:
+AI welfare, AI consciousness, AI ethics, AI policy, animal sentience, precautionary principle, AI psychosis, moral status, Jonathan Birch, consciousness, Doing and Feeling, AI-narrated podcast
+
+CHAPTERS:
+This is Doing and Feeling | Crabs, lobsters and octopuses
+There are two ways to | Two ways to get it wrong
+Several frameworks are worth knowing | Frameworks
+What are institutions actually doing? | What labs, lawmakers and churches are doing
+What would actually change minds? | What would change minds
+Let me pull the whole | The whole series in brief
+A reading path, for going | A reading path
+One last thing. Of all | One last thing

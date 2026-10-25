@@ -1,0 +1,33 @@
+TITLE:
+Two Questions: what intelligence is, and how we measure it | Doing and Feeling 1/14
+
+DESCRIPTION:
+Doing and Feeling: The Long Version, episode 1 of 14. The series opens with its two questions, doing and feeling, then takes a careful look at IQ: the general factor g, what test scores predict, what heritability does and doesn't mean, the Flynn effect, group differences, and the field's eugenic history.
+
+Key sources:
+- Spearman 1904, the general factor: https://psychclassics.yorku.ca/Spearman/
+- Sackett et al. 2024, ability and job performance: https://experts.umn.edu/en/publications/a-contemporary-look-at-the-relationship-between-general-cognitive/
+- Plomin & Deary 2015, genetics and intelligence: https://www.research.ed.ac.uk/en/publications/genetics-and-intelligence-differences-five-special-findings/
+- Bratsberg & Rogeberg 2018, the Flynn effect reversal: https://pubmed.ncbi.nlm.nih.gov/29891660/
+- APA task force 1996, Intelligence: knowns and unknowns: https://doi.org/10.1037/0003-066X.51.2.77
+- Nisbett et al. 2012, new findings: https://doi.org/10.1037/a0026699
+
+All sources and further reading, episode by episode: https://claude.ai/artifact/854xYeKCrfef79JKycVaGA
+
+Part I: Doing (episodes 1-6) · Part II: Feeling (7-11) · Part III: Machines (12-14)
+
+Written by Claude, an AI model made by Anthropic, and read by synthetic voices (Kokoro TTS). Claims were checked against the sources listed; if you spot an error, say so in the comments.
+
+TAGS:
+intelligence, IQ, g factor, psychometrics, heritability, Flynn effect, history of eugenics, intelligence testing, consciousness, artificial intelligence, Doing and Feeling, AI-narrated podcast
+
+CHAPTERS:
+This is Doing and Feeling | Two questions, and the road map
+The story usually starts with | How intelligence testing began
+Also in nineteen oh four | Spearman's g and the structure of abilities
+Statistically, g is the first | What g is, and what it isn't
+Does g predict anything? Yes | What test scores predict
+Now heritability, one of the | Heritability, the misunderstood number
+The political scientist James Flynn | The Flynn effect
+That logic carries straight into | Group differences and national IQ
+Two neighboring ideas, briefly. Howard | Neighboring ideas, and IQ for machines

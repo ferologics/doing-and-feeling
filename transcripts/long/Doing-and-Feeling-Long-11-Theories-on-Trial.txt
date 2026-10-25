@@ -1,0 +1,319 @@
+This is Doing and Feeling, the Long Version. Episode 11, Theories on Trial. In 1998, the neuroscientist Christoph Koch made a bet with the philosopher David Chalmers.
+Koch wagered a case of fine wine that within 25 years, science would clearly identify the brain mechanism behind consciousness. Chalmers bet against.
+25 years later, in June 2023,
+at the annual meeting of the Association for the Scientific Study of Consciousness in New York,
+Koch conceded on stage and handed over a case of Madera.
+Then the two of them renewed the bet, with a new deadline of 2048.
+The concession came at the same session,
+where the first results were presented from an experiment pitting two leading theories against each other,
+with their own champions agreeing in advance on what would count as failure.
+We'll end with that experiment.
+First, the theories and a problem with how they've been tested.
+What should a theory of consciousness explain?
+Why some contents are conscious and others are not?
+Why we're conscious at some times and not others?
+Why experiences have the specific character they do?
+Why consciousness is unified?
+And what it adds to an organism that processes information anyway?
+No theory explains all five.
+A 2022 review by Anil Seth and Tim Bain listed 22 theories in circulation and examined four families in depth.
+Seth has also argued for a strategy he calls addressing the real problem.
+Rather than solving or dissolving the hard problem head-on, explain, predict, and control the properties of experience,
+the way biology dissolved the mystery of life.
+not by finding a vital spark, but by explaining metabolism, reproduction, and heredity one at a
+time. Whether consciousness will yield the same way is exactly what the hard problem of episode
+seven disputes. But the strategy has made the field productive. Where do researchers themselves
+stand? A survey of 166 attendees of the field's main conference in 2018 and 2019, published in
+2022, gives a snapshot. Predictive processing was rated promising by about 61% of respondents,
+global workspace theory by 58, higher order theories by 54, integrated information theory
+by 45, and recurrent processing by 39. Quantum theories drew the most votes as not promising.
+About two-thirds said machines could be conscious, now, or in the future. It was a self-selected
+sample, but it tells you the field has favorites and no consensus. Before the theories, a problem
+with the evidence for them. In 2022, Irei Yarin, Lucia Meloni, Michael Pitts, and Lyad Mudrick
+built a database of 412 experiments that interpreted their results in light of one
+or more of the four leading theories. They found that whether a study ended up supporting a given
+theory could be predicted from its methodological choices alone, before you looked at the results.
+In other words, the kind of experiment a lab chose strongly predicted which theory it would
+find support for. They also found that most studies interpreted their findings after the fact,
+rather than testing a theory's critical predictions in advance.
+So the field has been running the garden of forking paths at the level of whole paradigms.
+Each camp picks the experiments its theory is good at.
+That's the uncharitable version, and there's truth in it, though nobody needs to be acting in bad faith.
+Theories grow up around the phenomena that inspired them, and labs specialize.
+But piles of confirming studies tell you less than they seem to,
+which is the reason for the field's most important development this decade, adversarial collaborations.
+The Templeton World Charity Foundation has funded a series of them.
+Proponents of rival theories agree in advance on experiments whose outcomes would embarrass at least one of them,
+and neutral teams run the experiments.
+The program has pitted integrated information theory against global neuronal workspace theory, twice.
+First-order theories against higher-order ones, and integrated information theory against predictive processing.
+One workshop tried to design a test pitting integrated information theory against ORCH-OR.
+are the quantum theory from episode 9 and concluded that it could not find an experiment
+suitable for a head-to-head test, which is informative in itself. Keep that in mind as
+we go through the theories. What each claims, its best evidence, its best counter-evidence,
+and what it implies for machines. First, global workspace theory. Bernard
+Bars proposed it in 1988 with a theater metaphor. Most of what the brain does happens backstage,
+Thank you.
+cortex. Its signature event is ignition. When a stimulus crosses into awareness, activity does not
+just grow. It suddenly amplifies and spreads across the network, all or nothing, typically a few
+hundred milliseconds after the stimulus. DeHaan describes four markers, a late brainwave called
+the P3B, a sudden nonlinear amplification of activity, bursts of high-frequency oscillation,
+and synchronization between distant regions. In 2018, Bram van Vucket, Piotr Rulfsema,
+and colleagues recorded from monkeys detecting faint stimuli. When the monkey reported seeing
+the stimulus, activity propagated up to prefrontal cortex and sustained itself there,
+all or none. When it missed, the signal was lost along the way. And higher baseline activity in
+prefrontal cortex predicted false alarms. The theory explains the limited capacity of awareness,
+and why consciously seen information is available for flexible, multi-step reasoning,
+while unseen information is not. It's also the theory most naturally built into machines,
+because broadcast through a shared, limited-capacity medium is something an engineer can
+design. The trouble comes from the report Confound of Last Episode. In Inattentional
+Blindness Experiments by Michael Pitts and colleagues, the P3B appeared when stimuli
+were relevant to the task, but largely vanished when people saw the same stimuli without needing
+to report them. An earlier signal over the back of the brain, at around 200 to 300 milliseconds,
+called the visual awareness negativity, tracked awareness more faithfully. That suggests the
+classic marker reflects what you do with an experience rather than the experience itself.
+Workspace theorists reply that ignition need not involve report, and the argument continues.
+Second, higher-order theories. On these views, a mental state is conscious when you are,
+in a suitable way, aware of being in it. The philosopher David Rosenthal developed the higher-order
+thought version. A perception becomes conscious when it's accompanied by a thought that you are
+having it. The classic objection concerns empty higher-order states. Suppose the higher-order
+thought says you're seeing red, but there's no red perception underneath at all. What is it like to
+be you? Rosenthal bites the bullet. You'd seem to see red, so you'd be conscious of red. Critics
+like Ned Block reply that the theory has now located experience in the higher-order state,
+leaving the perception idle. The most influential current version is Hakwin Lau's perceptual
+reality monitoring theory. Sensory systems produce activity all the time, from real inputs,
+from imagination, from memory, from noise. Consciousness, on Lau's view, arises when a
+mechanism tags a sensory representation as a reliable reflection of the world, right now.
+Lau has compared this to a generative adversarial network, in which a discriminator learns to tell
+real data from generated data. That gives you a mechanism for hallucination for free.
+The discriminator misfires and tags imagination as real. And Lau uses it exactly that way.
+hallucinations as failures of reality monitoring
+and blindsight as the opposite failure,
+where real signals do not get tagged.
+The evidence for this family includes experiments
+in which people perform equally well on a task
+but differ in how aware or confident they feel
+with matching differences in prefrontal activity.
+There's a cautionary tale from this camp, too.
+A 2010 study found that magnetic stimulation of prefrontal cortex
+reduced people's ability to judge their own accuracy without impairing the task itself,
+and it was widely cited as support. In 2017, Daniel Bohr and colleagues tried to reproduce
+it with 90 participants, then ran a follow-up and found no effect. The statistics favored the null.
+One more classic to downgrade. The main empirical objection to higher-order theories
+is that large prefrontal lesions do not seem to abolish consciousness.
+In 2017, the Journal of Neuroscience published a paired debate on precisely this.
+One team, including Melanie Boley, Koch, and Giulio Tononi,
+argued that the neural correlates of consciousness lie mainly in the back of the brain.
+The other, Brian Odegaard, Robert Knight, and Lau,
+argued that prefrontal cortex is essential
+and that the negative findings were weaker than claimed.
+That front-versus-back fight runs through the rest of this episode.
+Third, recurrent processing theory from Victor Lama.
+When a visual stimulus arrives,
+a fast feed-forward sweep carries it up the visual hierarchy in about a tenth of a second,
+enough to drive quick responses, but on this view unconscious.
+Then feedback connections kick in,
+creating local recurrent processing within sensory cortex.
+Lama argues that this local recurrence is sufficient for phenomenal experience.
+wider recurrence involving frontal areas adds access, report, memory, and control.
+The evidence includes the timing of masking, which seems to work by interrupting recurrent processing,
+and experiments in which a magnetic pulse over primary visual cortex,
+delivered roughly a tenth of a second after a stimulus,
+when feedback should be arriving, can abolish awareness of it.
+Recurrent processing theory is the natural ally of Bloch's overflow view from Episode 7,
+Experience in local loops, access for only some of it.
+Global workspace theory sits on the other side.
+No access, no experience.
+Its main vulnerability is the refrigerator light problem.
+If local recurrence produces experiences that never reach report,
+how will we ever confirm they exist?
+For machines, the theory has a clean implication.
+Purely feed-forward computation is not enough.
+Recurrence matters.
+Fourth, integrated information theory, whose philosophy we met in episode 9.
+Here is the science.
+IIT predicts that the physical substrate of experience lies mainly in a posterior hot
+zone of the cortex, rather than in prefrontal cortex.
+The dreaming studies from last episode fit that prediction, and the Zappan-Zipp complexity
+measure was inspired by IIT's idea that consciousness requires both integration and
+differentiation.
+It also explains a striking fact about the cerebellum,
+which contains about 69 billion of the brain's 86 billion neurons, 4 out of 5.
+Yet damage to it, even its complete absence in rare people born without one,
+affects movement, speech, and sometimes learning, while consciousness remains.
+On IIT's account, the cerebellum's highly modular, parallel architecture
+generates little integrated information, despite its huge neuron count.
+The skeptics of episode 13 lean on exactly this example.
+IIT makes stranger predictions, too.
+Because its measure, phi, depends on what a system could do,
+not only on what it's doing,
+IIT predicts that neurons which are inactive but could fire still contribute to experience,
+while the same neurons silenced pharmacologically would not.
+That's testable in principle, though nobody has yet done it convincingly.
+Now the criticisms, which are severe.
+computing phi exactly explodes with the number of elements, so it has only been computed for tiny
+systems, using software called PyPhi developed by Will Maynor and colleagues. In practice,
+every empirical test uses proxies. Then there's the unfolding argument from Adrian Doerig,
+Aaron Scherger, Michael Herzog, and colleagues in 2019. Any recurrent network can be unfolded
+into a purely feedforward network that computes exactly the same input-output function.
+IIT assigns substantial phi to the recurrent version and zero to the feedforward one,
+but every experiment we can run is read through outputs, so it would treat the two identically.
+Either IIT's claims about which system is conscious can never be tested, or they're false.
+And the same argument, its authors point out, threatens recurrent processing theory.
+That's devastating if you think consciousness must make a functional difference.
+two behaviorally identical systems,
+and the theory says one is conscious and the other is not.
+Which is exactly where IIT's defenders dig in.
+Consciousness, they argue, is about intrinsic causal structure,
+which perturbation experiments like ZAP and ZIP can probe directly
+beyond input-output behavior.
+And they argue that the critics are smuggling in a functionalist assumption.
+Whether that's a good reply depends on your answer to Episode 7.
+there's the logic gate grid from episode 9, which Tononi accepted rather than retreat.
+In September 2023, the tension boiled over. 124 researchers signed an open letter calling
+IIT pseudoscience, arguing that its core claims are untestable and that media coverage had
+overstated its support. Many researchers, including some who reject IIT, thought the
+label went much too far. In 2025, the fight moved into nature neuroscience, an expanded critique,
+a reply from Tone Oni and 21 co-authors arguing that the label reflected a bias toward computational
+functionalism, and a third piece by Alex Gomez-Marin and Anil Seth calling for the field to get past
+the name calling. The underlying question is a real one. Can a theory of consciousness be both
+scientific and non-functionalist. Fifth, the predictive processing family, which grows out of
+the predictive brain of episode 5. Anil Seth's version is the beast machine. If perception is
+the brain's best guess about the causes of its sensory signals, a controlled hallucination,
+then the deepest layer of prediction concerns the body itself. Heartbeat, blood pressure, gut,
+temperature, the signals called interosptive. The brain predicts and regulates these to keep
+Seth argues that emotions, moods, and the most basic feeling of being a self are rooted in that predictive regulation.
+We're conscious, on this view, not despite being animals, but because we are animals.
+There's suggestive evidence that bodily signals shape perception.
+In 2014, Hyondang Park and colleagues in Paris found that the brain's response to each heartbeat
+predicted whether people would detect a faint visual stimulus.
+Lisa Feldman Barrett's theory of constructed emotion makes a related claim.
+Emotions are predictions grounded in interosption.
+Mark Solms pushes further down.
+In The Hidden Spring, and in a 2019 paper on the hard problem and the free energy principle,
+he argues that consciousness originates not in the cortex but in the upper brainstem.
+It begins, he says, as raw feeling effect, which registers how well the organism is doing at staying alive.
+uncertainty felt as unpleasant, its resolution as pleasant. He draws on Jock Panksepp's work
+on emotional circuits deep in the brain, and on Bjorn Merker's observations of children born with
+little or no cerebral cortex, who nonetheless seem alert, emotionally responsive, and able to
+recognize the people they know. Merker's target article in Behavioral and Brain Sciences drew
+commentaries showing how contested this is. Some of these children retain islands of cortex,
+argue the behaviors fall short of establishing experience. Antonio Damasio, from Descartes
+Error Onward, has long argued that feeling is grounded in the body's homeostasis. On the other
+side, Joseph Ledoux and Richard Brown argue that emotional experiences are higher-order cortical
+states, and that the deep survival circuits produce defensive responses, not felt fear.
+Which side is right decides what we should say about fish, newborns, and patients with little
+And in 2025, Ruben Lachonen, Carl Friston, and Shamal Shandaria proposed an active inference theory called a beautiful loop.
+It names three conditions.
+A unified, simulated model of the world, which they call the epistemic field.
+A competition among inferences, in which those that best reduce long-term uncertainty win and are bound together.
+An epistemic depth, in which the model's beliefs are shared recurrently through its own hierarchy,
+so that the model contains knowledge of its own existence.
+That's the loop.
+The authors use the meditative states from last episode as test cases.
+What does this family imply for machines?
+It depends which member you ask.
+On Seth's beast machine view, prediction alone is not enough.
+Prediction in the service of staying alive is what matters,
+so today's disembodied systems are poor candidates.
+On a more purely computational reading of active inference,
+an artificial agent with the right self-modeling architecture could qualify.
+Sixth, Michael Graziano's attention schema theory,
+the illusionist's mechanism from episode 8.
+As a scientific theory, it makes a specific prediction.
+Awareness should matter for controlling attention.
+And that's roughly what experiments by Taylor Webb, Graziano,
+in 2016. Q's people were not aware of still captured their attention. But without awareness,
+people controlled their attention less well, holding it less stably.
+Transformers are literally built out of attention. Do they have attention schemas?
+Not in Graziano's sense. Attention in a transformer is a routing mechanism. Each position
+weighs information from the others. It does not come with a model of that attention used to control
+it. Whether something like that could be learned implicitly is an open question, and it's one of
+the indicators researchers check for, as we'll see next episode. Seventh, unlimited associative
+learning from Simona Ginsberg and Eva Yablonka. Rather than a mechanism, it identifies a transition
+marker, an evolved capacity whose presence indicates that consciousness has arisen.
+Unlimited associative learning is open-ended learning about novel, compound stimuli and actions,
+combinations of features, across time gaps, in chains.
+On their account, it first evolved around the Cambrian Explosion more than 500 million years ago,
+and consciousness evolved at least three times, in vertebrates, in arthropods, and in cephalopods.
+Language models learn associations open-endedly. By that marker, they are in.
+Yablonka would say no. In a 2021 paper with Zohar Bronfman on when robots might be sentient,
+they argued that a machine would need this kind of learning tied to a body and to one overriding
+value, keeping itself going. Language models have neither. And that shows the general problem with
+transplanting any marker calibrated on animals. A few other theories deserve a mention. Dendritic
+integration theory, from Yan Aru, Matto Takasuzuki, and Matthew Larkham, ties consciousness to a
+cellular mechanism in large cortical neurons, and in rodents, anesthetics appear to work in part by
+disrupting it. Serial Penarts's neurorepresentationalism treats consciousness as the
+brain's multimodal, situational model of the world. And electromagnetic field theories,
+like John Joe McFadden's, locate the integration of experience in the brain's own electric field.
+The skeptics of episode 13 cite recent work from Earl Miller's lab suggesting that the brain's
+electric fields help coordinate activity across the cortex, as one-way biology might matter.
+Now the trials. The first, and so far the most important, was the Cogitate Consortium's test
+of global neuronal workspace theory against integrated information theory. 256 participants
+were tested with three methods, FMRIM,
+e.g., and electrodes implanted in the brains
+of 34 epilepsy patients.
+They saw faces, objects, letters, and meaningless symbols
+at different orientations and durations,
+sometimes relevant to their task and sometimes not.
+The theories made opposing predictions.
+IIT predicted that conscious content
+would be maintained in the back of the brain
+for as long as the stimulus was seen,
+between posterior regions. Global workspace theory predicted ignition in prefrontal cortex
+when the stimulus appeared and again when it disappeared, and that prefrontal cortex would
+carry the details of what was seen. The results, published in Nature in April 2025, challenged both.
+Some predictions held up. Some sites at the back tracked how long a stimulus lasted,
+and prefrontal cortex responded when it appeared. But key predictions failed. There was no sustained,
+content-specific synchronization within posterior cortex,
+which the authors called the most direct challenge to IIT,
+and there was no ignition when the stimulus disappeared.
+Prefrontal cortex carried information about the category of what was seen,
+face versus object, but not about its exact identity
+and little or nothing about its orientation.
+That's a serious problem for global workspace theory.
+So the first decisive test was indecisive.
+Decisive about some predictions, indecisive about the theories, which is how science usually works.
+Both camps disputed parts of the interpretation,
+and the pseudoscience letter erupted a few months after the first results were presented.
+But the method is the real result.
+Theories made risky, pre-registered predictions, and some of those predictions failed.
+More rounds are underway.
+Cogitate's second experiment uses a video game.
+People play while faces and objects appear in the background,
+so their attention is pulled away from them,
+and later watch replays of gameplay while attending to those images.
+It was introduced in posters at the field's 2025 meeting in Crete,
+with 139 participants across FMR, I&M, EG.
+Those posters showed that the game works and gave early mixed results,
+weak support for a key workspace prediction,
+and only partial support for one of IITs.
+is peer-reviewed yet, and no verdict on the theories has been published. A separate collaboration,
+called Intrepid, is testing IIT against active inference and against neurorepresentationalism,
+with four experiments and independent replications planned. Its results are pending, too.
+What would settle things? A few candidate tests. IIT's inactive neuron prediction,
+if anyone can make it work. Lesion and stimulation studies of prefrontal cortex that are large enough
+to settle the front-versus-back fight.
+No report designs that cleanly separate experience from access.
+And the extreme states of last episode, cessations,
+keryemine dreams, awareness without content,
+which any complete theory has to handle.
+Meanwhile, let me line the theories up against the question
+this series is building toward.
+Global workspace theory says a machine could be conscious
+if it has a limited-capacity workspace
+whose contents are broadcast to many specialized processes.
+Higher-order theories say yes if the machine monitors its own representations in the right way.
+Recurrent processing theory requires genuine recurrence.
+Attention schema theory requires a model of the machine's own attention used to control it.
+Integrated information theory says no for conventional digital hardware, whatever the software.
+The beast machine version of predictive processing makes systems that are not regulating a living body very unlikely candidates.
+And unlimited associative learning, on its author's account, would require open-ended learning in a body,
+driven by something like self-preservation, which today's systems lack.
+So whether today's AI systems are candidates for consciousness depends almost entirely on which theory you believe,
+and no theory has won.
+That is not a reason for despair.
+It's the starting point for the most careful attempts yet to assess machines.
+In 2023, a group of 19 researchers turned most of these theories, though not IIT,
+into a checklist of architectural indicators that you can look for in an AI system.
+That's where Part 3 begins.

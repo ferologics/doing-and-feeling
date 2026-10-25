@@ -1,0 +1,33 @@
+TITLE:
+Life as Computation: from self-copying code to social minds | Doing and Feeling 4/14
+
+DESCRIPTION:
+Doing and Feeling: The Long Version, episode 4 of 14. The strongest case that life, intelligence and computation form one continuum, built on Blaise Aguera y Arcas's What Is Intelligence?: self-copying code, symbiogenesis, the physics of prediction, regulation and social minds. Then the case is tested against the objection that, on a loose enough definition, everything computes.
+
+Key sources:
+- Aguera y Arcas, What Is Intelligence? (free online): https://whatisintelligence.antikythera.org/
+- Aguera y Arcas et al. 2024, Computational Life: https://arxiv.org/abs/2406.19108
+- Still et al. 2012, Thermodynamics of Prediction: https://doi.org/10.1103/PhysRevLett.109.120604
+- Conant & Ashby 1970, the good regulator theorem: https://doi.org/10.1080/00207727008920220
+- Chalmers 1996, does a rock implement every automaton?: https://consc.net/papers/rock.html
+- Farrell, Gopnik, Shalizi & Evans 2025, AI as cultural technology: https://doi.org/10.1126/science.adt9819
+
+All sources and further reading, episode by episode: https://claude.ai/artifact/854xYeKCrfef79JKycVaGA
+
+Part I: Doing (episodes 1-6) · Part II: Feeling (7-11) · Part III: Machines (12-14)
+
+Written by Claude, an AI model made by Anthropic, and read by synthetic voices (Kokoro TTS). Claims were checked against the sources listed; if you spot an error, say so in the comments.
+
+TAGS:
+artificial life, origin of life, computation, symbiogenesis, cybernetics, free energy, social brain, What Is Intelligence, Blaise Aguera y Arcas, intelligence, Doing and Feeling, AI-narrated podcast
+
+CHAPTERS:
+This is Doing and Feeling | Von Neumann's question
+This episode makes the strongest | The claim
+Start with replicators. Von Neumann | Step one: replicators
+The second step is merging. | Step two: merging
+The third step is the | Step three: prediction and physics
+Now regulation. In nineteen forty-three, Arturo | Regulation and the good regulator
+The fourth step: intelligence becomes | Step four: social minds
+Now the test, because a | Testing the continuum
+So how much of the | What survives

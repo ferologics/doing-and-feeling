@@ -1,0 +1,37 @@
+TITLE:
+Machines That Learn: how modern AI works, and what's inside it | Doing and Feeling 6/14
+
+DESCRIPTION:
+Doing and Feeling: The Long Version, episode 6 of 14. How today's AI works and what we know about its insides: transformers, scaling, in-context learning, interpretability, reinforcement learning, comparisons with brains and the debate over understanding. These systems build real internal structure, yet stay jagged, data hungry and frozen after training.
+
+The narrator is an Anthropic model, so Anthropic's own research and policies are flagged wherever they come up.
+
+Key sources:
+- Berglund et al. 2023, the reversal curse: https://arxiv.org/abs/2309.12288
+- Anthropic 2025, tracing the thoughts of a language model: https://www.anthropic.com/research/tracing-thoughts-language-model
+- Schaeffer et al. 2023, are emergent abilities a mirage?: https://arxiv.org/abs/2304.15004
+- Yue et al. 2025, does RL expand reasoning?: https://arxiv.org/abs/2504.13837
+- Bender & Koller 2020, the octopus test: https://aclanthology.org/2020.acl-main.463/
+- Dell'Acqua et al. 2023, the jagged frontier: https://mitsloan.mit.edu/sites/default/files/2023-10/SSRN-id4573321.pdf
+
+All sources and further reading, episode by episode: https://claude.ai/artifact/854xYeKCrfef79JKycVaGA
+
+Part I: Doing (episodes 1-6) · Part II: Feeling (7-11) · Part III: Machines (12-14)
+
+Written by Claude, an AI model made by Anthropic, and read by synthetic voices (Kokoro TTS). Claims were checked against the sources listed; if you spot an error, say so in the comments.
+
+TAGS:
+large language models, transformers, machine learning, interpretability, scaling laws, reinforcement learning, AI understanding, neural networks, deep learning, artificial intelligence, Doing and Feeling, AI-narrated podcast
+
+CHAPTERS:
+This is Doing and Feeling | The reversal curse and the Olympiad
+The history in brief. In | A short history of neural networks
+How does a transformer work? | How a transformer works
+The first regularity is scaling. | Scaling and emergence
+The second regularity is in-context | In-context learning
+Now the inside story. Mechanistic | Inside the models: interpretability
+What does reinforcement learning add? | What reinforcement learning adds
+How do these models compare | Models and brains
+Do these systems understand? The | Do they understand?
+Which brings us back to | Jagged, data-hungry, frozen
+So, what kind of intelligence | What kind of intelligence is this?

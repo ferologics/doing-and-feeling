@@ -1,0 +1,35 @@
+TITLE:
+The Map of Positions: every serious answer, and what each costs | Doing and Feeling 9/14
+
+DESCRIPTION:
+Doing and Feeling: The Long Version, episode 9 of 14. Every serious answer to the hard problem, what it costs, and what it says about octopuses and machines: functionalism, representationalism, enactivism, biological naturalism, integrated information theory, panpsychism, idealism, dualism and quantum theories. It ends with a clearly marked tour of ideas at the edges.
+
+Key sources:
+- Block 1978, Troubles with Functionalism: https://rintintin.colorado.edu/%7Evancecd/phil201/Block.pdf
+- Stanford Encyclopedia of Philosophy: Functionalism: https://plato.stanford.edu/entries/functionalism/
+- Findlay et al., AI and integrated information theory: https://arxiv.org/abs/2412.04571
+- Carroll 2021, on panpsychism and physics: https://philsci-archive.pitt.edu/19311
+- Hameroff & Penrose 2014, Orch OR: https://www.sciencedirect.com/science/article/pii/S1571064513001188
+- Schwitzgebel, If Materialism Is True, the United States Is Probably Conscious: https://faculty.ucr.edu/~eschwitz/SchwitzAbs/USAconscious.htm
+
+All sources and further reading, episode by episode: https://claude.ai/artifact/854xYeKCrfef79JKycVaGA
+
+Part I: Doing (episodes 1-6) · Part II: Feeling (7-11) · Part III: Machines (12-14)
+
+Written by Claude, an AI model made by Anthropic, and read by synthetic voices (Kokoro TTS). Claims were checked against the sources listed; if you spot an error, say so in the comments.
+
+TAGS:
+philosophy of mind, consciousness, functionalism, panpsychism, integrated information theory, Chinese room, Orch OR, idealism, dualism, machine consciousness, Doing and Feeling, AI-narrated podcast
+
+CHAPTERS:
+This is Doing and Feeling | The China brain
+Start with functionalism, because it's | Functionalism
+The second major physicalist family | Representationalism
+Now a family that comes | Enactivism
+Next, biological naturalism. John Searle | Biological naturalism and the Chinese Room
+Integrated information theory, or | Integrated information theory
+Then type-F: Russellian monism and | Russellian monism and panpsychism
+Four more positions, more briefly. | Idealism, dualism, mysterianism and quantum theories
+Finally, a position about positions. | Crazyism
+Give me the scoreboard. Which | The scoreboard
+Before we leave the map | The edges

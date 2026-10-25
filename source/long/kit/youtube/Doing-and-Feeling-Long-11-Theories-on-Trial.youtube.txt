@@ -1,0 +1,35 @@
+TITLE:
+Theories on Trial: the leading theories and the experiments that test them | Doing and Feeling 11/14
+
+DESCRIPTION:
+Doing and Feeling: The Long Version, episode 11 of 14. The leading scientific theories of consciousness and the experiments that test them: global workspace, higher-order, recurrent processing, integrated information, predictive processing and others. The adversarial collaborations bruised every theory they touched, and the new rules of testing may matter more than any single result.
+
+Key sources:
+- Seth & Bayne 2022, Theories of consciousness: https://www.nature.com/articles/s41583-022-00587-4
+- Yaron et al. 2022, the ConTraSt database: https://ideas.repec.org/a/nat/nathum/v6y2022i4d10.1038_s41562-021-01284-5.html
+- Cogitate Consortium 2025, the adversarial test: https://pmc.ncbi.nlm.nih.gov/articles/PMC12137136
+- Doerig et al. 2019, the unfolding argument: https://infoscience.epfl.ch/record/267440
+- Francken et al. 2022, what consciousness researchers think: https://pure.uva.nl/ws/files/107716663/niac011.pdf
+- Bronfman, Ginsburg & Jablonka 2021, when will robots be sentient?: https://cris.openu.ac.il/en/publications/when-will-robots-be-sentient/
+
+All sources and further reading, episode by episode: https://claude.ai/artifact/854xYeKCrfef79JKycVaGA
+
+Part I: Doing (episodes 1-6) · Part II: Feeling (7-11) · Part III: Machines (12-14)
+
+Written by Claude, an AI model made by Anthropic, and read by synthetic voices (Kokoro TTS). Claims were checked against the sources listed; if you spot an error, say so in the comments.
+
+TAGS:
+theories of consciousness, global workspace theory, integrated information theory, higher-order theories, predictive processing, adversarial collaboration, Cogitate, neuroscience, consciousness science, attention schema theory, Doing and Feeling, AI-narrated podcast
+
+CHAPTERS:
+This is Doing and Feeling | The bet
+What should a theory of | What a theory must explain
+Before the theories, a problem | A problem with the evidence
+First, global workspace theory. Bernard | Global workspace theory
+Second, higher-order theories. On these | Higher-order theories
+Third, recurrent processing theory, from | Recurrent processing theory
+Fourth, integrated information theory, whose | Integrated information theory
+Fifth, the predictive processing family | Predictive processing
+Sixth, Michael Graziano's attention schema | Attention schemas, associative learning, and others
+Now the trials. | The trials
+What would settle things? A | What would settle it

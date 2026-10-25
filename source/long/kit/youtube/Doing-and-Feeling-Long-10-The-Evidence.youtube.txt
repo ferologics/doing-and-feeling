@@ -1,0 +1,36 @@
+TITLE:
+The Evidence: what we can measure, and how sure we are | Doing and Feeling 10/14
+
+DESCRIPTION:
+Doing and Feeling: The Long Version, episode 10 of 14. What the science of consciousness can actually measure: neural correlates, no-report methods, blindsight and neglect, split brains, hidden awareness in unresponsive patients, the zap-and-zip complexity index, anesthesia, sleep, psychedelics, meditation, free will experiments and animal minds. Some famous findings turn out shakier than their reputations.
+
+Key sources:
+- Bodien et al. 2024, cognitive motor dissociation: https://www.cam.ac.uk/research/news/one-in-four-patients-in-vegetative-or-minimally-conscious-state-able-to-perform-cognitive-tasks
+- Casarotto et al. 2016, the perturbational complexity index: https://zenodo.org/record/439347
+- Luppi et al. 2026, an anesthesia signature across six species: https://www.nature.com/articles/s41593-026-02460-4
+- Siclari et al. 2017, the neural correlates of dreaming: https://doi.org/10.1038/nn.4545
+- 2025 replication of the burning-house experiment: https://www.psy.ox.ac.uk/publication/2127230
+- Crook 2021, pain in octopuses: https://doaj.org/article/235b24d144784f509f49876953b36530
+
+All sources and further reading, episode by episode: https://claude.ai/artifact/854xYeKCrfef79JKycVaGA
+
+Part I: Doing (episodes 1-6) · Part II: Feeling (7-11) · Part III: Machines (12-14)
+
+Written by Claude, an AI model made by Anthropic, and read by synthetic voices (Kokoro TTS). Claims were checked against the sources listed; if you spot an error, say so in the comments.
+
+TAGS:
+consciousness science, neuroscience, blindsight, split brain, anesthesia, disorders of consciousness, psychedelics, meditation, free will, animal consciousness, Doing and Feeling, AI-narrated podcast
+
+CHAPTERS:
+This is Doing and Feeling | Blindsight in a corridor
+The modern program began in | Neural correlates and their confounds
+Here is the toolkit, because | The toolkit
+Now a measurement problem that | The criterion problem
+With that caution in hand | Patients: blindsight, neglect, split brains
+The most consequential findings concern | Hidden awareness
+Can we measure consciousness directly | Zap and zip
+Some of the most powerful | Switching consciousness off and on
+Then there's a source of | Meditation
+The free-will experiments deserve care | The free-will experiments
+Here's a question that connects | How much happens without awareness?
+Finally, animals. In twenty twenty, Andreas | Animals

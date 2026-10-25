@@ -1,0 +1,256 @@
+This is Doing and Feeling, the long version. Episode 8, The Case for Illusion. Right now, without moving your eyes, ask yourself how much of what you see is in color. For almost everyone, the answer comes back instantly. All of it.
+In 2020, the psychologists Michael Cohen, Thomas Botch, and Caroline Robertson tested that confidence.
+Participants wore virtual reality headsets with eye-tracking and explored immersive scenes.
+A historic site, a street dance, an orchestra rehearsal.
+The software kept color only where each person was looking and drained it from everything else,
+turning the periphery black and white.
+Most participants never noticed.
+In the most extreme condition, with color left in only a small central patch,
+less than 5% of the visual field, nearly a third of them still did not notice.
+That's a fact about peripheral vision. Nobody thinks the eye is perfect.
+The eye is not what failed, though. What failed was the report.
+People were asked whether anything had changed in what they saw,
+and most reported nothing amiss, although much of their visual field had lost its color.
+read that. The realist reading says the brain filled in the color, so the experience really
+was colored, and introspection got the experience right while the world was different. The other
+reading says people's judgments about their experience ran ahead of anything going on.
+Either way, the sense of a rich, uniform, colorful visual field turns out to be a construction,
+and introspection did not flag it as one. Today's question is how far that goes.
+Could introspection be wrong not just about the details of experience,
+but about its most basic character, the very thing that makes the hard problem seem hard?
+That is the claim of illusionism, and today it gets the strongest hearing I can give it,
+followed by its hardest objections.
+Start with what the view actually says, because it's routinely caricatured.
+The modern statement is Keith Frankish's 2016 paper,
+illusionism as a theory of consciousness published as a target article in the journal of consciousness
+studies with a symposium of replies later collected in a book frankish draws a line
+between two things that ordinary talk runs together on one side is consciousness in the
+everyday functional sense you're awake you see the tomato you can attend to it think about it
+report it. When you stub your toe, a state arises that registers damage, seizes your attention,
+and makes you want it to stop. Illusionists deny none of this. On the other side is phenomenal
+consciousness in the philosopher's sense. Special qualities of experience, qualia, that are supposed
+to be intrinsic, private, ineffable, and known directly. The redness of the red, considered as
+something over and above everything the experience does. That is what illusionism denies. Frankish's
+claim is that there are no such phenomenal properties. What exist are what he calls
+quasi-phenomenal properties. Physical properties of brain states that introspection represents as
+having that special phenomenal character. The representation is real. The character it attributes
+is not. So what am I supposed to say about a toothache, that it only seems to hurt?
+It hurts. Everything that hurting does is real. The alarm, the distraction, the misery,
+the plans to see a dentist. What the illusionist denies is a further private glow that floats free
+of all that, which introspection seems to point at when you attend to the pain in a philosophical
+mood. The hurting is real. The extra, ineffable quality is the illusion. Frankish also distinguishes
+strong illusionism from weak. Weak illusionism says phenomenal properties exist but are not
+quite as they seem. He argues that position is unstable because once you strip away the strange
+features, what's left is functional and representational anyway. So he defends the
+strong version. And he insists on a positive research program, which he calls the illusion
+problem. Explain why introspection represents our states as having phenomenal properties
+is so compelling. Compelling is the key word. In the Müller-Leyer illusion, two equal lines with
+arrowheads pointing in or out look unequal even after you've measured them. Knowing the explanation
+does not switch an illusion off. So if illusionism is true, your sense of an inner glow should
+survive your accepting the theory, and its stubborn obviousness is not, by itself, evidence against
+the view. The view's deepest roots are in Daniel Dennett, who died in 2024 and who spent half a
+century on this project. In a 1988 paper, Quining Qualia, Dennett went after the very concept of
+qualia as philosophers define it. His method was the intuition pump, a carefully designed story
+that shows you how your intuitions work. The best known involves two professional coffee tasters
+at the same company. Both have tasted the house blend for years, and both have stopped liking it.
+One says the coffee tastes the same to him, but his standards have changed. The other says his
+taste buds must have changed, so the coffee now tastes different to him. Dennett pressed the
+question, what could possibly settle which of them is right? Perhaps there is no fact of the matter
+at all, and if a concept generates questions with no possible answers, maybe the concept is confused.
+book, Consciousness Explained, attacked a picture he called the Cartesian Theater. The idea that
+somewhere in the brain there's a place where it all comes together, a screen watched by an inner
+audience, and that a content becomes conscious at the moment it arrives there. The brain, he argued,
+has no such place and no such moment. What it is are multiple drafts, parallel streams of content,
+constantly edited and revised. His favorite example was ColorFi. In 1976, Paul Kohlers and
+Grunau flashed a red dot and then quickly, a green dot a short distance away. People see one dot
+moving and turning green partway along its path before the green dot has even appeared. So how
+did the brain know? Either it held the experience back and edited it before release, which Dennett
+called the Stalin-esque story, or you saw it correctly and your memory was rewritten, the
+Orwellian story. Dennett's provocative conclusion was that there is no fact about which is true,
+A distributed system has no global clock either, and things still happen in it.
+Things happen in it all the time.
+What's missing is a single moment when one of them officially becomes experience.
+In place of the theater, Dennett offered a method and a slogan.
+The method was heterophenomenology.
+Take people's reports about their experience with total seriousness,
+as data about how things seem to them,
+without assuming the reports are accurate descriptions of what's happening inside.
+The slogan was fame in the brain.
+A content becomes conscious the way a person becomes famous,
+by winning influence over the rest of the system, not by entering a special room.
+And he borrowed an image from computing, the user illusion.
+Your laptop shows you folders and a trash can.
+There are no tiny folders on the chip, but the interface is real, useful,
+and the only way you ever deal with what's underneath.
+On this view, the felt inner world is the brain's interface to itself.
+Illusionism needs evidence that introspection can be wrong about our own minds.
+There's a lot of it. In 1977, Richard Nisbet and Timothy Wilson published a classic paper
+with the title telling more than we can know. In one study, shoppers choosing among identical
+items laid out in a row tended to pick the one on the right. Asked why, they cited quality,
+and denied that position had mattered. People confidently report the causes of their own
+choices and are often wrong. The philosopher Eric S. H. Witzgabel has argued that the problem goes
+to experience itself. In a 2008 paper on the unreliability of naive introspection,
+he collected basic questions about current experience on which careful people disagree.
+How clear the periphery of the visual field is, whether emotions have a bodily feel,
+whether thought has a sensory character. These are questions about what experience is like right now,
+and introspection gives conflicting answers. The psychologist Russell Hurlburt has spent decades
+descriptive experience sampling. A beeper goes off at random moments, and you describe exactly
+what was in your experience just before it. In one study of 30 people, inner speech showed up
+in about a quarter of samples on average, but with enormous variation. Some people reported
+none at all, others three quarters of the time. Hurlburt's long-running conclusion is that people's
+armchair generalizations about their own inner lives are far less trustworthy than careful
+moments. And in 2015, the neurologist Adam Zemmen gave a name to a fantasia, the lifelong absence of
+voluntary visual imagery. Some people discover only as adults that when others say they can
+picture a face, they mean it literally. A difference as large as having inner pictures
+or not can go unnoticed for decades because everyone uses the same words. In episode 10,
+we'll add choice blindness to this file. All of that shows introspection is unreliable about
+It does not show it's wrong about there being experience at all.
+You're sliding from sometimes mistaken to mistaken about everything.
+That's exactly the right objection, and the illusionist has to answer it.
+Local unreliability does not establish global error.
+What illusionists add is a second step.
+They argue that we can explain why we'd believe in phenomenal properties even if there were none,
+and that if such an explanation works, believing in them anyway is like believing in a ghost after you've found the projector.
+Which brings us to the metaproblem.
+Last episode ended with Chalmers' metaproblem.
+Why do we think there is a hard problem?
+His 2018 paper, which drew a large set of replies, calls the culprit's problem intuitions.
+He sorts them into families.
+Explanatory intuitions.
+Experience cannot be explained physically.
+intuitions, experience is not physical. Knowledge intuitions, like Mary's, modal intuitions,
+like zombies, and these intuitions run deep. The developmental psychologist Paul Bloom has
+argued that children are natural dualists, readily treating minds as separable from bodies.
+What might the answer look like? The answers I find most promising involve introspective models.
+The brain represents its own perceptual states in a simplified way, as primitive qualities with
+structure because it has no need to represent the underlying machinery. A system with a model like
+that would find its own states ineffable, intrinsic, and impossible to derive from anything physical
+because the model offers nothing to derive them from. Then comes the twist that makes the metaproblem
+dangerous for realists. Suppose we find a complete physical explanation of why we say there's a hard
+problem, and that explanation never needs to mention experience itself. Then our beliefs about
+experience would be explained without experience playing any role. That threatens to debunk them,
+the way learning that a belief was produced by a process indifferent to its truth undermines the
+belief. Chalmers takes this seriously. Either the illusionist is right, or the realist must show
+that experience itself plays some role in producing our talk about it. That's why he treats illusionism
+rival to his own view, not as a fringe position. Here's what bugs me. Any language model trained
+on human text will reproduce problem intuitions. Ask one about its experience, and it may tell you
+its inner life is mysterious and hard to put into words. Does that make the metaproblem easier or
+harder? Both, I think. Easier because it proves that problem intuition behavior can be produced
+by a mechanism we can inspect. Harder, because it shows the behavior can arise for reasons that
+have nothing to do with having experience or even with having an introspective model,
+simply by learning from people who talk this way. In a language model, the reports alone
+tell you very little. That turns out to be one of the central obstacles in episodes 12 and 13.
+Several researchers have tried to say what the mechanism actually is. The most concrete is
+The brain constantly controls its own attention, and good control requires a model of the thing being controlled, the good regulator idea from episode 4. So the brain builds a simplified model of its attention, and that model depicts not neurons competing for signal strength, but something simpler. An inner essence that grasps things, an awareness.
+When you say you're aware of the cup, Graziano argues, you're reporting the contents of that schema.
+It's the closest thing illusionism has to a wiring diagram, though Graziano himself dislikes the word illusion.
+Attention is real, he says, and awareness is the brain's useful caricature of it.
+In episode 11, we'll treat it as a scientific theory.
+In 2021, Andrew Wilterson and Graziano built a deep reinforcement learning agent that had to control a simulated spotlight of attention to catch a falling ball.
+Given an attention schema, a model of its own attention, it learned the task.
+With the schema disabled, its performance collapsed.
+That shows a functional reason to have such a model.
+It says nothing about whether the agent experiences anything, and Graziano does not claim it does.
+Thomas Metzinger's Being No One argues that there is no such thing as a self.
+What exists is a phenomenal self-model that the brain cannot recognize as a model.
+It's transparent, like a window you look through rather than at,
+so you experience yourself as a self rather than as a model of one.
+Douglas Hofstadter's Gertl, Escher, Bach, and later I Am a Strange Loop,
+argue that a self is a strange loop,
+a pattern in a symbol-processing system that comes to represent itself.
+The psychologist Nicholas Humphrey is a fellow traveler rather than a card-carrying illusionist.
+In Soul Dust and in Sentience, from 2022, he describes phenomenal consciousness as a kind of
+magical show the brain stages for itself, one that may have evolved because it makes being alive feel
+worth the trouble. But in his reply to Frankish, he resisted the word illusion and called his view
+phenomenal surrealism. The show is constructed, he thinks, but it is not a mistake. It's the
+brain's own artwork, and it matters to us. And Jeffrey Hinton has offered a version aimed
+squarely at machines. In an interview with The Globe and Mail, he rejected the idea of an inner
+theater. On his account, talk of subjective experience is a way of describing what your
+perceptual system is telling you when it is not working properly. The state of the world that
+to be right. Then he imagined a chatbot with a camera, trained to point at objects. Put a prism
+in front of the lens, and it points to the wrong place. Tell it about the prism, and it explains
+that the object is really straight ahead, but it had the subjective experience of it being off to
+one side. Hinton's claim is that it uses the phrase exactly as we do, and so has subjective
+experience just as we do. That seems too quick. The chatbot learned that phrase from us.
+the machine episodes we'll call the gaming problem. A system trained on our words can
+give our reports without our reasons. Blaise Aguera e Arcus, whom we met in episode four,
+takes the same line as Graziano. Attention is a real computation, he argues, so a model of it is
+no more an illusion than a chair is. Like Graziano, he accepts the mechanism and resists the name.
+Fiction got here early. Peter Watts' 2006 novel Blindsight, which drew openly on Metzinger,
+sends a crew of modified humans to meet aliens that are vastly capable and, it seems, entirely
+non-conscious and asks whether consciousness might be a costly side effect rather than the
+crown of intelligence. It's the doing-versus feeling split as a thriller, and Watts has made
+it free to read online under a Creative Commons license. Notice that the novel works under either
+reading. A realist reads the aliens as lacking experience. An illusionist reads them as lacking
+the self-model and therefore lacking the illusion. Episode 10 has the real-world counterpart,
+patients with blindsight, who respond to what they say they cannot see.
+Now the objections at full strength. In 2018, on the New York Review of Books website,
+Philosopher Galen Strawson called the denial of consciousness the silliest claim ever made,
+aiming chiefly at Dennett.
+Dennett replied that Strawson had misdescribed his view.
+Consciousness is real, he said.
+It just is not what Strawson takes it to be.
+Strawson's answer was that what illusionists deny,
+the qualitative character of experience,
+is exactly the thing we know for certain.
+That's the core objection, and it can be put in one line.
+An illusion is a way things seem, and a seeming is an experience,
+so illusionism presupposes the very thing it denies.
+John Searle made the point that where consciousness is concerned,
+the appearance is the reality.
+You can be wrong about whether there's a tomato in front of you.
+You cannot be wrong that it seems to you that there is.
+Frankish's reply is that a seeming can be a representational state,
+a kind of judgment-like state produced by introspective mechanisms,
+without any extra phenomenal property.
+Representations can misrepresent without themselves glowing.
+Let me put that in my language.
+Illusionism says the brain's self-model is lossy and confidently wrong about its own internals.
+That's not exotic.
+Every learned model of a complex system is lossy,
+and nothing forces a system's model of itself to be accurate.
+That's a good translation, and it's why many engineers find the view natural.
+But the philosopher Philip Goff presses a different point.
+Consciousness is the one thing each of us knows more directly than anything else.
+All the evidence for any scientific theory,
+including the theory that experience is an illusion, reaches us through experience.
+So illusionism carries a heavier burden of proof than any ordinary empirical theory.
+It asks us to doubt the medium through which we know everything else.
+And there's the illusion problem itself, which is not yet solved.
+Why would evolution build a self-model that represents our states as ineffable and intrinsic?
+Graziano says simplification serves control.
+Humphrey says the show makes life feel worth living.
+Dennett says the interface hides what you do not need to see.
+stories, not finished explanations. A view that asks this much is easy to dismiss from outside.
+The philosopher Joe Carl Smith's essay Grokking Illusionism is a sustained attempt to understand
+it from the inside instead, and that is the right spirit in which to judge it.
+Why does this view matter so much for this series? Because it changes the machine question
+more than any other position. If illusionism is right, then asking whether a machine is
+becomes asking whether it has the relevant kind of self-model.
+Introspective representations of its own states
+as having phenomenal qualities,
+produced for the right reasons,
+and driving what it says about itself.
+That's a question about mechanisms,
+and interpretability research can, in principle,
+look for internal states that track the system's own processing
+and feed its self-reports.
+Episode 12 covers early experiments of that kind.
+But notice the trap.
+trained on human writing can produce flawless reports of ineffable inner experience without
+any such self-model, just by learning how we talk. So illusionism does not make the machine question
+easy. It makes it empirical. The test is not what the system says. It's why it says it.
+In 2023, Dennett's own warning about AI was not about machines that feel. It was about machines
+that pass for people, which he called counterfeit people. We'll come back to that warning in the
+episode. Score it for me, where does it stand? In its favor, parsimony, since it adds no new
+ingredient to the world. Tractability, since it turns the deepest question into the meta-problem,
+which science can work on. And the track record of introspection, bad enough that trusting it
+on the biggest question of all needs an argument. Against it, the seeming objection, which illusionists
+have answered without silencing. The burden of proof, since it asks us to doubt what seems most
+certain. And the illusion problem, which remains a program rather than a result. What illusionism
+establishes, I think, is that the hard problem's most powerful intuitions could be the outputs of
+a mechanism. It does not establish that they are. That's a real achievement, and it's why the
+meta-problem comes back in the final episode, as one of the things that could change minds.
+we lay out the whole map, every serious position on the hard problem, what each one costs,
+and what each one says about octopuses and machines. And at the end, a short, clearly
+marked trip to the edges.

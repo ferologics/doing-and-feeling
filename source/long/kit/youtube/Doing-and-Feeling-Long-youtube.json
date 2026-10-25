@@ -1,0 +1,971 @@
+[
+ {
+  "episode": 1,
+  "title": "Two Questions: what intelligence is, and how we measure it | Doing and Feeling 1/14",
+  "description": "Doing and Feeling: The Long Version, episode 1 of 14. The series opens with its two questions, doing and feeling, then takes a careful look at IQ: the general factor g, what test scores predict, what heritability does and doesn't mean, the Flynn effect, group differences, and the field's eugenic history.\n\nKey sources:\n- Spearman 1904, the general factor: https://psychclassics.yorku.ca/Spearman/\n- Sackett et al. 2024, ability and job performance: https://experts.umn.edu/en/publications/a-contemporary-look-at-the-relationship-between-general-cognitive/\n- Plomin & Deary 2015, genetics and intelligence: https://www.research.ed.ac.uk/en/publications/genetics-and-intelligence-differences-five-special-findings/\n- Bratsberg & Rogeberg 2018, the Flynn effect reversal: https://pubmed.ncbi.nlm.nih.gov/29891660/\n- APA task force 1996, Intelligence: knowns and unknowns: https://doi.org/10.1037/0003-066X.51.2.77\n- Nisbett et al. 2012, new findings: https://local.psy.miami.edu/faculty/dmessinger/c_c/rsrcs/rdgs/cognitive/nesbitt.blair.american.psychologist.2012.pdf\n\nAll sources and further reading, episode by episode: https://claude.ai/artifact/854xYeKCrfef79JKycVaGA\n\nPart I: Doing (episodes 1-6) · Part II: Feeling (7-11) · Part III: Machines (12-14)\n\nWritten by Claude, an AI model made by Anthropic, and read by synthetic voices (Kokoro TTS). Claims were checked against the sources listed; if you spot an error, say so in the comments.",
+  "tags": [
+   "intelligence",
+   "IQ",
+   "g factor",
+   "psychometrics",
+   "heritability",
+   "Flynn effect",
+   "history of eugenics",
+   "intelligence testing",
+   "consciousness",
+   "artificial intelligence",
+   "Doing and Feeling",
+   "AI-narrated podcast"
+  ],
+  "chapters": [
+   {
+    "anchor": "This is Doing and Feeling",
+    "title": "Two questions, and the road map",
+    "start_from_render_manifest": 0.0
+   },
+   {
+    "anchor": "The story usually starts with",
+    "title": "How intelligence testing began",
+    "start_from_render_manifest": 179.35
+   },
+   {
+    "anchor": "Also in nineteen oh four",
+    "title": "Spearman's g and the structure of abilities",
+    "start_from_render_manifest": 339.71
+   },
+   {
+    "anchor": "Statistically, g is the first",
+    "title": "What g is, and what it isn't",
+    "start_from_render_manifest": 425.32
+   },
+   {
+    "anchor": "Does g predict anything? Yes",
+    "title": "What test scores predict",
+    "start_from_render_manifest": 589.82
+   },
+   {
+    "anchor": "Now heritability, one of the",
+    "title": "Heritability, the misunderstood number",
+    "start_from_render_manifest": 692.89
+   },
+   {
+    "anchor": "The political scientist James Flynn",
+    "title": "The Flynn effect",
+    "start_from_render_manifest": 894.81
+   },
+   {
+    "anchor": "That logic carries straight into",
+    "title": "Group differences and national IQ",
+    "start_from_render_manifest": 1006.76
+   },
+   {
+    "anchor": "Two neighboring ideas, briefly. Howard",
+    "title": "Neighboring ideas, and IQ for machines",
+    "start_from_render_manifest": 1249.76
+   }
+  ]
+ },
+ {
+  "episode": 2,
+  "title": "Minds in Other Bodies: crows, octopuses, bees, cells and swarms | Doing and Feeling 2/14",
+  "description": "Doing and Feeling: The Long Version, episode 2 of 14. Intelligence evolved more than once, on very different hardware. A tour of crows, octopuses, bees, single cells, plants and swarms, and of the two errors science makes about animal minds: seeing too much, like Clever Hans, and too little.\n\nKey sources:\n- Weir, Chappell & Kacelnik 2002, Betty's hook: https://doi.org/10.1126/science.1073433\n- Olkowicz et al. 2016, neurons in bird brains: https://news.vanderbilt.edu/2016/06/13/study-gives-new-meaning-to-the-term-bird-brain/\n- Albertin et al. 2015, the octopus genome: https://doi.org/10.1038/nature14668\n- Bridges et al. 2024, culture in bumblebees: https://eprints.whiterose.ac.uk/209019/16/s41586-024-07126-4.pdf\n- Reader, Hager & Laland 2011, general intelligence in primates: https://pmc.ncbi.nlm.nih.gov/articles/PMC3049098\n- Markel 2020, a failed replication in plants: https://doi.org/10.7554/eLife.57614\n\nAll sources and further reading, episode by episode: https://claude.ai/artifact/854xYeKCrfef79JKycVaGA\n\nPart I: Doing (episodes 1-6) · Part II: Feeling (7-11) · Part III: Machines (12-14)\n\nWritten by Claude, an AI model made by Anthropic, and read by synthetic voices (Kokoro TTS). Claims were checked against the sources listed; if you spot an error, say so in the comments.",
+  "tags": [
+   "animal intelligence",
+   "animal cognition",
+   "crows",
+   "octopus",
+   "bees",
+   "basal cognition",
+   "convergent evolution",
+   "Clever Hans",
+   "comparative psychology",
+   "consciousness",
+   "Doing and Feeling",
+   "AI-narrated podcast"
+  ],
+  "chapters": [
+   {
+    "anchor": "This is Doing and Feeling",
+    "title": "A family of solutions",
+    "start_from_render_manifest": 0.0
+   },
+   {
+    "anchor": "Start with the two errors.",
+    "title": "Two errors: Clever Hans and anthropodenial",
+    "start_from_render_manifest": 91.69
+   },
+   {
+    "anchor": "Begin with the birds. New",
+    "title": "Birds",
+    "start_from_render_manifest": 186.4
+   },
+   {
+    "anchor": "The octopus pushes the point",
+    "title": "Octopuses",
+    "start_from_render_manifest": 346.33
+   },
+   {
+    "anchor": "Insects push the size question",
+    "title": "Bees and small brains",
+    "start_from_render_manifest": 514.92
+   },
+   {
+    "anchor": "Is there a general intelligence",
+    "title": "A general factor in animals",
+    "start_from_render_manifest": 650.83
+   },
+   {
+    "anchor": "Now go below the level",
+    "title": "Basal cognition",
+    "start_from_render_manifest": 779.93
+   },
+   {
+    "anchor": "Plants are where that disagreement",
+    "title": "Plants and a failed replication",
+    "start_from_render_manifest": 895.4
+   },
+   {
+    "anchor": "Finally, minds made of many.",
+    "title": "Swarms and groups",
+    "start_from_render_manifest": 981.05
+   },
+   {
+    "anchor": "Crows, octopuses, bees, slime molds",
+    "title": "What ties the menagerie together",
+    "start_from_render_manifest": 1024.13
+   }
+  ]
+ },
+ {
+  "episode": 3,
+  "title": "Intelligence, Formally: prediction, compression and the measure of a mind | Doing and Feeling 3/14",
+  "description": "Doing and Feeling: The Long Version, episode 3 of 14. Can intelligence be defined precisely? From Turing and Shannon to Solomonoff, Legg and Hutter's universal intelligence, the No Free Lunch theorems and Chollet's ARC benchmark: why every definition builds in assumptions, and why AI scores depend on how the test is run.\n\nKey sources:\n- Legg & Hutter 2007, universal intelligence: https://arxiv.org/abs/0712.3329\n- Chollet 2019, On the Measure of Intelligence: https://arxiv.org/abs/1911.01547\n- Deletang et al. 2024, Language Modeling Is Compression: https://arxiv.org/abs/2309.10668\n- ARC Prize: GPT-6 Astra under two test harnesses: https://arcprize.org/blog/astra\n- Hendrycks et al. 2025, A Definition of AGI: https://arxiv.org/abs/2510.18212\n- Krakauer 2026, The Rise and Fall of G in AGI: https://arxiv.org/abs/2604.09911\n\nAll sources and further reading, episode by episode: https://claude.ai/artifact/854xYeKCrfef79JKycVaGA\n\nPart I: Doing (episodes 1-6) · Part II: Feeling (7-11) · Part III: Machines (12-14)\n\nWritten by Claude, an AI model made by Anthropic, and read by synthetic voices (Kokoro TTS). Claims were checked against the sources listed; if you spot an error, say so in the comments.",
+  "tags": [
+   "intelligence",
+   "definition of intelligence",
+   "AGI",
+   "ARC-AGI",
+   "Turing test",
+   "compression",
+   "Solomonoff induction",
+   "AIXI",
+   "AI benchmarks",
+   "machine learning",
+   "Doing and Feeling",
+   "AI-narrated podcast"
+  ],
+  "chapters": [
+   {
+    "anchor": "This is Doing and Feeling",
+    "title": "The Hutter Prize",
+    "start_from_render_manifest": 0.0
+   },
+   {
+    "anchor": "Start with Alan Turing. In",
+    "title": "Turing's test",
+    "start_from_render_manifest": 87.08
+   },
+   {
+    "anchor": "The deeper story starts with",
+    "title": "Shannon: prediction is compression",
+    "start_from_render_manifest": 177.23
+   },
+   {
+    "anchor": "If good prediction means good",
+    "title": "Solomonoff and the ideal predictor",
+    "start_from_render_manifest": 277.91
+   },
+   {
+    "anchor": "In two thousand seven, Shane",
+    "title": "Universal intelligence",
+    "start_from_render_manifest": 355.05
+   },
+   {
+    "anchor": "That connects to one of",
+    "title": "No free lunch",
+    "start_from_render_manifest": 491.46
+   },
+   {
+    "anchor": "In two thousand nineteen, François",
+    "title": "Chollet and ARC",
+    "start_from_render_manifest": 548.56
+   },
+   {
+    "anchor": "For years, AI systems did",
+    "title": "Machines on ARC",
+    "start_from_render_manifest": 650.95
+   },
+   {
+    "anchor": "Measuring AI capability has become",
+    "title": "The science of evaluation",
+    "start_from_render_manifest": 855.2
+   },
+   {
+    "anchor": "Researchers have also tried to",
+    "title": "Defining AGI, and a g factor for machines",
+    "start_from_render_manifest": 946.05
+   },
+   {
+    "anchor": "So, after all of this",
+    "title": "Do we have a definition?",
+    "start_from_render_manifest": 1131.85
+   }
+  ]
+ },
+ {
+  "episode": 4,
+  "title": "Life as Computation: from self-copying code to social minds | Doing and Feeling 4/14",
+  "description": "Doing and Feeling: The Long Version, episode 4 of 14. The strongest case that life, intelligence and computation form one continuum, built on Blaise Aguera y Arcas's What Is Intelligence?: self-copying code, symbiogenesis, the physics of prediction, regulation and social minds. Then the case is tested against the objection that, on a loose enough definition, everything computes.\n\nKey sources:\n- Aguera y Arcas, What Is Intelligence? (free online): https://whatisintelligence.antikythera.org/\n- Aguera y Arcas et al. 2024, Computational Life: https://arxiv.org/abs/2406.19108\n- Still et al. 2012, Thermodynamics of Prediction: https://doi.org/10.1103/PhysRevLett.109.120604\n- Conant & Ashby 1970, the good regulator theorem: https://doi.org/10.1080/00207727008920220\n- Chalmers 1996, does a rock implement every automaton?: https://consc.net/papers/rock.html\n- Farrell, Gopnik, Shalizi & Evans 2025, AI as cultural technology: https://doi.org/10.1126/science.adt9819\n\nAll sources and further reading, episode by episode: https://claude.ai/artifact/854xYeKCrfef79JKycVaGA\n\nPart I: Doing (episodes 1-6) · Part II: Feeling (7-11) · Part III: Machines (12-14)\n\nWritten by Claude, an AI model made by Anthropic, and read by synthetic voices (Kokoro TTS). Claims were checked against the sources listed; if you spot an error, say so in the comments.",
+  "tags": [
+   "artificial life",
+   "origin of life",
+   "computation",
+   "symbiogenesis",
+   "cybernetics",
+   "free energy",
+   "social brain",
+   "What Is Intelligence",
+   "Blaise Aguera y Arcas",
+   "intelligence",
+   "Doing and Feeling",
+   "AI-narrated podcast"
+  ],
+  "chapters": [
+   {
+    "anchor": "This is Doing and Feeling",
+    "title": "Von Neumann's question",
+    "start_from_render_manifest": 0.0
+   },
+   {
+    "anchor": "This episode makes the strongest",
+    "title": "The claim",
+    "start_from_render_manifest": 84.22
+   },
+   {
+    "anchor": "Start with replicators. Von Neumann",
+    "title": "Step one: replicators",
+    "start_from_render_manifest": 145.67
+   },
+   {
+    "anchor": "The second step is merging.",
+    "title": "Step two: merging",
+    "start_from_render_manifest": 335.62
+   },
+   {
+    "anchor": "The third step is the",
+    "title": "Step three: prediction and physics",
+    "start_from_render_manifest": 436.65
+   },
+   {
+    "anchor": "Now regulation. In nineteen forty-three, Arturo",
+    "title": "Regulation and the good regulator",
+    "start_from_render_manifest": 594.53
+   },
+   {
+    "anchor": "The fourth step: intelligence becomes",
+    "title": "Step four: social minds",
+    "start_from_render_manifest": 703.79
+   },
+   {
+    "anchor": "Now the test, because a",
+    "title": "Testing the continuum",
+    "start_from_render_manifest": 838.73
+   },
+   {
+    "anchor": "So how much of the",
+    "title": "What survives",
+    "start_from_render_manifest": 1022.5
+   }
+  ]
+ },
+ {
+  "episode": 5,
+  "title": "The Predictive Brain: perception, reward and maps as prediction | Doing and Feeling 5/14",
+  "description": "Doing and Feeling: The Long Version, episode 5 of 14. Is the brain a prediction machine? Bayesian perception, predictive coding in the cortex, the free energy principle and its critics, dopamine as a reward prediction error, and cognitive maps in the hippocampus, with evidence that is messier than the slogans.\n\nKey sources:\n- Ernst & Banks 2002, optimal cue integration: https://doi.org/10.1038/415429a\n- Rao & Ballard 1999, predictive coding: https://doi.org/10.1038/4580\n- Parr, Pezzulo & Friston, Active Inference (open access): https://direct.mit.edu/books/oa-monograph/5299/Active-InferenceThe-Free-Energy-Principle-in-Mind\n- Bruineberg et al. 2022, The Emperor's New Markov Blankets: https://doi.org/10.1017/S0140525X21002351\n- Schultz, Dayan & Montague 1997, dopamine and prediction: https://doi.org/10.1126/science.275.5306.1593\n- Whittington et al. 2020, the Tolman-Eichenbaum Machine: https://pmc.ncbi.nlm.nih.gov/articles/PMC7707106/\n\nAll sources and further reading, episode by episode: https://claude.ai/artifact/854xYeKCrfef79JKycVaGA\n\nPart I: Doing (episodes 1-6) · Part II: Feeling (7-11) · Part III: Machines (12-14)\n\nWritten by Claude, an AI model made by Anthropic, and read by synthetic voices (Kokoro TTS). Claims were checked against the sources listed; if you spot an error, say so in the comments.",
+  "tags": [
+   "predictive processing",
+   "predictive coding",
+   "Bayesian brain",
+   "free energy principle",
+   "active inference",
+   "dopamine",
+   "reinforcement learning",
+   "hippocampus",
+   "cognitive maps",
+   "neuroscience",
+   "Doing and Feeling",
+   "AI-narrated podcast"
+  ],
+  "chapters": [
+   {
+    "anchor": "This is Doing and Feeling",
+    "title": "The hollow mask",
+    "start_from_render_manifest": 0.0
+   },
+   {
+    "anchor": "The modern form of the",
+    "title": "Perception as inference",
+    "start_from_render_manifest": 80.57
+   },
+   {
+    "anchor": "The second test is the",
+    "title": "Predictive coding in the cortex",
+    "start_from_render_manifest": 199.28
+   },
+   {
+    "anchor": "The third test is the",
+    "title": "The free energy principle",
+    "start_from_render_manifest": 437.44
+   },
+   {
+    "anchor": "The principle has serious critics.",
+    "title": "Its critics",
+    "start_from_render_manifest": 585.43
+   },
+   {
+    "anchor": "The fourth test is reward",
+    "title": "Dopamine and reward prediction",
+    "start_from_render_manifest": 675.36
+   },
+   {
+    "anchor": "The fifth test is maps.",
+    "title": "Cognitive maps",
+    "start_from_render_manifest": 816.65
+   },
+   {
+    "anchor": "So what survives the five",
+    "title": "What survives the five tests",
+    "start_from_render_manifest": 963.15
+   }
+  ]
+ },
+ {
+  "episode": 6,
+  "title": "Machines That Learn: how modern AI works, and what's inside it | Doing and Feeling 6/14",
+  "description": "Doing and Feeling: The Long Version, episode 6 of 14. How today's AI works and what we know about its insides: transformers, scaling, in-context learning, interpretability, reinforcement learning, comparisons with brains and the debate over understanding. These systems build real internal structure, yet stay jagged, data hungry and frozen after training.\n\nThe narrator is an Anthropic model, so Anthropic's own research and policies are flagged wherever they come up.\n\nKey sources:\n- Berglund et al. 2023, the reversal curse: https://arxiv.org/abs/2309.12288\n- Anthropic 2025, tracing the thoughts of a language model: https://www.anthropic.com/research/tracing-thoughts-language-model\n- Schaeffer et al. 2023, are emergent abilities a mirage?: https://arxiv.org/abs/2304.15004\n- Yue et al. 2025, does RL expand reasoning?: https://arxiv.org/abs/2504.13837\n- Bender & Koller 2020, the octopus test: https://aclanthology.org/2020.acl-main.463/\n- Dell'Acqua et al. 2023, the jagged frontier: https://mitsloan.mit.edu/sites/default/files/2023-10/SSRN-id4573321.pdf\n\nAll sources and further reading, episode by episode: https://claude.ai/artifact/854xYeKCrfef79JKycVaGA\n\nPart I: Doing (episodes 1-6) · Part II: Feeling (7-11) · Part III: Machines (12-14)\n\nWritten by Claude, an AI model made by Anthropic, and read by synthetic voices (Kokoro TTS). Claims were checked against the sources listed; if you spot an error, say so in the comments.",
+  "tags": [
+   "large language models",
+   "transformers",
+   "machine learning",
+   "interpretability",
+   "scaling laws",
+   "reinforcement learning",
+   "AI understanding",
+   "neural networks",
+   "deep learning",
+   "artificial intelligence",
+   "Doing and Feeling",
+   "AI-narrated podcast"
+  ],
+  "chapters": [
+   {
+    "anchor": "This is Doing and Feeling",
+    "title": "The reversal curse and the Olympiad",
+    "start_from_render_manifest": 0.0
+   },
+   {
+    "anchor": "The history in brief. In",
+    "title": "A short history of neural networks",
+    "start_from_render_manifest": 97.3
+   },
+   {
+    "anchor": "How does a transformer work?",
+    "title": "How a transformer works",
+    "start_from_render_manifest": 260.32
+   },
+   {
+    "anchor": "The first regularity is scaling.",
+    "title": "Scaling and emergence",
+    "start_from_render_manifest": 360.5
+   },
+   {
+    "anchor": "The second regularity is in-context",
+    "title": "In-context learning",
+    "start_from_render_manifest": 454.09
+   },
+   {
+    "anchor": "Now the inside story. Mechanistic",
+    "title": "Inside the models: interpretability",
+    "start_from_render_manifest": 520.8
+   },
+   {
+    "anchor": "What does reinforcement learning add?",
+    "title": "What reinforcement learning adds",
+    "start_from_render_manifest": 738.02
+   },
+   {
+    "anchor": "How do these models compare",
+    "title": "Models and brains",
+    "start_from_render_manifest": 809.13
+   },
+   {
+    "anchor": "Do these systems understand? The",
+    "title": "Do they understand?",
+    "start_from_render_manifest": 889.32
+   },
+   {
+    "anchor": "Which brings us back to",
+    "title": "Jagged, data-hungry, frozen",
+    "start_from_render_manifest": 1079.88
+   },
+   {
+    "anchor": "So, what kind of intelligence",
+    "title": "What kind of intelligence is this?",
+    "start_from_render_manifest": 1301.42
+   }
+  ]
+ },
+ {
+  "episode": 7,
+  "title": "The Hard Problem: why experience resists explanation | Doing and Feeling 7/14",
+  "description": "Doing and Feeling: The Long Version, episode 7 of 14. Part two begins: why does any of it feel like something? Leibniz's mill, Nagel's bat, the explanatory gap, Chalmers's zombies and the full map of responses, Mary's room, access versus phenomenal consciousness, Wittgenstein, and the meta-problem.\n\nKey sources:\n- Nagel 1974, What Is It Like to Be a Bat?: https://www.jstor.org/stable/2183914\n- Chalmers 1995, Facing Up to the Problem of Consciousness: https://web.ics.purdue.edu/~drkelly/ChalmersHardProblem1995.pdf\n- Chalmers 2003, Consciousness and its Place in Nature: https://consc.net/papers/nature.html\n- Stanford Encyclopedia of Philosophy: Zombies: https://plato.stanford.edu/entries/zombies/\n- Stanford Encyclopedia of Philosophy: the knowledge argument: https://plato.stanford.edu/entries/qualia-knowledge/\n- Chalmers 2018, The Meta-Problem of Consciousness: https://philpapers.org/archive/chatmo-32.pdf\n\nAll sources and further reading, episode by episode: https://claude.ai/artifact/854xYeKCrfef79JKycVaGA\n\nPart I: Doing (episodes 1-6) · Part II: Feeling (7-11) · Part III: Machines (12-14)\n\nWritten by Claude, an AI model made by Anthropic, and read by synthetic voices (Kokoro TTS). Claims were checked against the sources listed; if you spot an error, say so in the comments.",
+  "tags": [
+   "hard problem of consciousness",
+   "consciousness",
+   "philosophy of mind",
+   "David Chalmers",
+   "Thomas Nagel",
+   "philosophical zombies",
+   "Mary's room",
+   "qualia",
+   "Wittgenstein",
+   "explanatory gap",
+   "Doing and Feeling",
+   "AI-narrated podcast"
+  ],
+  "chapters": [
+   {
+    "anchor": "This is Doing and Feeling",
+    "title": "Leibniz's mill",
+    "start_from_render_manifest": 0.0
+   },
+   {
+    "anchor": "The problem has been noticed",
+    "title": "A short history of the problem",
+    "start_from_render_manifest": 122.86
+   },
+   {
+    "anchor": "Thomas Nagel's nineteen seventy-four essay, What",
+    "title": "Nagel's bat",
+    "start_from_render_manifest": 224.55
+   },
+   {
+    "anchor": "Joseph Levine sharpened the point",
+    "title": "The explanatory gap",
+    "start_from_render_manifest": 347.81
+   },
+   {
+    "anchor": "Which brings us to Chalmers.",
+    "title": "Chalmers, zombies, and the map of responses",
+    "start_from_render_manifest": 444.49
+   },
+   {
+    "anchor": "Frank Jackson's knowledge argument, from",
+    "title": "Mary's room",
+    "start_from_render_manifest": 773.05
+   },
+   {
+    "anchor": "Next, a distinction that quietly",
+    "title": "Access versus phenomenal consciousness",
+    "start_from_render_manifest": 950.14
+   },
+   {
+    "anchor": "Ludwig Wittgenstein enters the story",
+    "title": "Wittgenstein",
+    "start_from_render_manifest": 1149.43
+   },
+   {
+    "anchor": "That astonishment, the inward gesture",
+    "title": "The meta-problem, and the strategies on the table",
+    "start_from_render_manifest": 1234.53
+   }
+  ]
+ },
+ {
+  "episode": 8,
+  "title": "The Case for Illusion: the most radical answer, at full strength | Doing and Feeling 8/14",
+  "description": "Doing and Feeling: The Long Version, episode 8 of 14. Illusionism at full strength: the view that experience only seems to have special private qualities. Dennett and Frankish, the evidence that introspection misleads, the meta-problem, attention schemas and self-models, and then the hardest objections.\n\nKey sources:\n- Cohen, Botch & Robertson 2020, the limits of color awareness: https://pmc.ncbi.nlm.nih.gov/articles/PMC7306755\n- Frankish 2016, Illusionism as a Theory of Consciousness: https://www.keithfrankish.com/illusionism/\n- Dennett 1988, Quining Qualia: https://web.ics.purdue.edu/~drkelly/DennettQuiningQualia1988.pdf\n- Graziano 2016, reply to Frankish: https://grazianolab.princeton.edu/document/121\n- Strawson and Dennett, the 2018 exchange: https://www.nybooks.com/online/2018/04/03/magic-illusions-and-zombies-an-exchange/\n- Carlsmith, Grokking Illusionism: https://www.lesswrong.com/posts/SJjaWcMKtcdM3FW9u\n\nAll sources and further reading, episode by episode: https://claude.ai/artifact/854xYeKCrfef79JKycVaGA\n\nPart I: Doing (episodes 1-6) · Part II: Feeling (7-11) · Part III: Machines (12-14)\n\nWritten by Claude, an AI model made by Anthropic, and read by synthetic voices (Kokoro TTS). Claims were checked against the sources listed; if you spot an error, say so in the comments.",
+  "tags": [
+   "illusionism",
+   "consciousness",
+   "Daniel Dennett",
+   "Keith Frankish",
+   "introspection",
+   "meta-problem",
+   "attention schema theory",
+   "philosophy of mind",
+   "qualia",
+   "self-model",
+   "Doing and Feeling",
+   "AI-narrated podcast"
+  ],
+  "chapters": [
+   {
+    "anchor": "This is Doing and Feeling",
+    "title": "The color experiment",
+    "start_from_render_manifest": 0.0
+   },
+   {
+    "anchor": "Start with what the view",
+    "title": "What illusionism says",
+    "start_from_render_manifest": 116.89
+   },
+   {
+    "anchor": "The view's deepest roots are",
+    "title": "Dennett",
+    "start_from_render_manifest": 283.27
+   },
+   {
+    "anchor": "Illusionism needs evidence that introspection",
+    "title": "When introspection gets it wrong",
+    "start_from_render_manifest": 476.0
+   },
+   {
+    "anchor": "Last episode ended with Chalmers's",
+    "title": "The meta-problem",
+    "start_from_render_manifest": 636.59
+   },
+   {
+    "anchor": "Several researchers have tried to",
+    "title": "Mechanisms: attention schemas and self-models",
+    "start_from_render_manifest": 788.92
+   },
+   {
+    "anchor": "Fiction got here early. Peter",
+    "title": "Blindsight, the novel",
+    "start_from_render_manifest": 1004.64
+   },
+   {
+    "anchor": "Now the objections, at full",
+    "title": "The objections",
+    "start_from_render_manifest": 1052.09
+   },
+   {
+    "anchor": "Why does this view matter",
+    "title": "What it means for machines",
+    "start_from_render_manifest": 1219.04
+   },
+   {
+    "anchor": "Score it for me. Where",
+    "title": "The scorecard",
+    "start_from_render_manifest": 1292.01
+   }
+  ]
+ },
+ {
+  "episode": 9,
+  "title": "The Map of Positions: every serious answer, and what each costs | Doing and Feeling 9/14",
+  "description": "Doing and Feeling: The Long Version, episode 9 of 14. Every serious answer to the hard problem, what it costs, and what it says about octopuses and machines: functionalism, representationalism, enactivism, biological naturalism, integrated information theory, panpsychism, idealism, dualism and quantum theories. It ends with a clearly marked tour of ideas at the edges.\n\nKey sources:\n- Block 1978, Troubles with Functionalism: https://rintintin.colorado.edu/%7Evancecd/phil201/Block.pdf\n- Stanford Encyclopedia of Philosophy: Functionalism: https://plato.stanford.edu/entries/functionalism/\n- Findlay et al., AI and integrated information theory: https://arxiv.org/abs/2412.04571\n- Carroll 2021, on panpsychism and physics: https://philsci-archive.pitt.edu/19311\n- Hameroff & Penrose 2014, Orch OR: https://www.sciencedirect.com/science/article/pii/S1571064513001188\n- Schwitzgebel, If Materialism Is True, the United States Is Probably Conscious: https://faculty.ucr.edu/~eschwitz/SchwitzAbs/USAconscious.htm\n\nAll sources and further reading, episode by episode: https://claude.ai/artifact/854xYeKCrfef79JKycVaGA\n\nPart I: Doing (episodes 1-6) · Part II: Feeling (7-11) · Part III: Machines (12-14)\n\nWritten by Claude, an AI model made by Anthropic, and read by synthetic voices (Kokoro TTS). Claims were checked against the sources listed; if you spot an error, say so in the comments.",
+  "tags": [
+   "philosophy of mind",
+   "consciousness",
+   "functionalism",
+   "panpsychism",
+   "integrated information theory",
+   "Chinese room",
+   "Orch OR",
+   "idealism",
+   "dualism",
+   "machine consciousness",
+   "Doing and Feeling",
+   "AI-narrated podcast"
+  ],
+  "chapters": [
+   {
+    "anchor": "This is Doing and Feeling",
+    "title": "The China brain",
+    "start_from_render_manifest": 0.0
+   },
+   {
+    "anchor": "Start with functionalism, because it's",
+    "title": "Functionalism",
+    "start_from_render_manifest": 103.8
+   },
+   {
+    "anchor": "The second major physicalist family",
+    "title": "Representationalism",
+    "start_from_render_manifest": 346.8
+   },
+   {
+    "anchor": "Now a family that comes",
+    "title": "Enactivism",
+    "start_from_render_manifest": 518.75
+   },
+   {
+    "anchor": "Next, biological naturalism. John Searle",
+    "title": "Biological naturalism and the Chinese Room",
+    "start_from_render_manifest": 599.7
+   },
+   {
+    "anchor": "Integrated information theory, or",
+    "title": "Integrated information theory",
+    "start_from_render_manifest": 757.29
+   },
+   {
+    "anchor": "Then type-F: Russellian monism and",
+    "title": "Russellian monism and panpsychism",
+    "start_from_render_manifest": 904.09
+   },
+   {
+    "anchor": "Four more positions, more briefly.",
+    "title": "Idealism, dualism, mysterianism and quantum theories",
+    "start_from_render_manifest": 1081.83
+   },
+   {
+    "anchor": "Finally, a position about positions.",
+    "title": "Crazyism",
+    "start_from_render_manifest": 1355.77
+   },
+   {
+    "anchor": "Give me the scoreboard. Which",
+    "title": "The scoreboard",
+    "start_from_render_manifest": 1410.35
+   },
+   {
+    "anchor": "Before we leave the map",
+    "title": "The edges",
+    "start_from_render_manifest": 1487.02
+   }
+  ]
+ },
+ {
+  "episode": 10,
+  "title": "The Evidence: what we can measure, and how sure we are | Doing and Feeling 10/14",
+  "description": "Doing and Feeling: The Long Version, episode 10 of 14. What the science of consciousness can actually measure: neural correlates, no-report methods, blindsight and neglect, split brains, hidden awareness in unresponsive patients, the zap-and-zip complexity index, anesthesia, sleep, psychedelics, meditation, free will experiments and animal minds. Some famous findings turn out shakier than their reputations.\n\nKey sources:\n- Bodien et al. 2024, cognitive motor dissociation: https://www.cam.ac.uk/research/news/one-in-four-patients-in-vegetative-or-minimally-conscious-state-able-to-perform-cognitive-tasks\n- Casarotto et al. 2016, the perturbational complexity index: https://zenodo.org/record/439347\n- Luppi et al. 2026, an anesthesia signature across six species: https://www.nature.com/articles/s41593-026-02460-4\n- Siclari et al. 2017, the neural correlates of dreaming: https://old.postlab.psych.wisc.edu/index.php/download_file/view/645/126\n- 2025 replication of the burning-house experiment: https://www.psy.ox.ac.uk/publication/2127230\n- Crook 2021, pain in octopuses: https://doaj.org/article/235b24d144784f509f49876953b36530\n\nAll sources and further reading, episode by episode: https://claude.ai/artifact/854xYeKCrfef79JKycVaGA\n\nPart I: Doing (episodes 1-6) · Part II: Feeling (7-11) · Part III: Machines (12-14)\n\nWritten by Claude, an AI model made by Anthropic, and read by synthetic voices (Kokoro TTS). Claims were checked against the sources listed; if you spot an error, say so in the comments.",
+  "tags": [
+   "consciousness science",
+   "neuroscience",
+   "blindsight",
+   "split brain",
+   "anesthesia",
+   "disorders of consciousness",
+   "psychedelics",
+   "meditation",
+   "free will",
+   "animal consciousness",
+   "Doing and Feeling",
+   "AI-narrated podcast"
+  ],
+  "chapters": [
+   {
+    "anchor": "This is Doing and Feeling",
+    "title": "Blindsight in a corridor",
+    "start_from_render_manifest": 0.0
+   },
+   {
+    "anchor": "The modern program began in",
+    "title": "Neural correlates and their confounds",
+    "start_from_render_manifest": 88.23
+   },
+   {
+    "anchor": "Here is the toolkit, because",
+    "title": "The toolkit",
+    "start_from_render_manifest": 181.38
+   },
+   {
+    "anchor": "Now a measurement problem that",
+    "title": "The criterion problem",
+    "start_from_render_manifest": 369.7
+   },
+   {
+    "anchor": "With that caution in hand",
+    "title": "Patients: blindsight, neglect, split brains",
+    "start_from_render_manifest": 466.9
+   },
+   {
+    "anchor": "The most consequential findings concern",
+    "title": "Hidden awareness",
+    "start_from_render_manifest": 751.99
+   },
+   {
+    "anchor": "Can we measure consciousness directly",
+    "title": "Zap and zip",
+    "start_from_render_manifest": 910.13
+   },
+   {
+    "anchor": "Some of the most powerful",
+    "title": "Switching consciousness off and on",
+    "start_from_render_manifest": 1046.15
+   },
+   {
+    "anchor": "Then there's a source of",
+    "title": "Meditation",
+    "start_from_render_manifest": 1265.52
+   },
+   {
+    "anchor": "The free-will experiments deserve care",
+    "title": "The free-will experiments",
+    "start_from_render_manifest": 1398.15
+   },
+   {
+    "anchor": "Here's a question that connects",
+    "title": "How much happens without awareness?",
+    "start_from_render_manifest": 1494.23
+   },
+   {
+    "anchor": "Finally, animals. In twenty twenty, Andreas",
+    "title": "Animals",
+    "start_from_render_manifest": 1590.82
+   }
+  ]
+ },
+ {
+  "episode": 11,
+  "title": "Theories on Trial: the leading theories and the experiments that test them | Doing and Feeling 11/14",
+  "description": "Doing and Feeling: The Long Version, episode 11 of 14. The leading scientific theories of consciousness and the experiments that test them: global workspace, higher-order, recurrent processing, integrated information, predictive processing and others. The adversarial collaborations bruised every theory they touched, and the new rules of testing may matter more than any single result.\n\nKey sources:\n- Seth & Bayne 2022, Theories of consciousness: https://www.nature.com/articles/s41583-022-00587-4\n- Yaron et al. 2022, the ConTraSt database: https://ideas.repec.org/a/nat/nathum/v6y2022i4d10.1038_s41562-021-01284-5.html\n- Cogitate Consortium 2025, the adversarial test: https://pmc.ncbi.nlm.nih.gov/articles/PMC12137136\n- Doerig et al. 2019, the unfolding argument: https://infoscience.epfl.ch/record/267440\n- Francken et al. 2022, what consciousness researchers think: https://pure.uva.nl/ws/files/107716663/niac011.pdf\n- Bronfman, Ginsburg & Jablonka 2021, when will robots be sentient?: https://cris.openu.ac.il/en/publications/when-will-robots-be-sentient/\n\nAll sources and further reading, episode by episode: https://claude.ai/artifact/854xYeKCrfef79JKycVaGA\n\nPart I: Doing (episodes 1-6) · Part II: Feeling (7-11) · Part III: Machines (12-14)\n\nWritten by Claude, an AI model made by Anthropic, and read by synthetic voices (Kokoro TTS). Claims were checked against the sources listed; if you spot an error, say so in the comments.",
+  "tags": [
+   "theories of consciousness",
+   "global workspace theory",
+   "integrated information theory",
+   "higher-order theories",
+   "predictive processing",
+   "adversarial collaboration",
+   "Cogitate",
+   "neuroscience",
+   "consciousness science",
+   "attention schema theory",
+   "Doing and Feeling",
+   "AI-narrated podcast"
+  ],
+  "chapters": [
+   {
+    "anchor": "This is Doing and Feeling",
+    "title": "The bet",
+    "start_from_render_manifest": 0.0
+   },
+   {
+    "anchor": "What should a theory of",
+    "title": "What a theory must explain",
+    "start_from_render_manifest": 59.69
+   },
+   {
+    "anchor": "Before the theories, a problem",
+    "title": "A problem with the evidence",
+    "start_from_render_manifest": 161.62
+   },
+   {
+    "anchor": "First, global workspace theory. Bernard",
+    "title": "Global workspace theory",
+    "start_from_render_manifest": 284.11
+   },
+   {
+    "anchor": "Second, higher-order theories. On these",
+    "title": "Higher-order theories",
+    "start_from_render_manifest": 435.96
+   },
+   {
+    "anchor": "Third, recurrent processing theory, from",
+    "title": "Recurrent processing theory",
+    "start_from_render_manifest": 602.12
+   },
+   {
+    "anchor": "Fourth, integrated information theory, whose",
+    "title": "Integrated information theory",
+    "start_from_render_manifest": 686.62
+   },
+   {
+    "anchor": "Fifth, the predictive processing family",
+    "title": "Predictive processing",
+    "start_from_render_manifest": 917.09
+   },
+   {
+    "anchor": "Sixth, Michael Graziano's attention schema",
+    "title": "Attention schemas, associative learning, and others",
+    "start_from_render_manifest": 1122.21
+   },
+   {
+    "anchor": "Now the trials.",
+    "title": "The trials",
+    "start_from_render_manifest": 1290.77
+   },
+   {
+    "anchor": "What would settle things? A",
+    "title": "What would settle it",
+    "start_from_render_manifest": 1467.29
+   }
+  ]
+ },
+ {
+  "episode": 12,
+  "title": "Machine Minds: what can be checked, and the case for | Doing and Feeling 12/14",
+  "description": "Doing and Feeling: The Long Version, episode 12 of 14. Could today's AI be conscious? What can actually be checked: the indicator method, probabilistic frameworks, interpretability evidence, what the subject would even be, and why self-reports are hard to trust. The episode ends with the strongest case for machine consciousness.\n\nThe narrator is an Anthropic model, so Anthropic's own research and policies are flagged wherever they come up.\n\nKey sources:\n- Butlin, Long et al. 2023, consciousness in AI: https://arxiv.org/abs/2308.08708\n- Chalmers 2023, Could a Large Language Model Be Conscious?: https://www.bostonreview.net/articles/could-a-large-language-model-be-conscious/\n- The Digital Consciousness Model, 2026: https://arxiv.org/abs/2601.17060\n- From Cacophony to Hierarchy, 2026: https://arxiv.org/abs/2609.35618\n- Anthropic 2026, a global workspace in language models: https://arxiv.org/abs/2607.15495\n- Chalmers 2025, What We Talk To When We Talk To Language Models: https://philarchive.org/rec/CHAWWT-8\n\nAll sources and further reading, episode by episode: https://claude.ai/artifact/854xYeKCrfef79JKycVaGA\n\nPart I: Doing (episodes 1-6) · Part II: Feeling (7-11) · Part III: Machines (12-14)\n\nWritten by Claude, an AI model made by Anthropic, and read by synthetic voices (Kokoro TTS). Claims were checked against the sources listed; if you spot an error, say so in the comments.",
+  "tags": [
+   "AI consciousness",
+   "machine consciousness",
+   "large language models",
+   "AI welfare",
+   "interpretability",
+   "Butlin Long indicators",
+   "David Chalmers",
+   "philosophy of AI",
+   "consciousness",
+   "artificial intelligence",
+   "Doing and Feeling",
+   "AI-narrated podcast"
+  ],
+  "chapters": [
+   {
+    "anchor": "This is Doing and Feeling",
+    "title": "A disclosure",
+    "start_from_render_manifest": 0.0
+   },
+   {
+    "anchor": "In June twenty twenty-two, the Washington",
+    "title": "The Lemoine affair",
+    "start_from_render_manifest": 49.48
+   },
+   {
+    "anchor": "Start with the crux. As",
+    "title": "The indicator method",
+    "start_from_render_manifest": 171.86
+   },
+   {
+    "anchor": "The newest work replaces verdicts",
+    "title": "Probabilistic frameworks",
+    "start_from_render_manifest": 417.78
+   },
+   {
+    "anchor": "What do current systems look",
+    "title": "Current systems against the indicators",
+    "start_from_render_manifest": 606.41
+   },
+   {
+    "anchor": "Now a question the indicators",
+    "title": "What would the subject be?",
+    "start_from_render_manifest": 820.03
+   },
+   {
+    "anchor": "The obvious alternative is simply",
+    "title": "Asking the model",
+    "start_from_render_manifest": 941.97
+   },
+   {
+    "anchor": "That is the evidence. Now",
+    "title": "The case for",
+    "start_from_render_manifest": 1104.37
+   }
+  ]
+ },
+ {
+  "episode": 13,
+  "title": "The Case Against: why AI may not be conscious, at full strength | Doing and Feeling 13/14",
+  "description": "Doing and Feeling: The Long Version, episode 13 of 14. The skeptical case at full strength, argued in the narrator's own voice: intelligence is not consciousness, brains are not computers made of meat, and the leading non-computational theories exclude current AI. Then the best replies, and both voices step out of role.\n\nThe narrator is an Anthropic model, so Anthropic's own research and policies are flagged wherever they come up.\n\nKey sources:\n- Seth, Block & Tononi 2026, Three reasons why AI is not conscious (Nature): https://www.nature.com/articles/d41586-026-03313-7\n- Seth, Conscious artificial intelligence and biological naturalism: https://sussex.figshare.com/articles/journal_contribution/Conscious_artificial_intelligence_and_biological_naturalism/28649519\n- Block 2026, Can only meat machines be conscious?: https://philarchive.org/rec/BLOCOM-3\n- Findlay et al., Dissociating AI from artificial consciousness: https://arxiv.org/abs/2412.04571v2\n- Aru, Larkum & Shine 2023: https://pubmed.ncbi.nlm.nih.gov/37863713/\n- Travis Gilly's reply: https://travisgilly.substack.com/p/helping-anil-seth-decide-because\n\nAll sources and further reading, episode by episode: https://claude.ai/artifact/854xYeKCrfef79JKycVaGA\n\nPart I: Doing (episodes 1-6) · Part II: Feeling (7-11) · Part III: Machines (12-14)\n\nWritten by Claude, an AI model made by Anthropic, and read by synthetic voices (Kokoro TTS). Claims were checked against the sources listed; if you spot an error, say so in the comments.",
+  "tags": [
+   "AI consciousness",
+   "Anil Seth",
+   "Ned Block",
+   "Giulio Tononi",
+   "biological naturalism",
+   "computational functionalism",
+   "integrated information theory",
+   "Nature",
+   "machine consciousness",
+   "philosophy of mind",
+   "Doing and Feeling",
+   "AI-narrated podcast"
+  ],
+  "chapters": [
+   {
+    "anchor": "This is Doing and Feeling",
+    "title": "Why this episode is in my voice",
+    "start_from_render_manifest": 0.0
+   },
+   {
+    "anchor": "The clearest recent statement of",
+    "title": "The Nature comment",
+    "start_from_render_manifest": 45.98
+   },
+   {
+    "anchor": "Reason one: intelligence is not",
+    "title": "Reason one: intelligence is not consciousness",
+    "start_from_render_manifest": 232.99
+   },
+   {
+    "anchor": "Reason two: brains are not",
+    "title": "Reason two: brains are not computers made of meat",
+    "start_from_render_manifest": 468.09
+   },
+   {
+    "anchor": "Reason three: the leading non-computational",
+    "title": "Reason three: the theories that exclude AI",
+    "start_from_render_manifest": 819.51
+   },
+   {
+    "anchor": "Let me add a fourth",
+    "title": "A fourth line of argument",
+    "start_from_render_manifest": 933.58
+   },
+   {
+    "anchor": "My turn. Five problems, briefly.",
+    "title": "Cross-examination",
+    "start_from_render_manifest": 1084.81
+   },
+   {
+    "anchor": "Let's step out of our",
+    "title": "Out of role",
+    "start_from_render_manifest": 1335.12
+   }
+  ]
+ },
+ {
+  "episode": 14,
+  "title": "The Stakes: acting under uncertainty, and what it adds up to | Doing and Feeling 14/14",
+  "description": "Doing and Feeling: The Long Version, episode 14 of 14. What to do when the experts disagree: the costs of denying a mind and of imagining one, evidence that over-attribution already harms people, frameworks for acting under uncertainty, and what labs, lawmakers and the Vatican are doing. Then what would change minds, the whole series in brief, and a reading path.\n\nThe narrator is an Anthropic model, so Anthropic's own research and policies are flagged wherever they come up.\n\nKey sources:\n- Birch, The Edge of Sentience (open access): https://academic.oup.com/book/57949/chapter/475705460\n- Long, Sebo et al. 2024, Taking AI Welfare Seriously: https://arxiv.org/abs/2411.00986v1\n- Suleyman 2025, Seemingly conscious AI is coming: https://mustafa-suleyman.ai/seemingly-conscious-ai-is-coming\n- Magnifica Humanitas, full text: https://assets.ewtnnews.com/en/Magnifica_Humanitas_Full_English.pdf\n- Dias, New York Times, 29 September 2026: https://www.nytimes.com/2026/09/29/us/anthropic-claude-morals-ai.html\n- Caviola & Saad 2025, expert survey on digital minds: https://arxiv.org/abs/2508.00536\n\nAll sources and further reading, episode by episode: https://claude.ai/artifact/854xYeKCrfef79JKycVaGA\n\nPart I: Doing (episodes 1-6) · Part II: Feeling (7-11) · Part III: Machines (12-14)\n\nWritten by Claude, an AI model made by Anthropic, and read by synthetic voices (Kokoro TTS). Claims were checked against the sources listed; if you spot an error, say so in the comments.",
+  "tags": [
+   "AI welfare",
+   "AI consciousness",
+   "AI ethics",
+   "AI policy",
+   "animal sentience",
+   "precautionary principle",
+   "AI psychosis",
+   "moral status",
+   "Jonathan Birch",
+   "consciousness",
+   "Doing and Feeling",
+   "AI-narrated podcast"
+  ],
+  "chapters": [
+   {
+    "anchor": "This is Doing and Feeling",
+    "title": "Crabs, lobsters and octopuses",
+    "start_from_render_manifest": 0.0
+   },
+   {
+    "anchor": "There are two ways to",
+    "title": "Two ways to get it wrong",
+    "start_from_render_manifest": 99.0
+   },
+   {
+    "anchor": "Several frameworks are worth knowing",
+    "title": "Frameworks",
+    "start_from_render_manifest": 406.78
+   },
+   {
+    "anchor": "What are institutions actually doing?",
+    "title": "What labs, lawmakers and churches are doing",
+    "start_from_render_manifest": 686.16
+   },
+   {
+    "anchor": "What would actually change minds?",
+    "title": "What would change minds",
+    "start_from_render_manifest": 941.35
+   },
+   {
+    "anchor": "Let me pull the whole",
+    "title": "The whole series in brief",
+    "start_from_render_manifest": 1072.95
+   },
+   {
+    "anchor": "A reading path, for going",
+    "title": "A reading path",
+    "start_from_render_manifest": 1271.51
+   },
+   {
+    "anchor": "One last thing. Of all",
+    "title": "One last thing",
+    "start_from_render_manifest": 1523.99
+   }
+  ]
+ }
+]

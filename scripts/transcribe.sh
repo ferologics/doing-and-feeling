@@ -1,18 +1,21 @@
 #!/usr/bin/env bash
-# Transcribe source/audio/*.mp3 with MLX Whisper (large-v3-turbo, word timestamps)
-# into transcripts/<episode>.{txt,srt,json}. Needs uv and the cached Hugging Face model.
+# Transcribe $AUDIO_DIR/*.mp3 (default source/audio) with MLX Whisper (large-v3-turbo, word
+# timestamps) into $OUT_DIR/<episode>.{txt,srt,json} (default transcripts). Needs uv and the cached
+# Hugging Face model.
 #
-# Usage: scripts/transcribe.sh [episode-name-substring]
+# Usage: [AUDIO_DIR=source/long/audio OUT_DIR=transcripts/long] scripts/transcribe.sh [episode-name-substring]
 set -euo pipefail
 
 cd "$(dirname "$0")/.."
 
 FILTER="${1:-}"
+AUDIO_DIR="${AUDIO_DIR:-source/audio}"
+OUT_DIR="${OUT_DIR:-transcripts}"
 PROMPT="Doing and Feeling podcast on intelligence and consciousness. Blaise Agüera y Arcas, Anil Seth, Chalmers, Nagel, Dennett, Frankish, Tononi, Dehaene, Koch, Graziano, Friston, Cogitate, IIT, global workspace, panpsychism, illusionism, octopus, Godfrey-Smith, Chollet, ARC-AGI, Butlin, Shevlin, Schwitzgebel, Metzinger, Blindsight."
 
-mkdir -p transcripts work/transcribe
+mkdir -p "$OUT_DIR" work/transcribe
 
-for audio in source/audio/*.mp3; do
+for audio in "$AUDIO_DIR"/*.mp3; do
     name="$(basename "$audio" .mp3)"
     if [[ -n "$FILTER" && "$name" != *"$FILTER"* ]]; then
         continue
@@ -31,6 +34,6 @@ for audio in source/audio/*.mp3; do
         --output-name "$name" \
         --verbose False
     for ext in txt srt json; do
-        cp "work/transcribe/$name.$ext" "transcripts/$name.$ext"
+        cp "work/transcribe/$name.$ext" "$OUT_DIR/$name.$ext"
     done
 done

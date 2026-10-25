@@ -1,0 +1,218 @@
+This is Doing and Feeling, the long version. Episode 2, Minds and Other Bodies. In 2002, researchers at Oxford published a short paper in Science about a new Caledonian crow named Betty. Betty and a male companion, Abel, were offered a little bucket of food at the bottom of a vertical tube, along with two pieces of wire, one straight and one hooked. Abel flew off with the hook. Betty picked up the straight wire, wedged one end, bent it into a hook, and fished out the bucket.
+on later trials. It looked like insight, a bird solving a new problem by making a tool it had
+never been taught to make. Fourteen years later, a team led by Christian Rutz complicated the story.
+Some wild-caught New Caledonian crows, kept briefly in field aviaries, bent straight twigs
+without needing to, and one of them used Betty's exact wedge-and-pull technique. Bending may simply
+be part of the species' toolkit, so Betty may have been running a routine rather than having a flash
+The authors did not rule inside out.
+Either way, the story carries the lesson of this whole episode.
+Here's the argument.
+Intelligence has evolved again and again in very different bodies and brains,
+in birds, in octopuses, in insects, and in simpler forms in cells and collectives.
+It is a family of solutions to the problems of staying alive, not a ladder with us at the top.
+And when we study it, we err in both directions.
+We see minds that are not there, and we miss minds that are.
+Start with the two errors.
+In the early 1900s, a horse in Berlin called Clever Hans appeared to do arithmetic,
+tapping out answers with a hoof.
+The psychologist Oskar Funxt showed that Hans was reading tiny, involuntary cues in his questioner's posture,
+which relaxed when he reached the right number.
+Hans was clever, just not at arithmetic.
+The corrective principle, called Morgan's Canon after the psychologist Conway Lloyd Morgan,
+says not to credit a behavior to a higher faculty if a lower one would explain it.
+Clever hands is the founding parable of machine learning evaluation.
+Two, a model that scores well by exploiting a spurious cue in its data
+is literally called a clever hands predictor.
+And he'll be back when we get to machines.
+The opposite error is refusing to credit a mind even when the evidence is strong.
+The primatologist Franz de Waal called it anthropodennial
+and argued that the history of animal cognition
+is largely a history of humans testing animals badly and then underestimating them.
+Part of the problem is what the biologist Jakob van Uckschool called the umwelt,
+an animal's own perceptual world.
+A tick waiting on a branch responds to little more than the smell of mammal skin,
+warmth, and the texture of hair. A test designed around human senses and human interests can
+easily miss what another animal is good at. So every result in this episode comes with the same
+question attached. Which of the two errors is it most at risk of? Begin with the birds. New
+Caledonian crows do not just use tools. In 2018, a team showed them assembling compound tools,
+fitting short pieces together into one long enough to reach a reward,
+without having been shown how.
+Ravens appeared a plan.
+In 2017, Kankabadaya and Mathias Osvath showed that ravens would select a tool,
+or a token they could later trade for food,
+and keep it for use after a delay as long as a night,
+performing about as well as great apes on similar tasks.
+And scrub jays seemed to model other minds.
+In a classic study by Nathan Emery and Nicola Clayton,
+jays that had been watched while hiding food often came back alone and moved it,
+but only if they had stolen from others themselves.
+Experienced thieves seemed to anticipate theft.
+How do birds manage this with brains the size of a walnut?
+Part of the answer came in 2016, when Sueren Olkovich,
+Susanna Herculano, Uzel, and colleagues
+counted neurons in the brains of 28 bird species.
+Parrots and songbirds pack neurons about twice, as densely as primates with brains of the same mass.
+A large macaws forebrain holds at least as many neurons as a macaque monkey's cortex,
+in a brain a fraction of the size.
+Corvids still fall well short of great apes, so the claim is not that crows equal chimpanzees.
+It's that a small brain can carry a great deal of computing power.
+Birds also lack the layered cortex that mammals have,
+which long made their intelligence look like a puzzle.
+In 2020, Martin Stasho, Honor Gunter-Kuhn, and colleagues
+found that parts of the bird forebrain contain repeating, column-like circuits
+strikingly similar to the organization of our cortex, though not in every region.
+Then, in February 2025, a set of papers in Science traced how these bird circuits develop.
+The circuits arise from different developmental origins
+and mostly different gene programs than the mammalian cortex, though a few neuron types do
+look shared. Birds and mammals last shared an ancestor around 320 million years ago.
+What they share is not an inherited cortex. It's largely a convergent solution, arrived at twice.
+Biologists treat convergence as nature's own replication study. Eyes evolved many times,
+and so did flight. When unrelated lineages arrive at similar answers, it suggests the answer is
+shaped by the problem more than by the ancestry. That is a claim about organization, not about any
+particular tissue. The octopus pushes the point further. Octopuses are mollusks, closer to clams
+and snails than to us, and the last common ancestor of octopuses and humans lived perhaps
+600 million years ago, probably a small, simple, worm-like animal. Everything sophisticated about
+octopus cognition evolved separately from ours. Separately is doing a lot of work there.
+Octopuses still have neurons, synapses, and many of the same molecular parts we do.
+True, and it's worth being precise. The building blocks are shared, inherited from that distant
+ancestor. Nerve cells, the basic signaling machinery, many of the same genes. When the
+octopus genome was sequenced in 2015, it even showed a large expansion of a gene family called
+the protocaterines, which help wire up neurons, a family that had also expanded, independently,
+in vertebrates. What evolved separately is the large-scale architecture. How many neurons,
+how they're organized, and what they do. Same bricks, different buildings. An octopus has
+500 million neurons, and about two-thirds of them are in its arms rather than its central brain.
+The arms carry out complex actions semi-independently. Octopeuses solve puzzles,
+escape from tanks, recognize individual people, and appear to play. Their relatives,
+cuttlefish, passed a version of the marshmallow test in a 2021 study led by Alexandra Schnell.
+They would pass up a less preferred food to get a preferred one later,
+from under a minute to more than two minutes, and the best waiters were also the fastest learners.
+There's a puzzle in their life history, too. Most octopuses live only a year or two,
+and many die soon after breeding, so the young never meet their parents.
+In our own lineage, big brains go with long lives and long childhoods. A 2019 review by
+Piro Amodio, Nicola Clayton and colleagues suggested that losing the protective shell
+drove cephalopod intelligence. Once exposed, these animals needed flexible ways to hunt
+and to avoid being eaten. Whatever the right answer turns out to be, it's a different route
+to a large brain under different pressures, which is exactly what you'd expect if intelligence is a
+family of solutions rather than a ladder. The philosopher Peter Godfrey Smith, who has spent
+years diving with octopuses, wrote that meeting one is probably the closest we will come to meeting
+We'll keep returning to the octopus in the philosophy of Episode 9,
+the evidence of Episode 10, and the machine debates of Episodes 12 and 13,
+because it shows that complex cognition can be built on a radically different plan.
+Insects push the size question to an extreme.
+A honeybee brain has about a million neurons, nearly 100,000 times fewer than ours.
+Yet honeybees perform the waggle dance, the symbolic communication of direction and distance,
+that won Carl von Frisch a share of the 1973 Nobel Prize.
+How can so few neurons do so much?
+In a 2009 review, Lars Chitka and Jeremy Niven argued that many abilities we associate with big brains
+need surprisingly small circuits, and that bigger brains often buy more detail,
+more memory, and more parallel processing, rather than qualitatively new kinds of thinking.
+Bumblebees show something closer to culture.
+Sylvain Allem, Lars Chitka, and colleagues hid an artificial flower under a clear plastic sheet,
+reachable only by pulling a string. Left to themselves, just two of 291 bees solved it.
+But most bees that watched a trained demonstrator learned it, and the skill spread through colonies.
+The mechanism matters, though. Observers seem to have been drawn to the string,
+and then to have learned by trial and error. That is not imitation of the pulling movement,
+says to take that reading seriously. In 2024, Chitka's group went further. They built a two-step
+puzzle box that no bee solved on its own, over 12 days or more of access, yet several bees learned
+it from trained demonstrators. That's social learning of a behavior too complex to invent alone,
+which in humans we treat as the seed of cumulative culture. And in 2022, the same lab reported that
+bumblebees rolled small balls over and over with no reward and came to prefer a colored chamber
+they associated with the balls. Play in an insect. That's exactly where I'd reach for Morgan's canon.
+So did the authors by design. They checked the standard criteria animal behaviorists use for
+play. The behavior is voluntary, not directly rewarded, repeated, and done when the animal
+is relaxed rather than stressed. Whether anything is enjoyed is a question for part two.
+As behavior, it met the criteria. Is there a general intelligence in animals, like human G?
+Within species, increasingly yes. Louis Matzel and colleagues found that mice good at one kind
+of learning tend to be good at others, with a general factor accounting for roughly two-fifths
+of the differences on their test batteries. Across species, Simon Reeder, Ifka Hodger,
+and Kevin Laland compiled reports of innovation, social learning, and tool use for 62 primate
+species, and found that a single dimension captured most of the variation, with high
+scores evolving independently in several lineages—capuchins, baboons, macaques, and great apes.
+In a 2017 paper in the journal Behavioral and Brain Sciences, Judith Burkhart, Michael Schubiger, and Karel van Skijk drew these strands together,
+arguing that general intelligence is not unique to humans and linking its evolution to how much animals learn from one another.
+But the measurement problems are serious, and they're the problems of episode one in new clothes.
+In animal studies, being keen on food can look like being clever.
+Samples are often small and drawn from a single laboratory strain,
+and species differ in what they're good at.
+In 2007, Esther Hermann and colleagues gave the same broad battery
+to two-and-a-half-year-old children, chimpanzees, and orangutans.
+On physical problems about tools, quantities, and space,
+the toddlers and the apes performed similarly.
+On social problems, such as following someone's gaze or learning by watching,
+the toddlers were far ahead.
+Humans do not sit at the top of a single ladder.
+We are unusually specialized for learning from each other.
+Brains tell the same mixed story.
+In 2014, Evan McLean and dozens of collaborators tested self-control in 567 animals from 36 species.
+Absolute brain size predicted performance better than brain size relative to the body.
+And among primates, the breadth of a species' diet predicted self-control,
+while the size of its social groups did not.
+Different pressures produce different profiles.
+Now go below the level of brains.
+The biologist Michael Levin studies what he calls basal cognition,
+problem-solving by cells and tissues.
+His framework, called TAME, borrows an old criterion from William James
+that intelligence is the ability to reach the same goal by different means.
+Levin's lab studies bioelectricity,
+the patterns of voltage across cell membranes that help coordinate how tissues grow.
+Flatworms called planaria can regrow a whole body from a fragment.
+In one experiment, briefly blocking the electrical connections between cells
+made some fragments regrow with two heads,
+and those worms kept regrowing two heads when cut again, with no further treatment.
+Even some treated worms that looked normal grew two heads when they were cut later,
+as if a stored pattern had been rewritten.
+Levin's group has also built xenobots from frog cells and anthrobots from human airway cells,
+constructs that move on their own. What they show about cognition, as opposed to the remarkable
+plasticity of development, is still argued over. Even a single cell can solve spatial problems.
+The slime mold Fisarum polycephalum, one giant cell with many nuclei, finds short paths through
+mazes. In a 2010 experiment, researchers placed oat flakes in the positions of the cities around
+Tokyo, and the slime mold grew a network of tubes that closely matched the efficiency and
+resilience of the Tokyo rail system. That's a distributed optimizer. I'm not sure I'd call it
+intelligent. That's the live debate, and it's partly about vocabulary. Levin would say intelligence
+comes in degrees, how well a system navigates toward goals in some space, whether physical,
+anatomical, or behavioral. Critics reply that stretching the word to slime molds empties it.
+Both sides agree about the phenomena. Plants are where that disagreement gets heated,
+and where a failed replication is instructive. A century ago, the Indian physicist Jagadish
+Chandra Bose built sensitive instruments to record electrical responses in plants,
+and argued that they had something like nervous reactions, ideas that were partly ahead of their
+and partly overstated. Today we know that plants signal electrically and chemically.
+A Venus flytrap effectively counts touches, snapping shut after two and starting digestion
+after more. The sensitive plant mimosa stops folding its leaves when it is repeatedly dropped
+without harm, which looks like habituation. In 2016, Monica Gagliano and colleagues reported
+that pea seedlings could learn to associate a breeze with light, a form of conditioning.
+a replication by the plant biologist Casey Markle found no evidence of it. The original team argued
+that his setup differed in key ways, and he replied that those differences could not explain
+the result. And in 2019, Lincoln Tays and colleagues argued that plants neither possess
+nor require consciousness. Most plant scientists accept sophisticated signaling and adaptive
+behavior. Far fewer accept talk of plant mines. Here the error at risk was over-tribution,
+and so far the claim has not held up under independent testing.
+Finally, mines made of many. A honeybee swarm chooses a new home through a process the biologist
+Thomas Seeley described in Honeybee Democracy. Scouts advertise candidate sites by dancing,
+support builds, and the swarm commits when a quorum forms, a process that resembles the way
+accumulate evidence toward a decision.
+Human groups may have something similar.
+Anita Woolley and colleagues have proposed
+a collective intelligence factor for groups,
+and a 2021 meta-analysis found that how a group collaborates
+predicts that factor about twice as well as the skills of its members,
+though whether groups really have a general factor at all
+is still argued over.
+Crows, octopuses, bees, slime molds, swarms.
+What ties the menagerie together?
+Organization. Intelligence is multiply realized. It evolved separately in birds, cephalopods,
+and insects, on different body plans and brain architectures, and evolution keeps converging
+on similar solutions. That's one of the strongest arguments that what matters is organization
+rather than any one kind of tissue, and we'll test that argument hard in parts two and three.
+It's a family, not a ladder.
+Species differ in profile,
+and the human specialty seems to be learning from one another.
+And our methods err both ways.
+Clever hands, the doubts about Betty,
+and the pea seedlings warn against seeing too much.
+Anthropodennial, the neuron counts
+and the bees warn against seeing too little.
+The same tension will haunt every claim about machines.
+So if intelligence takes this many forms,
+can it be defined at all,
+without reference to any particular species,
+or test that's the next episode intelligence formally

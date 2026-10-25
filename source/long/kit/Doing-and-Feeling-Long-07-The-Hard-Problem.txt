@@ -1,0 +1,125 @@
+This is Doing and Feeling, the long version. Part two: feeling. Episode seven: The Hard Problem.
+
+In 1714, Gottfried Leibniz proposed a thought experiment that sits underneath every argument in this part of the series. Suppose, he said, there were a machine whose structure made it think, feel, and perceive. Now imagine it enlarged, keeping all its proportions, until you could walk inside it the way you walk into a mill. Inside, you would find only parts pushing against other parts. Nowhere would you find anything that explains a perception. Leibniz concluded that perception must belong to something simple, not to mechanism.
+
+Swap the mill for a modern neural network and you have the contemporary version. Open up a large language model and you find matrix multiplications and nonlinearities all the way down. You can trace every number it computes, and nowhere in the trace is there a place where things start to feel like something. Open up a brain and the story is the same, with ion channels and neurotransmitters instead of matrices.
+
+Notice the shape of the argument, because it's this whole episode in miniature. It moves from "I cannot see experience in the mechanism" to "experience is not in the mechanism." The question for this episode is whether that move is valid, and what you're committed to if you say yes, or no.
+
+Here's the route. A short history of how this became a respectable problem. Then the three arguments that define the modern debate: Thomas Nagel's bat, Joseph Levine's explanatory gap, and David Chalmers's hard problem, including the formal conceivability argument and the full map of responses to it. Then Frank Jackson's Mary and the four serious replies to her. Then the distinction between access and phenomenal consciousness, and an experiment from 1960 that still divides the field. Then Wittgenstein. And finally a first look at the meta-problem, which the next episode puts to work.
+
+The problem has been noticed many times. In the eighteen sixties, Thomas Huxley wrote that the arrival of a state of consciousness from irritated nerve tissue was as unaccountable as the genie appearing when Aladdin rubbed his lamp. In 1872, the physiologist Emil du Bois-Reymond gave a famous lecture on the limits of natural science, and consciousness was on his list. His verdict on how matter produces sensation was a single Latin word, ignorabimus: we shall never know.
+
+Then psychology spent much of the twentieth century avoiding the subject. Behaviorism said that science should study behavior, not inner states. In 1949, the philosopher Gilbert Ryle mocked the picture of a ghost in the machine as a category mistake, like a visitor who is shown the colleges, the libraries, and the laboratories, and then asks where the university is. The cognitive revolution brought back internal processing, but as information processing. Experience itself stayed off the agenda.
+
+The modern revival came in the nineteen nineties. In 1994, Francis Crick, co-discoverer of the structure of DNA, published The Astonishing Hypothesis, arguing that your joys and sorrows, your memories, your sense of self and free will, come down to the activity of enormous numbers of neurons. That same year, at a conference in Tucson, a young Australian philosopher named David Chalmers gave a talk that named the problem in a way that stuck. Within a few years there were dedicated journals, conferences, and a research program. But the argument everyone reaches for first is older.
+
+Thomas Nagel's 1974 essay, What Is It Like to Be a Bat, is sixteen pages long and makes four moves. The fourth is the one people forget.
+
+First, a definition. A creature is conscious, Nagel says, when there is something it is like to be that creature, for the creature itself. That phrase, something it is like, became the standard way of picking out what philosophers call phenomenal consciousness.
+
+Second, that subjective character is tied to a point of view. Bats perceive the world by echolocation: they emit high-pitched calls and build a picture from the echoes. We can study sonar exhaustively. But what it is like to perceive the world that way is fully accessible only from a bat's kind of point of view. Imagining yourself hanging upside down with webbed arms doesn't help. That tells you what it would be like for you to behave like a bat, not what it is like for a bat to be a bat.
+
+Third, and this is the key step, scientific reduction normally works by moving away from particular points of view toward more objective description. We understood lightning by setting aside how it looks to human eyes and describing an electrical discharge. But if the thing you're trying to explain is the point of view itself, then moving away from points of view moves you away from the very thing you wanted to explain.
+
+Fourth, the conclusion. Nagel did not say physicalism is false. He said that we currently have no idea how it could be true. His analogy was the claim that matter is energy, put forward by a philosopher in ancient Greece. It might have been true, but no one then had the concepts to see how. Nagel even proposed a research program he called objective phenomenology: a way of describing the structure of experiences that doesn't require having them. That program is still mostly a promissory note, but it's worth remembering that the most famous anti-reductionist essay of the twentieth century ends by asking for better science, not by declaring it impossible.
+
+Joseph Levine sharpened the point in 1983 with a phrase that stuck: the explanatory gap. Compare two identity claims. Heat is the motion of molecules. And pain is the firing of C fibers, which, by the way, is a philosophers' toy example rather than real neuroscience.
+
+In the heat case, once you understand molecular motion, nothing is left over. Molecular motion does everything heat does: it raises thermometers, melts ice, burns your hand. There's no residual question. In the pain case, even if the identity were true, you could still ask: why does that firing feel like this, rather than like something else, or like nothing at all? The identity might hold, but it doesn't explain.
+
+Levine's point was epistemic, not metaphysical. He was not claiming that pain is non-physical. He was claiming that our explanations leave a gap that our explanations of heat do not. Whether that gap reflects something about the world, or only about the limits of our concepts, is what the rest of the debate is about.
+
+Heat had a gap too, until statistical mechanics closed it. Why think this one is different in kind?
+
+That's the hope of a position we'll meet shortly, type-C physicalism. The worry is about how the heat gap closed. Statistical mechanics showed that molecular motion does everything heat does. It explained heat's functions, and for heat there was nothing more to explain. If experience is something over and above its functions, a story about functions can't close the gap the same way. Whether it is something more is exactly what Chalmers's argument is about.
+
+Which brings us to Chalmers. In his 1995 paper, Facing Up to the Problem of Consciousness, and his 1996 book, The Conscious Mind, he separated the easy problems of consciousness from the hard problem.
+
+The easy problems are about explaining functions: how we discriminate stimuli, integrate information, report our mental states, focus attention, deliberately control behavior, and how waking differs from sleep. They're easy only in a special sense. They may take centuries to solve, but we know what kind of thing an answer is: a mechanism that performs the function.
+
+The hard problem is why the performance of those functions is accompanied by experience. Chalmers's claim is structural. Once you've explained every function, it still seems a further question why any of it is felt. Function doesn't appear to entail feeling.
+
+That sounds like an argument from incredulity. I can't see how the code produces the behavior, so the behavior must come from somewhere else. If a junior engineer said that about a bug, I'd send them back to the debugger.
+
+And if that were the whole argument, you'd be right to. So Chalmers made it explicit, and it's worth going through slowly. This is the conceivability argument.
+
+Premise one. A zombie world is conceivable. Picture a world physically identical to ours, down to the last particle, in which nobody experiences anything. Your zombie twin talks about the redness of sunsets and the pain of stubbed toes, but there's nothing it's like to be it. Not conceivable in a lazy sense, but ideally conceivable, surviving any amount of careful reflection.
+
+Premise two. If something is ideally conceivable, then it's metaphysically possible.
+
+Premise three. If a zombie world is possible, then the physical facts don't necessitate the facts about experience, and physicalism is false.
+
+Conclusion: physicalism is false.
+
+The argument is valid, so every response has to reject a premise, and Chalmers himself drew the map of responses in a 2003 paper that sorts positions by letter. It's the most useful map in the field, so here it is.
+
+Type-A physicalists deny premise one. Daniel Dennett and the illusionists live here. Zombies only seem conceivable, they say, because we haven't really imagined everything we're stipulating. Dennett's comparison is vitalism. Picture someone who, after every function of life has been explained, still asks why all that is accompanied by life itself. The question sounds deep until you realize that being alive just is metabolism, growth, reproduction, and the rest. Once those are explained, nothing is left over. On this view, experience is the same. Explain every function and there's no further ingredient, and zombies seem conceivable only because we never really imagine all the functions at once.
+
+Type-B physicalists accept premise one but deny premise two. Brian Loar, David Papineau, and Ned Block are among them. Their model is water. Before modern chemistry, it seemed perfectly conceivable that water was something other than H two O. But Saul Kripke showed that identity statements like water is H two O, if true, are necessarily true, even though we discover them empirically. So conceivability can mislead. Maybe pain is identical to some brain process necessarily, even though we can conceive otherwise.
+
+That sounds like the obvious answer. Conceivability is a fact about our concepts, not about the world. So what stops type-B physicalism from simply winning?
+
+Partly Kripke himself, which is a lovely twist. In Naming and Necessity, he argued that pain is not like water. With water, we can explain away the feeling of contingency. When we seem to imagine water that isn't H two O, what we're really imagining is some watery-looking stuff that isn't H two O, fool's water, so to speak. With pain, the trick fails. Anything that feels like pain simply is pain. There's no gap between how pain appears and what it is, so you cannot say you merely imagined something that seemed like pain. Kripke used this against identity theories, and type-B physicalists have been working around it ever since.
+
+Chalmers added a formal tool, two-dimensional semantics, to say exactly when conceivability does entail possibility. Very roughly, it separates what a word picks out in the actual world from the way it picks things out. Type-B physicalists reject the tool, and the dispute continues in technical journals.
+
+Type-C physicalism says the gap is real now but will close once we have concepts we don't yet possess. Chalmers argues that under pressure it collapses into one of the other letters, physicalist or not.
+
+Then come the non-physicalist letters. Type-D is interactionist dualism: experience is non-physical and pushes matter around. Type-E is epiphenomenalism: experience is non-physical and does nothing at all. And type-F is Russellian monism, the family that includes many forms of panpsychism, on which experience is the hidden intrinsic nature of what physics describes only from the outside. Keep these six letters in mind. Type-A gets the whole of the next episode, and the rest are the skeleton of episode nine.
+
+Frank Jackson's knowledge argument, from 1982, approaches the same territory from another direction. Mary is a brilliant scientist who knows every physical fact about color vision: the wavelengths, the retinal cones, every neural pathway. But she has lived her whole life in a black and white room. One day she walks out and sees a ripe tomato. Does she learn something new? If she does, then knowing all the physical facts was not knowing all the facts.
+
+There are four main replies, and they're worth having straight.
+
+The ability hypothesis, from David Lewis and Laurence Nemirow. Mary gains abilities rather than facts: the ability to imagine red, to recognize it, to remember it. Know-how, not know-that. The objection is that it really does seem she learns something statable: that seeing red is like this.
+
+The acquaintance hypothesis. Mary becomes directly acquainted with a property she already knew all about. A new relation to an old property.
+
+Then the most influential reply, the phenomenal concept strategy. Mary acquires a new concept, a recognitional concept that points at the experience from the inside, something like "this kind of state." That new concept picks out a physical property she already knew under a different, scientific concept, the way the morning star and the evening star turned out to be the same planet. Same fact, new way of thinking about it.
+
+The strategy has a second attraction. If phenomenal concepts and physical concepts are wired up independently in our heads, you'd expect to be able to pull them apart in imagination, even if the things they refer to cannot come apart. So the strategy explains why zombies seem conceivable without adding anything to the world. It explains the intuition rather than honoring it.
+
+That's the move that feels right to me as an engineer. When a model is confidently wrong, you explain the confidence. You don't treat it as evidence.
+
+It's attractive for exactly that reason. Chalmers replied in 2007 with what's sometimes called his master argument, which is a dilemma. Ask whether your zombie twin has the same phenomenal concepts you have. If it does, then those concepts cannot explain your special epistemic situation, since the zombie has them without any experience. If it does not, then phenomenal concepts cannot be explained in physical terms after all. Either way, he argues, the strategy fails. Its defenders have replies, and this is one of the liveliest disputes in the field.
+
+The fourth reply is Dennett's. He argued that a Mary who truly knew everything physical would not be surprised at all. Show her a blue banana as a trick, and she'd say at once: that is not what yellow looks like. And one more twist: Jackson himself later abandoned the argument and became a physicalist, explaining experience in terms of mental representation. The argument outlived its author's belief in it.
+
+Next, a distinction that quietly causes half the confusion in this area. In 1995, Ned Block distinguished phenomenal consciousness, the what-it's-like, from access consciousness: information being available for reasoning, for report, and for controlling behavior.
+
+Block's point was that the two are conceptually distinct, and that scientists constantly slide between them. His example was blindsight, which we will meet properly in episode ten: people with damage to visual cortex who deny seeing anything in part of their visual field, yet can guess about objects there far better than chance. It's tempting to reason that because these patients lack visual experience and also lack certain abilities, experience must be what supplies those abilities. Block called this a fallacy. The patients also lack access. You cannot tell which missing ingredient explains the missing abilities.
+
+Block then went further and argued that phenomenal consciousness overflows access. His evidence starts with an experiment by George Sperling from 1960. Flash a grid of twelve letters, three rows of four, for a fraction of a second. Ask people to report everything, and they manage about four. But if a tone just after the flash tells them which row to report, they can get most of that row, whichever row it is. So for a moment, most of the grid was available, even though only a fraction can ever be reported.
+
+Block's interpretation is that you consciously see the whole grid, specific letters and all, and that what's limited is access. Experience is richer than report. He made the case in 2007 in a target article in Behavioral and Brain Sciences, the format we met in episode five, and its commentaries are a fine place to watch a field argue with itself. On the other side, Michael Cohen and Daniel Dennett argued in 2011 that experiences inaccessible in principle could never be tested. Others, such as the philosopher Ian Phillips, suggested that people may experience something more generic: letter-like shapes rather than specific letters. Underneath this lies what's often called the refrigerator light problem. Whenever you check whether you're conscious of something, you access it. So you can never catch experience in the act of existing without access, just as you can never open the fridge door and see the light off.
+
+So this is a measurement problem wearing a metaphysics costume. Every probe you can build is an access probe.
+
+Largely, yes. And it becomes a major empirical fight in episode eleven, because two leading scientific theories line up on opposite sides of it.
+
+A few more distinctions will keep the rest of the series clear. Philosophers separate creature consciousness, being awake rather than in a coma, from state consciousness, a particular mental state being conscious rather than unconscious. Scientists separate the level of consciousness, its contents, and the conscious self. And some researchers, including Tim Bayne, argue that even talking about levels is misleading. Dreaming, psychedelic states, sedation, and minimal consciousness after brain injury differ along several dimensions at once, rather than sitting at different points on one dial.
+
+Ludwig Wittgenstein enters the story from an angle. In the Philosophical Investigations he imagines that everyone has a box containing something they call a beetle. No one can look into anyone else's box, and everyone knows what a beetle is only from their own case. His point is that in such a language game, the thing in the box drops out of the picture entirely. The word beetle gets its meaning from its public use, whatever is or is not inside.
+
+That image belongs to his larger private language argument: the claim that words for sensations cannot get their meaning from private inner objects that only the speaker can inspect. And in a passage that every student of this problem should read, he describes the feeling of an unbridgeable gulf between consciousness and brain processes. It doesn't arise in ordinary life, he says. It arises when you turn your attention on your own consciousness, in a philosophical mood, and ask in astonishment how this could possibly come from a process in the brain. Notice the word this, and the gesture inward that goes with it. Wittgenstein treated that astonishment as a symptom to be examined, not a discovery to be honored.
+
+Wittgenstein's influence runs through behaviorism, through Dennett, and into the contemporary view called illusionism. He didn't try to solve the hard problem. He tried to show that it might be a knot in our language.
+
+That astonishment, the inward gesture and the sense of a gulf, is itself something people do. They say it, write it down, and argue about it on podcasts. In 2018, Chalmers turned that observation into a research program. Alongside the hard problem, he proposed the meta-problem: explain why we think there is a hard problem. Why do brains produce reports like "I can't explain my own experience"? Because those reports are behavior, explaining them is, in principle, an easy problem, one that realists and their opponents can work on together while expecting different kinds of answer. I think it's the most productive development in this debate in decades, and the next episode builds on it.
+
+Let me step back and name the strategies on the table.
+
+The first is to dissolve the problem: show that it rests on a confusion or an illusion. That's Wittgenstein's spirit, and the illusionist program of Dennett and Keith Frankish.
+
+The second is to reduce the problem: accept that experience is real and physical, and explain why it seems otherwise. That's type-B physicalism, the phenomenal concept strategy, and the representationalist theories that identify experience with a certain kind of mental representation.
+
+The third is to expand our picture of reality: accept that physics as we know it leaves something out, and add to it. Dualism adds a new kind of property. Panpsychism and Russellian monism say experience is the intrinsic nature of matter. Idealism says experience is all there is.
+
+And where do professional philosophers actually land? Is there a majority view?
+
+There's survey data. In the 2020 PhilPapers survey of professional philosophers, about sixty-two percent said there is a hard problem of consciousness, and about thirty percent said there is not. At the same time, about fifty-two percent accepted or leaned toward physicalism about the mind, against thirty-two percent for non-physicalism. On consciousness specifically, functionalism was the most popular single view at about a third, then dualism at about a fifth, with identity theory, panpsychism, and eliminativism trailing. Put that together and you get the field's real position: most philosophers think the problem is genuine, and a narrow majority still expect a physical answer. Few think it has been delivered yet.
+
+Eliminativism is the one that says consciousness doesn't exist? With under five percent, why give it more airtime than the others?
+
+Because the small number hides two things. First, the label eliminativism sounds like denying that you feel pain, which no serious defender of the view does. What they deny is that experience has the special private, ineffable qualities philosophers call qualia. Critics reply that this is denying consciousness by another name. Most defenders prefer the label illusionism. Second, it's the position that most changes the question we care about. If illusionism is right, asking whether a machine is conscious stops being a mystery and becomes a question you could, in principle, answer by looking inside it. So next episode, we give the most radical answer the strongest hearing we can, and then put it through its hardest objections.
