@@ -1,19 +1,23 @@
 # TODO
 
-## v1 upload
+## Long version upload
 
-- [ ] Watch/listen through each rendered video once before publishing
-- [ ] Upload the four videos as Unlisted (settings in README.md → Uploading)
-- [ ] Create the playlist (`short/youtube/playlist.md`) and add the episodes in order
-- [ ] Add the playlist link to each description's THE SERIES block; publish
-- [ ] Optional: proofread `short/whisper/*.srt` (names like Agüera y Arcas, Chollet, Gödel) and
-      upload them as English captions
-- [ ] Optional: pinned comment per episode linking `notes/sources.md`-style full source lists
+- [ ] Spot-check a few rendered videos in `long/out/videos/` (cards switch on time, audio plays to the end)
+- [ ] Upload the 14 videos as Unlisted with their thumbnails (settings in README.md → Uploading)
+- [ ] Paste title, description and tags from `long/youtube/<episode>.md`
+- [ ] Captions: Subtitles → Upload file → "Without timing" with `long/kit/<episode>.txt`
+- [ ] Create the playlist "Doing and Feeling: The Long Version" and add the episodes in order
+- [ ] Publish once HD/4K processing has finished
 
-## v2 expanded version
+## Reading list
 
-- [ ] Optional: capture the remaining 32 nested thread replies (`scripts/thread-enrich.py` lists the sub-threads)
-- [ ] Hand `notes/reading-list.md` to Claude in the original conversation as the input for v2
-- [ ] Ask Claude in the original conversation to export the four episode scripts (the share hides files)
-- [ ] Verify or cut the claims listed under "Claims in the audio not checked here" in `notes/sources.md`
-- [ ] Decide scope and format: which episodes to deepen, target length, on-screen visuals
+- [ ] Publish a public version of `notes/reading-list.md`: drop the internal markers (★, v1, the Grok section),
+      the jokes, self-promotion and the anonymous "AI lab" post; say it covers the replies that could be
+      captured; keep quotes short and credit each person by handle
+- [ ] Reply in the @willdepue thread with the reading list and the podcast, saying up front that the
+      podcast is written and voiced by AI
+
+## Later
+
+- [ ] When Claude revises the companion, update the gist (`gh gist edit f23bb5a1b636be8b1ae10362df402790 long/companion-public.md`)
+- [ ] Optional: capture the 32 remaining nested thread replies (`scripts/thread-enrich.py` lists the sub-threads)
