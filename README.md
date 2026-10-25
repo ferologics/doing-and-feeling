@@ -92,7 +92,7 @@ at each chapter start.
 
 The long version is uploaded with `scripts/youtube-upload.py` (YouTube Data API v3). It reads the OAuth desktop
 client from 1Password (`op://Pi/YT_DESKTOP_CLIENT_OAUTH`: username = client ID, credential = client secret) and
-caches the refresh token in the macOS Keychain (service `yt-desktop-client-oauth`), so the browser consent only
+caches the refresh token in the macOS Keychain (service `yt-desktop-client-oauth`) (Google Cloud project branding: app "ferologics tools", privacy policy https://gist.github.com/ferologics/d2d6b2ec3e74b24b9ee3a065037fdcea), so the browser consent only
 appears when the token is missing or expired (7 days while the Google project is in Testing mode). Each episode
 is uploaded Unlisted with its text, Education category, not made for kids, the AI disclosure, thumbnail and
 captions, then appended to the playlist; `--publish` makes the videos and the playlist public. `--update-text`
