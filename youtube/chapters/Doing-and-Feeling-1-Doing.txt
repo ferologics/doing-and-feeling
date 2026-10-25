@@ -1,0 +1,12 @@
+ | Intro: a listening guide built from one thread
+Why start with intelligence | Doing vs. feeling
+Okay, so intelligence | Psychometrics: g, IQ and the Flynn effect
+For a definition that is not anchored | Generality: Legg & Hutter, Chollet and ARC
+And the third tradition | Intelligence as prediction (and compression)
+Which brings us to the book | Blaise Agüera y Arcas: What Is Intelligence?
+So is it a good resource | Is the book a good resource?
+You mentioned octopuses | Octopuses and Michael Levin's basal cognition
+How do brains actually build | Place cells, grid cells and transformers
+Let's talk about the systems | Inside language models (and "stochastic parrots")
+So the parent critique | Jagged intelligence and Moravec's paradox
+So if you had to compress | Recap: three takeaways

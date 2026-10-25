@@ -1,0 +1,212 @@
+Claude
+
+Shared by fero. This is a copy of a chat between Claude and fero. Content may include unverified or unsafe content that does not represent the views of Anthropic. Shared snapshot may contain attachments and data not displayed here.
+Report
+You said: https://www.youtube.com/watch?v=gs38tMxZseA
+Files hidden when shared
+
+
+https://www.youtube.com/watch?v=gs38tMxZseA
+https://whatisintelligence.antikythera.org/
+
+are these good resources? what should i know about intelligence? and the science of intelligence? science and theory of consciousness. are u able to compile all this info into a lecture / podcast i can listen to? how long would it be? 
+
+see attached stuff grok gave me from the original twitter post (https://x.com/willdepue/status/2113823172336505051?s=20)
+
+6 hours ago
+
+Claude responded: I'll look at both links, check the Grok summary against your screenshots, and test whether I can actually produce audio here before I answer the podcast questi…
+
+I'll look at both links, check the Grok summary against your screenshots, and test whether I can actually produce audio here before I answer the podcast question.
+
+Read 9 pages, searched the web, ran 2 commands
+
+Read 9 pages, searched the web, ran 2 commands
+
+Quick early answers while I build the audio:
+
+Your two links are one project. Both are Blaise Agüera y Arcas's What Is Intelligence?: the book (MIT Press/Antikythera, Sept 2025, free to read online) and his ~80-min lecture on it (recorded in London, July 2024). They're good, but they argue one side of exactly the fight in that thread: the right computation is enough for intelligence and, he says, possibly consciousness.
+Grok's list is decent but lopsided. It dropped the Dennett/illusionist camp, even though it's right there in your screenshots (Anuj Apte, Fin Moorhouse). It also missed the Active Inference textbook, Ginsburg & Jablonka, Blindsight/Being No One, Schwitzgebel, and Orch OR.
+Yes, I can make real audio here. The speech engine runs. My plan is a ~60-min, two-voice series in 4 episodes of ~15 min each: intelligence, then the hard problem, then the science, then AI minds plus a reading path. Say so if you'd rather have one 20-min version instead.
+Ran 18 commands, edited 4 files, created 7 files
+
+Ran 18 commands, edited 4 files, created 7 files
+
+The cover reads well. One small touch: a muted question mark in the overlap, since whether doing and feeling overlap is the open question.
+
+Edited a file
+
+Edited a file
+
+While renders run, I'll check a few remaining phrasings that speech engines often misread (single letters, "AI", "X", titles ending in question marks).
+
+Edited 5 files, ran 2 commands, read a page
+
+Edited 5 files, ran 2 commands, read a page
+
+Episode 1's first render finished; the episode 2–4 render has started behind it. Checking the result:
+
+Ran a command
+
+Ran a command
+
+The chained job is stuck: its wait-loop pattern matches its own command line, so it never starts. Replacing it with a direct render:
+
+Ran 2 commands
+
+Ran 2 commands
+
+While that renders, I'll run the speech-recognition check on episode 1 to catch mispronunciations or dropped words early.
+
+Ran 2 commands
+
+Ran 2 commands
+
+Audio for episodes 2–4 is rendering and episode 1 is being checked by transcription. The research checks are still running too. I'll fold in their corrections, re-render anything that changes, and send you the finished episodes.
+
+
+5 hours ago
+Claude responded: The intelligence-facts check is back.
+
+The intelligence-facts check is back. Mostly confirmations, plus a few useful corrections and updates: Spearman never used "g" himself, ARC has moved on to a third, interactive version, the artificial-life result needs better framing, and there's 2026 news (IMO, task-horizon tracking). Applying them to episode 1:
+
+Edited 2 files, ran 3 commands
+
+Edited 2 files, ran 3 commands
+
+Waiting on the consciousness-science check and the episode 1 transcription results; renders continue in the background.
+
+
+5 hours ago
+Claude responded: Expansion reads awkwardly when a question starts with a negative contraction ("Is not that just…").
+Ran 4 commands, read a file
+
+Ran 4 commands, read a file
+
+Expansion reads awkwardly when a question starts with a negative contraction ("Is not that just…"). I'll find those spots and rephrase them in the script instead:
+
+Edited 4 files, searched files, updated tasks
+
+Edited 4 files, searched files, updated tasks
+
+Rendering and the independent review are both running; I'll apply any review fixes, re-render just the affected paragraphs, then run the transcription check across all four episodes before delivering.
+
+
+5 hours ago
+Claude responded: All four episodes rendered: 16.7 + 14.3 + 14.5 + 15.3 minutes, about 61 minutes total.
+Ran a command
+
+Ran a command
+
+All four episodes rendered: 16.7 + 14.3 + 14.5 + 15.3 minutes, about 61 minutes total. Running the transcription check across all of them while the reviewer works:
+
+Updated tasks, ran a command
+
+Updated tasks, ran a command
+
+Transcription check and independent review are running; I'll fix whatever they flag before mastering the final files.
+
+
+5 hours ago
+Claude responded: Two fixes left from this pass: the B voice swallows the second syllable of "Dennett" and the final "t" of "bat", and "perturbational"/"acing" come out mushy.
+Ran 4 commands, edited 2 files, read a file
+
+Ran 4 commands, edited 2 files, read a file
+
+Two fixes left from this pass: the B voice swallows the second syllable of "Dennett" and the final "t" of "bat", and "perturbational"/"acing" come out mushy. Testing alternatives in the right voices:
+
+Edited 3 files, ran a command
+
+Edited 3 files, ran a command
+
+Clarity fixes are in. Waiting on the independent review before the final render pass.
+
+
+4 hours ago
+Claude responded: The independent review found real issues worth fixing.
+
+The independent review found real issues worth fixing. The most important: the map in episode 2 implied the hard problem rules out AI consciousness, but Chalmers himself thinks the right functional organization would be conscious. It also caught a factual slip (red blood cells, about 84% of your cells, have no mitochondria), a 1990 anachronism, and an imbalance in episode 4 where the functionalist side got fewer replies. Applying the fixes I agree with, which is nearly all of them:
+
+Edited 4 files, updated tasks, ran a command
+
+Edited 4 files, updated tasks, ran a command
+
+Final render and full transcription check are running; mastering and delivery follow once they pass.
+
+
+34 minutes ago
+Claude responded: Both are under 1.6 seconds, a length where Whisper is known to loop.
+Read a file, ran a command
+
+Read a file, ran a command
+
+Both are under 1.6 seconds, a length where Whisper is known to loop. To tell whether the audio itself is fine, I'll transcribe each one in context with its neighbouring segment:
+
+Ran 2 commands, updated tasks
+
+Ran 2 commands, updated tasks
+
+All four MP3s are valid: mono, 44.1 kHz, ~80 kbps, tagged, cover embedded, 62 minutes total. Quick loudness and cover check:
+
+Ran a command, read a file
+
+Ran a command, read a file
+
+Loudness is right on podcast standard (−16.7 LUFS), but episode 3 peaks at 0.0 dBTP after MP3 encoding, which risks slight clipping on some players. Re-mastering with more headroom:
+
+Ran a command
+
+Ran a command
+
+Final loudness is −17.2 LUFS with about 2 dB of peak headroom, a comfortable podcast level. All checks are done:
+
+Updated tasks, shared files
+
+Updated tasks, shared files
+
+Your podcast is done: Doing and Feeling, four episodes, 62 minutes in total, about 15 minutes each, with two synthetic voices. Before rendering, three research passes checked the facts, and a separate reviewer read the scripts; its corrections are in.
+
+Your two links. Both are Blaise Agüera y Arcas's What Is Intelligence?: the book (MIT Press, Sept 2025, free to read online) and his ~80-minute lecture on it. It's one of the best single overviews of the intelligence side of your question. But it argues a position rather than surveying the field. His claim is that prediction is intelligence and that some AI systems may have a real claim to consciousness. Read it alongside Anil Seth's paper on the biological view, the other side of the argument, published in full last month with 50 replies from other researchers. If you're short on time, watch the lecture, then read the introduction and chapters 6–8.
+
+What Grok's summary missed. All of these are visible in your own screenshots:
+
+The Dennett camp ("illusionism"): Consciousness Explained, plus the links in Fin Moorhouse's reply (Keith Frankish, Joe Carlsmith, Chalmers). This is the main counterweight to the "hard problem," and without it the list leans toward the anti-computational and fringe picks.
+Other omissions:
+the Active Inference textbook
+Ginsburg & Jablonka's The Evolution of the Sensitive Soul
+the novel Blindsight (free online) and Metzinger's Being No One, which inspired it
+Schwitzgebel's "the United States is conscious" paper
+the microtubule theory (Orch OR)
+Michael Levin
+@dioscuri, tagged in one reply, is Henry Shevlin, a philosopher of AI consciousness worth following.
+The arXiv paper is niche. It's about making chatbots seem to have a mind, and has no data yet.
+"A global workspace in language models" is Anthropic's own research on Claude. That's a conflict of interest worth knowing about, and the episode says so.
+
+What to know, in five lines
+
+Intelligence (doing) and consciousness (feeling) are separate questions. Most confusion comes from merging them.
+Intelligence is increasingly defined as modeling and prediction, plus how fast you learn something new. It evolved separately in octopuses and in vertebrates.
+The hard problem asks why any brain processing feels like something. Positions range from "it only seems to" (illusionism) to "feeling is a basic feature of matter" (panpsychism).
+Science can reliably detect consciousness in humans but can't yet explain how it arises. The first head-to-head test of the two leading theories (2025) dented both.
+For AI, it mostly comes down to whether the right computation is enough. Serious researchers disagree, and nobody knows.
+
+How long it needed to be. About an hour covers the essentials. A thorough version would run 3–4 hours. I can expand any episode into a deep dive.
+
+The search budget ran out near the end. So the newest item, this month's Nature comment by Seth, Ned Block and Giulio Tononi, rests on news coverage rather than the article itself.
+
+Sources:
+
+What Is Intelligence? (free online)
+Agüera y Arcas lecture
+MIT Press listing
+LARB review
+Seth, "Conscious AI and biological naturalism"
+Cogitate adversarial test, Nature 2025
+Butlin, Long et al. 2023
+Anthropic, global workspace paper
+Perceived AGI (arXiv)
+Schwitzgebel, United States paper
+Henry Shevlin CV
+
+34 minutes ago
+Ask Claude your own question

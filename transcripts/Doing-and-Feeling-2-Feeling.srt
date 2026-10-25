@@ -1,0 +1,808 @@
+1
+00:00:00,000 --> 00:00:10,740
+This is doing and feeling. Episode 2, Feeling. Last time was intelligence. Now we get to the part the thread was really asking about. Where do we start?
+
+2
+00:00:11,120 --> 00:00:24,340
+With the most recommended item in the whole thread. One reply described it as 16 pages, a 30-minute read, and a must. It's Thomas Nagel's essay from 1974, What Is It Like to Be a Bat?
+
+3
+00:00:24,700 --> 00:00:25,740
+Why a bat?
+
+4
+00:00:25,740 --> 00:00:31,320
+because bats perceive the world through echolocation. They shriek and build a picture
+
+5
+00:00:31,320 --> 00:00:36,580
+of their surroundings from the echoes. Imagine we knew everything about the physics of sonar
+
+6
+00:00:36,580 --> 00:00:41,840
+and everything about the bat's brain. Nagel's point is that something would still be missing,
+
+7
+00:00:42,080 --> 00:00:47,520
+what it is like for the bat to experience the world that way. He proposed that an organism
+
+8
+00:00:47,520 --> 00:00:52,180
+is conscious if there is something it is like to be that organism. That phrase,
+
+9
+00:00:52,180 --> 00:00:57,320
+something it is like, became the standard definition. And his worry was that science,
+
+10
+00:00:57,520 --> 00:01:02,400
+by design, describes everything from the outside, from no particular point of view.
+
+11
+00:01:02,920 --> 00:01:06,620
+Experience is the one thing that only exists from the inside.
+
+12
+00:01:06,980 --> 00:01:09,700
+That sounds more like a puzzle than a theory.
+
+13
+00:01:10,100 --> 00:01:17,480
+It's the puzzle every theory has to answer. In 1995, the philosopher David Chalmers sharpened
+
+14
+00:01:17,480 --> 00:01:22,180
+into what he called the hard problem of consciousness. He contrasted it with the easy
+
+15
+00:01:22,180 --> 00:01:28,820
+problems, which are only easy by comparison. Those are about explaining functions, how the brain tells
+
+16
+00:01:28,820 --> 00:01:35,460
+stimuli apart, combines information, directs attention, and produces reports. Those are hard
+
+17
+00:01:35,460 --> 00:01:40,540
+science, but we know what an answer would look like. It would be a mechanism. The hard problem
+
+18
+00:01:40,540 --> 00:01:46,100
+is different. Why is any of that processing accompanied by experience at all, instead of
+
+19
+00:01:47,620 --> 00:01:50,140
+And this is where the zombies come in.
+
+20
+00:01:50,520 --> 00:01:51,080
+Right.
+
+21
+00:01:51,480 --> 00:01:55,040
+Chalmers asks you to imagine a being that's physically identical to you,
+
+22
+00:01:55,420 --> 00:01:59,980
+atom for atom, and behaves exactly like you, but has no experience whatsoever.
+
+23
+00:02:00,260 --> 00:02:02,000
+A philosophical zombie.
+
+24
+00:02:02,320 --> 00:02:06,060
+If such a being is even coherently conceivable, he argues,
+
+25
+00:02:06,300 --> 00:02:10,140
+then consciousness is not logically guaranteed by the physical facts,
+
+26
+00:02:10,300 --> 00:02:12,660
+and a purely physical story is incomplete.
+
+27
+00:02:13,040 --> 00:02:15,960
+His book The Conscious Mind lays all of this out.
+
+28
+00:02:17,480 --> 00:02:22,940
+from Frank Jackson. Mary is a brilliant color scientist who knows every physical fact about
+
+29
+00:02:22,940 --> 00:02:27,900
+color vision, but she has lived her whole life in a blackened white room. When she walks out
+
+30
+00:02:27,900 --> 00:02:32,480
+and sees a red tomato for the first time, does she learn something new? If she does,
+
+31
+00:02:32,780 --> 00:02:37,960
+then the physical facts were not all the facts. Jackson himself later changed his mind and became
+
+32
+00:02:37,960 --> 00:02:43,320
+a physicalist, but the argument outlived his support for it. I can already hear the engineers
+
+33
+00:02:43,320 --> 00:02:49,040
+in that thread pushing back. And they should, because the strongest replies to Chalmers are
+
+34
+00:02:49,040 --> 00:02:54,100
+some of the best things on your list. They're also exactly what the Grok summary you were given left
+
+35
+00:02:54,100 --> 00:03:00,020
+out. So let's draw a map. I'll go roughly from consciousness is nothing over and above information
+
+36
+00:03:00,020 --> 00:03:05,760
+processing, all the way to consciousness is the most fundamental thing there is. First stop,
+
+37
+00:03:06,060 --> 00:03:12,000
+functionalism. Mental states are defined by what they do, by their causal roles, not by what they're
+
+38
+00:03:13,320 --> 00:03:19,260
+is whatever state is caused by damage and in turn causes avoidance, distress, and saying ouch.
+
+39
+00:03:19,900 --> 00:03:25,140
+Computational functionalism adds one more step. The relevant roles are computational.
+
+40
+00:03:25,760 --> 00:03:32,680
+Implement the right computation in neurons or in silicon and you get the mind, experience included.
+
+41
+00:03:33,220 --> 00:03:38,960
+That's the working assumption behind most research on AI consciousness and it's the view Aguera
+
+42
+00:03:38,960 --> 00:03:43,860
+E. Arcus defends. What about Daniel Dennett? One reply just said,
+
+43
+00:03:44,280 --> 00:03:51,020
+read Consciousness Explained. Daniel Dennett, who died in 2024, spent decades arguing that
+
+44
+00:03:51,020 --> 00:03:57,580
+the hard problem rests on a kind of cognitive illusion. His 1991 book was teasingly nicknamed
+
+45
+00:03:57,580 --> 00:04:02,460
+Consciousness, Explained Away, but it's one of the most influential books in the field.
+
+46
+00:04:02,640 --> 00:04:08,460
+His position is now usually called illusionism, a name championed by the philosopher Keith
+
+47
+00:04:09,720 --> 00:04:13,880
+Illusionists agree that you're conscious, and that plenty is going on in your head.
+
+48
+00:04:14,100 --> 00:04:19,780
+Their claim is that phenomenal consciousness, in the philosopher's sense, does not really exist.
+
+49
+00:04:20,000 --> 00:04:21,280
+It only seems to.
+
+50
+00:04:21,580 --> 00:04:26,620
+That means private, indescribable inner qualities, what philosophers call qualia.
+
+51
+00:04:26,980 --> 00:04:33,140
+What does exist is a brain that represents its own states in a simplified and somewhat misleading way.
+
+52
+00:04:33,140 --> 00:04:38,980
+And that self-representation makes it seem as if there's an extra, inexplicable inner glow.
+
+53
+00:04:39,540 --> 00:04:42,960
+That sounds self-refuting. The seeming is the experience.
+
+54
+00:04:43,420 --> 00:04:47,140
+That's the standard objection, and illusionists reply carefully.
+
+55
+00:04:47,760 --> 00:04:54,460
+A seeming, they say, can be a representation, a functional state, without being a mysterious extra property.
+
+56
+00:04:54,840 --> 00:04:58,800
+But then who's being fooled? An illusion needs someone to have it.
+
+57
+00:04:59,320 --> 00:05:03,780
+The system itself, illusionists say, with no little observer watching inside.
+
+58
+00:05:04,280 --> 00:05:08,000
+Dennett borrowed a phrase from computing for this, the user illusion.
+
+59
+00:05:08,460 --> 00:05:11,720
+Your laptop's desktop shows folders and a trash can.
+
+60
+00:05:11,980 --> 00:05:16,560
+There are no tiny folders on the chip, but the interface is real, it's useful,
+
+61
+00:05:16,600 --> 00:05:19,420
+and it's the only way you ever deal with what's underneath.
+
+62
+00:05:19,760 --> 00:05:23,760
+On this view, the felt inner world is the brain's interface to itself.
+
+63
+00:05:24,400 --> 00:05:29,180
+Joe Carl Smith's essay Grokking Illusionism, which is linked in one of the replies,
+
+64
+00:05:29,500 --> 00:05:33,560
+is a wonderful account of what it's like to really try to take that seriously.
+
+65
+00:05:33,880 --> 00:05:35,480
+And here's the clever part.
+
+66
+00:05:35,960 --> 00:05:39,960
+Chalmers himself has proposed what he calls the metaproblem of consciousness.
+
+67
+00:05:40,280 --> 00:05:42,280
+Why do we think there's a hard problem?
+
+68
+00:05:42,560 --> 00:05:44,680
+Why do brains produce statements like,
+
+69
+00:05:44,860 --> 00:05:47,000
+I cannot explain my own experience?
+
+70
+00:05:47,200 --> 00:05:51,600
+That's an easy problem because it's about behavior, so everyone can work on it.
+
+71
+00:05:52,040 --> 00:05:53,440
+If we solve the meta problem,
+
+72
+00:05:53,680 --> 00:05:56,060
+and the explanation never needs to mention
+
+73
+00:05:56,060 --> 00:05:57,760
+genuinely phenomenal properties,
+
+74
+00:05:58,440 --> 00:05:59,960
+illusionism looks much stronger.
+
+75
+00:06:00,320 --> 00:06:03,200
+If it does need them, illusionism looks weaker.
+
+76
+00:06:03,860 --> 00:06:05,960
+Wittgenstein, who shows up on your list too,
+
+77
+00:06:06,340 --> 00:06:08,600
+made a related diagnosis much earlier.
+
+78
+00:06:08,880 --> 00:06:11,720
+He noticed that the feeling of an unbridgeable gulf
+
+79
+00:06:11,720 --> 00:06:13,800
+between consciousness and brain processes
+
+80
+00:06:13,800 --> 00:06:16,040
+does not come up in ordinary life.
+
+81
+00:06:16,260 --> 00:06:18,120
+It appears when you turn your attention
+
+82
+00:06:18,120 --> 00:06:20,680
+on your own experience, in a philosopher's mood,
+
+83
+00:06:21,600 --> 00:06:23,580
+This is supposed to come from a brain.
+
+84
+00:06:23,780 --> 00:06:27,620
+He treated it as a confusion to dissolve, not a mystery to solve.
+
+85
+00:06:27,940 --> 00:06:33,520
+One of your repliers, Finn Morehouse, called illusionism the most compelling account of consciousness
+
+86
+00:06:33,520 --> 00:06:38,020
+and linked Frankish, Dennett, Carl Smith, and Chalmers on the metaproblem.
+
+87
+00:06:38,380 --> 00:06:42,160
+That cluster is the strongest deflationary position out there.
+
+88
+00:06:42,280 --> 00:06:45,240
+And it matters a lot for AI, as we'll see.
+
+89
+00:06:45,660 --> 00:06:48,320
+Where do Hofstadter and the strange loops fit?
+
+90
+00:06:49,020 --> 00:06:54,700
+Nearby, Douglas Hofstadter's Gerdel, Escher, Bach argues that a self is a strange loop,
+
+91
+00:06:54,960 --> 00:06:57,220
+a pattern that comes to represent itself.
+
+92
+00:06:57,620 --> 00:07:00,220
+Your thread loved it and also called it trash.
+
+93
+00:07:00,660 --> 00:07:05,800
+Honestly, it depends on whether you enjoy 700 pages of playful self-reference.
+
+94
+00:07:06,220 --> 00:07:09,360
+Thomas Metzinger's Being No One makes a related argument.
+
+95
+00:07:09,640 --> 00:07:15,040
+There is no self, he says, only a self-model that the brain cannot recognize as a model.
+
+96
+00:07:15,580 --> 00:07:18,800
+It's transparent, like a window you look through rather than at.
+
+97
+00:07:19,120 --> 00:07:21,080
+Being no one is very heavygoing.
+
+98
+00:07:21,420 --> 00:07:25,060
+His later book, The Ego Tunnel, is the accessible version.
+
+99
+00:07:25,400 --> 00:07:30,180
+And one reply recommends Peter Watts' novel Blindsight, which drew on Metzinger.
+
+100
+00:07:30,460 --> 00:07:34,960
+It imagines aliens that are vastly intelligent and completely non-conscious,
+
+101
+00:07:35,280 --> 00:07:40,340
+and it asks whether consciousness might be a useless, even costly, side effect.
+
+102
+00:07:40,560 --> 00:07:44,860
+It's probably the best fictional treatment of the gap between doing and feeling.
+
+103
+00:07:45,040 --> 00:07:49,300
+Watts has made it free to read online under a Creative Commons license.
+
+104
+00:07:49,880 --> 00:07:52,120
+Okay, now the other side of the map.
+
+105
+00:07:52,640 --> 00:07:55,140
+First stop, biological naturalism.
+
+106
+00:07:55,580 --> 00:07:59,420
+John Searle argued that consciousness is a real biological phenomenon
+
+107
+00:07:59,420 --> 00:08:04,000
+caused by specific powers of brains and that running a program is not enough.
+
+108
+00:08:04,360 --> 00:08:06,560
+That's the point of his famous Chinese room.
+
+109
+00:08:06,800 --> 00:08:11,140
+A person locked in a room, following a rulebook to shuffle Chinese symbols,
+
+110
+00:08:11,400 --> 00:08:14,740
+could produce perfect answers without understanding a word of Chinese.
+
+111
+00:08:15,540 --> 00:08:20,440
+As Searle liked to say, a computer simulation of a rainstorm does not get anything wet.
+
+112
+00:08:21,100 --> 00:08:23,580
+Anil Seth defends a modern version of this view.
+
+113
+00:08:24,380 --> 00:08:29,800
+Consciousness, he suggests, may depend on being alive, on metabolism, and on the constant
+
+114
+00:08:29,800 --> 00:08:33,200
+work of self-maintenance that keeps an organism in one piece.
+
+115
+00:08:33,540 --> 00:08:40,180
+His paper in the journal Behavioral and Brain Sciences on Conscious AI and Biological Naturalism
+
+116
+00:08:40,180 --> 00:08:44,760
+is the sharpest current statement of the case against computational functionalism.
+
+117
+00:08:45,040 --> 00:08:48,660
+Second stop, integrated information theory, or I.
+
+118
+00:08:48,900 --> 00:08:49,740
+I.T.
+
+119
+00:08:49,980 --> 00:08:55,920
+It comes from the neuroscientist Giulio Tononi, and Christoph Koch is its best-known champion.
+
+120
+00:08:56,280 --> 00:09:00,060
+We'll cover the science next episode, but the philosophy is radical.
+
+121
+00:09:00,720 --> 00:09:03,160
+I.I.T. starts from the experience itself.
+
+122
+00:09:03,580 --> 00:09:08,860
+Every experience exists for itself, is structured, is specific, is unified, and is definite.
+
+123
+00:09:09,220 --> 00:09:12,420
+Then it asks what kind of physical system could have those properties.
+
+124
+00:09:12,960 --> 00:09:16,880
+Its answer is integrated information, measured by a quantity called phi.
+
+125
+00:09:17,540 --> 00:09:21,780
+Roughly, phi measures how much a system's causal structure, taken as a whole,
+
+126
+00:09:22,160 --> 00:09:26,640
+constrains its own past and future, over and above what its parts do separately.
+
+127
+00:09:27,120 --> 00:09:28,300
+Here's the key move.
+
+128
+00:09:28,500 --> 00:09:33,060
+Phi is a property of physical causal structure, not of the software being run.
+
+129
+00:09:33,380 --> 00:09:37,620
+So a conventional digital computer that simulated your brain perfectly would,
+
+130
+00:09:37,820 --> 00:09:42,220
+according to I, I, T, be almost entirely unconscious,
+
+131
+00:09:42,420 --> 00:09:45,200
+because its hardware is not integrated in the right way.
+
+132
+00:09:45,340 --> 00:09:48,660
+That's the subtitle of Koch's book, The Feeling of Life Itself.
+
+133
+00:09:49,360 --> 00:09:52,420
+Consciousness is widespread, but it cannot be computed.
+
+134
+00:09:52,700 --> 00:09:55,840
+And that's why one person in your thread recommended Koch
+
+135
+00:09:55,840 --> 00:09:58,420
+as a challenge to computational functionalism,
+
+136
+00:09:58,540 --> 00:10:03,640
+while adding that they could not endorse I, IT, as it's constructed.
+
+137
+00:10:04,060 --> 00:10:07,080
+Then panpsychism, the Sean Carroll podcast.
+
+138
+00:10:07,700 --> 00:10:08,280
+Right.
+
+139
+00:10:08,280 --> 00:10:16,160
+Panpsychism is the view that consciousness, in some extremely simple form, is a fundamental and widespread feature of matter.
+
+140
+00:10:16,660 --> 00:10:19,440
+Philip Goff is its best-known current advocate.
+
+141
+00:10:19,840 --> 00:10:21,600
+The motivation goes like this.
+
+142
+00:10:21,920 --> 00:10:26,060
+Physics tells us what matter does, mass, charge, how particles behave.
+
+143
+00:10:26,380 --> 00:10:28,940
+It does not tell us what matter intrinsically is.
+
+144
+00:10:29,300 --> 00:10:33,720
+Maybe its intrinsic nature is, in some minimal sense, experiential.
+
+145
+00:10:33,880 --> 00:10:36,920
+The big problem is what's called the combination problem.
+
+146
+00:10:38,280 --> 00:10:44,760
+of tiny experiences add up to one unified experience like yours right now. And what did
+
+147
+00:10:44,760 --> 00:10:51,280
+Carroll say? Carroll's objection is a physicist's. The laws that govern everyday matter have been
+
+148
+00:10:51,280 --> 00:10:57,560
+tested to extraordinary precision. If consciousness made any difference to what atoms do, those laws
+
+149
+00:10:57,560 --> 00:11:02,480
+would have to be wrong somewhere we'd have noticed. And if it makes no difference to what atoms do,
+
+150
+00:11:02,720 --> 00:11:06,680
+it's hard to see how it could explain why we talk about consciousness at all.
+
+151
+00:11:08,280 --> 00:11:11,300
+is that panpsychism does not change the equations at all.
+
+152
+00:11:11,640 --> 00:11:13,440
+It's a claim about the inner nature
+
+153
+00:11:13,440 --> 00:11:15,240
+of whatever the equations describe.
+
+154
+00:11:15,700 --> 00:11:18,220
+It's an hour and a half of two smart people
+
+155
+00:11:18,220 --> 00:11:19,700
+disagreeing in good faith,
+
+156
+00:11:19,900 --> 00:11:21,640
+which is exactly what you want.
+
+157
+00:11:21,980 --> 00:11:23,820
+Then there are the positions further out.
+
+158
+00:11:24,460 --> 00:11:26,780
+Idealism, defended by Bernardo Kastrup,
+
+159
+00:11:27,100 --> 00:11:28,420
+says mind is fundamental,
+
+160
+00:11:28,660 --> 00:11:31,360
+and matter is what mind looks like from the outside.
+
+161
+00:11:32,020 --> 00:11:35,340
+Dualism says experience is a fundamental feature of its own.
+
+162
+00:11:36,020 --> 00:11:38,300
+Chalmers has defended a naturalistic version,
+
+163
+00:11:38,300 --> 00:11:43,120
+in which experience is tied to physical processes by laws we have not yet found.
+
+164
+00:11:44,040 --> 00:11:47,020
+Mysterianism, from Colin McGinn, says there's an answer,
+
+165
+00:11:47,180 --> 00:11:49,580
+but our brains may not be built to grasp it.
+
+166
+00:11:49,980 --> 00:11:51,560
+And the microtubules.
+
+167
+00:11:51,980 --> 00:11:54,020
+Wait, it's all microtubules?
+
+168
+00:11:54,200 --> 00:11:55,360
+Always has been.
+
+169
+00:11:55,620 --> 00:11:57,800
+That meme is about ORCH-O, R,
+
+170
+00:11:58,120 --> 00:12:00,820
+which stands for Orchestrated Objective Reduction.
+
+171
+00:12:01,420 --> 00:12:03,760
+Roger Penrose and Stuart Hameroff
+
+172
+00:12:05,340 --> 00:12:11,040
+arises from quantum processes in microtubules, the proteins scaffolding inside neurons.
+
+173
+00:12:11,420 --> 00:12:16,920
+Most neuroscientists are skeptical. The main objection is that the brain is warm and wet,
+
+174
+00:12:17,140 --> 00:12:21,060
+so delicate quantum states there should fall apart far too quickly to matter.
+
+175
+00:12:21,540 --> 00:12:27,960
+Supporters point to some intriguing results. In one 2024 study, a drug that stabilizes
+
+176
+00:12:27,960 --> 00:12:33,780
+microtubules delayed by about a minute, the point at which rats under anesthesia could no longer
+
+177
+00:12:35,340 --> 00:12:37,540
+a standard stand-in for losing consciousness.
+
+178
+00:12:37,920 --> 00:12:40,240
+That's suggestive, but far from decisive.
+
+179
+00:12:40,700 --> 00:12:43,800
+It was a small study, no quantum effects were measured,
+
+180
+00:12:44,000 --> 00:12:48,620
+and microtubules do plenty of ordinary, non-quantum work that could explain it.
+
+181
+00:12:48,960 --> 00:12:51,880
+Fun to read about, not where the mainstream is.
+
+182
+00:12:52,340 --> 00:12:55,060
+Anything else from the thread before we sum up?
+
+183
+00:12:55,440 --> 00:12:57,900
+One more, because it's a great stress test.
+
+184
+00:12:58,240 --> 00:13:00,180
+Eric S. H. Witzgabel's paper,
+
+185
+00:13:00,400 --> 00:13:04,380
+If Materialism is True, the United States is Probably Conscious.
+
+186
+00:13:05,340 --> 00:13:10,960
+the argument. Suppose you adopt criteria for consciousness that are liberal enough to include
+
+187
+00:13:10,960 --> 00:13:16,240
+rabbits and hypothetical intelligent aliens. Things like rich information integration,
+
+188
+00:13:16,800 --> 00:13:22,660
+sophisticated responsiveness to the environment, and self-monitoring. Then the United States,
+
+189
+00:13:22,840 --> 00:13:28,840
+taken as a single entity, seems to meet those criteria too. The reply that recommended it was
+
+190
+00:13:28,840 --> 00:13:34,860
+not convinced by the conclusion, and most people are not. But it shows something important. Every
+
+191
+00:13:35,340 --> 00:13:41,160
+consciousness ends up implying something that sounds absurd. S.H. Witzgabel calls this the
+
+192
+00:13:41,160 --> 00:13:46,920
+weirdness of the world. Some crazy-sounding view has to be true, we just do not know which one.
+
+193
+00:13:47,440 --> 00:13:53,180
+Okay, give me the map in one picture. Picture a single question running through all of it.
+
+194
+00:13:53,360 --> 00:13:59,000
+Does the right pattern of information processing suffice for experience? Functionalists and
+
+195
+00:13:59,000 --> 00:14:05,060
+illusionists say yes in their different ways. And surprisingly, so does Chalmers. He thinks
+
+196
+00:14:05,340 --> 00:14:12,200
+is tied by natural law to functional organization, so a silicon brain organized exactly like yours
+
+197
+00:14:12,200 --> 00:14:17,920
+would be conscious too. The hard problem, in other words, does not by itself rule out conscious
+
+198
+00:14:17,920 --> 00:14:25,420
+machines. Biological naturalists say no, you need the right biology, maybe life itself. I, IT,
+
+199
+00:14:25,720 --> 00:14:31,380
+says no, you need the right physical causal structure. Pansychists and idealists say the
+
+200
+00:14:31,380 --> 00:14:36,960
+question is framed wrong because experience is there from the start. Where you land on that one
+
+201
+00:14:36,960 --> 00:14:43,060
+question determines almost everything you'll say about AI. And notice that none of these positions
+
+202
+00:14:43,060 --> 00:14:49,340
+has been settled by argument alone. So next episode, let's see what experiments can actually do.
+

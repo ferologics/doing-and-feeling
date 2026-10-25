@@ -1,0 +1,716 @@
+1
+00:00:00,000 --> 00:00:10,140
+This is doing and feeling. Episode 3, Measuring. So here's my first question. Can you even do experiments on something that's defined as private?
+
+2
+00:00:10,140 --> 00:00:17,940
+it. You can with a trick. In 1990, Francis Crick of DNA fame and the neuroscientist Christoph Koch
+
+3
+00:00:17,940 --> 00:00:24,320
+proposed setting the deep philosophical puzzle aside for a while. Instead, they said, hunt for
+
+4
+00:00:24,320 --> 00:00:29,580
+the neural correlates of consciousness. The minimal brain activity, that's enough for a particular
+
+5
+00:00:29,580 --> 00:00:36,640
+conscious experience. The key method is contrast. You keep the stimulus identical, but arrange things
+
+6
+00:00:36,640 --> 00:00:41,160
+so that sometimes the person consciously sees it and sometimes they do not.
+
+7
+00:00:41,460 --> 00:00:44,640
+Then you compare what the brain is doing in the two cases.
+
+8
+00:00:45,280 --> 00:00:49,080
+How do you make someone not see something that's right in front of them?
+
+9
+00:00:49,420 --> 00:00:50,740
+There are lots of ways.
+
+10
+00:00:51,080 --> 00:00:52,000
+One is masking.
+
+11
+00:00:52,360 --> 00:00:56,440
+Flash a word for a few hundredths of a second, then follow it with a pattern.
+
+12
+00:00:56,800 --> 00:00:58,900
+Set the timing right at the threshold,
+
+13
+00:00:59,100 --> 00:01:02,760
+and the very same flash is sometimes seen and sometimes not.
+
+14
+00:01:03,220 --> 00:01:05,100
+Another is binocular rivalry.
+
+15
+00:01:06,640 --> 00:01:12,500
+different image, say a face to one eye and a house to the other. Your experience flips back and forth
+
+16
+00:01:12,500 --> 00:01:18,120
+between face and house, even though the input never changes. And there's inattentional blindness,
+
+17
+00:01:18,440 --> 00:01:24,400
+like the famous video where people count basketball passes and about half of them do not notice a
+
+18
+00:01:24,400 --> 00:01:30,280
+person in a gorilla suit walking through the middle of the scene. In every case, the world stays the
+
+19
+00:01:30,280 --> 00:01:36,140
+same while the experience changes. That's the handle science can grab. And what have those
+
+20
+00:01:37,520 --> 00:01:40,480
+Some of the most striking findings come from patients.
+
+21
+00:01:40,820 --> 00:01:42,160
+Start with blindsight.
+
+22
+00:01:42,600 --> 00:01:48,720
+Some people with damage to the primary visual cortex say they're completely blind in part of their visual field.
+
+23
+00:01:49,020 --> 00:01:55,680
+Yet when you ask them to guess, they can point to objects there and tell the direction of movement far better than chance.
+
+24
+00:01:55,880 --> 00:02:01,700
+Lawrence Weisskrantz studied a famous patient known as D.B. in the 1970s.
+
+25
+00:02:01,920 --> 00:02:05,420
+It's the real-world version of the novel Blindsight's question.
+
+26
+00:02:06,640 --> 00:02:11,800
+visual processing, with no visual experience, or at least none the person can report.
+
+27
+00:02:12,180 --> 00:02:17,500
+Then there are split-brain patients whose corpus callosum, the bridge between the two
+
+28
+00:02:17,500 --> 00:02:24,220
+hemispheres, was cut to treat severe epilepsy. Roger Sperry and Michael Gazzaniga showed that
+
+29
+00:02:24,220 --> 00:02:29,380
+each hemisphere could respond to information the other one did not have, and the left hemisphere,
+
+30
+00:02:29,600 --> 00:02:35,380
+which controls speech, would confidently invent explanations for actions that the right hemisphere
+
+31
+00:02:36,700 --> 00:02:38,680
+Gazzaniga called this the interpreter.
+
+32
+00:02:39,040 --> 00:02:42,700
+It's a lasting warning that our explanations of our own behavior
+
+33
+00:02:42,700 --> 00:02:46,380
+can be fluent, confident stories made up after the fact.
+
+34
+00:02:46,740 --> 00:02:49,200
+That seems relevant to AI as well.
+
+35
+00:02:49,760 --> 00:02:52,300
+Very. Hold that thought until episode 4.
+
+36
+00:02:52,780 --> 00:02:54,900
+While we're on brains fooling themselves,
+
+37
+00:02:55,520 --> 00:02:58,580
+Aguera E. Arcus says AI could have free will,
+
+38
+00:02:58,620 --> 00:03:01,820
+but I thought neuroscience had disproved free will.
+
+39
+00:03:02,040 --> 00:03:06,620
+That usually refers to Benjamin Libet's experiments in the early 1980s.
+
+40
+00:03:06,640 --> 00:03:13,080
+He found a slow buildup of electrical activity, called the readiness potential, starting a few
+
+41
+00:03:13,080 --> 00:03:18,540
+hundred milliseconds before people reported deciding to move. It was widely read as the
+
+42
+00:03:18,540 --> 00:03:24,580
+brain deciding before you do. But in 2012, Aaron Scherger and his colleagues showed that the
+
+43
+00:03:24,580 --> 00:03:29,780
+buildup can be explained as random neural noise drifting toward a threshold, with the movement
+
+44
+00:03:29,780 --> 00:03:35,060
+starting when it crosses. On that reading, the signal is not a hidden decision at all.
+
+45
+00:03:36,640 --> 00:03:42,040
+to be careful with dramatic interpretations of single experiments. Then there are patients who
+
+46
+00:03:42,040 --> 00:03:48,940
+seem completely unresponsive. In 2006, Adrienne Owens' group put a young woman diagnosed as
+
+47
+00:03:48,940 --> 00:03:54,760
+vegetative into a brain scanner. They asked her to imagine playing tennis and then to imagine
+
+48
+00:03:54,760 --> 00:03:59,860
+walking through her house. Her brain activity matched that of healthy volunteers doing the
+
+49
+00:03:59,860 --> 00:04:06,060
+same tasks. She could follow instructions, so she was aware. Later studies used the same trick
+
+50
+00:04:06,640 --> 00:04:08,620
+yes or no answers from patients.
+
+51
+00:04:08,940 --> 00:04:11,560
+And a large study published in 2024
+
+52
+00:04:11,560 --> 00:04:14,080
+found signs of this hidden awareness
+
+53
+00:04:14,080 --> 00:04:16,180
+in roughly one in four patients
+
+54
+00:04:16,180 --> 00:04:18,920
+who could not follow any commands at the bedside.
+
+55
+00:04:19,300 --> 00:04:22,120
+So is there anything like a consciousness meter?
+
+56
+00:04:22,420 --> 00:04:25,900
+The closest thing is the perturbational complexity index
+
+57
+00:04:25,900 --> 00:04:28,640
+from Marcello Massimini and his colleagues.
+
+58
+00:04:29,040 --> 00:04:30,980
+It's nicknamed zap and zip.
+
+59
+00:04:31,360 --> 00:04:33,580
+You zap the cortex with a magnetic pulse
+
+60
+00:04:33,580 --> 00:04:35,900
+and record the brain's echo with EEG.
+
+61
+00:04:36,640 --> 00:04:39,720
+Then you zip it. You compress the response like compressing a file.
+
+62
+00:04:39,900 --> 00:04:43,780
+In a conscious brain, the echo is both widespread and differentiated.
+
+63
+00:04:44,000 --> 00:04:45,960
+It's complex and hard to compress.
+
+64
+00:04:46,400 --> 00:04:50,560
+In dreamless sleep under most anesthetics or in most vegetative patients,
+
+65
+00:04:50,960 --> 00:04:54,060
+the echo is either local or a big uniform wave.
+
+66
+00:04:54,260 --> 00:04:56,180
+Either way, it compresses easily.
+
+67
+00:04:56,800 --> 00:04:59,160
+Across sleep, anesthesia, and brain injury,
+
+68
+00:04:59,420 --> 00:05:03,080
+this measure separates conscious from unconscious states remarkably well.
+
+69
+00:05:03,320 --> 00:05:05,880
+It was calibrated on people who could say afterwards
+
+70
+00:05:06,640 --> 00:05:12,720
+had experienced anything. My favorite case is ketamine. At anesthetic doses, it leaves people
+
+71
+00:05:12,720 --> 00:05:18,280
+completely unresponsive, yet they often report vivid dreams when they wake up. And their brains
+
+72
+00:05:18,280 --> 00:05:23,300
+showed high complexity, matching what they reported rather than how they looked from the outside.
+
+73
+00:05:23,660 --> 00:05:30,260
+It works in humans. And just last month, a study across six species, from humans down to roundworms,
+
+74
+00:05:30,620 --> 00:05:36,100
+reported that anesthesia leaves a common signature in all of them. Neural activity becomes less
+
+75
+00:05:36,640 --> 00:05:39,440
+and its past predicts its future less well.
+
+76
+00:05:39,680 --> 00:05:43,760
+But whether measures like these mean anything for an octopus or a computer
+
+77
+00:05:43,760 --> 00:05:46,860
+is exactly the question that theory has to answer.
+
+78
+00:05:47,400 --> 00:05:49,620
+Okay theories, how many are there?
+
+79
+00:05:49,960 --> 00:05:50,780
+Too many.
+
+80
+00:05:51,000 --> 00:05:55,880
+A 2022 review by Anil Seth and Tim Bain listed 22 of them.
+
+81
+00:05:56,260 --> 00:05:58,720
+Here are the five families you'll keep running into.
+
+82
+00:05:59,120 --> 00:06:00,980
+One, global workspace theory.
+
+83
+00:06:01,340 --> 00:06:03,640
+Bernard Bars proposed it in 1988,
+
+84
+00:06:03,640 --> 00:06:08,040
+and Stanislas Doan and Jean-Pierre Shanja developed a neural version.
+
+85
+00:06:08,530 --> 00:06:12,140
+The idea is that the brain is a society of specialized processors,
+
+86
+00:06:12,460 --> 00:06:14,860
+mostly working unconsciously and in parallel.
+
+87
+00:06:15,620 --> 00:06:19,140
+Consciousness is what happens when some piece of content wins a competition
+
+88
+00:06:19,140 --> 00:06:21,640
+and gets broadcast across the whole system,
+
+89
+00:06:21,840 --> 00:06:25,680
+so that memory, planning, language, and report can all use it.
+
+90
+00:06:26,180 --> 00:06:28,340
+Doan's lab found a signature of this.
+
+91
+00:06:28,500 --> 00:06:30,740
+When a stimulus is consciously seen,
+
+92
+00:06:30,740 --> 00:06:36,380
+there's a sudden, all-or-nothing ignition of activity across frontal and parietal networks,
+
+93
+00:06:36,720 --> 00:06:42,500
+roughly a third of a second after it appears. His book, Consciousness and the Brain, is the
+
+94
+00:06:42,500 --> 00:06:48,340
+best introduction. Two, higher-order theories. A mental state is conscious when it's represented
+
+95
+00:06:48,340 --> 00:06:54,260
+by another mental state. In effect, the brain notices that it's seeing. David Rosenthal
+
+96
+00:06:54,260 --> 00:06:58,960
+developed the philosophy, and Hakwin Lau and others developed neuroscience versions
+
+97
+00:07:00,740 --> 00:07:05,820
+by the prefrontal cortex. Steve Fleming's book Know Thyself, about metacognition,
+
+98
+00:07:06,060 --> 00:07:10,880
+is a friendly way in. 3. Recurrent Processing Theory, from Victor Lama.
+
+99
+00:07:11,320 --> 00:07:16,420
+Feedback loops within the sensory cortex are enough for experience, even without a global
+
+100
+00:07:16,420 --> 00:07:22,600
+broadcast. That implies you can have experiences you're unable to report, which is controversial
+
+101
+00:07:22,600 --> 00:07:28,620
+because report is how we normally check. So the theories disagree about where in the brain
+
+102
+00:07:28,620 --> 00:07:34,260
+consciousness happens. That's one of the sharpest disputes, sometimes called front versus back.
+
+103
+00:07:34,720 --> 00:07:38,620
+Workspace and higher order theories say the prefrontal cortex is essential.
+
+104
+00:07:39,320 --> 00:07:45,480
+I, I, T, and recurrent processing say the back of the cortex is enough, and that a lot of frontal
+
+105
+00:07:45,480 --> 00:07:50,660
+activity reflects thinking about, and reporting, what you saw, rather than the seeing itself.
+
+106
+00:07:51,000 --> 00:07:55,360
+To pull those apart, researchers use what are called no-report paradigms.
+
+107
+00:07:55,360 --> 00:08:03,460
+They infer what someone is experiencing from involuntary signals, like eye movements or pupil size, without asking for a report.
+
+108
+00:08:03,720 --> 00:08:10,040
+When the report disappears, some frontal activity disappears with it, which the back camp takes as support.
+
+109
+00:08:10,480 --> 00:08:13,960
+The front camp replies that subtler frontal signals remain.
+
+110
+00:08:14,700 --> 00:08:16,600
+4. Integrated information theory
+
+111
+00:08:17,380 --> 00:08:27,720
+Scientifically, IIT points to a posterior hot zone at the back of the cortex as the core substrate of experience rather than the front, and it makes some strange predictions.
+
+112
+00:08:28,100 --> 00:08:33,840
+For example, neurons that are inactive but could fire still contribute to what you experience.
+
+113
+00:08:34,560 --> 00:08:38,800
+Weighed a lot of scientists called IIT pseudoscience right.
+
+114
+00:08:39,140 --> 00:08:45,900
+They did. In 2023, more than 100 researchers signed an open letter calling it pseudoscience.
+
+115
+00:08:46,600 --> 00:08:57,720
+Their main complaints were that its boldest claims, like attributing consciousness to simple grid-like circuits, cannot really be tested, and that media coverage had overstated the evidence for it.
+
+116
+00:08:57,940 --> 00:09:04,320
+Many other researchers, including some who do not accept I, IT, thought the label went much too far.
+
+117
+00:09:04,640 --> 00:09:14,100
+In 2025, the fight moved into the journal Nature Neuroscience, where the critics, the theory's defenders, and a third camp calling for calm each had their say.
+
+118
+00:09:14,360 --> 00:09:16,480
+It shows how heated the field can get.
+
+119
+00:09:17,060 --> 00:09:18,840
+5. Predictive Processing
+
+120
+00:09:18,840 --> 00:09:22,340
+Anil Seth's book Being You is the best introduction here.
+
+121
+00:09:22,620 --> 00:09:28,020
+On this view, perception is the brain's best guess about the causes of its sensory signals.
+
+122
+00:09:28,360 --> 00:09:32,420
+Seth calls it a controlled hallucination, controlled by the world.
+
+123
+00:09:32,600 --> 00:09:35,920
+And the deepest layer of prediction is about the body itself,
+
+124
+00:09:36,220 --> 00:09:38,920
+heartbeat, blood chemistry, temperature.
+
+125
+00:09:39,420 --> 00:09:43,800
+Seth argues that emotions, and the most basic feeling of being a self,
+
+126
+00:09:43,800 --> 00:09:47,260
+are rooted in predicting and regulating the body to stay alive.
+
+127
+00:09:47,520 --> 00:09:49,400
+He calls this the beast machine.
+
+128
+00:09:49,760 --> 00:09:52,220
+Mark Soames pushes in a similar direction.
+
+129
+00:09:52,500 --> 00:09:56,460
+He argues that consciousness starts not in the cortex, but in the brainstem,
+
+130
+00:09:56,880 --> 00:10:00,760
+as raw feeling, signaling how well we're doing at staying alive.
+
+131
+00:10:01,060 --> 00:10:05,120
+And Carl Fristen's free energy principle supplies the mathematics.
+
+132
+00:10:05,700 --> 00:10:10,840
+Living systems persist by minimizing the gap between what they predict and what they sense.
+
+133
+00:10:10,840 --> 00:10:15,300
+The active inference textbook One Reply Recommended is the rigorous version.
+
+134
+00:10:15,540 --> 00:10:16,580
+It's heavy going.
+
+135
+00:10:16,880 --> 00:10:19,760
+One of the papers on your list, A Beautiful Loop,
+
+136
+00:10:19,920 --> 00:10:24,120
+is a recent attempt to build a full theory of consciousness on this framework.
+
+137
+00:10:24,540 --> 00:10:27,900
+Its key idea is what the authors call epistemic depth.
+
+138
+00:10:28,140 --> 00:10:32,480
+The brain's model of the world recursively contains the knowledge that it exists.
+
+139
+00:10:32,700 --> 00:10:34,280
+That's the loop in the title.
+
+140
+00:10:34,880 --> 00:10:38,820
+Is there anything that bridges back to the illusionists from last time?
+
+141
+00:10:38,820 --> 00:10:45,840
+Yes, Michael Graziano's attention schema theory. The brain controls attention, and to control
+
+142
+00:10:45,840 --> 00:10:51,460
+anything well, you need a model of it. The attention schema is that model. It's simplified,
+
+143
+00:10:51,800 --> 00:10:56,880
+almost cartoonish, and it depicts attention as a kind of inner essence that grasps things.
+
+144
+00:10:57,340 --> 00:11:03,460
+Graziano argues that this simplified self-model is why we insist we have an indescribable inner
+
+145
+00:11:03,460 --> 00:11:08,800
+awareness. He also thinks it could be built into machines. His book, Rethinking Consciousness,
+
+146
+00:11:08,940 --> 00:11:12,680
+is short and clear. And the textbook that takes a year.
+
+147
+00:11:13,040 --> 00:11:19,200
+That's Simona, Ginsberg, and Eva, Yablonka's The Evolution of the Sensitive Soul. They propose an
+
+148
+00:11:19,200 --> 00:11:24,980
+evolutionary marker for consciousness, which they call unlimited associative learning. It's the
+
+149
+00:11:24,980 --> 00:11:29,800
+ability to learn about new combinations of stimuli and actions in an open-ended way.
+
+150
+00:11:29,800 --> 00:11:35,460
+They argue it emerged during the Cambrian explosion, more than 500 million years ago,
+
+151
+00:11:35,660 --> 00:11:40,240
+in early vertebrates and arthropods, and later encephalopods like the octopus.
+
+152
+00:11:40,600 --> 00:11:43,580
+That makes it a direct bridge between our two topics.
+
+153
+00:11:44,040 --> 00:11:48,200
+On their view, a particular kind of learning, which is a form of intelligence,
+
+154
+00:11:48,600 --> 00:11:50,980
+is the evolutionary signature of feeling.
+
+155
+00:11:51,280 --> 00:11:54,920
+With this many theories, how does the field make progress?
+
+156
+00:11:55,220 --> 00:11:57,680
+By making them fight under agreed rules.
+
+157
+00:11:57,680 --> 00:12:07,840
+The flagship example is an adversarial collaboration between global workspace theory and I, I-T, run by a group called the Cogitate Consortium.
+
+158
+00:12:08,480 --> 00:12:13,980
+Leading proponents of both theories agreed in advance on predictions that would embarrass their own theory.
+
+159
+00:12:14,180 --> 00:12:16,580
+A neutral team then ran the experiments.
+
+160
+00:12:17,160 --> 00:12:27,520
+Hundreds of participants, three different methods, including fMRI, MEG, and recordings from electrodes placed inside the brains of epilepsy patients.
+
+161
+00:12:27,680 --> 00:12:32,600
+The results, published in Nature in 2025, challenged both theories.
+
+162
+00:12:33,380 --> 00:12:39,100
+I.I.T. had predicted sustained synchronization between regions at the back of the brain
+
+163
+00:12:39,100 --> 00:12:41,700
+lasting as long as a stimulus was seen.
+
+164
+00:12:41,960 --> 00:12:43,480
+That did not show up.
+
+165
+00:12:43,700 --> 00:12:48,900
+Global workspace theory had predicted a second burst of ignition when a stimulus disappeared,
+
+166
+00:12:49,340 --> 00:12:53,020
+and that the prefrontal cortex would represent details of what was seen,
+
+167
+00:12:53,220 --> 00:12:55,740
+like its exact identity and orientation.
+
+168
+00:12:57,680 --> 00:13:04,340
+not show up either. So both theories lost. Both took real hits, and both camps disputed what the
+
+169
+00:13:04,340 --> 00:13:09,460
+results mean. But the method is the story. Theories made risky predictions in advance,
+
+170
+00:13:09,600 --> 00:13:15,120
+and some of those predictions failed. That's a field becoming a science. More rounds are underway.
+
+171
+00:13:15,380 --> 00:13:20,620
+A second Cogitate experiment was presented this summer, and another collaboration is pitting I,
+
+172
+00:13:20,940 --> 00:13:27,300
+IT, against active inference. Neither has published a verdict yet. If the theories disagree
+
+173
+00:13:27,680 --> 00:13:33,400
+much. Why should I trust the markers? Because the markers are checked against things, we can verify
+
+174
+00:13:33,400 --> 00:13:39,680
+independently what people report and what they remember when they recover. The theories mostly
+
+175
+00:13:39,680 --> 00:13:45,660
+argue about why the markers work. The front versus back fight is the exception since it's partly a
+
+176
+00:13:45,660 --> 00:13:52,020
+dispute over whether some frontal signals track seeing or just reporting. Okay, give me the summary.
+
+177
+00:14:20,600 --> 00:14:26,320
+test bruised the two biggest. And three, every one of those markers was calibrated in humans,
+
+178
+00:14:26,480 --> 00:14:30,500
+where behavior, report, and biology all come bundled together.
+
+179
+00:14:30,900 --> 00:14:35,220
+AI unbundles them. That's the subject of the final episode.
+

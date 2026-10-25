@@ -1,0 +1,179 @@
+This is doing and feeling. Episode 3, Measuring. So here's my first question. Can you even do experiments on something that's defined as private?
+it. You can with a trick. In 1990, Francis Crick of DNA fame and the neuroscientist Christoph Koch
+proposed setting the deep philosophical puzzle aside for a while. Instead, they said, hunt for
+the neural correlates of consciousness. The minimal brain activity, that's enough for a particular
+conscious experience. The key method is contrast. You keep the stimulus identical, but arrange things
+so that sometimes the person consciously sees it and sometimes they do not.
+Then you compare what the brain is doing in the two cases.
+How do you make someone not see something that's right in front of them?
+There are lots of ways.
+One is masking.
+Flash a word for a few hundredths of a second, then follow it with a pattern.
+Set the timing right at the threshold,
+and the very same flash is sometimes seen and sometimes not.
+Another is binocular rivalry.
+different image, say a face to one eye and a house to the other. Your experience flips back and forth
+between face and house, even though the input never changes. And there's inattentional blindness,
+like the famous video where people count basketball passes and about half of them do not notice a
+person in a gorilla suit walking through the middle of the scene. In every case, the world stays the
+same while the experience changes. That's the handle science can grab. And what have those
+Some of the most striking findings come from patients.
+Start with blindsight.
+Some people with damage to the primary visual cortex say they're completely blind in part of their visual field.
+Yet when you ask them to guess, they can point to objects there and tell the direction of movement far better than chance.
+Lawrence Weisskrantz studied a famous patient known as D.B. in the 1970s.
+It's the real-world version of the novel Blindsight's question.
+visual processing, with no visual experience, or at least none the person can report.
+Then there are split-brain patients whose corpus callosum, the bridge between the two
+hemispheres, was cut to treat severe epilepsy. Roger Sperry and Michael Gazzaniga showed that
+each hemisphere could respond to information the other one did not have, and the left hemisphere,
+which controls speech, would confidently invent explanations for actions that the right hemisphere
+Gazzaniga called this the interpreter.
+It's a lasting warning that our explanations of our own behavior
+can be fluent, confident stories made up after the fact.
+That seems relevant to AI as well.
+Very. Hold that thought until episode 4.
+While we're on brains fooling themselves,
+Aguera E. Arcus says AI could have free will,
+but I thought neuroscience had disproved free will.
+That usually refers to Benjamin Libet's experiments in the early 1980s.
+He found a slow buildup of electrical activity, called the readiness potential, starting a few
+hundred milliseconds before people reported deciding to move. It was widely read as the
+brain deciding before you do. But in 2012, Aaron Scherger and his colleagues showed that the
+buildup can be explained as random neural noise drifting toward a threshold, with the movement
+starting when it crosses. On that reading, the signal is not a hidden decision at all.
+to be careful with dramatic interpretations of single experiments. Then there are patients who
+seem completely unresponsive. In 2006, Adrienne Owens' group put a young woman diagnosed as
+vegetative into a brain scanner. They asked her to imagine playing tennis and then to imagine
+walking through her house. Her brain activity matched that of healthy volunteers doing the
+same tasks. She could follow instructions, so she was aware. Later studies used the same trick
+yes or no answers from patients.
+And a large study published in 2024
+found signs of this hidden awareness
+in roughly one in four patients
+who could not follow any commands at the bedside.
+So is there anything like a consciousness meter?
+The closest thing is the perturbational complexity index
+from Marcello Massimini and his colleagues.
+It's nicknamed zap and zip.
+You zap the cortex with a magnetic pulse
+and record the brain's echo with EEG.
+Then you zip it. You compress the response like compressing a file.
+In a conscious brain, the echo is both widespread and differentiated.
+It's complex and hard to compress.
+In dreamless sleep under most anesthetics or in most vegetative patients,
+the echo is either local or a big uniform wave.
+Either way, it compresses easily.
+Across sleep, anesthesia, and brain injury,
+this measure separates conscious from unconscious states remarkably well.
+It was calibrated on people who could say afterwards
+had experienced anything. My favorite case is ketamine. At anesthetic doses, it leaves people
+completely unresponsive, yet they often report vivid dreams when they wake up. And their brains
+showed high complexity, matching what they reported rather than how they looked from the outside.
+It works in humans. And just last month, a study across six species, from humans down to roundworms,
+reported that anesthesia leaves a common signature in all of them. Neural activity becomes less
+and its past predicts its future less well.
+But whether measures like these mean anything for an octopus or a computer
+is exactly the question that theory has to answer.
+Okay theories, how many are there?
+Too many.
+A 2022 review by Anil Seth and Tim Bain listed 22 of them.
+Here are the five families you'll keep running into.
+One, global workspace theory.
+Bernard Bars proposed it in 1988,
+and Stanislas Doan and Jean-Pierre Shanja developed a neural version.
+The idea is that the brain is a society of specialized processors,
+mostly working unconsciously and in parallel.
+Consciousness is what happens when some piece of content wins a competition
+and gets broadcast across the whole system,
+so that memory, planning, language, and report can all use it.
+Doan's lab found a signature of this.
+When a stimulus is consciously seen,
+there's a sudden, all-or-nothing ignition of activity across frontal and parietal networks,
+roughly a third of a second after it appears. His book, Consciousness and the Brain, is the
+best introduction. Two, higher-order theories. A mental state is conscious when it's represented
+by another mental state. In effect, the brain notices that it's seeing. David Rosenthal
+developed the philosophy, and Hakwin Lau and others developed neuroscience versions
+by the prefrontal cortex. Steve Fleming's book Know Thyself, about metacognition,
+is a friendly way in. 3. Recurrent Processing Theory, from Victor Lama.
+Feedback loops within the sensory cortex are enough for experience, even without a global
+broadcast. That implies you can have experiences you're unable to report, which is controversial
+because report is how we normally check. So the theories disagree about where in the brain
+consciousness happens. That's one of the sharpest disputes, sometimes called front versus back.
+Workspace and higher order theories say the prefrontal cortex is essential.
+I, I, T, and recurrent processing say the back of the cortex is enough, and that a lot of frontal
+activity reflects thinking about, and reporting, what you saw, rather than the seeing itself.
+To pull those apart, researchers use what are called no-report paradigms.
+They infer what someone is experiencing from involuntary signals, like eye movements or pupil size, without asking for a report.
+When the report disappears, some frontal activity disappears with it, which the back camp takes as support.
+The front camp replies that subtler frontal signals remain.
+4. Integrated information theory
+Scientifically, IIT points to a posterior hot zone at the back of the cortex as the core substrate of experience rather than the front, and it makes some strange predictions.
+For example, neurons that are inactive but could fire still contribute to what you experience.
+Weighed a lot of scientists called IIT pseudoscience right.
+They did. In 2023, more than 100 researchers signed an open letter calling it pseudoscience.
+Their main complaints were that its boldest claims, like attributing consciousness to simple grid-like circuits, cannot really be tested, and that media coverage had overstated the evidence for it.
+Many other researchers, including some who do not accept I, IT, thought the label went much too far.
+In 2025, the fight moved into the journal Nature Neuroscience, where the critics, the theory's defenders, and a third camp calling for calm each had their say.
+It shows how heated the field can get.
+5. Predictive Processing
+Anil Seth's book Being You is the best introduction here.
+On this view, perception is the brain's best guess about the causes of its sensory signals.
+Seth calls it a controlled hallucination, controlled by the world.
+And the deepest layer of prediction is about the body itself,
+heartbeat, blood chemistry, temperature.
+Seth argues that emotions, and the most basic feeling of being a self,
+are rooted in predicting and regulating the body to stay alive.
+He calls this the beast machine.
+Mark Soames pushes in a similar direction.
+He argues that consciousness starts not in the cortex, but in the brainstem,
+as raw feeling, signaling how well we're doing at staying alive.
+And Carl Fristen's free energy principle supplies the mathematics.
+Living systems persist by minimizing the gap between what they predict and what they sense.
+The active inference textbook One Reply Recommended is the rigorous version.
+It's heavy going.
+One of the papers on your list, A Beautiful Loop,
+is a recent attempt to build a full theory of consciousness on this framework.
+Its key idea is what the authors call epistemic depth.
+The brain's model of the world recursively contains the knowledge that it exists.
+That's the loop in the title.
+Is there anything that bridges back to the illusionists from last time?
+Yes, Michael Graziano's attention schema theory. The brain controls attention, and to control
+anything well, you need a model of it. The attention schema is that model. It's simplified,
+almost cartoonish, and it depicts attention as a kind of inner essence that grasps things.
+Graziano argues that this simplified self-model is why we insist we have an indescribable inner
+awareness. He also thinks it could be built into machines. His book, Rethinking Consciousness,
+is short and clear. And the textbook that takes a year.
+That's Simona, Ginsberg, and Eva, Yablonka's The Evolution of the Sensitive Soul. They propose an
+evolutionary marker for consciousness, which they call unlimited associative learning. It's the
+ability to learn about new combinations of stimuli and actions in an open-ended way.
+They argue it emerged during the Cambrian explosion, more than 500 million years ago,
+in early vertebrates and arthropods, and later encephalopods like the octopus.
+That makes it a direct bridge between our two topics.
+On their view, a particular kind of learning, which is a form of intelligence,
+is the evolutionary signature of feeling.
+With this many theories, how does the field make progress?
+By making them fight under agreed rules.
+The flagship example is an adversarial collaboration between global workspace theory and I, I-T, run by a group called the Cogitate Consortium.
+Leading proponents of both theories agreed in advance on predictions that would embarrass their own theory.
+A neutral team then ran the experiments.
+Hundreds of participants, three different methods, including fMRI, MEG, and recordings from electrodes placed inside the brains of epilepsy patients.
+The results, published in Nature in 2025, challenged both theories.
+I.I.T. had predicted sustained synchronization between regions at the back of the brain
+lasting as long as a stimulus was seen.
+That did not show up.
+Global workspace theory had predicted a second burst of ignition when a stimulus disappeared,
+and that the prefrontal cortex would represent details of what was seen,
+like its exact identity and orientation.
+not show up either. So both theories lost. Both took real hits, and both camps disputed what the
+results mean. But the method is the story. Theories made risky predictions in advance,
+and some of those predictions failed. That's a field becoming a science. More rounds are underway.
+A second Cogitate experiment was presented this summer, and another collaboration is pitting I,
+IT, against active inference. Neither has published a verdict yet. If the theories disagree
+much. Why should I trust the markers? Because the markers are checked against things, we can verify
+independently what people report and what they remember when they recover. The theories mostly
+argue about why the markers work. The front versus back fight is the exception since it's partly a
+dispute over whether some frontal signals track seeing or just reporting. Okay, give me the summary.
+test bruised the two biggest. And three, every one of those markers was calibrated in humans,
+where behavior, report, and biology all come bundled together.
+AI unbundles them. That's the subject of the final episode.

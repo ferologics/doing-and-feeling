@@ -1,0 +1,202 @@
+This is doing and feeling. Episode 2, Feeling. Last time was intelligence. Now we get to the part the thread was really asking about. Where do we start?
+With the most recommended item in the whole thread. One reply described it as 16 pages, a 30-minute read, and a must. It's Thomas Nagel's essay from 1974, What Is It Like to Be a Bat?
+Why a bat?
+because bats perceive the world through echolocation. They shriek and build a picture
+of their surroundings from the echoes. Imagine we knew everything about the physics of sonar
+and everything about the bat's brain. Nagel's point is that something would still be missing,
+what it is like for the bat to experience the world that way. He proposed that an organism
+is conscious if there is something it is like to be that organism. That phrase,
+something it is like, became the standard definition. And his worry was that science,
+by design, describes everything from the outside, from no particular point of view.
+Experience is the one thing that only exists from the inside.
+That sounds more like a puzzle than a theory.
+It's the puzzle every theory has to answer. In 1995, the philosopher David Chalmers sharpened
+into what he called the hard problem of consciousness. He contrasted it with the easy
+problems, which are only easy by comparison. Those are about explaining functions, how the brain tells
+stimuli apart, combines information, directs attention, and produces reports. Those are hard
+science, but we know what an answer would look like. It would be a mechanism. The hard problem
+is different. Why is any of that processing accompanied by experience at all, instead of
+And this is where the zombies come in.
+Right.
+Chalmers asks you to imagine a being that's physically identical to you,
+atom for atom, and behaves exactly like you, but has no experience whatsoever.
+A philosophical zombie.
+If such a being is even coherently conceivable, he argues,
+then consciousness is not logically guaranteed by the physical facts,
+and a purely physical story is incomplete.
+His book The Conscious Mind lays all of this out.
+from Frank Jackson. Mary is a brilliant color scientist who knows every physical fact about
+color vision, but she has lived her whole life in a blackened white room. When she walks out
+and sees a red tomato for the first time, does she learn something new? If she does,
+then the physical facts were not all the facts. Jackson himself later changed his mind and became
+a physicalist, but the argument outlived his support for it. I can already hear the engineers
+in that thread pushing back. And they should, because the strongest replies to Chalmers are
+some of the best things on your list. They're also exactly what the Grok summary you were given left
+out. So let's draw a map. I'll go roughly from consciousness is nothing over and above information
+processing, all the way to consciousness is the most fundamental thing there is. First stop,
+functionalism. Mental states are defined by what they do, by their causal roles, not by what they're
+is whatever state is caused by damage and in turn causes avoidance, distress, and saying ouch.
+Computational functionalism adds one more step. The relevant roles are computational.
+Implement the right computation in neurons or in silicon and you get the mind, experience included.
+That's the working assumption behind most research on AI consciousness and it's the view Aguera
+E. Arcus defends. What about Daniel Dennett? One reply just said,
+read Consciousness Explained. Daniel Dennett, who died in 2024, spent decades arguing that
+the hard problem rests on a kind of cognitive illusion. His 1991 book was teasingly nicknamed
+Consciousness, Explained Away, but it's one of the most influential books in the field.
+His position is now usually called illusionism, a name championed by the philosopher Keith
+Illusionists agree that you're conscious, and that plenty is going on in your head.
+Their claim is that phenomenal consciousness, in the philosopher's sense, does not really exist.
+It only seems to.
+That means private, indescribable inner qualities, what philosophers call qualia.
+What does exist is a brain that represents its own states in a simplified and somewhat misleading way.
+And that self-representation makes it seem as if there's an extra, inexplicable inner glow.
+That sounds self-refuting. The seeming is the experience.
+That's the standard objection, and illusionists reply carefully.
+A seeming, they say, can be a representation, a functional state, without being a mysterious extra property.
+But then who's being fooled? An illusion needs someone to have it.
+The system itself, illusionists say, with no little observer watching inside.
+Dennett borrowed a phrase from computing for this, the user illusion.
+Your laptop's desktop shows folders and a trash can.
+There are no tiny folders on the chip, but the interface is real, it's useful,
+and it's the only way you ever deal with what's underneath.
+On this view, the felt inner world is the brain's interface to itself.
+Joe Carl Smith's essay Grokking Illusionism, which is linked in one of the replies,
+is a wonderful account of what it's like to really try to take that seriously.
+And here's the clever part.
+Chalmers himself has proposed what he calls the metaproblem of consciousness.
+Why do we think there's a hard problem?
+Why do brains produce statements like,
+I cannot explain my own experience?
+That's an easy problem because it's about behavior, so everyone can work on it.
+If we solve the meta problem,
+and the explanation never needs to mention
+genuinely phenomenal properties,
+illusionism looks much stronger.
+If it does need them, illusionism looks weaker.
+Wittgenstein, who shows up on your list too,
+made a related diagnosis much earlier.
+He noticed that the feeling of an unbridgeable gulf
+between consciousness and brain processes
+does not come up in ordinary life.
+It appears when you turn your attention
+on your own experience, in a philosopher's mood,
+This is supposed to come from a brain.
+He treated it as a confusion to dissolve, not a mystery to solve.
+One of your repliers, Finn Morehouse, called illusionism the most compelling account of consciousness
+and linked Frankish, Dennett, Carl Smith, and Chalmers on the metaproblem.
+That cluster is the strongest deflationary position out there.
+And it matters a lot for AI, as we'll see.
+Where do Hofstadter and the strange loops fit?
+Nearby, Douglas Hofstadter's Gerdel, Escher, Bach argues that a self is a strange loop,
+a pattern that comes to represent itself.
+Your thread loved it and also called it trash.
+Honestly, it depends on whether you enjoy 700 pages of playful self-reference.
+Thomas Metzinger's Being No One makes a related argument.
+There is no self, he says, only a self-model that the brain cannot recognize as a model.
+It's transparent, like a window you look through rather than at.
+Being no one is very heavygoing.
+His later book, The Ego Tunnel, is the accessible version.
+And one reply recommends Peter Watts' novel Blindsight, which drew on Metzinger.
+It imagines aliens that are vastly intelligent and completely non-conscious,
+and it asks whether consciousness might be a useless, even costly, side effect.
+It's probably the best fictional treatment of the gap between doing and feeling.
+Watts has made it free to read online under a Creative Commons license.
+Okay, now the other side of the map.
+First stop, biological naturalism.
+John Searle argued that consciousness is a real biological phenomenon
+caused by specific powers of brains and that running a program is not enough.
+That's the point of his famous Chinese room.
+A person locked in a room, following a rulebook to shuffle Chinese symbols,
+could produce perfect answers without understanding a word of Chinese.
+As Searle liked to say, a computer simulation of a rainstorm does not get anything wet.
+Anil Seth defends a modern version of this view.
+Consciousness, he suggests, may depend on being alive, on metabolism, and on the constant
+work of self-maintenance that keeps an organism in one piece.
+His paper in the journal Behavioral and Brain Sciences on Conscious AI and Biological Naturalism
+is the sharpest current statement of the case against computational functionalism.
+Second stop, integrated information theory, or I.
+I.T.
+It comes from the neuroscientist Giulio Tononi, and Christoph Koch is its best-known champion.
+We'll cover the science next episode, but the philosophy is radical.
+I.I.T. starts from the experience itself.
+Every experience exists for itself, is structured, is specific, is unified, and is definite.
+Then it asks what kind of physical system could have those properties.
+Its answer is integrated information, measured by a quantity called phi.
+Roughly, phi measures how much a system's causal structure, taken as a whole,
+constrains its own past and future, over and above what its parts do separately.
+Here's the key move.
+Phi is a property of physical causal structure, not of the software being run.
+So a conventional digital computer that simulated your brain perfectly would,
+according to I, I, T, be almost entirely unconscious,
+because its hardware is not integrated in the right way.
+That's the subtitle of Koch's book, The Feeling of Life Itself.
+Consciousness is widespread, but it cannot be computed.
+And that's why one person in your thread recommended Koch
+as a challenge to computational functionalism,
+while adding that they could not endorse I, IT, as it's constructed.
+Then panpsychism, the Sean Carroll podcast.
+Right.
+Panpsychism is the view that consciousness, in some extremely simple form, is a fundamental and widespread feature of matter.
+Philip Goff is its best-known current advocate.
+The motivation goes like this.
+Physics tells us what matter does, mass, charge, how particles behave.
+It does not tell us what matter intrinsically is.
+Maybe its intrinsic nature is, in some minimal sense, experiential.
+The big problem is what's called the combination problem.
+of tiny experiences add up to one unified experience like yours right now. And what did
+Carroll say? Carroll's objection is a physicist's. The laws that govern everyday matter have been
+tested to extraordinary precision. If consciousness made any difference to what atoms do, those laws
+would have to be wrong somewhere we'd have noticed. And if it makes no difference to what atoms do,
+it's hard to see how it could explain why we talk about consciousness at all.
+is that panpsychism does not change the equations at all.
+It's a claim about the inner nature
+of whatever the equations describe.
+It's an hour and a half of two smart people
+disagreeing in good faith,
+which is exactly what you want.
+Then there are the positions further out.
+Idealism, defended by Bernardo Kastrup,
+says mind is fundamental,
+and matter is what mind looks like from the outside.
+Dualism says experience is a fundamental feature of its own.
+Chalmers has defended a naturalistic version,
+in which experience is tied to physical processes by laws we have not yet found.
+Mysterianism, from Colin McGinn, says there's an answer,
+but our brains may not be built to grasp it.
+And the microtubules.
+Wait, it's all microtubules?
+Always has been.
+That meme is about ORCH-O, R,
+which stands for Orchestrated Objective Reduction.
+Roger Penrose and Stuart Hameroff
+arises from quantum processes in microtubules, the proteins scaffolding inside neurons.
+Most neuroscientists are skeptical. The main objection is that the brain is warm and wet,
+so delicate quantum states there should fall apart far too quickly to matter.
+Supporters point to some intriguing results. In one 2024 study, a drug that stabilizes
+microtubules delayed by about a minute, the point at which rats under anesthesia could no longer
+a standard stand-in for losing consciousness.
+That's suggestive, but far from decisive.
+It was a small study, no quantum effects were measured,
+and microtubules do plenty of ordinary, non-quantum work that could explain it.
+Fun to read about, not where the mainstream is.
+Anything else from the thread before we sum up?
+One more, because it's a great stress test.
+Eric S. H. Witzgabel's paper,
+If Materialism is True, the United States is Probably Conscious.
+the argument. Suppose you adopt criteria for consciousness that are liberal enough to include
+rabbits and hypothetical intelligent aliens. Things like rich information integration,
+sophisticated responsiveness to the environment, and self-monitoring. Then the United States,
+taken as a single entity, seems to meet those criteria too. The reply that recommended it was
+not convinced by the conclusion, and most people are not. But it shows something important. Every
+consciousness ends up implying something that sounds absurd. S.H. Witzgabel calls this the
+weirdness of the world. Some crazy-sounding view has to be true, we just do not know which one.
+Okay, give me the map in one picture. Picture a single question running through all of it.
+Does the right pattern of information processing suffice for experience? Functionalists and
+illusionists say yes in their different ways. And surprisingly, so does Chalmers. He thinks
+is tied by natural law to functional organization, so a silicon brain organized exactly like yours
+would be conscious too. The hard problem, in other words, does not by itself rule out conscious
+machines. Biological naturalists say no, you need the right biology, maybe life itself. I, IT,
+says no, you need the right physical causal structure. Pansychists and idealists say the
+question is framed wrong because experience is there from the start. Where you land on that one
+question determines almost everything you'll say about AI. And notice that none of these positions
+has been settled by argument alone. So next episode, let's see what experiments can actually do.

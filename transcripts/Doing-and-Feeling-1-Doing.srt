@@ -1,0 +1,860 @@
+1
+00:00:00,000 --> 00:00:07,480
+This is Doing and Feeling, a four-part listening guide to intelligence and consciousness. Episode 1, Doing.
+
+2
+00:00:07,880 --> 00:00:18,100
+A quick note before we start. This series was written by Claude, an AI model made by Anthropic, for one listener, and both of the voices you're hearing are synthetic.
+
+3
+00:00:18,780 --> 00:00:20,620
+It's built from the material you sent.
+
+4
+00:00:20,800 --> 00:00:24,000
+A book and a lecture by Blaise Aguera e Arcus,
+
+5
+00:00:24,340 --> 00:00:29,040
+a thread on X where people traded their best recommendations for understanding consciousness,
+
+6
+00:00:29,340 --> 00:00:32,320
+and an AI-written summary of that thread from Grok.
+
+7
+00:00:32,480 --> 00:00:40,220
+The answers ran from a 16-page essay about bats to a 600-page textbook that one person said takes a year to finish.
+
+8
+00:00:40,560 --> 00:00:47,400
+There was a meme about microtubules, a split verdict on Girdle, Escher, Bach, Masterpiece, or Trash,
+
+9
+00:00:48,100 --> 00:00:53,580
+reply that just said, you're conscious, pay attention for a day. And that's the problem.
+
+10
+00:00:53,820 --> 00:00:59,320
+I have a reading list as long as my arm and maybe one free weekend. So what's the plan?
+
+11
+00:00:59,880 --> 00:01:06,040
+Four episodes, about 15 minutes each. This one is about intelligence, what it is, and how scientists
+
+12
+00:01:06,040 --> 00:01:11,920
+actually study it. Episode two is the hard problem of consciousness and a map of the philosophical
+
+13
+00:01:11,920 --> 00:01:17,560
+positions. Episode 3 is the science, the experiments, the measurements, and the theories
+
+14
+00:01:17,560 --> 00:01:23,700
+that compete. And Episode 4 puts it all together. Could an AI be conscious? And what should you read
+
+15
+00:01:23,700 --> 00:01:30,040
+in what order? Why start with intelligence if the thread was about consciousness? Because the most
+
+16
+00:01:30,040 --> 00:01:34,920
+common confusion in that thread, and in public debate generally, is treating them as one thing.
+
+17
+00:01:35,360 --> 00:01:40,920
+The neuroscientist Anil Seth stresses this distinction constantly. Intelligence is about
+
+18
+00:01:42,100 --> 00:01:47,840
+solving problems and reaching goals. Consciousness is about whether there's any experience going on,
+
+19
+00:01:48,040 --> 00:01:53,700
+whether there is something it feels like from the inside to be you, doing and feeling, hence the
+
+20
+00:01:53,700 --> 00:01:59,340
+title. Those could come apart. A system might be extremely good at doing things with nothing felt
+
+21
+00:01:59,340 --> 00:02:05,580
+at all, and something might feel without being very clever. A newborn baby, a fish in pain,
+
+22
+00:02:06,000 --> 00:02:09,820
+whether they really do come apart is one of the deepest questions in this series,
+
+23
+00:02:09,820 --> 00:02:13,760
+so we need a clear picture of each one before we ask how they connect.
+
+24
+00:02:14,260 --> 00:02:18,240
+Okay, so intelligence. Is there even an agreed definition?
+
+25
+00:02:18,640 --> 00:02:22,240
+There are roughly three traditions, and they define it differently.
+
+26
+00:02:22,540 --> 00:02:26,400
+The oldest is psychometrics, the science of mental testing.
+
+27
+00:02:26,740 --> 00:02:31,080
+In 1904, the psychologist Charles Spearman noticed something odd.
+
+28
+00:02:31,340 --> 00:02:34,540
+Children who did well in one area tended to do well in others,
+
+29
+00:02:34,760 --> 00:02:37,780
+school subjects like classics, French and math,
+
+30
+00:02:37,780 --> 00:02:40,640
+and even tests of telling musical pitches apart.
+
+31
+00:02:40,960 --> 00:02:43,440
+All the scores correlated positively.
+
+32
+00:02:44,200 --> 00:02:46,880
+Psychologists now call that the positive manifold.
+
+33
+00:02:47,620 --> 00:02:50,500
+Spearman proposed a single general factor behind it,
+
+34
+00:02:50,640 --> 00:02:52,360
+which later became known as G.
+
+35
+00:02:52,840 --> 00:02:54,120
+More than a century later,
+
+36
+00:02:54,440 --> 00:02:57,960
+that finding has replicated about as well as anything in psychology.
+
+37
+00:02:58,420 --> 00:03:00,440
+Modern models are hierarchical.
+
+38
+00:03:00,800 --> 00:03:02,840
+General intelligence sits at the top.
+
+39
+00:03:03,140 --> 00:03:04,840
+Below it are broad abilities,
+
+40
+00:03:04,840 --> 00:03:10,020
+like fluid reasoning, accumulated knowledge, processing speed, and working memory.
+
+41
+00:03:10,200 --> 00:03:12,520
+And below those are narrow skills.
+
+42
+00:03:12,860 --> 00:03:18,540
+Does G actually predict anything, or is it just an artifact of how tests are built?
+
+43
+00:03:18,900 --> 00:03:23,840
+It predicts a lot. School performance, job performance, even health and longevity.
+
+44
+00:03:24,160 --> 00:03:27,280
+Those are statistical tendencies, not destiny.
+
+45
+00:03:27,680 --> 00:03:31,340
+Twin studies find that the heritability of IQ rises with age,
+
+46
+00:03:31,340 --> 00:03:36,940
+from modest in early childhood to something like 60 to 80 percent of the differences between adults.
+
+47
+00:03:37,220 --> 00:03:43,100
+That's counterintuitive. One explanation is that as we get older, we choose environments that suit
+
+48
+00:03:43,100 --> 00:03:49,620
+our dispositions, which amplifies them. And then there's the Flynn effect. Average IQ scores rose
+
+49
+00:03:49,620 --> 00:03:54,960
+by roughly three points per decade through much of the 20th century. That's far too fast for
+
+50
+00:03:54,960 --> 00:04:01,060
+genetics, so environment clearly matters enormously. Schooling, nutrition, a more abstract
+
+51
+00:04:01,680 --> 00:04:06,020
+In some countries, the rise has recently stalled or even reversed.
+
+52
+00:04:06,320 --> 00:04:09,200
+But that's all about how humans differ from each other.
+
+53
+00:04:09,400 --> 00:04:11,460
+It's not intelligence as a thing.
+
+54
+00:04:12,100 --> 00:04:13,460
+Exactly the limitation.
+
+55
+00:04:14,400 --> 00:04:16,440
+Psychometrics tells you how people compare.
+
+56
+00:04:16,740 --> 00:04:21,780
+It does not tell you what an octopus, a crow, or a language model has or lacks.
+
+57
+00:04:22,140 --> 00:04:25,060
+That said, people have started borrowing it for AI.
+
+58
+00:04:25,060 --> 00:04:39,520
+In late 2025, a large group of researchers led by Dan Hendricks proposed defining AGI as matching a well-educated adult across 10 ability areas taken from that same hierarchical model.
+
+59
+00:04:39,720 --> 00:04:48,640
+They scored GPT-4 at about a quarter of the way there and GPT-5 at a little over half, with long-term memory the weakest area.
+
+60
+00:04:49,140 --> 00:04:55,500
+And a 2026 analysis found that AI benchmark scores show a positive manifold of their own,
+
+61
+00:04:55,680 --> 00:04:58,680
+though it weakened as models became more specialized.
+
+62
+00:04:59,060 --> 00:05:03,420
+For a definition that is not anchored to humans, you need the second tradition,
+
+63
+00:05:03,740 --> 00:05:05,480
+which comes from computer science.
+
+64
+00:05:05,740 --> 00:05:10,660
+In 2007, Shane Legge, who later co-founded DeepMind,
+
+65
+00:05:10,800 --> 00:05:16,240
+and Marcus Hutter gathered around 70 definitions of intelligence and boiled them down to one.
+
+66
+00:05:16,240 --> 00:05:21,980
+Intelligence measures an agent's ability to achieve goals in a wide range of environments.
+
+67
+00:05:22,340 --> 00:05:23,980
+They even turned it into math.
+
+68
+00:05:24,220 --> 00:05:27,840
+Score an agent across every possible computable environment,
+
+69
+00:05:28,080 --> 00:05:30,280
+giving simpler environments more weight.
+
+70
+00:05:30,500 --> 00:05:34,060
+You cannot actually compute it, but it captures the core idea.
+
+71
+00:05:34,620 --> 00:05:37,720
+Intelligence is about generality, not one trick.
+
+72
+00:05:38,080 --> 00:05:40,460
+So a chess engine is not intelligent.
+
+73
+00:05:40,760 --> 00:05:42,140
+It's just good at chess.
+
+74
+00:05:42,440 --> 00:05:44,400
+That's Francois Chalet's point.
+
+75
+00:05:46,240 --> 00:05:51,260
+published a paper called on the measure of intelligence, arguing that skill is not intelligence.
+
+76
+00:05:51,660 --> 00:05:57,800
+You can buy skill with enough data or by hard coding it. Intelligence is how efficiently you
+
+77
+00:05:57,800 --> 00:06:03,400
+acquire new skills, how much you can generalize from how little experience, given what you started
+
+78
+00:06:03,400 --> 00:06:09,660
+with. He built a benchmark around that idea called ARC. It's a set of small colored grid puzzles,
+
+79
+00:06:09,660 --> 00:06:16,480
+each one knew, that most people solve from a few examples. For years, AI systems did terribly on
+
+80
+00:06:16,480 --> 00:06:22,660
+it, even while scoring brilliantly on standardized exams. The first two versions have now largely
+
+81
+00:06:22,660 --> 00:06:29,080
+fallen to the latest models. The newest version, launched in 2026, is a set of small interactive
+
+82
+00:06:29,080 --> 00:06:35,380
+games with no instructions. At launch, people solved all of them, while Frontier AI systems
+
+83
+00:06:35,380 --> 00:06:41,520
+scored close to zero. The best systems have since climbed a long way, though how far depends a lot
+
+84
+00:06:41,520 --> 00:06:48,240
+on exactly how they're tested. And the third tradition? Prediction. This one runs from Herman
+
+85
+00:06:48,240 --> 00:06:54,280
+von Helmholtz in the 19th century, who described perception as unconscious inference, the brain
+
+86
+00:06:54,280 --> 00:06:59,980
+guessing at the causes of its sensations. It runs through to modern predictive processing in
+
+87
+00:06:59,980 --> 00:07:06,680
+neuroscience associated with people like Carl Friston, Andy Clark, and Anil Seth. On this view,
+
+88
+00:07:06,880 --> 00:07:11,800
+a brain is fundamentally a prediction machine. It builds a model of the world and of its own body,
+
+89
+00:07:12,180 --> 00:07:17,040
+predicts its incoming signals, and updates itself when it's wrong. And there's a parallel in
+
+90
+00:07:17,040 --> 00:07:22,460
+computer science. To compress data well, you have to predict it well. And to predict it well,
+
+91
+00:07:22,660 --> 00:07:27,220
+you have to model whatever generated it. That's why some researchers treat compression
+
+92
+00:07:27,220 --> 00:07:28,680
+as a test of intelligence.
+
+93
+00:07:29,140 --> 00:07:32,660
+There's even a prize for compressing a large chunk of Wikipedia.
+
+94
+00:07:33,160 --> 00:07:35,180
+Which brings us to the book you sent.
+
+95
+00:07:35,720 --> 00:07:36,260
+Right.
+
+96
+00:07:36,580 --> 00:07:40,100
+Blaise Aguera E. Arcus is a vice president and fellow at Google,
+
+97
+00:07:40,240 --> 00:07:43,420
+where he founded a research group called Paradigms of Intelligence.
+
+98
+00:07:43,840 --> 00:07:47,720
+His book, What is Intelligence?, came out in September 2025
+
+99
+00:07:47,720 --> 00:07:50,680
+from MIT Press in the Antikythera series.
+
+100
+00:07:50,980 --> 00:07:54,920
+It's over 600 pages, and the whole thing is free to read online.
+
+101
+00:07:55,390 --> 00:07:57,640
+The lecture you have is from the same project.
+
+102
+00:07:58,040 --> 00:08:01,380
+It's about 80 minutes, recorded in London in 2024.
+
+103
+00:08:01,960 --> 00:08:04,240
+Give me the argument in one breath.
+
+104
+00:08:04,660 --> 00:08:06,220
+Life is computation.
+
+105
+00:08:06,720 --> 00:08:08,200
+Intelligence is prediction.
+
+106
+00:08:08,540 --> 00:08:11,680
+So modern AI is not a fake version of intelligence.
+
+107
+00:08:12,000 --> 00:08:14,000
+It's a new branch of the same tree.
+
+108
+00:08:14,260 --> 00:08:16,440
+He starts with the origin of life.
+
+109
+00:08:16,640 --> 00:08:20,820
+In 2024, his team ran an artificial life experiment.
+
+110
+00:08:21,100 --> 00:08:24,260
+They filled a kind of digital soup with random programs,
+
+111
+00:08:24,920 --> 00:08:29,740
+in a tiny programming language and let them interact and overwrite each other at random.
+
+112
+00:08:29,940 --> 00:08:36,100
+There was no fitness function and no goal. In a large fraction of runs, self-replicating programs
+
+113
+00:08:36,100 --> 00:08:41,640
+appeared on their own and took over the soup, even with random mutations switched off. For him,
+
+114
+00:08:41,960 --> 00:08:47,300
+that shows life and computation bootstrapping together. The moment something copies itself,
+
+115
+00:08:47,600 --> 00:08:51,000
+it's computing. And how does he get from there to intelligence?
+
+116
+00:08:51,000 --> 00:08:54,580
+An organism survives by predicting its future,
+
+117
+00:08:54,580 --> 00:08:59,120
+and that includes predicting other organisms that are busy predicting it back.
+
+118
+00:08:59,460 --> 00:09:03,000
+That mutual modeling, he argues, drove an arms race.
+
+119
+00:09:03,440 --> 00:09:08,580
+Social animals model each other's minds and then model themselves with the same machinery.
+
+120
+00:09:08,840 --> 00:09:11,640
+He also leans hard on symbiogenesis.
+
+121
+00:09:11,920 --> 00:09:15,220
+That's the idea, championed by Lynn Margiulis,
+
+122
+00:09:15,420 --> 00:09:18,180
+that major leaps in evolution come from merging.
+
+123
+00:09:18,780 --> 00:09:22,460
+The classic example is the bacterium that moved into another cell
+
+124
+00:09:22,460 --> 00:09:26,400
+and became the mitochondria, the power plants inside your cells.
+
+125
+00:09:26,660 --> 00:09:31,840
+For him, intelligence scales through cooperation and fusion, not only competition.
+
+126
+00:09:32,140 --> 00:09:36,720
+And he treats large language models as a major evolutionary transition,
+
+127
+00:09:37,020 --> 00:09:39,820
+systems that learn to predict human language,
+
+128
+00:09:39,960 --> 00:09:43,700
+and in doing so absorbed a great deal of what language encodes.
+
+129
+00:09:44,020 --> 00:09:47,060
+So he thinks next word prediction is intelligence.
+
+130
+00:09:48,180 --> 00:09:52,540
+His introduction says, roughly, that next word prediction done well enough is intelligence.
+
+131
+00:09:52,980 --> 00:09:58,540
+He also argues that you cannot cleanly separate real intelligence from a perfect simulation of it from the outside.
+
+132
+00:09:58,980 --> 00:10:00,360
+That's a functionalist view.
+
+133
+00:10:00,600 --> 00:10:03,620
+What matters is what a system does, not what it's made of.
+
+134
+00:10:03,840 --> 00:10:05,400
+And he goes further than most.
+
+135
+00:10:05,640 --> 00:10:14,360
+The publisher's own description says he argues that certain AI systems have a legitimate claim not just to intelligence, but to consciousness and free will.
+
+136
+00:10:14,700 --> 00:10:16,360
+So is it a good resource?
+
+137
+00:10:18,180 --> 00:10:24,160
+half of your question, it's one of the best single syntheses around. It covers the origin of life,
+
+138
+00:10:25,000 --> 00:10:30,060
+cybernetics, neuroscience, and the history of neural networks in one argument, from someone
+
+139
+00:10:30,060 --> 00:10:35,380
+who has built these systems. Two cautions, though. First, it's a thesis, not a survey.
+
+140
+00:10:35,600 --> 00:10:40,720
+It argues one side of exactly the fight in your thread, so pair it with the strongest version of
+
+141
+00:10:40,720 --> 00:10:46,360
+the other side, which we'll get to in episode four. Second, it's long. If you're short on time,
+
+142
+00:10:48,180 --> 00:10:53,580
+Then read the introduction and chapters 6 through 8, which cover consciousness and transformers.
+
+143
+00:10:53,840 --> 00:10:59,640
+You mentioned octopuses, and Michael Levin came up in the thread with his worms and cells.
+
+144
+00:10:59,880 --> 00:11:03,440
+Is intelligence outside of brains a serious idea?
+
+145
+00:11:03,960 --> 00:11:10,640
+Very. Peter Godfrey Smith's book Other Minds, one of the easy classics in your thread, is about the octopus.
+
+146
+00:11:11,020 --> 00:11:14,720
+It's a mollusk more closely related to a clam than to us,
+
+147
+00:11:14,720 --> 00:11:19,580
+and it evolved a large nervous system completely independently of vertebrates.
+
+148
+00:11:19,760 --> 00:11:23,020
+Most of its neurons are in its arms, not its head.
+
+149
+00:11:23,220 --> 00:11:26,960
+So complex intelligence has evolved at least twice on this planet,
+
+150
+00:11:27,160 --> 00:11:28,940
+on totally different body plans.
+
+151
+00:11:29,260 --> 00:11:32,800
+That's strong evidence that intelligence is about organization,
+
+152
+00:11:33,180 --> 00:11:35,100
+not one particular kind of brain.
+
+153
+00:11:35,500 --> 00:11:39,520
+Then there's Michael Levin, who studies what he calls basal cognition,
+
+154
+00:11:39,940 --> 00:11:42,280
+problem-solving below the level of brains.
+
+155
+00:11:42,980 --> 00:11:47,580
+Cells and tissues use electrical signals to coordinate toward target shapes.
+
+156
+00:11:48,100 --> 00:11:52,200
+Flatworms called planaria can regrow a whole body from a small fragment.
+
+157
+00:11:52,480 --> 00:11:57,620
+In one well-known experiment, his lab briefly altered the worm's bioelectric patterns
+
+158
+00:11:57,620 --> 00:11:59,640
+and produced worms with two heads.
+
+159
+00:12:00,040 --> 00:12:04,960
+When those worms were cut again, they kept regrowing two heads with no further intervention.
+
+160
+00:12:05,400 --> 00:12:07,700
+The body's target shape had been rewritten.
+
+161
+00:12:08,380 --> 00:12:10,520
+Levin treats intelligence as a continuum.
+
+162
+00:12:12,280 --> 00:12:17,980
+reach the same goal by different routes shows some degree of it. That stretches the word a long way.
+
+163
+00:12:18,320 --> 00:12:25,160
+It does, and people argue about it. But it forces a useful question. Is intelligence a special thing
+
+164
+00:12:25,160 --> 00:12:31,120
+that brains do? Or is it a general property of goal-directed systems, which brains happen to do
+
+165
+00:12:31,120 --> 00:12:37,440
+especially well? How do brains actually build these models? Some of the most concrete answers
+
+166
+00:12:37,440 --> 00:12:43,440
+come from navigation. In 1971, John O'Keefe found placed cells in the rat hippocampus.
+
+167
+00:12:43,760 --> 00:12:50,820
+Each one fires when the animal is in a particular spot. In 2005, Maybritt and Edvard Moser's lab
+
+168
+00:12:50,820 --> 00:12:56,840
+found grid cells nearby, which fire in a hexagonal lattice, like coordinate lines laid over the world.
+
+169
+00:12:57,080 --> 00:13:03,320
+The three of them shared the Nobel Prize in 2014. It turns out the same machinery maps abstract
+
+170
+00:13:03,320 --> 00:13:09,820
+spaces too, like relationships and concepts. The Artem Kursanov videos in your list cover this
+
+171
+00:13:09,820 --> 00:13:15,860
+beautifully, and there's a striking link to AI. Researchers showed that a model of the hippocampus
+
+172
+00:13:15,860 --> 00:13:21,820
+called the Talman-Ickenbaum machine is closely related, mathematically, to the transformer,
+
+173
+00:13:22,120 --> 00:13:28,300
+the architecture inside language models. They're not identical, but they're close enough to suggest
+
+174
+00:13:28,300 --> 00:13:33,340
+that brains and transformers may be converging on similar solutions for learning structure.
+
+175
+00:13:33,800 --> 00:13:37,760
+Let's talk about the systems everyone's actually arguing about.
+
+176
+00:13:37,980 --> 00:13:41,280
+What do we know about how language models do what they do?
+
+177
+00:13:41,560 --> 00:13:43,620
+The short history goes like this.
+
+178
+00:13:43,960 --> 00:13:47,060
+Decades of trying to hand-code intelligence mostly failed.
+
+179
+00:13:47,340 --> 00:13:50,380
+What worked was general learning methods, plus scale,
+
+180
+00:13:50,620 --> 00:13:52,840
+which Rich Sutton later called the bitter lesson.
+
+181
+00:13:53,220 --> 00:13:57,140
+The key architecture, the transformer, arrived in 2017.
+
+182
+00:13:58,300 --> 00:14:03,120
+one to predict the next word across a large fraction of the internet, then fine-tune it
+
+183
+00:14:03,120 --> 00:14:08,080
+with feedback, and you get the systems we have now. The skeptic's line is that it's just
+
+184
+00:14:08,080 --> 00:14:14,780
+autocomplete, stachastic parrots. That phrase comes from a 2021 paper by Emily Bender and
+
+185
+00:14:14,780 --> 00:14:20,100
+colleagues, and its core worry is legitimate. Fluent text can be produced without understanding,
+
+186
+00:14:20,440 --> 00:14:25,940
+but interpretability research has found real internal structure. In one well-known study,
+
+187
+00:14:25,940 --> 00:14:30,580
+a small transformer trained only on move sequences from the board game Othello
+
+188
+00:14:30,580 --> 00:14:32,800
+built an internal picture of the board.
+
+189
+00:14:33,060 --> 00:14:35,520
+The researchers could read that picture out
+
+190
+00:14:35,520 --> 00:14:38,460
+and even edit it to change which moves the model made.
+
+191
+00:14:38,800 --> 00:14:42,660
+Larger models represent concepts as directions in their internal space,
+
+192
+00:14:42,920 --> 00:14:46,360
+track entities through a story, and plan ahead in limited ways.
+
+193
+00:14:46,520 --> 00:14:48,720
+And the capability results keep coming.
+
+194
+00:14:49,160 --> 00:14:54,980
+In July 2025, experimental systems from OpenAI and Google DeepMind
+
+195
+00:14:55,940 --> 00:15:02,080
+gold medal level at the International Mathematical Olympiad, and at this year's Olympiad, two systems
+
+196
+00:15:02,080 --> 00:15:08,420
+reportedly achieved perfect scores. One research group, Metter, tracks how long a task, measured in
+
+197
+00:15:08,420 --> 00:15:14,840
+human working time, AI agents can complete on their own. By their estimates, that horizon has
+
+198
+00:15:14,840 --> 00:15:19,380
+been doubling every few months, though the measurements get shaky for the longest tasks.
+
+199
+00:15:19,700 --> 00:15:21,660
+So the parent critique is dead.
+
+200
+00:15:22,460 --> 00:15:27,380
+Reframed more than dead. The open questions are now mostly about how this intelligence is
+
+201
+00:15:27,380 --> 00:15:32,220
+structured, though skeptics still dispute how deep it goes. These systems are jagged,
+
+202
+00:15:32,480 --> 00:15:38,000
+superhuman at some tasks and strangely brittle at others. That echoes something called Moravik's
+
+203
+00:15:38,000 --> 00:15:43,760
+paradox. What's hard for us, like calculus, can be easy for machines, while what's easy for a
+
+204
+00:15:43,760 --> 00:15:49,440
+toddler, like moving around a cluttered room, is hard. They also learn from vastly more data than
+
+205
+00:15:49,440 --> 00:15:55,420
+any human ever sees, which by Chalet's measure counts against them. And they are mostly disembodied.
+
+206
+00:15:55,640 --> 00:15:59,360
+They do not act in the world under the constant pressure of staying alive.
+
+207
+00:15:59,700 --> 00:16:03,920
+As we'll see, that matters a great deal to some theories of consciousness.
+
+208
+00:16:04,400 --> 00:16:07,120
+So if you had to compress this episode...
+
+209
+00:16:07,540 --> 00:16:13,160
+Three points. One, intelligence is the ability to model the world well enough to reach goals
+
+210
+00:16:13,160 --> 00:16:17,720
+across many situations, and the field increasingly caches that out as prediction,
+
+211
+00:16:19,440 --> 00:16:25,160
+learn something new. Two, it's not tied to one kind of hardware. It evolved separately in
+
+212
+00:16:25,160 --> 00:16:30,960
+octopuses and invertebrates, shows up in simple forms in cells and tissues, and now shows up in
+
+213
+00:16:30,960 --> 00:16:36,360
+machines. And three, which is the hinge for the rest of the series, all of that is about doing.
+
+214
+00:16:36,700 --> 00:16:41,560
+None of it, on its own, tells you whether there's anything it's like to be the system doing it.
+
+215
+00:16:41,880 --> 00:16:45,120
+Which brings us to bats. Next episode.
+

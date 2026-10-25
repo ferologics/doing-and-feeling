@@ -1,0 +1,215 @@
+This is Doing and Feeling, a four-part listening guide to intelligence and consciousness. Episode 1, Doing.
+A quick note before we start. This series was written by Claude, an AI model made by Anthropic, for one listener, and both of the voices you're hearing are synthetic.
+It's built from the material you sent.
+A book and a lecture by Blaise Aguera e Arcus,
+a thread on X where people traded their best recommendations for understanding consciousness,
+and an AI-written summary of that thread from Grok.
+The answers ran from a 16-page essay about bats to a 600-page textbook that one person said takes a year to finish.
+There was a meme about microtubules, a split verdict on Girdle, Escher, Bach, Masterpiece, or Trash,
+reply that just said, you're conscious, pay attention for a day. And that's the problem.
+I have a reading list as long as my arm and maybe one free weekend. So what's the plan?
+Four episodes, about 15 minutes each. This one is about intelligence, what it is, and how scientists
+actually study it. Episode two is the hard problem of consciousness and a map of the philosophical
+positions. Episode 3 is the science, the experiments, the measurements, and the theories
+that compete. And Episode 4 puts it all together. Could an AI be conscious? And what should you read
+in what order? Why start with intelligence if the thread was about consciousness? Because the most
+common confusion in that thread, and in public debate generally, is treating them as one thing.
+The neuroscientist Anil Seth stresses this distinction constantly. Intelligence is about
+solving problems and reaching goals. Consciousness is about whether there's any experience going on,
+whether there is something it feels like from the inside to be you, doing and feeling, hence the
+title. Those could come apart. A system might be extremely good at doing things with nothing felt
+at all, and something might feel without being very clever. A newborn baby, a fish in pain,
+whether they really do come apart is one of the deepest questions in this series,
+so we need a clear picture of each one before we ask how they connect.
+Okay, so intelligence. Is there even an agreed definition?
+There are roughly three traditions, and they define it differently.
+The oldest is psychometrics, the science of mental testing.
+In 1904, the psychologist Charles Spearman noticed something odd.
+Children who did well in one area tended to do well in others,
+school subjects like classics, French and math,
+and even tests of telling musical pitches apart.
+All the scores correlated positively.
+Psychologists now call that the positive manifold.
+Spearman proposed a single general factor behind it,
+which later became known as G.
+More than a century later,
+that finding has replicated about as well as anything in psychology.
+Modern models are hierarchical.
+General intelligence sits at the top.
+Below it are broad abilities,
+like fluid reasoning, accumulated knowledge, processing speed, and working memory.
+And below those are narrow skills.
+Does G actually predict anything, or is it just an artifact of how tests are built?
+It predicts a lot. School performance, job performance, even health and longevity.
+Those are statistical tendencies, not destiny.
+Twin studies find that the heritability of IQ rises with age,
+from modest in early childhood to something like 60 to 80 percent of the differences between adults.
+That's counterintuitive. One explanation is that as we get older, we choose environments that suit
+our dispositions, which amplifies them. And then there's the Flynn effect. Average IQ scores rose
+by roughly three points per decade through much of the 20th century. That's far too fast for
+genetics, so environment clearly matters enormously. Schooling, nutrition, a more abstract
+In some countries, the rise has recently stalled or even reversed.
+But that's all about how humans differ from each other.
+It's not intelligence as a thing.
+Exactly the limitation.
+Psychometrics tells you how people compare.
+It does not tell you what an octopus, a crow, or a language model has or lacks.
+That said, people have started borrowing it for AI.
+In late 2025, a large group of researchers led by Dan Hendricks proposed defining AGI as matching a well-educated adult across 10 ability areas taken from that same hierarchical model.
+They scored GPT-4 at about a quarter of the way there and GPT-5 at a little over half, with long-term memory the weakest area.
+And a 2026 analysis found that AI benchmark scores show a positive manifold of their own,
+though it weakened as models became more specialized.
+For a definition that is not anchored to humans, you need the second tradition,
+which comes from computer science.
+In 2007, Shane Legge, who later co-founded DeepMind,
+and Marcus Hutter gathered around 70 definitions of intelligence and boiled them down to one.
+Intelligence measures an agent's ability to achieve goals in a wide range of environments.
+They even turned it into math.
+Score an agent across every possible computable environment,
+giving simpler environments more weight.
+You cannot actually compute it, but it captures the core idea.
+Intelligence is about generality, not one trick.
+So a chess engine is not intelligent.
+It's just good at chess.
+That's Francois Chalet's point.
+published a paper called on the measure of intelligence, arguing that skill is not intelligence.
+You can buy skill with enough data or by hard coding it. Intelligence is how efficiently you
+acquire new skills, how much you can generalize from how little experience, given what you started
+with. He built a benchmark around that idea called ARC. It's a set of small colored grid puzzles,
+each one knew, that most people solve from a few examples. For years, AI systems did terribly on
+it, even while scoring brilliantly on standardized exams. The first two versions have now largely
+fallen to the latest models. The newest version, launched in 2026, is a set of small interactive
+games with no instructions. At launch, people solved all of them, while Frontier AI systems
+scored close to zero. The best systems have since climbed a long way, though how far depends a lot
+on exactly how they're tested. And the third tradition? Prediction. This one runs from Herman
+von Helmholtz in the 19th century, who described perception as unconscious inference, the brain
+guessing at the causes of its sensations. It runs through to modern predictive processing in
+neuroscience associated with people like Carl Friston, Andy Clark, and Anil Seth. On this view,
+a brain is fundamentally a prediction machine. It builds a model of the world and of its own body,
+predicts its incoming signals, and updates itself when it's wrong. And there's a parallel in
+computer science. To compress data well, you have to predict it well. And to predict it well,
+you have to model whatever generated it. That's why some researchers treat compression
+as a test of intelligence.
+There's even a prize for compressing a large chunk of Wikipedia.
+Which brings us to the book you sent.
+Right.
+Blaise Aguera E. Arcus is a vice president and fellow at Google,
+where he founded a research group called Paradigms of Intelligence.
+His book, What is Intelligence?, came out in September 2025
+from MIT Press in the Antikythera series.
+It's over 600 pages, and the whole thing is free to read online.
+The lecture you have is from the same project.
+It's about 80 minutes, recorded in London in 2024.
+Give me the argument in one breath.
+Life is computation.
+Intelligence is prediction.
+So modern AI is not a fake version of intelligence.
+It's a new branch of the same tree.
+He starts with the origin of life.
+In 2024, his team ran an artificial life experiment.
+They filled a kind of digital soup with random programs,
+in a tiny programming language and let them interact and overwrite each other at random.
+There was no fitness function and no goal. In a large fraction of runs, self-replicating programs
+appeared on their own and took over the soup, even with random mutations switched off. For him,
+that shows life and computation bootstrapping together. The moment something copies itself,
+it's computing. And how does he get from there to intelligence?
+An organism survives by predicting its future,
+and that includes predicting other organisms that are busy predicting it back.
+That mutual modeling, he argues, drove an arms race.
+Social animals model each other's minds and then model themselves with the same machinery.
+He also leans hard on symbiogenesis.
+That's the idea, championed by Lynn Margiulis,
+that major leaps in evolution come from merging.
+The classic example is the bacterium that moved into another cell
+and became the mitochondria, the power plants inside your cells.
+For him, intelligence scales through cooperation and fusion, not only competition.
+And he treats large language models as a major evolutionary transition,
+systems that learn to predict human language,
+and in doing so absorbed a great deal of what language encodes.
+So he thinks next word prediction is intelligence.
+His introduction says, roughly, that next word prediction done well enough is intelligence.
+He also argues that you cannot cleanly separate real intelligence from a perfect simulation of it from the outside.
+That's a functionalist view.
+What matters is what a system does, not what it's made of.
+And he goes further than most.
+The publisher's own description says he argues that certain AI systems have a legitimate claim not just to intelligence, but to consciousness and free will.
+So is it a good resource?
+half of your question, it's one of the best single syntheses around. It covers the origin of life,
+cybernetics, neuroscience, and the history of neural networks in one argument, from someone
+who has built these systems. Two cautions, though. First, it's a thesis, not a survey.
+It argues one side of exactly the fight in your thread, so pair it with the strongest version of
+the other side, which we'll get to in episode four. Second, it's long. If you're short on time,
+Then read the introduction and chapters 6 through 8, which cover consciousness and transformers.
+You mentioned octopuses, and Michael Levin came up in the thread with his worms and cells.
+Is intelligence outside of brains a serious idea?
+Very. Peter Godfrey Smith's book Other Minds, one of the easy classics in your thread, is about the octopus.
+It's a mollusk more closely related to a clam than to us,
+and it evolved a large nervous system completely independently of vertebrates.
+Most of its neurons are in its arms, not its head.
+So complex intelligence has evolved at least twice on this planet,
+on totally different body plans.
+That's strong evidence that intelligence is about organization,
+not one particular kind of brain.
+Then there's Michael Levin, who studies what he calls basal cognition,
+problem-solving below the level of brains.
+Cells and tissues use electrical signals to coordinate toward target shapes.
+Flatworms called planaria can regrow a whole body from a small fragment.
+In one well-known experiment, his lab briefly altered the worm's bioelectric patterns
+and produced worms with two heads.
+When those worms were cut again, they kept regrowing two heads with no further intervention.
+The body's target shape had been rewritten.
+Levin treats intelligence as a continuum.
+reach the same goal by different routes shows some degree of it. That stretches the word a long way.
+It does, and people argue about it. But it forces a useful question. Is intelligence a special thing
+that brains do? Or is it a general property of goal-directed systems, which brains happen to do
+especially well? How do brains actually build these models? Some of the most concrete answers
+come from navigation. In 1971, John O'Keefe found placed cells in the rat hippocampus.
+Each one fires when the animal is in a particular spot. In 2005, Maybritt and Edvard Moser's lab
+found grid cells nearby, which fire in a hexagonal lattice, like coordinate lines laid over the world.
+The three of them shared the Nobel Prize in 2014. It turns out the same machinery maps abstract
+spaces too, like relationships and concepts. The Artem Kursanov videos in your list cover this
+beautifully, and there's a striking link to AI. Researchers showed that a model of the hippocampus
+called the Talman-Ickenbaum machine is closely related, mathematically, to the transformer,
+the architecture inside language models. They're not identical, but they're close enough to suggest
+that brains and transformers may be converging on similar solutions for learning structure.
+Let's talk about the systems everyone's actually arguing about.
+What do we know about how language models do what they do?
+The short history goes like this.
+Decades of trying to hand-code intelligence mostly failed.
+What worked was general learning methods, plus scale,
+which Rich Sutton later called the bitter lesson.
+The key architecture, the transformer, arrived in 2017.
+one to predict the next word across a large fraction of the internet, then fine-tune it
+with feedback, and you get the systems we have now. The skeptic's line is that it's just
+autocomplete, stachastic parrots. That phrase comes from a 2021 paper by Emily Bender and
+colleagues, and its core worry is legitimate. Fluent text can be produced without understanding,
+but interpretability research has found real internal structure. In one well-known study,
+a small transformer trained only on move sequences from the board game Othello
+built an internal picture of the board.
+The researchers could read that picture out
+and even edit it to change which moves the model made.
+Larger models represent concepts as directions in their internal space,
+track entities through a story, and plan ahead in limited ways.
+And the capability results keep coming.
+In July 2025, experimental systems from OpenAI and Google DeepMind
+gold medal level at the International Mathematical Olympiad, and at this year's Olympiad, two systems
+reportedly achieved perfect scores. One research group, Metter, tracks how long a task, measured in
+human working time, AI agents can complete on their own. By their estimates, that horizon has
+been doubling every few months, though the measurements get shaky for the longest tasks.
+So the parent critique is dead.
+Reframed more than dead. The open questions are now mostly about how this intelligence is
+structured, though skeptics still dispute how deep it goes. These systems are jagged,
+superhuman at some tasks and strangely brittle at others. That echoes something called Moravik's
+paradox. What's hard for us, like calculus, can be easy for machines, while what's easy for a
+toddler, like moving around a cluttered room, is hard. They also learn from vastly more data than
+any human ever sees, which by Chalet's measure counts against them. And they are mostly disembodied.
+They do not act in the world under the constant pressure of staying alive.
+As we'll see, that matters a great deal to some theories of consciousness.
+So if you had to compress this episode...
+Three points. One, intelligence is the ability to model the world well enough to reach goals
+across many situations, and the field increasingly caches that out as prediction,
+learn something new. Two, it's not tied to one kind of hardware. It evolved separately in
+octopuses and invertebrates, shows up in simple forms in cells and tissues, and now shows up in
+machines. And three, which is the hinge for the rest of the series, all of that is about doing.
+None of it, on its own, tells you whether there's anything it's like to be the system doing it.
+Which brings us to bats. Next episode.
