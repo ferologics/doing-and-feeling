@@ -13,7 +13,7 @@ The Map of Positions: every serious answer, and what each costs | Doing and Feel
 ## Description
 
 ```
-Doing and Feeling: The Long Version, episode 9 of 14. Every serious answer to the hard problem, what it costs, and what it says about octopuses and machines: functionalism, representationalism, enactivism, biological naturalism, integrated information theory, panpsychism, idealism, dualism and quantum theories. It ends with a clearly marked tour of ideas at the edges.
+Doing and Feeling: Intelligence and Consciousness in Depth, episode 9 of 14. Every serious answer to the hard problem, what it costs, and what it says about octopuses and machines: functionalism, representationalism, enactivism, biological naturalism, integrated information theory, panpsychism, idealism, dualism and quantum theories. It ends with a clearly marked tour of ideas at the edges.
 
 CHAPTERS
 0:00 The China brain

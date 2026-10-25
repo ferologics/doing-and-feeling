@@ -13,7 +13,7 @@ Two Questions: what intelligence is, and how we measure it | Doing and Feeling 1
 ## Description
 
 ```
-Doing and Feeling: The Long Version, episode 1 of 14. The series opens with its two questions, doing and feeling, then takes a careful look at IQ: the general factor g, what test scores predict, what heritability does and doesn't mean, the Flynn effect, group differences, and the field's eugenic history.
+Doing and Feeling: Intelligence and Consciousness in Depth, episode 1 of 14. The series opens with its two questions, doing and feeling, then takes a careful look at IQ: the general factor g, what test scores predict, what heritability does and doesn't mean, the Flynn effect, group differences, and the field's eugenic history.
 
 CHAPTERS
 0:00 Two questions, and the road map

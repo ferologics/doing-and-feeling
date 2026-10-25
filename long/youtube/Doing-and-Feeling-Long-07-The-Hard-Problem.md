@@ -13,7 +13,7 @@ The Hard Problem: why experience resists explanation | Doing and Feeling 7/14
 ## Description
 
 ```
-Doing and Feeling: The Long Version, episode 7 of 14. Part two begins: why does any of it feel like something? Leibniz's mill, Nagel's bat, the explanatory gap, Chalmers's zombies and the full map of responses, Mary's room, access versus phenomenal consciousness, Wittgenstein, and the meta-problem.
+Doing and Feeling: Intelligence and Consciousness in Depth, episode 7 of 14. Part two begins: why does any of it feel like something? Leibniz's mill, Nagel's bat, the explanatory gap, Chalmers's zombies and the full map of responses, Mary's room, access versus phenomenal consciousness, Wittgenstein, and the meta-problem.
 
 CHAPTERS
 0:00 Leibniz's mill

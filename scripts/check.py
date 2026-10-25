@@ -17,7 +17,7 @@ ROOT = Path(__file__).resolve().parent.parent
 SERIES = [
     # (markdown glob, audio dir, video dir, compare chapters with scripts/chapters.py)
     (ROOT / "short" / "youtube", "Doing-and-Feeling-*.md", ROOT / "short" / "audio", ROOT / "short" / "out" / "videos", True),
-    (ROOT / "long" / "youtube", "*.md", ROOT / "long" / "audio", ROOT / "long" / "out" / "videos", False),
+    (ROOT / "long" / "youtube", "Doing-and-Feeling-*.md", ROOT / "long" / "audio", ROOT / "long" / "out" / "videos", False),
 ]
 
 

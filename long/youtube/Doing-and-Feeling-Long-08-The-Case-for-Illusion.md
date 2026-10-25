@@ -13,7 +13,7 @@ The Case for Illusion: the most radical answer, at full strength | Doing and Fee
 ## Description
 
 ```
-Doing and Feeling: The Long Version, episode 8 of 14. Illusionism at full strength: the view that experience only seems to have special private qualities. Dennett and Frankish, the evidence that introspection misleads, the meta-problem, attention schemas and self-models, and then the hardest objections.
+Doing and Feeling: Intelligence and Consciousness in Depth, episode 8 of 14. Illusionism at full strength: the view that experience only seems to have special private qualities. Dennett and Frankish, the evidence that introspection misleads, the meta-problem, attention schemas and self-models, and then the hardest objections.
 
 CHAPTERS
 0:00 The color experiment

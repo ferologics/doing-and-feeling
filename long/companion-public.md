@@ -1,4 +1,4 @@
-# Doing and Feeling: The Long Version — Companion
+# Doing and Feeling: Intelligence and Consciousness in Depth — Companion
 
 October 25, 2026
 

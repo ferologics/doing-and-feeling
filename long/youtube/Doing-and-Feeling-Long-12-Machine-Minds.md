@@ -13,7 +13,7 @@ Machine Minds: what can be checked, and the case for | Doing and Feeling 12/14
 ## Description
 
 ```
-Doing and Feeling: The Long Version, episode 12 of 14. Could today's AI be conscious? What can actually be checked: the indicator method, probabilistic frameworks, interpretability evidence, what the subject would even be, and why self-reports are hard to trust. The episode ends with the strongest case for machine consciousness.
+Doing and Feeling: Intelligence and Consciousness in Depth, episode 12 of 14. Could today's AI be conscious? What can actually be checked: the indicator method, probabilistic frameworks, interpretability evidence, what the subject would even be, and why self-reports are hard to trust. The episode ends with the strongest case for machine consciousness.
 
 CHAPTERS
 0:00 A disclosure

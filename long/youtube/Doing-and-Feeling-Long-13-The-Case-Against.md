@@ -13,7 +13,7 @@ The Case Against: why AI may not be conscious, at full strength | Doing and Feel
 ## Description
 
 ```
-Doing and Feeling: The Long Version, episode 13 of 14. The skeptical case at full strength, argued in the narrator's own voice: intelligence is not consciousness, brains are not computers made of meat, and the leading non-computational theories exclude current AI. Then the best replies, and both voices step out of role.
+Doing and Feeling: Intelligence and Consciousness in Depth, episode 13 of 14. The skeptical case at full strength, argued in the narrator's own voice: intelligence is not consciousness, brains are not computers made of meat, and the leading non-computational theories exclude current AI. Then the best replies, and both voices step out of role.
 
 CHAPTERS
 0:00 Why this episode is in my voice

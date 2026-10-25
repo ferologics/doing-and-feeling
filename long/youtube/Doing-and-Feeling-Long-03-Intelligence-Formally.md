@@ -13,7 +13,7 @@ Intelligence, Formally: prediction, compression and the measure of a mind | Doin
 ## Description
 
 ```
-Doing and Feeling: The Long Version, episode 3 of 14. Can intelligence be defined precisely? From Turing and Shannon to Solomonoff, Legg and Hutter's universal intelligence, the No Free Lunch theorems and Chollet's ARC benchmark: why every definition builds in assumptions, and why AI scores depend on how the test is run.
+Doing and Feeling: Intelligence and Consciousness in Depth, episode 3 of 14. Can intelligence be defined precisely? From Turing and Shannon to Solomonoff, Legg and Hutter's universal intelligence, the No Free Lunch theorems and Chollet's ARC benchmark: why every definition builds in assumptions, and why AI scores depend on how the test is run.
 
 CHAPTERS
 0:00 The Hutter Prize

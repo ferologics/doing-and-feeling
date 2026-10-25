@@ -14,13 +14,15 @@ Per episode, in order (stops at the first failure so playlist order stays correc
 Progress is recorded in long/youtube/uploads.json; reruns skip finished steps.
 
 --publish switches every uploaded video and the playlist to Public.
+--update-text pushes title, description and tags from long/youtube/*.md (and the playlist's title and
+description from long/youtube/playlist.md) to the already uploaded videos and playlist.
 
 Credentials: the OAuth desktop client is read from 1Password (op://Pi/YT_DESKTOP_CLIENT_OAUTH,
 username = client ID, credential = client secret). The refresh token is cached in the macOS Keychain
 (service "yt-desktop-client-oauth", reusable by other YouTube scripts); the browser consent only appears
 when there is no cached token or it has expired (7 days while the Google project is in Testing mode).
 
-Usage: scripts/youtube-upload.py [--only N ...] [--publish] [--dry-run]
+Usage: scripts/youtube-upload.py [--only N ...] [--publish | --update-text] [--dry-run]
 """
 
 import argparse
@@ -224,6 +226,41 @@ def upload(youtube, episodes, state, dry_run):
             print("    added to playlist")
 
 
+def snippet(title, description, tags):
+    return {
+        "title": title,
+        "description": description,
+        "tags": [t.strip() for t in tags.split(",")],
+        "categoryId": CATEGORY_EDUCATION,
+        "defaultLanguage": "en",
+        "defaultAudioLanguage": "en",
+    }
+
+
+def update_text(youtube, episodes, state):
+    # Updating the snippet part replaces every snippet field, so send all of them.
+    for number, name in episodes:
+        video_id = state["episodes"].get(name, {}).get("video_id")
+        if not video_id:
+            sys.exit(f"episode {number} is not uploaded yet")
+        title, description, tags = code_blocks(LONG / "youtube" / f"{name}.md")[:3]
+        execute(
+            youtube.videos().update(part="snippet", body={"id": video_id, "snippet": snippet(title, description, tags)}),
+            f"updating episode {number}",
+        )
+        print(f"  {number:02d} text updated: https://youtu.be/{video_id}")
+    if state["playlist_id"]:
+        title, description = code_blocks(LONG / "youtube" / "playlist.md")[:2]
+        execute(
+            youtube.playlists().update(
+                part="snippet",
+                body={"id": state["playlist_id"], "snippet": {"title": title, "description": description, "defaultLanguage": "en"}},
+            ),
+            "updating the playlist",
+        )
+        print(f"  playlist text updated: https://www.youtube.com/playlist?list={state['playlist_id']}")
+
+
 def publish(youtube, episodes, state):
     for number, name in episodes:
         video_id = state["episodes"].get(name, {}).get("video_id")
@@ -268,6 +305,7 @@ def main():
     parser = argparse.ArgumentParser()
     parser.add_argument("--only", nargs="+", type=int, help="episode numbers")
     parser.add_argument("--publish", action="store_true")
+    parser.add_argument("--update-text", action="store_true")
     parser.add_argument("--dry-run", action="store_true")
     args = parser.parse_args()
 
@@ -284,6 +322,8 @@ def main():
     youtube = youtube_client()
     if args.publish:
         publish(youtube, episodes, state)
+    elif args.update_text:
+        update_text(youtube, episodes, state)
     else:
         upload(youtube, episodes, state, dry_run=False)
 

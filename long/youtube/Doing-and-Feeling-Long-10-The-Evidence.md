@@ -13,7 +13,7 @@ The Evidence: what we can measure, and how sure we are | Doing and Feeling 10/14
 ## Description
 
 ```
-Doing and Feeling: The Long Version, episode 10 of 14. What the science of consciousness can actually measure: neural correlates, no-report methods, blindsight and neglect, split brains, hidden awareness in unresponsive patients, the zap-and-zip complexity index, anesthesia, sleep, psychedelics, meditation, free will experiments and animal minds. Some famous findings turn out shakier than their reputations.
+Doing and Feeling: Intelligence and Consciousness in Depth, episode 10 of 14. What the science of consciousness can actually measure: neural correlates, no-report methods, blindsight and neglect, split brains, hidden awareness in unresponsive patients, the zap-and-zip complexity index, anesthesia, sleep, psychedelics, meditation, free will experiments and animal minds. Some famous findings turn out shakier than their reputations.
 
 CHAPTERS
 0:00 Blindsight in a corridor

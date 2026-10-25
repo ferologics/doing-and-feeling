@@ -13,7 +13,7 @@ Machines That Learn: how modern AI works, and what's inside it | Doing and Feeli
 ## Description
 
 ```
-Doing and Feeling: The Long Version, episode 6 of 14. How today's AI works and what we know about its insides: transformers, scaling, in-context learning, interpretability, reinforcement learning, comparisons with brains and the debate over understanding. These systems build real internal structure, yet stay jagged, data hungry and frozen after training.
+Doing and Feeling: Intelligence and Consciousness in Depth, episode 6 of 14. How today's AI works and what we know about its insides: transformers, scaling, in-context learning, interpretability, reinforcement learning, comparisons with brains and the debate over understanding. These systems build real internal structure, yet stay jagged, data hungry and frozen after training.
 
 CHAPTERS
 0:00 The reversal curse and the Olympiad

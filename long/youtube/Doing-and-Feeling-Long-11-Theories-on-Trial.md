@@ -13,7 +13,7 @@ Theories on Trial: the leading theories and the experiments that test them | Doi
 ## Description
 
 ```
-Doing and Feeling: The Long Version, episode 11 of 14. The leading scientific theories of consciousness and the experiments that test them: global workspace, higher-order, recurrent processing, integrated information, predictive processing and others. The adversarial collaborations bruised every theory they touched, and the new rules of testing may matter more than any single result.
+Doing and Feeling: Intelligence and Consciousness in Depth, episode 11 of 14. The leading scientific theories of consciousness and the experiments that test them: global workspace, higher-order, recurrent processing, integrated information, predictive processing and others. The adversarial collaborations bruised every theory they touched, and the new rules of testing may matter more than any single result.
 
 CHAPTERS
 0:00 The bet

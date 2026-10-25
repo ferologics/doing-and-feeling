@@ -13,7 +13,7 @@ Minds in Other Bodies: crows, octopuses, bees, cells and swarms | Doing and Feel
 ## Description
 
 ```
-Doing and Feeling: The Long Version, episode 2 of 14. Intelligence evolved more than once, on very different hardware. A tour of crows, octopuses, bees, single cells, plants and swarms, and of the two errors science makes about animal minds: seeing too much, like Clever Hans, and too little.
+Doing and Feeling: Intelligence and Consciousness in Depth, episode 2 of 14. Intelligence evolved more than once, on very different hardware. A tour of crows, octopuses, bees, single cells, plants and swarms, and of the two errors science makes about animal minds: seeing too much, like Clever Hans, and too little.
 
 CHAPTERS
 0:00 A family of solutions

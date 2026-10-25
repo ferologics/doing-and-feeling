@@ -13,7 +13,7 @@ The Stakes: acting under uncertainty, and what it adds up to | Doing and Feeling
 ## Description
 
 ```
-Doing and Feeling: The Long Version, episode 14 of 14. What to do when the experts disagree: the costs of denying a mind and of imagining one, evidence that over-attribution already harms people, frameworks for acting under uncertainty, and what labs, lawmakers and the Vatican are doing. Then what would change minds, the whole series in brief, and a reading path.
+Doing and Feeling: Intelligence and Consciousness in Depth, episode 14 of 14. What to do when the experts disagree: the costs of denying a mind and of imagining one, evidence that over-attribution already harms people, frameworks for acting under uncertainty, and what labs, lawmakers and the Vatican are doing. Then what would change minds, the whole series in brief, and a reading path.
 
 CHAPTERS
 0:00 Crabs, lobsters and octopuses
