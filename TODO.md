@@ -16,5 +16,5 @@
 
 ## Later
 
-- [ ] When Claude revises the companion, update the gist (`gh gist edit f23bb5a1b636be8b1ae10362df402790 long/companion-public.md`)
+- [ ] When Claude revises the companion, update the gist (see README → long/companion-public.md)
 - [ ] Optional: capture the 32 remaining nested thread replies (`scripts/thread-enrich.py` lists the sub-threads)

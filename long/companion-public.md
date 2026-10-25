@@ -8,7 +8,7 @@ This companion gives the sources behind each of the 14 episodes and where to rea
 
 - **Per episode:** the one argument the episode makes, its key sources, and further reading.
 - **Source labels:** links go to the paper or the author's own page where possible. *(secondary)* marks a news report or summary, used when the original was paywalled or unreachable.
-- **Corrections:** comment on any passage you think is wrong. Confirmed fixes are listed in the last section.
+- **Errors:** comment on any passage you think is wrong.
 - **Where the reading list comes from:** recommendations gathered from replies to Will Depue's October 2026 post on X asking for reading on consciousness ([the thread](https://x.com/willdepue/status/2113823172336505051)). Those the episodes didn't cover are grouped near the end.
 
 ## Where to start
@@ -344,16 +344,3 @@ These were recommended alongside the works above but aren't discussed in the epi
 **Why it matters**
 
 - Viktor Frankl, *Man's Search for Meaning* (1946).
-
-## Corrections to the short series
-
-The four-episode version has two errors and two passages worth clarifying; its other dated claims checked out in October 2026.
-
-| Episode | What it said | Correction | Source |
-| --- | --- | --- | --- |
-| 3 | A second Cogitate experiment "was presented this summer" | It was introduced in posters at the ASSC meeting in Crete in July 2025, not in 2026. The posters gave early, mixed results; no peer-reviewed verdict yet | [Liu](https://www.reed.edu/psychology/scalp/assets/conference%20files/Liu_ASSC_poster_2025.pdf) · [Oyarzo](https://www.reed.edu/psychology/scalp/assets/conference%20files/Oyarzo_ASSC_poster_2025.pdf) |
-| 1 | Artem Kirsanov's videos described as part of the recommendations the series drew on | They weren't among those recommendations. The videos themselves are accurate and worth watching | ["Can We Build an Artificial Hippocampus?"](https://www.youtube.com/watch?v=cufOEzoVMVA) |
-| 1 | At IMO 2025, "experimental systems" from OpenAI and Google DeepMind both reached gold-medal level | Clarification: DeepMind's entrant was an advanced version of Gemini Deep Think, officially graded; OpenAI's experimental model was graded by former medalists | [Google DeepMind](https://deepmind.google/discover/blog/advanced-version-of-gemini-with-deep-think-officially-achieves-gold-medal-standard-at-the-international-mathematical-olympiad/) |
-| 4 | Most scholars reject the history in Jaynes's bicameral mind | Clarification: no survey of scholars exists; its historical claims are widely disputed, and its emphasis on language has defenders | [Cavanna et al. 2007](https://research.birmingham.ac.uk/en/publications/the-bicameral-mind-30-years-on-a-critical-reappraisal-of-julian-j/) |
-
-**Checked and correct:** the six-species anesthesia study "last month" ([published online 29 September 2026](https://www.nature.com/articles/s41593-026-02460-4)); Tennessee's 2026 law ([signed 23 April](https://fastdemocracy.com/bill/tn/114/bills/TNB00055499)); Hinton's [June 2026 statement](https://www.bigtechnology.com/p/nobel-prize-winner-geoffrey-hinton); Suleyman's [September 2026 warning](https://mustafa-suleyman.ai/a-warning-about-model-welfare); the IMO 2026 perfect scores, [as reported by the companies](https://www.taipeitimes.com/News/world/archives/2026/07/24/2003861308) *(secondary)*; and the dependence of ARC-AGI-3 scores on the [test harness](https://arcprize.org/blog/astra).

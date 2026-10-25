@@ -35,7 +35,7 @@ long/kit/                     Claude's delivery: manifest (chapters, durations),
                               captions, YouTube text (source of long/youtube/*.md)
 long/companion.md             Claude's companion doc (sources and further reading)
 long/companion-public.md      the published copy: https://gist.github.com/ferologics/f23bb5a1b636be8b1ae10362df402790
-                              (update with `gh gist edit f23bb5a1b636be8b1ae10362df402790 long/companion-public.md`)
+                              (update with `gh gist edit f23bb5a1b636be8b1ae10362df402790 --filename doing-and-feeling-long-version-companion.md long/companion-public.md`)
 ```
 
 Project-wide:
