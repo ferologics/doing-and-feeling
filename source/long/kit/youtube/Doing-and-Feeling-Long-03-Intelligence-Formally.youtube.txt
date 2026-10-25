@@ -12,7 +12,7 @@ Key sources:
 - Hendrycks et al. 2025, A Definition of AGI: https://arxiv.org/abs/2510.18212
 - Krakauer 2026, The Rise and Fall of G in AGI: https://arxiv.org/abs/2604.09911
 
-All sources and further reading, episode by episode: https://claude.ai/artifact/854xYeKCrfef79JKycVaGA
+All sources and further reading, episode by episode: https://gist.github.com/ferologics/f23bb5a1b636be8b1ae10362df402790
 
 Part I: Doing (episodes 1-6) · Part II: Feeling (7-11) · Part III: Machines (12-14)
 

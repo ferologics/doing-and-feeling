@@ -12,7 +12,7 @@ Key sources:
 - Schultz, Dayan & Montague 1997, dopamine and prediction: https://doi.org/10.1126/science.275.5306.1593
 - Whittington et al. 2020, the Tolman-Eichenbaum Machine: https://pmc.ncbi.nlm.nih.gov/articles/PMC7707106/
 
-All sources and further reading, episode by episode: https://claude.ai/artifact/854xYeKCrfef79JKycVaGA
+All sources and further reading, episode by episode: https://gist.github.com/ferologics/f23bb5a1b636be8b1ae10362df402790
 
 Part I: Doing (episodes 1-6) · Part II: Feeling (7-11) · Part III: Machines (12-14)
 

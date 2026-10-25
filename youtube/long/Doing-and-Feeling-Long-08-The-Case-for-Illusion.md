@@ -35,7 +35,7 @@ Key sources:
 - Strawson and Dennett, the 2018 exchange: https://www.nybooks.com/online/2018/04/03/magic-illusions-and-zombies-an-exchange/
 - Carlsmith, Grokking Illusionism: https://www.lesswrong.com/posts/SJjaWcMKtcdM3FW9u
 
-All sources and further reading, episode by episode: https://claude.ai/artifact/854xYeKCrfef79JKycVaGA
+All sources and further reading, episode by episode: https://gist.github.com/ferologics/f23bb5a1b636be8b1ae10362df402790
 
 Part I: Doing (episodes 1-6) · Part II: Feeling (7-11) · Part III: Machines (12-14)
 

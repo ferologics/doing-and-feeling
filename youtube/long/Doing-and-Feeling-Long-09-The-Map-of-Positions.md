@@ -36,7 +36,7 @@ Key sources:
 - Hameroff & Penrose 2014, Orch OR: https://www.sciencedirect.com/science/article/pii/S1571064513001188
 - Schwitzgebel, If Materialism Is True, the United States Is Probably Conscious: https://faculty.ucr.edu/~eschwitz/SchwitzAbs/USAconscious.htm
 
-All sources and further reading, episode by episode: https://claude.ai/artifact/854xYeKCrfef79JKycVaGA
+All sources and further reading, episode by episode: https://gist.github.com/ferologics/f23bb5a1b636be8b1ae10362df402790
 
 Part I: Doing (episodes 1-6) · Part II: Feeling (7-11) · Part III: Machines (12-14)
 

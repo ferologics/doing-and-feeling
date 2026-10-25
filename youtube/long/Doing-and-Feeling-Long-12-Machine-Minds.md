@@ -35,7 +35,7 @@ Key sources:
 - Anthropic 2026, a global workspace in language models: https://arxiv.org/abs/2607.15495
 - Chalmers 2025, What We Talk To When We Talk To Language Models: https://philarchive.org/rec/CHAWWT-8
 
-All sources and further reading, episode by episode: https://claude.ai/artifact/854xYeKCrfef79JKycVaGA
+All sources and further reading, episode by episode: https://gist.github.com/ferologics/f23bb5a1b636be8b1ae10362df402790
 
 Part I: Doing (episodes 1-6) · Part II: Feeling (7-11) · Part III: Machines (12-14)
 

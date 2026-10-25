@@ -12,7 +12,7 @@ Key sources:
 - Reader, Hager & Laland 2011, general intelligence in primates: https://pmc.ncbi.nlm.nih.gov/articles/PMC3049098
 - Markel 2020, a failed replication in plants: https://doi.org/10.7554/eLife.57614
 
-All sources and further reading, episode by episode: https://claude.ai/artifact/854xYeKCrfef79JKycVaGA
+All sources and further reading, episode by episode: https://gist.github.com/ferologics/f23bb5a1b636be8b1ae10362df402790
 
 Part I: Doing (episodes 1-6) · Part II: Feeling (7-11) · Part III: Machines (12-14)
 

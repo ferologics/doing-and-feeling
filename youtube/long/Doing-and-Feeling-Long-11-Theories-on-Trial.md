@@ -36,7 +36,7 @@ Key sources:
 - Francken et al. 2022, what consciousness researchers think: https://pure.uva.nl/ws/files/107716663/niac011.pdf
 - Bronfman, Ginsburg & Jablonka 2021, when will robots be sentient?: https://cris.openu.ac.il/en/publications/when-will-robots-be-sentient/
 
-All sources and further reading, episode by episode: https://claude.ai/artifact/854xYeKCrfef79JKycVaGA
+All sources and further reading, episode by episode: https://gist.github.com/ferologics/f23bb5a1b636be8b1ae10362df402790
 
 Part I: Doing (episodes 1-6) · Part II: Feeling (7-11) · Part III: Machines (12-14)
 

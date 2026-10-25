@@ -34,7 +34,7 @@ Key sources:
 - Stanford Encyclopedia of Philosophy: the knowledge argument: https://plato.stanford.edu/entries/qualia-knowledge/
 - Chalmers 2018, The Meta-Problem of Consciousness: https://philpapers.org/archive/chatmo-32.pdf
 
-All sources and further reading, episode by episode: https://claude.ai/artifact/854xYeKCrfef79JKycVaGA
+All sources and further reading, episode by episode: https://gist.github.com/ferologics/f23bb5a1b636be8b1ae10362df402790
 
 Part I: Doing (episodes 1-6) · Part II: Feeling (7-11) · Part III: Machines (12-14)
 

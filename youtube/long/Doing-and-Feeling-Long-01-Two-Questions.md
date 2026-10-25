@@ -34,7 +34,7 @@ Key sources:
 - APA task force 1996, Intelligence: knowns and unknowns: https://doi.org/10.1037/0003-066X.51.2.77
 - Nisbett et al. 2012, new findings: https://doi.org/10.1037/a0026699
 
-All sources and further reading, episode by episode: https://claude.ai/artifact/854xYeKCrfef79JKycVaGA
+All sources and further reading, episode by episode: https://gist.github.com/ferologics/f23bb5a1b636be8b1ae10362df402790
 
 Part I: Doing (episodes 1-6) · Part II: Feeling (7-11) · Part III: Machines (12-14)
 

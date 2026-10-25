@@ -34,7 +34,7 @@ Key sources:
 - Chalmers 1996, does a rock implement every automaton?: https://consc.net/papers/rock.html
 - Farrell, Gopnik, Shalizi & Evans 2025, AI as cultural technology: https://doi.org/10.1126/science.adt9819
 
-All sources and further reading, episode by episode: https://claude.ai/artifact/854xYeKCrfef79JKycVaGA
+All sources and further reading, episode by episode: https://gist.github.com/ferologics/f23bb5a1b636be8b1ae10362df402790
 
 Part I: Doing (episodes 1-6) · Part II: Feeling (7-11) · Part III: Machines (12-14)
 
