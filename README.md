@@ -5,7 +5,7 @@ synthetic TTS, turned into YouTube uploads. It exists in two versions, each in i
 
 | | Episodes | Length | Video style | Status |
 |---|---|---|---|---|
-| `short/` | 4 | 62 min | static cover | uploaded |
+| `short/` | 4 | 62 min | static cover | [uploaded](https://www.youtube.com/playlist?list=PLRaFm7tzS9Ew) |
 | `long/` | 14 | 5h23m | chapter cards + progress bar | rendered, ready to upload |
 
 Both started from one X thread (@willdepue asking for consciousness reading); `notes/` records how.
