@@ -4,7 +4,7 @@
 
 - [x] Upload and publish the 14 videos with text, thumbnails, captions and the playlist
 - [x] Rename to "Doing and Feeling: Intelligence and Consciousness in Depth" (text, covers, intros)
-- [ ] Phase B of the video swap (scheduled for 2026-10-26 08:15 CET; log in `work/replace.log`)
+- [x] Swap all 14 videos for the re-renders (done 2026-10-26)
 
 ## Reading list
 

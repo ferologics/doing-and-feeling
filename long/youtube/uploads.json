@@ -2,130 +2,130 @@
   "playlist_id": "PLcBsjViogzvI",
   "episodes": {
     "Doing-and-Feeling-Long-01-Two-Questions": {
-      "video_id": "bGAUbvzrB7g",
+      "video_id": "kkcgiamKQFg",
       "thumbnail": true,
       "captions": true,
       "in_playlist": true,
-      "replacement": {
-        "video_id": "kkcgiamKQFg"
-      }
+      "replaced": [
+        "bGAUbvzrB7g"
+      ]
     },
     "Doing-and-Feeling-Long-02-Minds-in-Other-Bodies": {
-      "video_id": "CTT8Ao-0I50",
+      "video_id": "HGzI342YJ6E",
       "thumbnail": true,
       "captions": true,
       "in_playlist": true,
-      "replacement": {
-        "video_id": "HGzI342YJ6E"
-      }
+      "replaced": [
+        "CTT8Ao-0I50"
+      ]
     },
     "Doing-and-Feeling-Long-03-Intelligence-Formally": {
-      "video_id": "IZXs-ca8s0w",
+      "video_id": "jBVjH9J3ODg",
       "thumbnail": true,
       "captions": true,
       "in_playlist": true,
-      "replacement": {
-        "video_id": "jBVjH9J3ODg"
-      }
+      "replaced": [
+        "IZXs-ca8s0w"
+      ]
     },
     "Doing-and-Feeling-Long-04-Life-as-Computation": {
-      "video_id": "qLnbuH9at5M",
+      "video_id": "w3wbY6IZius",
       "thumbnail": true,
       "captions": true,
       "in_playlist": true,
-      "replacement": {
-        "video_id": "w3wbY6IZius"
-      }
+      "replaced": [
+        "qLnbuH9at5M"
+      ]
     },
     "Doing-and-Feeling-Long-05-The-Predictive-Brain": {
-      "video_id": "svUN2-8MKaE",
+      "video_id": "skNxkO9XXNc",
       "thumbnail": true,
       "captions": true,
       "in_playlist": true,
-      "replacement": {
-        "video_id": "skNxkO9XXNc"
-      }
+      "replaced": [
+        "svUN2-8MKaE"
+      ]
     },
     "Doing-and-Feeling-Long-06-Machines-That-Learn": {
-      "video_id": "BrO1wQhyh5w",
+      "video_id": "frhpqzyEwRE",
       "thumbnail": true,
       "captions": true,
       "in_playlist": true,
-      "replacement": {
-        "video_id": "frhpqzyEwRE"
-      }
+      "replaced": [
+        "BrO1wQhyh5w"
+      ]
     },
     "Doing-and-Feeling-Long-07-The-Hard-Problem": {
-      "video_id": "cKNJ9dz8l6M",
+      "video_id": "xbj2vy_v4AA",
       "thumbnail": true,
       "captions": true,
       "in_playlist": true,
-      "replacement": {
-        "video_id": "xbj2vy_v4AA"
-      }
+      "replaced": [
+        "cKNJ9dz8l6M"
+      ]
     },
     "Doing-and-Feeling-Long-08-The-Case-for-Illusion": {
-      "video_id": "7aAuRB7JDKI",
+      "video_id": "_fEyDkdSjh8",
       "thumbnail": true,
       "captions": true,
       "in_playlist": true,
-      "replacement": {
-        "video_id": "_fEyDkdSjh8"
-      }
+      "replaced": [
+        "7aAuRB7JDKI"
+      ]
     },
     "Doing-and-Feeling-Long-09-The-Map-of-Positions": {
-      "video_id": "WiJUDYY8KsM",
+      "video_id": "WC1ISsFgGmQ",
       "thumbnail": true,
       "captions": true,
       "in_playlist": true,
-      "replacement": {
-        "video_id": "WC1ISsFgGmQ"
-      }
+      "replaced": [
+        "WiJUDYY8KsM"
+      ]
     },
     "Doing-and-Feeling-Long-10-The-Evidence": {
-      "video_id": "FRcah4UaeuA",
+      "video_id": "Gt606UAKlS0",
       "thumbnail": true,
       "captions": true,
       "in_playlist": true,
-      "replacement": {
-        "video_id": "Gt606UAKlS0"
-      }
+      "replaced": [
+        "FRcah4UaeuA"
+      ]
     },
     "Doing-and-Feeling-Long-11-Theories-on-Trial": {
-      "video_id": "nh9B8yx_Mes",
+      "video_id": "9W8zvWHWMyE",
       "thumbnail": true,
       "captions": true,
       "in_playlist": true,
-      "replacement": {
-        "video_id": "9W8zvWHWMyE"
-      }
+      "replaced": [
+        "nh9B8yx_Mes"
+      ]
     },
     "Doing-and-Feeling-Long-12-Machine-Minds": {
-      "video_id": "rQYiX5pfOmU",
+      "video_id": "VHBLYFOWkwE",
       "thumbnail": true,
       "captions": true,
       "in_playlist": true,
-      "replacement": {
-        "video_id": "VHBLYFOWkwE"
-      }
+      "replaced": [
+        "rQYiX5pfOmU"
+      ]
     },
     "Doing-and-Feeling-Long-13-The-Case-Against": {
-      "video_id": "8U_89jBximU",
+      "video_id": "FW6DRXzhTCA",
       "thumbnail": true,
       "captions": true,
       "in_playlist": true,
-      "replacement": {
-        "video_id": "FW6DRXzhTCA"
-      }
+      "replaced": [
+        "8U_89jBximU"
+      ]
     },
     "Doing-and-Feeling-Long-14-The-Stakes": {
-      "video_id": "-SaSV4Njouk",
+      "video_id": "0xHkBxHzfF4",
       "thumbnail": true,
       "captions": true,
       "in_playlist": true,
-      "replacement": {
-        "video_id": "0xHkBxHzfF4"
-      }
+      "replaced": [
+        "-SaSV4Njouk"
+      ]
     }
   }
 }
