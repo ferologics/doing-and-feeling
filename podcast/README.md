@@ -1,4 +1,4 @@
-# intelligence-pod
+# podcast
 
 **Doing and Feeling**: a podcast on intelligence and consciousness, written by Claude and voiced with
 synthetic TTS, turned into YouTube uploads. It exists in two versions, each in its own folder:

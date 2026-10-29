@@ -1,4 +1,4 @@
-# intelligence-pod
+# doing-and-feeling
 
 Work on intelligence and consciousness: a published podcast series, and a map and watch of the research field.
 Direction in `VISION.md`, open work in `TODO.md`.

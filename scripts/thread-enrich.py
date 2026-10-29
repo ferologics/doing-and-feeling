@@ -26,7 +26,7 @@ def fetch(post_id):
     if cached.exists():
         return json.loads(cached.read_text())
     request = urllib.request.Request(
-        f"https://api.fxtwitter.com/status/{post_id}", headers={"User-Agent": "intelligence-pod/1.0"}
+        f"https://api.fxtwitter.com/status/{post_id}", headers={"User-Agent": "doing-and-feeling/1.0"}
     )
     with urllib.request.urlopen(request, timeout=30) as response:
         data = json.loads(response.read())
