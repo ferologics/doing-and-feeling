@@ -11,6 +11,8 @@
 # openalex OpenAlex author ID, pinned after review ("none" = not attributable in OpenAlex). Remove it to re-run the
 #          automatic match, which uses `hint`.
 # died     year, for people whose work is historical on the map.
+# watch    "core" for people who publish widely outside the field: the watch then keeps only their works about
+#          consciousness, sentience, experience, minds or moral status.
 
 # --- Neuroscience and theories of consciousness ---
 
@@ -68,6 +70,7 @@ camps = ["global-workspace"]
 [[person]]
 name = "Jean-Pierre Changeux"
 openalex = "A5056074308"
+watch = "core"
 camps = ["global-workspace"]
 
 [[person]]
@@ -242,6 +245,7 @@ camps = ["biological-naturalism"]
 [[person]]
 name = "Michael Levin"
 openalex = "A5085228887"
+watch = "core"
 camps = ["basal-cognition"]
 hint = "Tufts"
 
@@ -325,6 +329,7 @@ camps = ["ai-consciousness"]
 [[person]]
 name = "Susan Schneider"
 openalex = "A5017841653"
+watch = "core"
 camps = ["ai-consciousness"]
 
 # --- AI consciousness and welfare ---
@@ -353,6 +358,7 @@ camps = ["ai-consciousness"]
 [[person]]
 name = "Yoshua Bengio"
 openalex = "A5086198262"
+watch = "core"
 camps = ["ai-consciousness"]
 
 [[person]]
@@ -373,22 +379,26 @@ camps = ["ai-consciousness"]
 [[person]]
 name = "Murray Shanahan"
 openalex = "A5072322524"
+watch = "core"
 camps = ["ai-consciousness"]
 
 [[person]]
 name = "Wes Gurnee"
 openalex = "A5036313350"
+watch = "core"
 camps = ["ai-consciousness"]
 
 [[person]]
 name = "Jack Lindsey"
 openalex = "A5006832724"
+watch = "core"
 camps = ["ai-consciousness"]
 hint = "Anthropic"
 
 [[person]]
 name = "Blaise Agüera y Arcas"
 openalex = "A5044698998"
+watch = "core"
 camps = ["computational-functionalism"]
 crux = "yes"
 crux_source = "https://www.cambridge.org/core/journals/behavioral-and-brain-sciences/article/abs/life-is-inherently-computational-and-consciousness-probably-is-too-a-commentary-on-conscious-artificial-intelligence-and-biological-naturalism/CFB6A91374384CDD12A9EED39C9C8FB4"
@@ -396,6 +406,7 @@ crux_source = "https://www.cambridge.org/core/journals/behavioral-and-brain-scie
 [[person]]
 name = "Blake Richards"
 openalex = "A5004133705"
+watch = "core"
 camps = ["computational-functionalism"]
 crux = "yes"
 crux_source = "https://www.cambridge.org/core/journals/behavioral-and-brain-sciences/article/abs/life-is-inherently-computational-and-consciousness-probably-is-too-a-commentary-on-conscious-artificial-intelligence-and-biological-naturalism/CFB6A91374384CDD12A9EED39C9C8FB4"
@@ -403,6 +414,7 @@ crux_source = "https://www.cambridge.org/core/journals/behavioral-and-brain-scie
 [[person]]
 name = "Geoffrey Hinton"
 openalex = "A5108093963"
+watch = "core"
 camps = ["computational-functionalism"]
 crux = "yes"
 crux_source = "https://www.nature.com/articles/d41586-026-03313-7"
