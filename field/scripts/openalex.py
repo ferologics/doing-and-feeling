@@ -19,7 +19,7 @@ FIELD = Path(__file__).resolve().parent.parent
 CACHE = FIELD / "cache"
 API = "https://api.openalex.org"
 OP_KEY = "op://Pi/OPENALEX_API_KEY/credential"
-USER_AGENT = "doing-and-feeling-field/1.0 (+https://github.com/ferologics)"
+USER_AGENT = "doing-and-feeling-field/1.0"
 
 
 def people():
