@@ -1,0 +1,434 @@
+# Seed researchers for the field map.
+#
+# camps    position families, first pass from Doing and Feeling (unreviewed until each has a source):
+#          global-workspace, higher-order, recurrent-processing, iit, predictive-processing, attention-schema,
+#          illusionism, self-model, neurorepresentationalism, biological-naturalism, panpsychism, idealism, orch-or,
+#          dualism, ual (unlimited associative learning), evolution, basal-cognition, metacognition, methods (measures,
+#          theory testing, adversarial collaborations, clinical),
+#          ai-consciousness (assessing AI systems), ai-welfare (moral status, precaution), computational-functionalism
+# crux     "yes" | "no": is the right computation enough for consciousness? Only with crux_source.
+# hint     substring of an affiliation or topic, used to pick the right OpenAlex author.
+# openalex OpenAlex author ID, pinned after review ("none" = not attributable in OpenAlex). Remove it to re-run the
+#          automatic match, which uses `hint`.
+# died     year, for people whose work is historical on the map.
+
+# --- Neuroscience and theories of consciousness ---
+
+[[person]]
+name = "Anil Seth"
+openalex = "A5084274787"
+camps = ["biological-naturalism", "predictive-processing"]
+crux = "no"
+crux_source = "https://www.nature.com/articles/d41586-026-03313-7"
+
+[[person]]
+name = "Giulio Tononi"
+openalex = "A5001381023"
+camps = ["iit"]
+crux = "no"
+crux_source = "https://www.nature.com/articles/d41586-026-03313-7"
+
+[[person]]
+name = "Christof Koch"
+openalex = "A5084822308"
+camps = ["iit"]
+crux = "no"
+crux_source = "The Feeling of Life Itself: Why Consciousness Is Widespread but Can't Be Computed (MIT Press, 2019)"
+
+[[person]]
+name = "Melanie Boly"
+openalex = "A5087178525"
+camps = ["iit", "methods"]
+
+[[person]]
+name = "Larissa Albantakis"
+openalex = "A5088756569"
+camps = ["iit"]
+
+[[person]]
+name = "Graham Findlay"
+openalex = "A5082866185"
+camps = ["iit"]
+
+[[person]]
+name = "William G. P. Mayner"
+openalex = "A5008945327"
+camps = ["iit"]
+
+[[person]]
+name = "Marcello Massimini"
+openalex = "A5031116162"
+camps = ["methods", "iit"]
+
+[[person]]
+name = "Stanislas Dehaene"
+openalex = "A5075892407"
+camps = ["global-workspace"]
+
+[[person]]
+name = "Jean-Pierre Changeux"
+openalex = "A5056074308"
+camps = ["global-workspace"]
+
+[[person]]
+name = "Bernard Baars"
+openalex = "A5059485790"
+camps = ["global-workspace"]
+
+[[person]]
+name = "George Mashour"
+openalex = "A5080287940"
+camps = ["global-workspace", "methods"]
+
+[[person]]
+name = "Lucia Melloni"
+openalex = "A5019045358"
+camps = ["methods"]
+
+[[person]]
+name = "Liad Mudrik"
+openalex = "A5051873475"
+camps = ["methods"]
+
+[[person]]
+name = "Hakwan Lau"
+openalex = "A5034494545"
+camps = ["higher-order"]
+
+[[person]]
+name = "David Rosenthal"
+openalex = "A5085043116"
+camps = ["higher-order"]
+hint = "CUNY"
+
+[[person]]
+name = "Joseph LeDoux"
+openalex = "A5009472826"
+camps = ["higher-order"]
+
+[[person]]
+name = "Victor Lamme"
+openalex = "A5027609044"
+camps = ["recurrent-processing"]
+
+[[person]]
+name = "Michael Graziano"
+openalex = "A5007961852"
+camps = ["attention-schema"]
+hint = "Princeton"
+
+[[person]]
+name = "Karl Friston"
+openalex = "A5086852785"
+camps = ["predictive-processing"]
+
+[[person]]
+name = "Mark Solms"
+openalex = "A5056005467"
+camps = ["predictive-processing"]
+
+[[person]]
+name = "Andy Clark"
+openalex = "A5088506012"
+camps = ["predictive-processing"]
+hint = "Sussex"
+
+[[person]]
+name = "Jakob Hohwy"
+openalex = "A5083789193"
+camps = ["predictive-processing"]
+
+[[person]]
+name = "Ruben Laukkonen"
+openalex = "A5066145746"
+camps = ["predictive-processing"]
+
+[[person]]
+name = "Shamil Chandaria"
+openalex = "A5085626035"
+camps = ["predictive-processing"]
+
+[[person]]
+name = "Cyriel Pennartz"
+openalex = "A5051130900"
+camps = ["neurorepresentationalism"]
+
+[[person]]
+name = "Thomas Metzinger"
+openalex = "A5036226202"
+camps = ["self-model"]
+
+[[person]]
+name = "Steve Fleming"
+openalex = "A5082377107"
+camps = ["metacognition"]
+hint = "London"
+
+[[person]]
+name = "Megan A. K. Peters"
+openalex = "A5057951470"
+camps = ["metacognition"]
+
+[[person]]
+name = "Matthias Michel"
+openalex = "A5052506483"
+camps = ["higher-order"]
+hint = "Massachusetts"
+
+[[person]]
+name = "Tim Bayne"
+openalex = "A5010096301"
+camps = ["methods"]
+
+[[person]]
+name = "Axel Cleeremans"
+openalex = "A5048309074"
+camps = ["higher-order"]
+
+[[person]]
+name = "Fernando Rosas"
+openalex = "A5020498855"
+camps = ["methods"]
+hint = "Sussex"
+
+[[person]]
+name = "Pedro Mediano"
+openalex = "A5074280948"
+camps = ["methods"]
+
+[[person]]
+name = "Doris Tsao"
+openalex = "A5023431990"
+camps = ["methods"]
+
+[[person]]
+name = "Adrian Owen"
+openalex = "A5027512786"
+camps = ["methods"]
+hint = "Western"
+
+[[person]]
+name = "Erik Hoel"
+openalex = "A5063739037"
+camps = ["methods"]
+
+# --- Evolution, animals, biology ---
+
+[[person]]
+name = "Simona Ginsburg"
+openalex = "A5068595428"
+camps = ["ual"]
+
+[[person]]
+name = "Eva Jablonka"
+openalex = "A5010382770"
+camps = ["ual"]
+
+[[person]]
+name = "Peter Godfrey-Smith"
+openalex = "A5050102668"
+camps = ["evolution"]
+
+[[person]]
+name = "Todd Feinberg"
+openalex = "A5111697687"
+camps = ["biological-naturalism"]
+
+[[person]]
+name = "Jon Mallatt"
+openalex = "A5000584262"
+camps = ["biological-naturalism"]
+
+[[person]]
+name = "Michael Levin"
+openalex = "A5085228887"
+camps = ["basal-cognition"]
+hint = "Tufts"
+
+# --- Philosophy of mind ---
+
+[[person]]
+name = "David Chalmers"
+openalex = "A5103215889"
+camps = ["dualism", "ai-consciousness"]
+crux = "yes"
+crux_source = "https://arxiv.org/abs/2303.07103"
+
+[[person]]
+name = "Daniel Dennett"
+openalex = "A5083743331"
+camps = ["illusionism"]
+died = 2024
+
+[[person]]
+name = "Keith Frankish"
+openalex = "A5052938596"
+camps = ["illusionism"]
+
+[[person]]
+name = "François Kammerer"
+openalex = "A5061671485"
+camps = ["illusionism"]
+
+[[person]]
+name = "Ned Block"
+openalex = "A5001386594"
+camps = ["biological-naturalism"]
+crux = "no"
+crux_source = "https://www.nature.com/articles/d41586-026-03313-7"
+
+[[person]]
+name = "John Searle"
+openalex = "A5110903974"
+camps = ["biological-naturalism"]
+crux = "no"
+crux_source = "https://plato.stanford.edu/entries/chinese-room/"
+died = 2025
+
+[[person]]
+name = "Thomas Nagel"
+openalex = "A5110317248"
+camps = []
+hint = "New York University"
+
+[[person]]
+name = "Philip Goff"
+openalex = "A5047705680"
+camps = ["panpsychism"]
+
+[[person]]
+name = "Galen Strawson"
+openalex = "A5086463556"
+camps = ["panpsychism"]
+
+[[person]]
+name = "Bernardo Kastrup"
+openalex = "A5046285851"
+camps = ["idealism"]
+
+[[person]]
+name = "Eric Schwitzgebel"
+openalex = "A5033183445"
+camps = ["ai-welfare"]
+
+[[person]]
+name = "Jonathan Birch"
+openalex = "A5053207196"
+camps = ["ai-welfare"]
+hint = "London School of Economics"
+
+[[person]]
+name = "Henry Shevlin"
+openalex = "A5019796085"
+camps = ["ai-consciousness"]
+
+[[person]]
+name = "Susan Schneider"
+openalex = "A5017841653"
+camps = ["ai-consciousness"]
+
+# --- AI consciousness and welfare ---
+
+[[person]]
+name = "Patrick Butlin"
+openalex = "A5082533134"
+camps = ["ai-consciousness"]
+
+[[person]]
+name = "Robert Long"
+openalex = "none"  # OpenAlex leaves his authorships unattributed (checked on Butlin et al. 2023 and 2025)
+camps = ["ai-consciousness", "ai-welfare"]
+hint = "consciousness"
+
+[[person]]
+name = "Jeff Sebo"
+openalex = "A5034869664"
+camps = ["ai-welfare"]
+
+[[person]]
+name = "Derek Shiller"
+openalex = "A5028725488"
+camps = ["ai-consciousness"]
+
+[[person]]
+name = "Yoshua Bengio"
+openalex = "A5086198262"
+camps = ["ai-consciousness"]
+
+[[person]]
+name = "Eric Elmoznino"
+openalex = "A5027171832"
+camps = ["ai-consciousness"]
+
+[[person]]
+name = "Rufin VanRullen"
+openalex = "A5078188438"
+camps = ["ai-consciousness", "global-workspace"]
+
+[[person]]
+name = "Ryota Kanai"
+openalex = "A5049957600"
+camps = ["ai-consciousness"]
+
+[[person]]
+name = "Murray Shanahan"
+openalex = "A5072322524"
+camps = ["ai-consciousness"]
+
+[[person]]
+name = "Wes Gurnee"
+openalex = "A5036313350"
+camps = ["ai-consciousness"]
+
+[[person]]
+name = "Jack Lindsey"
+openalex = "A5006832724"
+camps = ["ai-consciousness"]
+hint = "Anthropic"
+
+[[person]]
+name = "Blaise Agüera y Arcas"
+openalex = "A5044698998"
+camps = ["computational-functionalism"]
+crux = "yes"
+crux_source = "https://www.cambridge.org/core/journals/behavioral-and-brain-sciences/article/abs/life-is-inherently-computational-and-consciousness-probably-is-too-a-commentary-on-conscious-artificial-intelligence-and-biological-naturalism/CFB6A91374384CDD12A9EED39C9C8FB4"
+
+[[person]]
+name = "Blake Richards"
+openalex = "A5004133705"
+camps = ["computational-functionalism"]
+crux = "yes"
+crux_source = "https://www.cambridge.org/core/journals/behavioral-and-brain-sciences/article/abs/life-is-inherently-computational-and-consciousness-probably-is-too-a-commentary-on-conscious-artificial-intelligence-and-biological-naturalism/CFB6A91374384CDD12A9EED39C9C8FB4"
+
+[[person]]
+name = "Geoffrey Hinton"
+openalex = "A5108093963"
+camps = ["computational-functionalism"]
+crux = "yes"
+crux_source = "https://www.nature.com/articles/d41586-026-03313-7"
+
+[[person]]
+name = "Michael Timothy Bennett"
+openalex = "A5030698786"
+camps = ["ai-consciousness"]
+
+[[person]]
+name = "Lenore Blum"
+openalex = "A5073359845"
+camps = ["ai-consciousness"]
+
+# --- Quantum ---
+
+[[person]]
+name = "Roger Penrose"
+openalex = "A5014894861"
+camps = ["orch-or"]
+crux = "no"
+crux_source = "https://www.sciencedirect.com/science/article/pii/S1571064513001188"
+
+[[person]]
+name = "Stuart Hameroff"
+openalex = "A5051102175"
+camps = ["orch-or"]
+crux = "no"
+crux_source = "https://www.sciencedirect.com/science/article/pii/S1571064513001188"

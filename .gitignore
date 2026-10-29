@@ -1,6 +1,7 @@
 .DS_Store
 __pycache__/
-/short/out/
-/long/out/
-/work/
-/long/audio/
+work/
+/podcast/short/out/
+/podcast/long/out/
+/podcast/long/audio/
+/field/cache/

@@ -1,0 +1,1191 @@
+[
+  {
+    "name": "Anil Seth",
+    "openalex": "A5084274787",
+    "display_name": "Anil K. Seth",
+    "works_count": 381,
+    "institution": "Canadian Institute for Advanced Research",
+    "topics": [
+      "Philosophy and Theoretical Science",
+      "Embodied and Extended Cognition",
+      "Neural dynamics and brain function",
+      "Visual perception and processing mechanisms",
+      "Free Will and Agency"
+    ],
+    "confidence": "manual",
+    "alternatives": []
+  },
+  {
+    "name": "Giulio Tononi",
+    "openalex": "A5001381023",
+    "display_name": "Giulio Tononi",
+    "works_count": 673,
+    "institution": "University of Wisconsin System",
+    "topics": [
+      "Sleep and Wakefulness Research",
+      "Neural dynamics and brain function",
+      "Philosophy and Theoretical Science",
+      "Sleep and related disorders",
+      "Circadian rhythm and melatonin"
+    ],
+    "confidence": "manual",
+    "alternatives": []
+  },
+  {
+    "name": "Christof Koch",
+    "openalex": "A5084822308",
+    "display_name": "Christof Koch A",
+    "works_count": 1253,
+    "institution": "IMEC",
+    "topics": [
+      "Neural dynamics and brain function",
+      "Visual perception and processing mechanisms",
+      "Philosophy and Theoretical Science",
+      "Neuroscience and Neuropharmacology Research",
+      "Visual Attention and Saliency Detection"
+    ],
+    "confidence": "manual",
+    "alternatives": []
+  },
+  {
+    "name": "Melanie Boly",
+    "openalex": "A5087178525",
+    "display_name": "Mélanie Boly",
+    "works_count": 334,
+    "institution": "University of Wisconsin–Madison",
+    "topics": [
+      "Traumatic Brain Injury Research",
+      "Functional Brain Connectivity Studies",
+      "Neural dynamics and brain function",
+      "Philosophy and Theoretical Science",
+      "Sleep and Wakefulness Research"
+    ],
+    "confidence": "manual",
+    "alternatives": []
+  },
+  {
+    "name": "Larissa Albantakis",
+    "openalex": "A5088756569",
+    "display_name": "Larissa Albantakis",
+    "works_count": 72,
+    "institution": "University of Wisconsin System",
+    "topics": [
+      "Philosophy and History of Science",
+      "Philosophy and Theoretical Science",
+      "Embodied and Extended Cognition",
+      "Complex Systems and Dynamics",
+      "Neural dynamics and brain function"
+    ],
+    "confidence": "manual",
+    "alternatives": []
+  },
+  {
+    "name": "Graham Findlay",
+    "openalex": "A5082866185",
+    "display_name": "Graham Findlay",
+    "works_count": 20,
+    "institution": "University of Wisconsin–Madison",
+    "topics": [
+      "Sleep and Wakefulness Research",
+      "Neural dynamics and brain function",
+      "Philosophy and Theoretical Science",
+      "Functional Brain Connectivity Studies",
+      "Philosophy and History of Science"
+    ],
+    "confidence": "manual",
+    "alternatives": []
+  },
+  {
+    "name": "William G. P. Mayner",
+    "openalex": "A5008945327",
+    "display_name": "William G. P. Mayner",
+    "works_count": 16,
+    "institution": "University of Wisconsin–Madison",
+    "topics": [
+      "Philosophy and Theoretical Science",
+      "Neural dynamics and brain function",
+      "Embodied and Extended Cognition",
+      "Philosophy and History of Science",
+      "Visual perception and processing mechanisms"
+    ],
+    "confidence": "manual",
+    "alternatives": []
+  },
+  {
+    "name": "Marcello Massimini",
+    "openalex": "A5031116162",
+    "display_name": "Marcello Massimini",
+    "works_count": 373,
+    "institution": "Canadian Institute for Advanced Research",
+    "topics": [
+      "Neural dynamics and brain function",
+      "Transcranial Magnetic Stimulation Studies",
+      "Traumatic Brain Injury Research",
+      "Functional Brain Connectivity Studies",
+      "Sleep and Wakefulness Research"
+    ],
+    "confidence": "manual",
+    "alternatives": []
+  },
+  {
+    "name": "Stanislas Dehaene",
+    "openalex": "A5075892407",
+    "display_name": "Stanislas Dehaene",
+    "works_count": 1096,
+    "institution": "Université Paris-Sud",
+    "topics": [
+      "Neurobiology of Language and Bilingualism",
+      "Cognitive and developmental aspects of mathematical skills",
+      "Visual perception and processing mechanisms",
+      "Reading and Literacy Development",
+      "Neural and Behavioral Psychology Studies"
+    ],
+    "confidence": "manual",
+    "alternatives": []
+  },
+  {
+    "name": "Jean-Pierre Changeux",
+    "openalex": "A5056074308",
+    "display_name": "Jean‐Pierre Changeux",
+    "works_count": 1352,
+    "institution": "Institut Pasteur",
+    "topics": [
+      "Nicotinic Acetylcholine Receptors Study",
+      "Neuroscience and Neuropharmacology Research",
+      "Receptor Mechanisms and Signaling",
+      "Ion channel regulation and function",
+      "Philosophy and Theoretical Science"
+    ],
+    "confidence": "manual",
+    "alternatives": []
+  },
+  {
+    "name": "Bernard Baars",
+    "openalex": "A5059485790",
+    "display_name": "Bernard J. Baars",
+    "works_count": 284,
+    "institution": "Florida Atlantic University",
+    "topics": [
+      "Philosophy and Theoretical Science",
+      "Neural dynamics and brain function",
+      "Cognitive Science and Education Research",
+      "Neural and Behavioral Psychology Studies",
+      "Embodied and Extended Cognition"
+    ],
+    "confidence": "manual",
+    "alternatives": []
+  },
+  {
+    "name": "George Mashour",
+    "openalex": "A5080287940",
+    "display_name": "George A. Mashour",
+    "works_count": 477,
+    "institution": "University of Michigan",
+    "topics": [
+      "Anesthesia and Sedative Agents",
+      "Anesthesia and Neurotoxicity Research",
+      "Neural dynamics and brain function",
+      "Functional Brain Connectivity Studies",
+      "Sleep and Wakefulness Research"
+    ],
+    "confidence": "manual",
+    "alternatives": []
+  },
+  {
+    "name": "Lucia Melloni",
+    "openalex": "A5019045358",
+    "display_name": "Lucía Melloni",
+    "works_count": 238,
+    "institution": "Canadian Institute for Advanced Research",
+    "topics": [
+      "Neural dynamics and brain function",
+      "Visual perception and processing mechanisms",
+      "Philosophy and Theoretical Science",
+      "Neurobiology of Language and Bilingualism",
+      "Neuroscience and Music Perception"
+    ],
+    "confidence": "manual",
+    "alternatives": []
+  },
+  {
+    "name": "Liad Mudrik",
+    "openalex": "A5051873475",
+    "display_name": "Liad Mudrik",
+    "works_count": 201,
+    "institution": "Canadian Institute for Advanced Research",
+    "topics": [
+      "Visual perception and processing mechanisms",
+      "Philosophy and Theoretical Science",
+      "Neural dynamics and brain function",
+      "Neural and Behavioral Psychology Studies",
+      "Free Will and Agency"
+    ],
+    "confidence": "manual",
+    "alternatives": []
+  },
+  {
+    "name": "Hakwan Lau",
+    "openalex": "A5034494545",
+    "display_name": "Hakwan C. Lau",
+    "works_count": 336,
+    "institution": "RIKEN Center for Brain Science",
+    "topics": [
+      "Visual perception and processing mechanisms",
+      "Neural and Behavioral Psychology Studies",
+      "Philosophy and Theoretical Science",
+      "Free Will and Agency",
+      "Memory Processes and Influences"
+    ],
+    "confidence": "manual",
+    "alternatives": []
+  },
+  {
+    "name": "David Rosenthal",
+    "openalex": "A5085043116",
+    "display_name": "DAVID M. ROSENTHAL",
+    "works_count": 155,
+    "institution": "The Graduate Center, CUNY",
+    "topics": [
+      "Philosophy and Theoretical Science",
+      "Epistemology, Ethics, and Metaphysics",
+      "Mental Health and Psychiatry",
+      "Free Will and Agency",
+      "Phenomenology and Existential Philosophy"
+    ],
+    "confidence": "manual",
+    "alternatives": []
+  },
+  {
+    "name": "Joseph LeDoux",
+    "openalex": "A5009472826",
+    "display_name": "Joseph E. LeDoux",
+    "works_count": 556,
+    "institution": "NYU Langone Health",
+    "topics": [
+      "Memory and Neural Mechanisms",
+      "Neuroscience and Neuropharmacology Research",
+      "Neural and Behavioral Psychology Studies",
+      "Neurotransmitter Receptor Influence on Behavior",
+      "Memory Processes and Influences"
+    ],
+    "confidence": "manual",
+    "alternatives": []
+  },
+  {
+    "name": "Victor Lamme",
+    "openalex": "A5027609044",
+    "display_name": "Victor A. F. Lamme",
+    "works_count": 302,
+    "institution": "University of Amsterdam",
+    "topics": [
+      "Visual perception and processing mechanisms",
+      "Face Recognition and Perception",
+      "Visual Attention and Saliency Detection",
+      "Philosophy and Theoretical Science",
+      "Neural and Behavioral Psychology Studies"
+    ],
+    "confidence": "manual",
+    "alternatives": []
+  },
+  {
+    "name": "Michael Graziano",
+    "openalex": "A5007961852",
+    "display_name": "Michael S. A. Graziano",
+    "works_count": 146,
+    "institution": "Princeton University",
+    "topics": [
+      "Motor Control and Adaptation",
+      "Visual perception and processing mechanisms",
+      "Philosophy and Theoretical Science",
+      "Tactile and Sensory Interactions",
+      "Multisensory perception and integration"
+    ],
+    "confidence": "manual",
+    "alternatives": []
+  },
+  {
+    "name": "Karl Friston",
+    "openalex": "A5086852785",
+    "display_name": "Karl John Friston",
+    "works_count": 2346,
+    "institution": "Wellcome Centre for Human Neuroimaging",
+    "topics": [
+      "Functional Brain Connectivity Studies",
+      "Neural dynamics and brain function",
+      "Embodied and Extended Cognition",
+      "Neural and Behavioral Psychology Studies",
+      "Advanced Neuroimaging Techniques and Applications"
+    ],
+    "confidence": "manual",
+    "alternatives": []
+  },
+  {
+    "name": "Mark Solms",
+    "openalex": "A5056005467",
+    "display_name": "Mark Solms",
+    "works_count": 369,
+    "institution": "University of Cape Town",
+    "topics": [
+      "Psychoanalysis and Psychopathology Research",
+      "Philosophy and Theoretical Science",
+      "Psychology and Mental Health",
+      "Sleep and Wakefulness Research",
+      "Academic and Historical Perspectives in Psychology"
+    ],
+    "confidence": "manual",
+    "alternatives": []
+  },
+  {
+    "name": "Andy Clark",
+    "openalex": "A5088506012",
+    "display_name": "Andy Clark",
+    "works_count": 477,
+    "institution": "University of Sussex",
+    "topics": [
+      "Philosophy and Theoretical Science",
+      "Embodied and Extended Cognition",
+      "Cybernetics and Technology in Society",
+      "Epistemology, Ethics, and Metaphysics",
+      "Philosophy and History of Science"
+    ],
+    "confidence": "manual",
+    "alternatives": []
+  },
+  {
+    "name": "Jakob Hohwy",
+    "openalex": "A5083789193",
+    "display_name": "Jakob Hohwy",
+    "works_count": 335,
+    "institution": "University of Tasmania",
+    "topics": [
+      "Philosophy and Theoretical Science",
+      "Embodied and Extended Cognition",
+      "Free Will and Agency",
+      "Philosophy and History of Science",
+      "Mental Health and Psychiatry"
+    ],
+    "confidence": "manual",
+    "alternatives": []
+  },
+  {
+    "name": "Ruben Laukkonen",
+    "openalex": "A5066145746",
+    "display_name": "Ruben Laukkonen",
+    "works_count": 301,
+    "institution": "University of Oxford",
+    "topics": [
+      "Creativity in Education and Neuroscience",
+      "Memory Processes and Influences",
+      "Cognitive Science and Education Research",
+      "Decision-Making and Behavioral Economics",
+      "Mindfulness and Compassion Interventions"
+    ],
+    "confidence": "manual",
+    "alternatives": []
+  },
+  {
+    "name": "Shamil Chandaria",
+    "openalex": "A5085626035",
+    "display_name": "Shamil Chandaria",
+    "works_count": 26,
+    "institution": "Universitat Pompeu Fabra",
+    "topics": [
+      "Philosophy and Theoretical Science",
+      "Cognitive Science and Education Research",
+      "Embodied and Extended Cognition",
+      "Neural dynamics and brain function",
+      "Psychiatry, Mental Health, Neuroscience"
+    ],
+    "confidence": "manual",
+    "alternatives": []
+  },
+  {
+    "name": "Cyriel Pennartz",
+    "openalex": "A5051130900",
+    "display_name": "Cyriel M. A. Pennartz",
+    "works_count": 366,
+    "institution": "University of Amsterdam",
+    "topics": [
+      "Neural dynamics and brain function",
+      "Memory and Neural Mechanisms",
+      "Neuroscience and Neuropharmacology Research",
+      "Philosophy and Theoretical Science",
+      "Visual perception and processing mechanisms"
+    ],
+    "confidence": "manual",
+    "alternatives": []
+  },
+  {
+    "name": "Thomas Metzinger",
+    "openalex": "A5036226202",
+    "display_name": "Thomas K. Metzinger",
+    "works_count": 192,
+    "institution": "Johannes Gutenberg University Mainz",
+    "topics": [
+      "Philosophy and Theoretical Science",
+      "Embodied and Extended Cognition",
+      "Mental Health and Psychiatry",
+      "Free Will and Agency",
+      "Phenomenology and Existential Philosophy"
+    ],
+    "confidence": "manual",
+    "alternatives": []
+  },
+  {
+    "name": "Steve Fleming",
+    "openalex": "A5082377107",
+    "display_name": "Stephen M. Fleming",
+    "works_count": 400,
+    "institution": "Broad Institute",
+    "topics": [
+      "Neural and Behavioral Psychology Studies",
+      "Visual perception and processing mechanisms",
+      "Memory Processes and Influences",
+      "Decision-Making and Behavioral Economics",
+      "Philosophy and Theoretical Science"
+    ],
+    "confidence": "manual",
+    "alternatives": []
+  },
+  {
+    "name": "Megan A. K. Peters",
+    "openalex": "A5057951470",
+    "display_name": "Megan A. K. Peters",
+    "works_count": 161,
+    "institution": "Canadian Institute for Advanced Research",
+    "topics": [
+      "Visual perception and processing mechanisms",
+      "Philosophy and Theoretical Science",
+      "Neural and Behavioral Psychology Studies",
+      "Memory Processes and Influences",
+      "Neural dynamics and brain function"
+    ],
+    "confidence": "manual",
+    "alternatives": []
+  },
+  {
+    "name": "Matthias Michel",
+    "openalex": "A5052506483",
+    "display_name": "Matthias Michel",
+    "works_count": 60,
+    "institution": "Massachusetts Institute of Technology",
+    "topics": [
+      "Philosophy and Theoretical Science",
+      "Visual perception and processing mechanisms",
+      "Philosophy and History of Science",
+      "Epistemology, Ethics, and Metaphysics",
+      "Embodied and Extended Cognition"
+    ],
+    "confidence": "manual",
+    "alternatives": []
+  },
+  {
+    "name": "Tim Bayne",
+    "openalex": "A5010096301",
+    "display_name": "Tim Bayne",
+    "works_count": 267,
+    "institution": "Canadian Institute for Advanced Research",
+    "topics": [
+      "Philosophy and Theoretical Science",
+      "Epistemology, Ethics, and Metaphysics",
+      "Mental Health and Psychiatry",
+      "Free Will and Agency",
+      "Embodied and Extended Cognition"
+    ],
+    "confidence": "manual",
+    "alternatives": []
+  },
+  {
+    "name": "Axel Cleeremans",
+    "openalex": "A5048309074",
+    "display_name": "Axel Cleeremans",
+    "works_count": 933,
+    "institution": "Université Libre de Bruxelles",
+    "topics": [
+      "Philosophy and Theoretical Science",
+      "Neural and Behavioral Psychology Studies",
+      "Memory Processes and Influences",
+      "Motor Control and Adaptation",
+      "Free Will and Agency"
+    ],
+    "confidence": "manual",
+    "alternatives": []
+  },
+  {
+    "name": "Fernando Rosas",
+    "openalex": "A5020498855",
+    "display_name": "Fernando E. Rosas",
+    "works_count": 295,
+    "institution": "University of Sussex",
+    "topics": [
+      "Functional Brain Connectivity Studies",
+      "Neural dynamics and brain function",
+      "Complex Systems and Dynamics",
+      "Psychedelics and Drug Studies",
+      "Philosophy and Theoretical Science"
+    ],
+    "confidence": "manual",
+    "alternatives": []
+  },
+  {
+    "name": "Pedro Mediano",
+    "openalex": "A5074280948",
+    "display_name": "Pedro A. M. Mediano",
+    "works_count": 255,
+    "institution": "Queen Mary University of London",
+    "topics": [
+      "Neural dynamics and brain function",
+      "Functional Brain Connectivity Studies",
+      "Complex Systems and Dynamics",
+      "Philosophy and Theoretical Science",
+      "Psychedelics and Drug Studies"
+    ],
+    "confidence": "manual",
+    "alternatives": []
+  },
+  {
+    "name": "Doris Tsao",
+    "openalex": "A5023431990",
+    "display_name": "Doris Ying Tsao",
+    "works_count": 118,
+    "institution": "Howard Hughes Medical Institute",
+    "topics": [
+      "Face Recognition and Perception",
+      "Visual perception and processing mechanisms",
+      "Face recognition and analysis",
+      "Primate Behavior and Ecology",
+      "Memory and Neural Mechanisms"
+    ],
+    "confidence": "manual",
+    "alternatives": []
+  },
+  {
+    "name": "Adrian Owen",
+    "openalex": "A5027512786",
+    "display_name": "Adrian Mark Owen",
+    "works_count": 496,
+    "institution": "Western University",
+    "topics": [
+      "Traumatic Brain Injury Research",
+      "Neural and Behavioral Psychology Studies",
+      "Functional Brain Connectivity Studies",
+      "Philosophy and Theoretical Science",
+      "Cognitive Functions and Memory"
+    ],
+    "confidence": "manual",
+    "alternatives": []
+  },
+  {
+    "name": "Erik Hoel",
+    "openalex": "A5063739037",
+    "display_name": "Erik P. Hoel",
+    "works_count": 31,
+    "institution": "Tufts University",
+    "topics": [
+      "Philosophy and History of Science",
+      "Complex Systems and Dynamics",
+      "Philosophy and Theoretical Science",
+      "Complex Network Analysis Techniques",
+      "Neural dynamics and brain function"
+    ],
+    "confidence": "manual",
+    "alternatives": []
+  },
+  {
+    "name": "Simona Ginsburg",
+    "openalex": "A5068595428",
+    "display_name": "Simona Ginsburg",
+    "works_count": 73,
+    "institution": "Open University of Israel",
+    "topics": [
+      "Philosophy and Theoretical Science",
+      "Philosophy and History of Science",
+      "Embodied and Extended Cognition",
+      "Ion channel regulation and function",
+      "Neuroscience and Neuropharmacology Research"
+    ],
+    "confidence": "manual",
+    "alternatives": []
+  },
+  {
+    "name": "Eva Jablonka",
+    "openalex": "A5010382770",
+    "display_name": "Eva Jablonka",
+    "works_count": 207,
+    "institution": "Tel Aviv University",
+    "topics": [
+      "Philosophy and History of Science",
+      "Evolution and Genetic Dynamics",
+      "Language and cultural evolution",
+      "Epigenetics and DNA Methylation",
+      "Philosophy and Theoretical Science"
+    ],
+    "confidence": "manual",
+    "alternatives": []
+  },
+  {
+    "name": "Peter Godfrey-Smith",
+    "openalex": "A5050102668",
+    "display_name": "Peter Godfrey‐Smith",
+    "works_count": 250,
+    "institution": "The University of Sydney",
+    "topics": [
+      "Philosophy and History of Science",
+      "Philosophy and Theoretical Science",
+      "Evolution and Genetic Dynamics",
+      "Epistemology, Ethics, and Metaphysics",
+      "Embodied and Extended Cognition"
+    ],
+    "confidence": "manual",
+    "alternatives": []
+  },
+  {
+    "name": "Todd Feinberg",
+    "openalex": "A5111697687",
+    "display_name": "Todd E. Feinberg",
+    "works_count": 97,
+    "institution": "Icahn School of Medicine at Mount Sinai",
+    "topics": [
+      "Philosophy and Theoretical Science",
+      "Embodied and Extended Cognition",
+      "Spatial Neglect and Hemispheric Dysfunction",
+      "Mental Health and Psychiatry",
+      "Philosophy and History of Science"
+    ],
+    "confidence": "manual",
+    "alternatives": []
+  },
+  {
+    "name": "Jon Mallatt",
+    "openalex": "A5000584262",
+    "display_name": "Jon M. Mallatt",
+    "works_count": 85,
+    "institution": "University of Idaho",
+    "topics": [
+      "Philosophy and Theoretical Science",
+      "Embodied and Extended Cognition",
+      "Philosophy and History of Science",
+      "Fish Biology and Ecology Studies",
+      "Comparative Animal Anatomy Studies"
+    ],
+    "confidence": "manual",
+    "alternatives": []
+  },
+  {
+    "name": "Michael Levin",
+    "openalex": "A5085228887",
+    "display_name": "Michael G. Levin",
+    "works_count": 712,
+    "institution": "Tufts University",
+    "topics": [
+      "Developmental Biology and Gene Regulation",
+      "Planarian Biology and Electrostimulation",
+      "Philosophy and History of Science",
+      "Embodied and Extended Cognition",
+      "Hemispheric Asymmetry in Neuroscience"
+    ],
+    "confidence": "manual",
+    "alternatives": []
+  },
+  {
+    "name": "David Chalmers",
+    "openalex": "A5103215889",
+    "display_name": "David J. Chalmers",
+    "works_count": 251,
+    "institution": "New York University",
+    "topics": [
+      "Philosophy and Theoretical Science",
+      "Epistemology, Ethics, and Metaphysics",
+      "Philosophy and History of Science",
+      "Free Will and Agency",
+      "Cybernetics and Technology in Society"
+    ],
+    "confidence": "manual",
+    "alternatives": []
+  },
+  {
+    "name": "Daniel Dennett",
+    "openalex": "A5083743331",
+    "display_name": "Daniel C. Dennett",
+    "works_count": 529,
+    "institution": null,
+    "topics": [
+      "Philosophy and Theoretical Science",
+      "Embodied and Extended Cognition",
+      "Philosophy and History of Science",
+      "Epistemology, Ethics, and Metaphysics",
+      "Cybernetics and Technology in Society"
+    ],
+    "confidence": "manual",
+    "alternatives": []
+  },
+  {
+    "name": "Keith Frankish",
+    "openalex": "A5052938596",
+    "display_name": "Keith Frankish",
+    "works_count": 101,
+    "institution": "University of Sheffield",
+    "topics": [
+      "Philosophy and Theoretical Science",
+      "Epistemology, Ethics, and Metaphysics",
+      "Free Will and Agency",
+      "Philosophy and History of Science",
+      "Embodied and Extended Cognition"
+    ],
+    "confidence": "manual",
+    "alternatives": []
+  },
+  {
+    "name": "François Kammerer",
+    "openalex": "A5061671485",
+    "display_name": "François Kammerer",
+    "works_count": 72,
+    "institution": "Centre National de la Recherche Scientifique",
+    "topics": [
+      "Philosophy and Theoretical Science",
+      "Epistemology, Ethics, and Metaphysics",
+      "Phenomenology and Existential Philosophy",
+      "Free Will and Agency",
+      "Mental Health and Psychiatry"
+    ],
+    "confidence": "manual",
+    "alternatives": []
+  },
+  {
+    "name": "Ned Block",
+    "openalex": "A5001386594",
+    "display_name": "Ned J. Block",
+    "works_count": 279,
+    "institution": "New York University",
+    "topics": [
+      "Philosophy and Theoretical Science",
+      "Epistemology, Ethics, and Metaphysics",
+      "Free Will and Agency",
+      "Philosophy and History of Science",
+      "Embodied and Extended Cognition"
+    ],
+    "confidence": "manual",
+    "alternatives": []
+  },
+  {
+    "name": "John Searle",
+    "openalex": "A5110903974",
+    "display_name": "John Rogers Searle",
+    "works_count": 580,
+    "institution": "University of California, Berkeley",
+    "topics": [
+      "Philosophy and Theoretical Science",
+      "Epistemology, Ethics, and Metaphysics",
+      "Syntax, Semantics, Linguistic Variation",
+      "Philosophy and History of Science",
+      "Free Will and Agency"
+    ],
+    "confidence": "manual",
+    "alternatives": []
+  },
+  {
+    "name": "Thomas Nagel",
+    "openalex": "A5110317248",
+    "display_name": "Thomas Nagel",
+    "works_count": 72,
+    "institution": null,
+    "topics": [
+      "Philosophical Ethics and Theory",
+      "Philosophy and Theoretical Science",
+      "Epistemology, Ethics, and Metaphysics",
+      "Political Philosophy and Ethics",
+      "Gear and Bearing Dynamics Analysis"
+    ],
+    "confidence": "manual",
+    "alternatives": []
+  },
+  {
+    "name": "Philip Goff",
+    "openalex": "A5047705680",
+    "display_name": "Philip Goff",
+    "works_count": 108,
+    "institution": "Durham University",
+    "topics": [
+      "Philosophy and Theoretical Science",
+      "Epistemology, Ethics, and Metaphysics",
+      "Philosophy and History of Science",
+      "Study and Philosophy of Religion",
+      "Embodied and Extended Cognition"
+    ],
+    "confidence": "manual",
+    "alternatives": []
+  },
+  {
+    "name": "Galen Strawson",
+    "openalex": "A5086463556",
+    "display_name": "Galen Strawson",
+    "works_count": 293,
+    "institution": "University of Reading",
+    "topics": [
+      "Philosophy and Theoretical Science",
+      "Epistemology, Ethics, and Metaphysics",
+      "Philosophical Ethics and Theory",
+      "Phenomenology and Existential Philosophy",
+      "Free Will and Agency"
+    ],
+    "confidence": "manual",
+    "alternatives": []
+  },
+  {
+    "name": "Bernardo Kastrup",
+    "openalex": "A5046285851",
+    "display_name": "Bernardo Kastrup",
+    "works_count": 36,
+    "institution": null,
+    "topics": [
+      "Philosophy and Theoretical Science",
+      "Epistemology, Ethics, and Metaphysics",
+      "Embedded Systems Design Techniques",
+      "Philosophy and History of Science",
+      "VLSI and FPGA Design Techniques"
+    ],
+    "confidence": "manual",
+    "alternatives": []
+  },
+  {
+    "name": "Eric Schwitzgebel",
+    "openalex": "A5033183445",
+    "display_name": "Eric Schwitzgebel",
+    "works_count": 220,
+    "institution": "University of California, Riverside",
+    "topics": [
+      "Philosophy and Theoretical Science",
+      "Epistemology, Ethics, and Metaphysics",
+      "Philosophical Ethics and Theory",
+      "Psychology of Moral and Emotional Judgment",
+      "Ethics in Business and Education"
+    ],
+    "confidence": "manual",
+    "alternatives": []
+  },
+  {
+    "name": "Jonathan Birch",
+    "openalex": "A5053207196",
+    "display_name": "Jonathan Birch",
+    "works_count": 153,
+    "institution": "London School of Economics and Political Science",
+    "topics": [
+      "Philosophy and Theoretical Science",
+      "Philosophy and History of Science",
+      "Evolutionary Game Theory and Cooperation",
+      "Animal Law and Welfare",
+      "Animal Behavior and Welfare Studies"
+    ],
+    "confidence": "manual",
+    "alternatives": []
+  },
+  {
+    "name": "Henry Shevlin",
+    "openalex": "A5019796085",
+    "display_name": "Henry Shevlin",
+    "works_count": 42,
+    "institution": "University of Cambridge",
+    "topics": [
+      "Philosophy and Theoretical Science",
+      "Cybernetics and Technology in Society",
+      "Ethics and Social Impacts of AI",
+      "Embodied and Extended Cognition",
+      "Artificial Intelligence Applications"
+    ],
+    "confidence": "manual",
+    "alternatives": []
+  },
+  {
+    "name": "Susan Schneider",
+    "openalex": "A5017841653",
+    "display_name": "Susan M. Schneider",
+    "works_count": 176,
+    "institution": "Florida Atlantic University",
+    "topics": [
+      "Philosophy and Theoretical Science",
+      "Cancer survivorship and care",
+      "Cybernetics and Technology in Society",
+      "Philosophy and History of Science",
+      "Embodied and Extended Cognition"
+    ],
+    "confidence": "manual",
+    "alternatives": []
+  },
+  {
+    "name": "Patrick Butlin",
+    "openalex": "A5082533134",
+    "display_name": "Patrick Butlin",
+    "works_count": 30,
+    "institution": "University of Oxford",
+    "topics": [
+      "Philosophy and Theoretical Science",
+      "Cybernetics and Technology in Society",
+      "Psychiatry, Mental Health, Neuroscience",
+      "Philosophical Ethics and Theory",
+      "Ethics and Social Impacts of AI"
+    ],
+    "confidence": "manual",
+    "alternatives": []
+  },
+  {
+    "name": "Robert Long",
+    "openalex": null,
+    "confidence": "none"
+  },
+  {
+    "name": "Jeff Sebo",
+    "openalex": "A5034869664",
+    "display_name": "Jeff Sebo",
+    "works_count": 78,
+    "institution": "New York University",
+    "topics": [
+      "Animal Law and Welfare",
+      "Philosophical Ethics and Theory",
+      "Environmental Philosophy and Ethics",
+      "Agriculture Sustainability and Environmental Impact",
+      "Literary and Philosophical Studies"
+    ],
+    "confidence": "manual",
+    "alternatives": []
+  },
+  {
+    "name": "Derek Shiller",
+    "openalex": "A5028725488",
+    "display_name": "Derek Shiller",
+    "works_count": 22,
+    "institution": null,
+    "topics": [
+      "Philosophy and Theoretical Science",
+      "Philosophical Ethics and Theory",
+      "Epistemology, Ethics, and Metaphysics",
+      "Cybernetics and Technology in Society",
+      "Psychiatry, Mental Health, Neuroscience"
+    ],
+    "confidence": "manual",
+    "alternatives": []
+  },
+  {
+    "name": "Yoshua Bengio",
+    "openalex": "A5086198262",
+    "display_name": "Yoshua Bengio",
+    "works_count": 1574,
+    "institution": "Canadian Institute for Advanced Research",
+    "topics": [
+      "Neural Networks and Applications",
+      "Topic Modeling",
+      "Domain Adaptation and Few-Shot Learning",
+      "Advanced Neural Network Applications",
+      "Machine Learning and Algorithms"
+    ],
+    "confidence": "manual",
+    "alternatives": []
+  },
+  {
+    "name": "Eric Elmoznino",
+    "openalex": "A5027171832",
+    "display_name": "Eric Elmoznino",
+    "works_count": 27,
+    "institution": "Google (United States)",
+    "topics": [
+      "Visual perception and processing mechanisms",
+      "Neural Networks and Applications",
+      "Philosophy and Theoretical Science",
+      "Topic Modeling",
+      "Advanced Neural Network Applications"
+    ],
+    "confidence": "manual",
+    "alternatives": []
+  },
+  {
+    "name": "Rufin VanRullen",
+    "openalex": "A5078188438",
+    "display_name": "Rufin Vanrullen A",
+    "works_count": 358,
+    "institution": "Centre National de la Recherche Scientifique",
+    "topics": [
+      "Visual perception and processing mechanisms",
+      "Neural dynamics and brain function",
+      "Visual Attention and Saliency Detection",
+      "Multisensory perception and integration",
+      "Face Recognition and Perception"
+    ],
+    "confidence": "manual",
+    "alternatives": []
+  },
+  {
+    "name": "Ryota Kanai",
+    "openalex": "A5049957600",
+    "display_name": "Ryota Kanai C",
+    "works_count": 371,
+    "institution": "Araya Inc. (Japan)",
+    "topics": [
+      "Visual perception and processing mechanisms",
+      "Multisensory perception and integration",
+      "Neural and Behavioral Psychology Studies",
+      "Philosophy and Theoretical Science",
+      "Face Recognition and Perception"
+    ],
+    "confidence": "manual",
+    "alternatives": []
+  },
+  {
+    "name": "Murray Shanahan",
+    "openalex": "A5072322524",
+    "display_name": "Murray Shanahan",
+    "works_count": 237,
+    "institution": "Google DeepMind (United Kingdom)",
+    "topics": [
+      "Logic, Reasoning, and Knowledge",
+      "AI-based Problem Solving and Planning",
+      "Neural dynamics and brain function",
+      "Philosophy and Theoretical Science",
+      "Robotics and Sensor-Based Localization"
+    ],
+    "confidence": "manual",
+    "alternatives": []
+  },
+  {
+    "name": "Wes Gurnee",
+    "openalex": "A5036313350",
+    "display_name": "Wes Gurnee",
+    "works_count": 21,
+    "institution": "Anthropic (United States)",
+    "topics": [
+      "Topic Modeling",
+      "Explainable Artificial Intelligence (XAI)",
+      "Natural Language Processing Techniques",
+      "Electoral Systems and Political Participation",
+      "Game Theory and Voting Systems"
+    ],
+    "confidence": "manual",
+    "alternatives": []
+  },
+  {
+    "name": "Jack Lindsey",
+    "openalex": "A5006832724",
+    "display_name": "Jack W. Lindsey",
+    "works_count": 68,
+    "institution": "Anthropic (United States)",
+    "topics": [
+      "Neural dynamics and brain function",
+      "Memory and Neural Mechanisms",
+      "Memory Processes and Influences",
+      "Advanced Neural Network Applications",
+      "Visual perception and processing mechanisms"
+    ],
+    "confidence": "manual",
+    "alternatives": []
+  },
+  {
+    "name": "Blaise Agüera y Arcas",
+    "openalex": "A5044698998",
+    "display_name": "Blaise Agüera y Arcas",
+    "works_count": 71,
+    "institution": "Google (United States)",
+    "topics": [
+      "Topic Modeling",
+      "Cybernetics and Technology in Society",
+      "Privacy-Preserving Technologies in Data",
+      "Ethics and Social Impacts of AI",
+      "Neural dynamics and brain function"
+    ],
+    "confidence": "manual",
+    "alternatives": []
+  },
+  {
+    "name": "Blake Richards",
+    "openalex": "A5004133705",
+    "display_name": "Blake A. Richards",
+    "works_count": 132,
+    "institution": "Canadian Institute for Advanced Research",
+    "topics": [
+      "Neural dynamics and brain function",
+      "Memory and Neural Mechanisms",
+      "Neural Networks and Applications",
+      "Neuroscience and Neuropharmacology Research",
+      "Memory Processes and Influences"
+    ],
+    "confidence": "manual",
+    "alternatives": []
+  },
+  {
+    "name": "Geoffrey Hinton",
+    "openalex": "A5108093963",
+    "display_name": "Geoffrey E. Hinton",
+    "works_count": 558,
+    "institution": "Microsoft (United States)",
+    "topics": [
+      "Neural Networks and Applications",
+      "Bayesian Modeling and Causal Inference",
+      "Advanced Neural Network Applications",
+      "Topic Modeling",
+      "Speech Recognition and Synthesis"
+    ],
+    "confidence": "manual",
+    "alternatives": []
+  },
+  {
+    "name": "Michael Timothy Bennett",
+    "openalex": "A5030698786",
+    "display_name": "Michael Timothy Bennett",
+    "works_count": 134,
+    "institution": "Australian National University",
+    "topics": [
+      "Psychiatry, Mental Health, Neuroscience",
+      "Embodied and Extended Cognition",
+      "Philosophy and Theoretical Science",
+      "Computability, Logic, AI Algorithms",
+      "Cybernetics and Technology in Society"
+    ],
+    "confidence": "manual",
+    "alternatives": []
+  },
+  {
+    "name": "Lenore Blum",
+    "openalex": "A5073359845",
+    "display_name": "Lenore Blum",
+    "works_count": 83,
+    "institution": "Carnegie Mellon University",
+    "topics": [
+      "Complexity and Algorithms in Graphs",
+      "Computability, Logic, AI Algorithms",
+      "Polynomial and algebraic computation",
+      "semigroups and automata theory",
+      "Teaching and Learning Programming"
+    ],
+    "confidence": "manual",
+    "alternatives": []
+  },
+  {
+    "name": "Roger Penrose",
+    "openalex": "A5014894861",
+    "display_name": "Roger Penrose",
+    "works_count": 426,
+    "institution": "University of Oxford",
+    "topics": [
+      "Relativity and Gravitational Theory",
+      "Black Holes and Theoretical Physics",
+      "Noncommutative and Quantum Gravity Theories",
+      "Cosmology and Gravitation Theories",
+      "Philosophy and Theoretical Science"
+    ],
+    "confidence": "manual",
+    "alternatives": []
+  },
+  {
+    "name": "Stuart Hameroff",
+    "openalex": "A5051102175",
+    "display_name": "Stuart R. Hameroff",
+    "works_count": 243,
+    "institution": "University of Arizona",
+    "topics": [
+      "Biofield Effects and Biophysics",
+      "Philosophy and Theoretical Science",
+      "Anesthesia and Sedative Agents",
+      "Quantum Mechanics and Applications",
+      "Neural dynamics and brain function"
+    ],
+    "confidence": "manual",
+    "alternatives": []
+  }
+]

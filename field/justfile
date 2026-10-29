@@ -1,0 +1,14 @@
+default:
+    @just --list
+
+# Co-authorship map → map.md + map.html
+map *args:
+    python3 scripts/map.py {{args}}
+
+# Match people.toml to OpenAlex authors → authors.json
+resolve:
+    python3 scripts/resolve.py
+
+# Digest of new works since the last run → digests/<today>.md
+watch *args:
+    python3 scripts/watch.py {{args}}
