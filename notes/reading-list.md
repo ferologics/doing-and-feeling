@@ -3,31 +3,18 @@
 Thread: https://x.com/willdepue/status/2113823172336505051 (posted 2026-10-24): "i'm spending the weekend
 reading about the science and theory of consciousness. plz reply with recommendations!"
 
-This is the deduplicated list of everything recommended in the thread. Each work appears once, with
-everyone who recommended it. It was built from 162 captured posts (the main post, 148 of 149 direct replies,
-Henry Shevlin's full sub-thread, and 5 other nested replies), read from a logged-in browser export and the
-FxTwitter API. Images (book covers, screenshots) were read by eye. The raw posts are in
-`notes/thread/replies.md`.
+Compiled for the *Doing and Feeling* podcast (https://www.youtube.com/playlist?list=PLcBsjViogzvI): the
+deduplicated list of everything recommended in the replies we could capture, credited by handle. Each work appears
+once, with everyone who recommended it. Built from 162 posts (the main post, 148 of 149 direct replies, Henry
+Shevlin's full sub-thread and 5 other nested replies), read from a browser export and the FxTwitter API; book covers
+and screenshots were read by eye. The raw posts are in `notes/thread/replies.md`.
 
 Not captured: 1 direct reply and 32 nested replies (1–2 each under 24 other replies, mostly short ones),
 plus anything sent to Will by DM.
 
 **Key**
 - ★ = strong signal: on Shevlin's tasting menu, at least 20 likes on the recommending post, or at least 3 people recommended it
-- **v1** = already covered in the 4-episode *Doing and Feeling* podcast
 - ♥ = likes on the recommending post (as of 2026-10-24 to 25)
-
-## Read this first: corrections to Grok's summary
-
-- Four items in Grok's summaries appear in none of the captured posts: the **Artem Kirsanov video series**
-  ("one reply listed ~8 specific videos"), **Jackson Peterson's *The Natural Bliss of Being***, the
-  **Agüera y Arcas lecture link** (youtube.com/watch?v=gs38tMxZseA), and **"@Plinz events"**. They may be
-  in the uncaptured replies, or Grok may have made them up. Episode 1 of v1 says "the Artem Kirsanov
-  videos in your list", which rests on Grok's claim.
-- Grok's summaries never name **Henry Shevlin**, who wrote the thread's most-liked recommendation (61♥).
-  Grok v1 paraphrases his "tasting menu" advice without credit.
-- *Perceived AGI* (arXiv 2607.15883) was posted to the thread by its own author, @cochinescu.
-- The CIMC library link (cimc.ai/library) returns 404 as of 2026-10-24.
 
 ## The thread's best advice
 
@@ -44,7 +31,7 @@ Other advice:
 - @andrew_craton: a starter sequence of Nagel's bat → Jackson's Mary's room → Chalmers on the hard
   problem → Dennett's TED talk, "the core tension in the field (the felt reality of experience vs. attempts
   to dissolve or reduce it)".
-- ★ @yacineMTB (54♥): "You're conscious! You yourself. Just pay attention for a day." — v1 (closing thought)
+- ★ @yacineMTB (54♥): "You're conscious! You yourself. Just pay attention for a day."
 - @Owen1939482949: *Being You* for the science, Viktor Frankl's *Man's Search for Meaning* for why it
   matters, "then watch a sunset with your phone in your pocket."
 - @nopranablem: "A good theory of consciousness must account for" the extremes of advanced meditation
@@ -52,19 +39,19 @@ Other advice:
 
 ## Science of consciousness: books
 
-- ★ Anil Seth, *Being You* (2021). @dioscuri, @chipit24, @BrainCodeSignal, @Owen1939482949, @dan_biderman. — v1
+- ★ Anil Seth, *Being You* (2021). @dioscuri, @chipit24, @BrainCodeSignal, @Owen1939482949, @dan_biderman.
 - ★ Stanislas Dehaene, *Consciousness and the Brain* (2014). @dioscuri, @dan_biderman, @an_interstice
-  (LessWrong summary: https://www.lesswrong.com/posts/x4n4jcoDP7xh5LWLq/book-summary-consciousness-and-the-brain). — v1
-- ★ Steve Fleming, *Know Thyself* (2021). @dioscuri. — v1
-- ★ Andy Clark, *The Experience Machine* (2023). @dioscuri. (v1 mentions Clark, not the book.)
+  (LessWrong summary: https://www.lesswrong.com/posts/x4n4jcoDP7xh5LWLq/book-summary-consciousness-and-the-brain).
+- ★ Steve Fleming, *Know Thyself* (2021). @dioscuri.
+- ★ Andy Clark, *The Experience Machine* (2023). @dioscuri.
 - ★ Christof Koch, *The Feeling of Life Itself* (2019). @teortaxesTex (29♥: "challenge to computational
   functionalism… I can't endorse IIT as constructed here though"), @astrodanish ("the ultimate book… even
-  if you don't believe IIT"), @dan_biderman. — v1
+  if you don't believe IIT"), @dan_biderman.
   - Also in @teortaxesTex's image: Koch, *Consciousness: Confessions of a Romantic Reductionist* (2012)
     and *The Quest for Consciousness* (2004).
-- ★ Parr, Pezzulo & Friston, *Active Inference* (2022, open access). @beffjezos (34♥, cover image). — v1
+- ★ Parr, Pezzulo & Friston, *Active Inference* (2022, open access). @beffjezos (34♥, cover image).
 - Michael Graziano, *Rethinking Consciousness* (2019; @RyanMorey) and *Consciousness and the Social Brain*
-  (2013; @biosemiote: "basically Dennett with more detail"). — v1 (Rethinking)
+  (2013; @biosemiote: "basically Dennett with more detail").
 - Antonio Damasio, *Descartes' Error* (1994). @robleclerc ("required reading in my philosophy of mind class").
 - Erik Hoel, *The World Behind the World* (2023). @FPallopides ("a better choice than many books mentioned
   here… gives a solid overview of the state of research").
@@ -82,13 +69,13 @@ Other advice:
 ## Science of consciousness: papers and surveys
 
 - ★ @leothecurious (39♥), "a few papers i really enjoyed":
-  1. A beautiful loop: An active inference theory of consciousness (Laukkonen, Friston & Chandaria 2025). — v1
+  1. A beautiful loop: An active inference theory of consciousness (Laukkonen, Friston & Chandaria 2025).
   2. Why Is Anything Conscious?
   3. Adversarial testing of global neuronal workspace and integrated information theories of
-     consciousness (Cogitate Consortium, *Nature* 2025). — v1
+     consciousness (Cogitate Consortium, *Nature* 2025).
   4. The Hard Problem of Consciousness and the Free Energy Principle
-  5. Could a Large Language Model be Conscious? (Chalmers 2023). — v1
-  6. A global workspace in language models (Anthropic 2026). — v1
+  5. Could a Large Language Model be Conscious? (Chalmers 2023).
+  6. A global workspace in language models (Anthropic 2026).
 - From cacophony to hierarchy: a principled framework for assessing AI consciousness (Google DeepMind and
   collaborators incl. Seth, Shevlin, Shanahan, Laukkonen, Chandaria, Hutter, Legg; Sept 2026):
   https://arxiv.org/abs/2609.35618. @arxivmerchant ("extremely nice survey about most theories"), via @shamilch.
@@ -108,25 +95,25 @@ Other advice:
 - Max Tegmark, Consciousness as a State of Matter (2014): https://arxiv.org/abs/1401.1219. @TrueConant.
 - Eric Schwitzgebel, If Materialism Is True, the United States Is Probably Conscious:
   https://faculty.ucr.edu/~eschwitz/SchwitzPapers/USAconscious-120625.htm. @MarkovMagnifico ("went away
-  unconvinced… but it puts forth a lot of good ideas"). — v1
+  unconvinced… but it puts forth a lot of good ideas").
 - General-anaesthesia experiments, e.g. the isolated forearm technique ("the only scientific experiments
   that can pause your consciousness"). @vvvvjk62308.
 
 ## Philosophy of mind
 
 - ★ Thomas Nagel, "What Is It Like to Be a Bat?" (1974). @RDMellish (43♥: "16 pages long, 30 minute read.
-  Must read"), @astrodanish, @andrew_craton, @notpowers. — v1
-- ★ David Chalmers, *The Conscious Mind* (1996). @dioscuri, @BrainCodeSignal, @bayeslord, @dan_biderman. — v1
+  Must read"), @astrodanish, @andrew_craton, @notpowers.
+- ★ David Chalmers, *The Conscious Mind* (1996). @dioscuri, @BrainCodeSignal, @bayeslord, @dan_biderman.
 - Chalmers, "Facing Up to the Problem of Consciousness" (1995):
-  https://web.ics.purdue.edu/~drkelly/ChalmersHardProblem1995.pdf. @carlkolon, @andrew_craton. — v1
+  https://web.ics.purdue.edu/~drkelly/ChalmersHardProblem1995.pdf. @carlkolon, @andrew_craton.
 - Chalmers, "The nature and ethics of consciousness" (80,000 Hours talk, 2019): https://youtu.be/vJmEEO6kvTg.
   @summrconeflower ("Chalmers really is the best we have").
 - "Chalmers's essay talking about the J Space work". @aniketdxsh (no link; not identified).
-- Frank Jackson, Mary's room. @andrew_craton. — v1
+- Frank Jackson, Mary's room. @andrew_craton.
 - Philip Goff, *Galileo's Error* (2019). @chipit24, @iandcosmos.
 - Wittgenstein, *The Blue Book* (74 pp.) + *Philosophical Investigations* §§412–427:
-  https://www.wittgensteinproject.org/w/index.php/Blue_Book. @slablanguage ("Must read IMO!"). — v1
-- John Searle, the Chinese Room. @RickKiessig. — v1
+  https://www.wittgensteinproject.org/w/index.php/Blue_Book. @slablanguage ("Must read IMO!").
+- John Searle, the Chinese Room. @RickKiessig.
 - Gilbert Ryle, *The Concept of Mind*. @bsauerbrei1.
 - John Haugeland, "Mind Embodied and Embedded". @linguinelabs.
 - Martin Heidegger, *Being and Time* (intro + most of division one). @Bartleby_Kamoi.
@@ -140,32 +127,32 @@ Other advice:
 ## Illusionism and deflationary views
 
 - **Fin Moorhouse (@finmoorhouse)**, 12♥: "imo 'illusionism' is the most compelling philosophical account of consciousness":
-  - Keith Frankish on illusionism: https://www.keithfrankish.com/illusionism/ — v1
+  - Keith Frankish on illusionism: https://www.keithfrankish.com/illusionism/
   - Frankish (ed.), *Illusionism as a Theory of Consciousness* (2017): https://philpapers.org/rec/FRAIAA-4
-  - Chalmers, "The Meta-Problem of Consciousness" (2018): https://philpapers.org/archive/chatmo-32.pdf — v1
-  - Joe Carlsmith, "Grokking illusionism": https://joecarlsmith.com/2020/11/29/grokking-illusionism/ — v1
+  - Chalmers, "The Meta-Problem of Consciousness" (2018): https://philpapers.org/archive/chatmo-32.pdf
+  - Joe Carlsmith, "Grokking illusionism": https://joecarlsmith.com/2020/11/29/grokking-illusionism/
   - "A course on illusionism" (YouTube lectures): https://www.youtube.com/playlist?list=PLhgvALi0LQGXIA7cKNmGNTiQ7dpS-7dLw
   - Moorhouse, "No ghost in the machine": https://finmoorhouse.com/writing/consciousness-and-ai/
 - ★ Daniel Dennett, *Consciousness Explained* (1991). @anujsapte, @RohanBluBeagle, @filipcodes,
-  @andrew_craton ("the GOAT"). — v1
+  @andrew_craton ("the GOAT").
 - Dennett, "Quining Qualia" (1988): https://web.ics.purdue.edu/~drkelly/DennettQuiningQualia1988.pdf.
   @StephenGrugett ("great short essay"), @finmoorhouse.
 - Dennett, TED talk "The Illusion of Consciousness": https://www.ted.com/talks/dan_dennett_the_illusion_of_consciousness. @andrew_craton.
 - Dennett & Hofstadter, *The Mind's I* (1981). @ben__bradley, @NoaNabeshima.
 - ★ Douglas Hofstadter, *Gödel, Escher, Bach*. @planet_nerf (12♥), @farzyb, @levantistaken; against:
   @mov_axbx ("trash"). Also *I Am a Strange Loop* (@danrobinson, @bhaprayan) and the "Prelude… Ant Fugue"
-  chapter (@AI_Vidz: https://bert.stuy.edu/pbrooks/fall2014/materials/HumanReasoning/Hofstadter-PreludeAntFugue.pdf). — v1 (GEB)
-- Thomas Metzinger, *The Ego Tunnel*. @ArneEichberg. — v1
+  chapter (@AI_Vidz: https://bert.stuy.edu/pbrooks/fall2014/materials/HumanReasoning/Hofstadter-PreludeAntFugue.pdf).
+- Thomas Metzinger, *The Ego Tunnel*. @ArneEichberg.
 - ★ Julian Jaynes, *The Origin of Consciousness in the Breakdown of the Bicameral Mind*. @filipcodes
-  ("a bit wild, but fun"), @yk_9427, @collinconnors (https://www.julianjaynes.org/about/about-jaynes-theory/overview/). — v1 (as skippable)
+  ("a bit wild, but fun"), @yk_9427, @collinconnors (https://www.julianjaynes.org/about/about-jaynes-theory/overview/).
 
 ## Evolution, animals, biology
 
 - ★ Peter Godfrey-Smith, *Other Minds* (2016). @dioscuri, @malikules (20♥: "an easy classic"),
-  @StephenGrugett, @_srock_. — v1
+  @StephenGrugett, @_srock_.
 - ★ Simona Ginsburg & Eva Jablonka, *The Evolution of the Sensitive Soul* (2019). @malikules (20♥:
-  "probably the most comprehensive textbook on consciousness but it's massive… read by chapters of interest"). — v1
-- Michael Levin. @leonardokoomen, @_srock_. Also David Spivak on "plausible fiction + care" (@leonardokoomen). — v1 (Levin)
+  "probably the most comprehensive textbook on consciousness but it's massive… read by chapters of interest").
+- Michael Levin. @leonardokoomen, @_srock_. Also David Spivak on "plausible fiction + care" (@leonardokoomen).
 - Erwin Schrödinger, *What Is Life?* (the closing philosophical chapter). @0lu5x, @aadarwal.
 - Sara Walker, *Life as No One Knows It*. @cr_dandrea.
 - Humberto Maturana, biology-side views (the reply says "The Tree of Life", probably meaning Maturana &
@@ -178,12 +165,12 @@ Other advice:
 ## AI and machine consciousness
 
 - ★ Blaise Agüera y Arcas, *What Is Intelligence?* (https://whatisintelligence.antikythera.org/).
-  @ethanniser, @0xKaze, @benfieldddd. — v1
+  @ethanniser, @0xKaze, @benfieldddd.
 - ★ Joscha Bach: Lex Fridman #101 ("I adore [it] an unreasonable amount") and his AGI-24 talk
   (@enoughsignal); "thank me later" (@LeviTurk); "the collected works of Joscha Bach" (@sof_bradley).
 - Michael Timothy Bennett (@MiTiBennett, 15♥), thesis "How to Build Conscious Machines", talk:
   https://youtu.be/boTAgdpme5s. Also @ebervector.
-- Sebastian Cochinescu (@cochinescu, the author), *Perceived AGI*: https://arxiv.org/abs/2607.15883. — v1
+- Sebastian Cochinescu (@cochinescu, the author), *Perceived AGI*: https://arxiv.org/abs/2607.15883.
 - Geoffrey Hinton, "I Don't Believe in Consciousness" (2017): https://youtu.be/f-08IkK0UxM.
   @FayazsalimMoha ("Probably all you need").
 - David Deutsch interview, "How Quantum Theory Leads to Conscious AI": https://www.youtube.com/watch?v=iuTn2vgkayA. @MoritzW42.
@@ -195,7 +182,7 @@ Other advice:
 
 ## Active inference and meditation
 
-- Videos with Karl Friston and Mark Solms. @nilsengu. — v1 (both discussed)
+- Videos with Karl Friston and Mark Solms. @nilsengu.
 - Talks and podcasts by Kathryn Devaney, Ruben Laukkonen and Shamil Chandaria on advanced meditation
   states; Laukkonen's "A beautiful loop" post: https://rubenlaukkonen.substack.com/p/a-beautiful-loop. @nopranablem.
 
@@ -214,7 +201,7 @@ Other advice:
 - ★ Orch OR (Hameroff & Penrose). @CommonSenseMars (the microtubules meme), @RickKiessig ("Orch OR is
   The Way… also Searle's Chinese Room"), @AlyssaAngelll, @SterlingCooley (the only theory "with actual
   development happening behind it"; also @QLTINC), @mattintahoe
-  (https://www.sciencedirect.com/science/article/pii/S1571064513001188), @Sal_Cataudella. — v1
+  (https://www.sciencedirect.com/science/article/pii/S1571064513001188), @Sal_Cataudella.
 - Michael Wiest, "A quantum microtubule substrate of consciousness is experimentally supported…"
   (*Neuroscience of Consciousness* 2025): https://academic.oup.com/nc/article/2025/1/niaf011/8127081. @TrueConant.
 - Roger Penrose, *The Emperor's New Mind*. @404vish ("changed my life in college").
@@ -222,13 +209,13 @@ Other advice:
   (https://youtu.be/LGXr-yGPWLY, @El_Jaybird).
 - Itzhak Bentov, *Stalking the Wild Pendulum*. @_hanaazab, @cr_dandrea.
 - Jung & Pauli (@gitmoney); Mani Bhaumik (@chwapnil); Ed Witten on consciousness as a permanent mystery
-  (@Hamzakh62949671); VSA-TOE (@VSA_TOE, self-plug).
+  (@Hamzakh62949671).
 
 ## Panpsychism, idealism, consciousness-first
 
 - ★ Philip Goff & Sean Carroll, Mindscape #71, "Philip Goff on Consciousness Everywhere". @aidan_mclau
-  (38♥, "quite formative"). — v1
-- Bernardo Kastrup, *Why Materialism Is Baloney*. @BrainCodeSignal. — v1
+  (38♥, "quite formative").
+- Bernardo Kastrup, *Why Materialism Is Baloney*. @BrainCodeSignal.
 - Essentia Foundation YouTube channel. @nssvkpraveen.
 - Thomas Campbell, *My Big TOE*. @grewisch.
 - Ken Wilber. @Clinton_ai.
@@ -244,18 +231,12 @@ Other advice:
 
 ## Fiction
 
-- ★ Peter Watts, *Blindsight*, inspired by Metzinger's *Being No One*. @GENIC0N, @dsnein, @_srock_. — v1
+- ★ Peter Watts, *Blindsight*, inspired by Metzinger's *Being No One*. @GENIC0N, @dsnein, @_srock_.
 
 ## Other
 
 - Viktor Frankl, *Man's Search for Meaning*. @Owen1939482949.
 - Alex O'Connor on consciousness. @EthanJaySmith.
-- "The Myth of Pain". @iflewto. "The Illusion Engine?" @Duck0kusx.
+- "The Myth of Pain". @iflewto.
 - Brian Hetke (@HetkeBrian): "there is no real 'consciousness science'… it's a category error", with a
   screenshot of a paper arguing that phenomenal consciousness lies outside science's reach.
-- Self-plugs: @kitsune_zen, @damnventures (with @ReaneDel), @reneromero08 (Notion page), @BrainCodeSignal
-  ("The Switch"), @edreisMD (SoundCloud).
-- Jokes and non-answers: "Go party instead", "Just do the french way" (absinthe photo), "wait until we
-  know something", "wait for AI to explain it", "How schizo are you willing to get?", a Star Trek
-  transporter thread, an anonymous "I work at a top-tier AI lab… Project Stargate" post, "make a reading
-  list pls, public good".

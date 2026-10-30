@@ -4,9 +4,8 @@ Sub-project work lives in `podcast/TODO.md` and `field/TODO.md`. Shared items:
 
 ## Reading list
 
-- [ ] Publish a public version of `notes/reading-list.md`: drop the internal markers (★, v1, the Grok section),
-      the jokes, self-promotion and the anonymous "AI lab" post; say it covers the replies that could be
-      captured; keep quotes short and credit each person by handle
+- [x] Public version of `notes/reading-list.md` (internal markers, the Grok section, jokes and self-promotion removed)
+- [ ] Reply in the @willdepue thread with a link to it
 
 ## Later
 
