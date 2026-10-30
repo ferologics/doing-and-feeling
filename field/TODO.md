@@ -18,7 +18,7 @@
 - [ ] Add sources OpenAlex indexes late or not at all: arXiv listings, PhilPapers, PsyArXiv, bioRxiv
 - [x] Topic filter (stricter `watch = "core"` for people who publish widely), merged versions, no datasets
 - [ ] Rank and summarise: what's notable this period and why (with the checking discipline)
-- [ ] Run it on a schedule (weekly)
+- [x] Run it on a schedule: pi-jobs job `field-watch` (Mondays 08:30) commits and pushes the digest, notifies on notable papers
 
 ## Later
 

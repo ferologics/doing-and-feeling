@@ -25,8 +25,8 @@ just map        # co-authorship map → map.md + map.html (works since 2010, cac
 just watch      # digest of new works since the last run → digests/<today>.md
 ```
 
-OpenAlex needs a free API key ($1/day budget), read from 1Password at `op://Pi/OPENALEX_API_KEY/credential`
-(get one at https://openalex.org/settings/api).
+OpenAlex needs a free API key ($1/day budget, https://openalex.org/settings/api) in the `OPENALEX_API_KEY`
+environment variable.
 
 ## Adding people
 

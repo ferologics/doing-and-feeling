@@ -23,6 +23,8 @@ Context for AI assistants working in this repo. Human overview: `README.md`; dir
 - **YouTube quota:** 10,000 units/day (resets at midnight Pacific); uploads have their own 100/day bucket.
   Captions cost 400 units each. `podcast/scripts/youtube-upload.py` records progress in
   `podcast/long/youtube/uploads.json` and resumes after a quota stop.
-- **OpenAlex** needs the API key ($1/day budget); `field/scripts/openalex.py` caches responses in `field/cache/`.
+- **OpenAlex** needs `OPENALEX_API_KEY` ($1/day budget); `field/scripts/openalex.py` caches responses in
+  `field/cache/`. Agent bash has the key stripped (pi-env-guard); run field scripts with
+  `OPENALEX_API_KEY="$(launchctl getenv OPENALEX_API_KEY)"` and never print it.
 - Python scripts use the standard library where possible; scripts with dependencies declare them inline for
   `uv run --script`.

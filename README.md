@@ -21,9 +21,10 @@ via the FxTwitter API and regenerate `notes/thread/replies.md`.
 
 ## Credentials
 
-Nothing secret is stored in the repo. Tools read credentials from 1Password at runtime:
+Nothing secret is stored in the repo. The tools get credentials at runtime:
 - `op://Pi/YT_DESKTOP_CLIENT_OAUTH`: YouTube OAuth desktop client (podcast uploads; refresh token cached in the macOS Keychain)
-- `op://Pi/OPENALEX_API_KEY/credential`: OpenAlex API key (field)
+- `OPENALEX_API_KEY` environment variable: OpenAlex API key (field). Locally it comes from the Pi secrets cache
+  (`op://Pi/OPENALEX_API_KEY/credential` in `~/.pi/agent/env.op`).
 
 ## License
 

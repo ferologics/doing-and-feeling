@@ -1,13 +1,13 @@
 """Shared helpers for the field scripts: OpenAlex requests (with an on-disk cache) and the people list.
 
-OpenAlex meters usage per API key ($1/day free). The key is read once per run from 1Password:
-op://Pi/OPENALEX_API_KEY/credential.
+OpenAlex meters usage per API key ($1/day free, https://openalex.org/settings/api). The key comes from the
+OPENALEX_API_KEY environment variable.
 """
 
 import functools
 import hashlib
-import subprocess
 import json
+import os
 import time
 import tomllib
 import urllib.error
@@ -18,7 +18,6 @@ from pathlib import Path
 FIELD = Path(__file__).resolve().parent.parent
 CACHE = FIELD / "cache"
 API = "https://api.openalex.org"
-OP_KEY = "op://Pi/OPENALEX_API_KEY/credential"
 USER_AGENT = "doing-and-feeling-field/1.0"
 
 
@@ -33,10 +32,10 @@ def authors():
 
 @functools.cache
 def api_key():
-    result = subprocess.run(["op", "read", OP_KEY], capture_output=True, text=True)
-    if result.returncode != 0:
-        raise SystemExit(f"OpenAlex API key not found at {OP_KEY} (free key: https://openalex.org/settings/api)")
-    return result.stdout.strip()
+    key = os.environ.get("OPENALEX_API_KEY")
+    if not key:
+        raise SystemExit("Set OPENALEX_API_KEY (free key: https://openalex.org/settings/api)")
+    return key
 
 
 def get(path, params=None, cache=True):
