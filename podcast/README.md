@@ -41,7 +41,7 @@ long/companion-public.md      the published copy: https://gist.github.com/ferolo
 Shared with the rest of the repo (at the repo root): `notes/` (origin of the series, checked sources, the thread
 reading list and thread data) and `scripts/` (thread capture). See the root README.
 
-`long/audio/` (200 MB) is gitignored; remove it from `.gitignore` to track it.
+The episode MP3s (`short/audio/`, `long/audio/`) are gitignored; the episodes are on YouTube.
 
 ## Commands
 

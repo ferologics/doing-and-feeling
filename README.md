@@ -24,3 +24,8 @@ via the FxTwitter API and regenerate `notes/thread/replies.md`.
 Nothing secret is stored in the repo. Tools read credentials from 1Password at runtime:
 - `op://Pi/YT_DESKTOP_CLIENT_OAUTH`: YouTube OAuth desktop client (podcast uploads; refresh token cached in the macOS Keychain)
 - `op://Pi/OPENALEX_API_KEY/credential`: OpenAlex API key (field)
+
+## License
+
+Code: MIT (`LICENSE`). Notes, data, map, digests and podcast text and media: CC BY 4.0, except third-party material
+(`LICENSE-CONTENT.md`).
